@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MENA Power & Energy News</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.x/dist/tabler-icons.min.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="header-brand">
+        <span class="dot"></span>
+        <h1>MENA Power &amp; Energy News</h1>
+      </div>
+      <p class="header-sub">Live news from Middle East &amp; North Africa — electricity, oil, gas, renewables &amp; energy policy</p>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- ── API Key setup notice ── -->
+    <div class="api-notice" id="apiNotice">
+      <i class="ti ti-info-circle" aria-hidden="true"></i>
+      <div>
+        <strong>Setup required.</strong>
+        Open <code>js/config.js</code> and paste your free
+        <a href="https://gnews.io/register" target="_blank" rel="noopener">GNews API key</a>
+        (100 free requests/day, no credit card).
+        Then save the file and reload this page.
+      </div>
+    </div>
+
+    <!-- ── Controls panel ── -->
+    <section class="controls-panel" aria-label="Search controls">
+
+      <div class="controls-grid two">
+        <div class="field">
+          <label for="dateFrom">From date</label>
+          <input type="date" id="dateFrom" />
+        </div>
+        <div class="field">
+          <label for="dateTo">To date</label>
+          <input type="date" id="dateTo" />
+        </div>
+      </div>
+
+      <div class="controls-grid three">
+        <div class="field">
+          <label for="regionFilter">Country / region focus</label>
+          <select id="regionFilter">
+            <option value="">All MENA</option>
+            <option value="egypt">Egypt</option>
+            <option value="saudi arabia">Saudi Arabia</option>
+            <option value="UAE">UAE</option>
+            <option value="iraq">Iraq</option>
+            <option value="iran">Iran</option>
+            <option value="libya">Libya</option>
+            <option value="algeria">Algeria</option>
+            <option value="morocco">Morocco</option>
+            <option value="jordan">Jordan</option>
+            <option value="kuwait">Kuwait</option>
+            <option value="qatar">Qatar</option>
+            <option value="turkey">Turkey</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="sectorFilter">Energy sector</label>
+          <select id="sectorFilter">
+            <option value="">All sectors</option>
+            <option value="electricity grid">Electricity grid</option>
+            <option value="oil petroleum">Oil &amp; petroleum</option>
+            <option value="natural gas">Natural gas</option>
+            <option value="solar renewable energy">Solar &amp; renewables</option>
+            <option value="nuclear power">Nuclear</option>
+            <option value="energy policy">Energy policy</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="sortOrder">Sort order</label>
+          <select id="sortOrder">
+            <option value="publishedAt">Newest first</option>
+            <option value="relevance">Most relevant</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Keywords box -->
+      <div class="keywords-area">
+        <label for="kwInput">
+          Additional keywords
+          <span class="label-hint">(optional — press Enter or click Add)</span>
+        </label>
+        <div class="keyword-input-row">
+          <input type="text" id="kwInput" placeholder="e.g. solar farm, power cut, NEOM, Aramco…" />
+          <button class="add-btn" id="addKwBtn">
+            <i class="ti ti-plus" aria-hidden="true"></i> Add
+          </button>
+        </div>
+        <div class="tags" id="tagContainer" aria-live="polite"></div>
+      </div>
+
+      <button class="search-btn" id="searchBtn">
+        <i class="ti ti-search" aria-hidden="true"></i>
+        <span id="searchBtnLabel">Search news</span>
+      </button>
+
+    </section>
+
+    <!-- ── Results ── -->
+    <section id="resultsArea" aria-live="polite" aria-label="News results"></section>
+
+  </main>
+
+  <script src="js/config.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
