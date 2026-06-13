@@ -6,28 +6,41 @@
 
 const GNEWS_BASE = "https://gnews.io/api/v4/search";
 
-// corsproxy.io is free for localhost — no account needed.
-// It forwards the request server-side and adds CORS headers so the browser
-// doesn't block it. We try two proxies in order; if the first is down, the
-// second takes over automatically.
+// CORS proxy chain — tried in order until one succeeds.
+// All of these are free and work from github.io and localhost.
 const CORS_PROXIES = [
   (url) => `https://corsproxy.io/?url=${encodeURIComponent(url)}`,
   (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+  (url) => `https://corsmirror.onrender.com/v1/cors?url=${encodeURIComponent(url)}`,
 ];
 
-// Fetch with automatic CORS proxy fallback
+// Fetch with automatic CORS proxy fallback.
+// Tries each proxy in sequence; returns the first successful response.
 async function fetchWithProxy(rawUrl) {
+  let lastError = null;
+
   for (let i = 0; i < CORS_PROXIES.length; i++) {
-    const proxied = CORS_PROXIES[i](rawUrl);
+    const proxiedUrl = CORS_PROXIES[i](rawUrl);
     try {
-      const res = await fetch(proxied);
-      if (res.ok) return res;
-      // Surface GNews-level errors (403, 429 etc.) on last attempt
-      if (i === CORS_PROXIES.length - 1) return res;
-    } catch (_) {
-      if (i === CORS_PROXIES.length - 1) throw new Error("All proxies failed. Check your internet connection.");
+      const res = await fetch(proxiedUrl);
+
+      // A non-ok status from the *API* (e.g. 403 bad key, 429 rate limit)
+      // is still a valid response — return it so the caller can show the
+      // right error message.  Only retry on network-level failures.
+      if (res.status !== 0) return res;
+
+    } catch (err) {
+      // Network failure (proxy down, DNS error, etc.) — try next proxy
+      lastError = err;
+      console.warn(`CORS proxy ${i + 1} failed:`, err.message);
     }
   }
+
+  throw new Error(
+    lastError
+      ? `All proxies failed (${lastError.message}). Check your internet connection.`
+      : "All proxies failed. Check your internet connection."
+  );
 }
 
 // Country → GNews country code mapping
