@@ -26,6 +26,8 @@ const CONFIG = {
 
 Save the file.
 
+> Important for public GitHub repositories: a browser-only GitHub Pages app cannot fully hide an API key. For internal use, keep the repository private or protect the key by using your own backend/proxy.
+
 ---
 
 ## Open in Chrome
@@ -54,17 +56,50 @@ Then open the URL shown in the terminal.
 - Date range picker — defaults to the last 7 days
 - Filter by country/region: Egypt, Saudi Arabia, UAE, Iraq, Libya, Algeria, Morocco, and more
 - Filter by energy sector: electricity, oil, gas, solar/renewables, nuclear, energy policy
-- Sort newest → oldest or by relevance
-- Custom keyword chips — add terms like "NEOM", "power outage", "Aramco" to refine results
-- Article thumbnail images where available
+- Results are narrowed to related energy and power keywords before display
+- Custom keyword chips — add terms like `NEOM`, `power outage`, `smart meter`, or `Aramco` to refine results
+- Preferred source website chips — add domains like `reuters.com`, `zawya.com`, or `pv-magazine.com`
+- Source website filtering is done client-side after GNews returns articles; no unsupported GNews API source parameters are used
+- Show filters button — displays custom keywords, preferred source websites, and the default related energy/power keyword list used by the app
 - Source name with favicon, publication date, summary, direct article link
+- Article thumbnail images where available
 - Dark mode supported automatically
+
+---
+
+## How to use filters
+
+### Add custom keywords
+
+Use the **Additional keywords** field, then press Enter or click **Add**. The app will only display articles that match at least one of your custom keywords when any are added.
+
+### Add preferred source websites
+
+Use the **Preferred source websites** field, then press Enter or click **Add**. You can enter a full URL or just the domain:
+
+```text
+https://www.reuters.com/business/energy/
+reuters.com
+www.zawya.com
+```
+
+The app normalizes these values to clean domains such as `reuters.com` and `zawya.com`, prevents duplicates, and lets you remove them as tags.
+
+### Show listed filters
+
+Click **Show filters** to display:
+
+- Current custom keywords
+- Current preferred source websites
+- Default related energy/power keywords used to reject unrelated news
+
+Click the close button or **Show filters** again to hide the panel.
 
 ---
 
 ## File structure
 
-```
+```text
 mena-power-news/
 ├── index.html
 ├── css/

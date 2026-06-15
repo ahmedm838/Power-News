@@ -95,17 +95,40 @@
         </label>
         <div class="keyword-input-row">
           <input type="text" id="kwInput" placeholder="e.g. solar farm, power cut, NEOM, Aramco…" />
-          <button class="add-btn" id="addKwBtn">
+          <button class="add-btn" id="addKwBtn" type="button">
             <i class="ti ti-plus" aria-hidden="true"></i> Add
           </button>
         </div>
         <div class="tags" id="tagContainer" aria-live="polite"></div>
       </div>
 
-      <button class="search-btn" id="searchBtn">
-        <i class="ti ti-search" aria-hidden="true"></i>
-        <span id="searchBtnLabel">Search news</span>
-      </button>
+      <!-- Source websites box -->
+      <div class="keywords-area source-area">
+        <label for="sourceInput">
+          Preferred source websites
+          <span class="label-hint">(optional — add domains like pv-magazine.com, reuters.com, zawya.com)</span>
+        </label>
+        <div class="keyword-input-row">
+          <input type="text" id="sourceInput" placeholder="e.g. reuters.com, zawya.com, https://www.pv-magazine.com/" />
+          <button class="add-btn" id="addSourceBtn" type="button">
+            <i class="ti ti-plus" aria-hidden="true"></i> Add
+          </button>
+        </div>
+        <div class="tags" id="sourceContainer" aria-live="polite"></div>
+      </div>
+
+      <div class="actions-row">
+        <button class="search-btn" id="searchBtn" type="button">
+          <i class="ti ti-search" aria-hidden="true"></i>
+          <span id="searchBtnLabel">Search news</span>
+        </button>
+        <button class="secondary-btn" id="showListsBtn" type="button">
+          <i class="ti ti-list-check" aria-hidden="true"></i>
+          Show filters
+        </button>
+      </div>
+
+      <div class="filters-panel hidden" id="filtersPanel" aria-live="polite"></div>
 
     </section>
 

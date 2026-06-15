@@ -407,3 +407,108 @@ body {
 }
 .empty-state i { font-size: 38px; color: var(--text-3); display: block; margin-bottom: 11px; }
 .empty-state p { font-size: 14px; line-height: 1.7; }
+
+/* ── Source websites and filter list panel ── */
+.source-area { margin-top: 4px; }
+.source-tag {
+  background: var(--blue-bg);
+  color: var(--blue-text);
+}
+.source-tag button { color: var(--blue-text); }
+
+.actions-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 8px;
+  align-items: center;
+}
+
+.secondary-btn {
+  height: 41px;
+  padding: 0 14px;
+  background: var(--bg-2);
+  border: 0.5px solid var(--border-2);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-size: 13.5px;
+  font-weight: 500;
+  color: var(--text-1);
+  font-family: inherit;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  white-space: nowrap;
+  transition: background 0.12s, border-color 0.12s;
+}
+.secondary-btn:hover { background: var(--bg-3); }
+.secondary-btn:active { transform: scale(0.99); }
+
+.filters-panel {
+  background: var(--bg-2);
+  border: 0.5px solid var(--border-1);
+  border-radius: var(--radius-lg);
+  margin-top: 12px;
+  padding: 0.95rem 1rem;
+  font-size: 13px;
+}
+.filters-panel.hidden { display: none; }
+
+.filters-panel-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+.filters-panel-head strong {
+  color: var(--text-1);
+  font-size: 13.5px;
+}
+.panel-close {
+  width: 26px;
+  height: 26px;
+  border: 0.5px solid var(--border-1);
+  border-radius: var(--radius-md);
+  background: var(--bg);
+  color: var(--text-2);
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 1;
+}
+.panel-close:hover { background: var(--bg-3); }
+
+.filters-row {
+  display: grid;
+  grid-template-columns: 145px 1fr;
+  gap: 10px;
+  padding: 6px 0;
+  border-top: 0.5px solid var(--border-1);
+}
+.filters-row span {
+  color: var(--text-2);
+  font-weight: 500;
+}
+.filters-row p {
+  color: var(--text-1);
+  overflow-wrap: anywhere;
+}
+.filter-chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+.filter-chip {
+  display: inline-flex;
+  background: var(--amber-bg);
+  color: var(--amber-text);
+  font-size: 11.5px;
+  padding: 2px 7px;
+  border-radius: var(--radius-md);
+}
+
+@media (max-width: 580px) {
+  .actions-row { grid-template-columns: 1fr; }
+  .secondary-btn { width: 100%; }
+  .filters-row { grid-template-columns: 1fr; gap: 3px; }
+}
