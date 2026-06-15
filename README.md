@@ -59,7 +59,8 @@ Then open the URL shown in the terminal.
 - Results are narrowed to related energy and power keywords before display
 - Custom keyword chips — add terms like `NEOM`, `power outage`, `smart meter`, or `Aramco` to refine results
 - Preferred source website chips — default sources are preloaded and you can add domains like `reuters.com`, `zawya.com`, or `pv-magazine.com`
-- Source website filtering is done client-side after GNews returns articles; no unsupported GNews API source parameters are used
+- Preferred source websites are prioritized client-side after GNews returns articles; strict website filtering is optional and controlled by a checkbox. No unsupported GNews API source parameters are used
+- Arabic and English searches are both supported; the app no longer forces `lang=en`, so Arabic energy articles can be returned
 - Show filters button — displays custom keywords, preferred source websites, and the default related energy/power keyword list used by the app, including Arabic meter/electricity terms
 - Source name with favicon, publication date, summary, direct article link
 - Article thumbnail images where available
@@ -85,6 +86,8 @@ www.zawya.com
 
 The app normalizes these values to clean domains such as `reuters.com` and `zawya.com`, prevents duplicates, and lets you remove them as tags.
 
+By default, these websites are treated as **preferred sources**. Articles from listed websites are prioritized, but other relevant energy articles are still shown. Enable **Restrict results to listed websites only** when you want strict website filtering.
+
 
 ### Default Arabic power/meter keywords
 
@@ -92,12 +95,19 @@ The default related energy keyword list includes Arabic terms for electricity me
 
 ```text
 عداد كهرباء
+عداد الكهرباء
 عدادات كهرباء
+عدادات الكهرباء
 عدادات كهربائية
 عدادات كهبرائية
 عدادات مسبقة الدفع
 عدادات ذكية
+عداد كودي
+العداد الكودي
+العدادات الكودية
 شبكة الكهرباء
+وزارة الكهرباء
+شركة توزيع الكهرباء
 ```
 
 ### Default preferred source websites
@@ -105,6 +115,7 @@ The default related energy keyword list includes Arabic terms for electricity me
 The app starts with these preferred source websites already listed as removable source chips:
 
 ```text
+almalnews.com
 attaqa.net
 argaam.com
 utilities-me.com
@@ -133,9 +144,16 @@ Click **Show filters** to display:
 
 - Current custom keywords
 - Current preferred source websites
+- Whether source mode is preferred or strict
 - Default related energy/power keywords used to reject unrelated news
 
 Click the close button or **Show filters** again to hide the panel.
+
+---
+
+## Why Arabic articles may have been missing before
+
+The previous version forced `lang=en` in the GNews request, which excluded Arabic articles. It also used only English MENA location words for the client-side MENA filter, so Arabic Egypt/Cairo articles could be removed after fetching. This version removes the forced English language parameter, runs Arabic recall queries, adds Arabic MENA terms, and adds `almalnews.com` to the default preferred source list.
 
 ---
 

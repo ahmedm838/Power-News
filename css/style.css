@@ -512,3 +512,36 @@ body {
   .secondary-btn { width: 100%; }
   .filters-row { grid-template-columns: 1fr; gap: 3px; }
 }
+
+/* ── Source filtering mode ── */
+.source-mode-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin-top: 8px;
+  font-size: 12.5px;
+  color: var(--text-2);
+  cursor: pointer;
+  user-select: none;
+}
+.source-mode-toggle input {
+  width: 14px;
+  height: 14px;
+  accent-color: var(--teal-dot);
+}
+.source-mode-help {
+  margin-top: 3px;
+  font-size: 11.5px;
+  color: var(--text-3);
+  line-height: 1.45;
+}
+.preferred-source-badge {
+  font-size: 11.5px;
+  font-weight: 500;
+  background: var(--teal-bg);
+  color: var(--teal-text);
+  padding: 2px 8px;
+  border-radius: var(--radius-md);
+  display: inline-flex;
+  align-items: center;
+}
