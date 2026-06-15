@@ -6,11 +6,9 @@ var GNEWS_BASE = "https://gnews.io/api/v4/search";
 
 // Keep API usage low for the GNews free quota.
 // Default search uses one API request. Deep recall is optional and uses up to three.
-var REQUEST_CACHE_TTL_MS = 6 * 60 * 60 * 1000; // 6 hours
-var REQUEST_STALE_CACHE_TTL_MS = 3 * 24 * 60 * 60 * 1000; // fallback for quota errors
-var REQUEST_CACHE_PREFIX = "gnews-cache-v4:";
+// No browser cache is used; every search fetches fresh results from GNews.
 var REQUEST_COUNT_PREFIX = "gnews-request-count:";
-var lastSearchRequestInfo = { apiCalls: 0, cacheHits: 0, staleCacheHits: 0 };
+var lastSearchRequestInfo = { apiCalls: 0 };
 
 // ── MENA geography ────────────────────────────────────────────────────────────
 // English + Arabic signals used for client-side regional filtering.
@@ -260,7 +258,7 @@ function renderFiltersPanel() {
 }
 
 
-// ── API quota helpers and browser cache ──────────────────────────────────────
+// ── API quota helpers ────────────────────────────────────────────────────────
 function getTodayKey() {
   return new Date().toISOString().slice(0, 10);
 }
@@ -274,34 +272,6 @@ function recordApiRequest() {
   var key = REQUEST_COUNT_PREFIX + getTodayKey();
   var count = getTodayRequestCount() + 1;
   localStorage.setItem(key, String(count));
-}
-
-function cacheKeyForUrl(url) {
-  return REQUEST_CACHE_PREFIX + btoa(unescape(encodeURIComponent(url))).slice(0, 160);
-}
-
-function readCachedArticles(url, maxAgeMs) {
-  try {
-    var raw = localStorage.getItem(cacheKeyForUrl(url));
-    if (!raw) return null;
-    var cached = JSON.parse(raw);
-    if (!cached || !cached.savedAt || !Array.isArray(cached.articles)) return null;
-    if (Date.now() - cached.savedAt > maxAgeMs) return null;
-    return cached.articles;
-  } catch (_) {
-    return null;
-  }
-}
-
-function writeCachedArticles(url, articles) {
-  try {
-    localStorage.setItem(cacheKeyForUrl(url), JSON.stringify({
-      savedAt: Date.now(),
-      articles: articles || []
-    }));
-  } catch (_) {
-    // localStorage can be full or disabled; search should still work.
-  }
 }
 
 // ── Date helpers ──────────────────────────────────────────────────────────────
@@ -448,27 +418,11 @@ function buildApiUrl(query, dateFrom, dateTo, region, sortBy) {
 async function fetchArticlesForQuery(query, dateFrom, dateTo, region, sortBy) {
   var url = buildApiUrl(query, dateFrom, dateTo, region, sortBy);
 
-  var cached = readCachedArticles(url, REQUEST_CACHE_TTL_MS);
-  if (cached) {
-    lastSearchRequestInfo.cacheHits += 1;
-    return cached;
-  }
-
   var res = await fetchWithProxy(url);
   lastSearchRequestInfo.apiCalls += 1;
   recordApiRequest();
 
   if (!res.ok) {
-    // If quota is exhausted, show any stale cached result for the exact same query instead of a blank page.
-    if (res.status === 429) {
-      var stale = readCachedArticles(url, REQUEST_STALE_CACHE_TTL_MS);
-      if (stale) {
-        lastSearchRequestInfo.cacheHits += 1;
-        lastSearchRequestInfo.staleCacheHits += 1;
-        return stale;
-      }
-    }
-
     var errMsg = "HTTP " + res.status;
     try {
       var errData = await res.json();
@@ -480,9 +434,7 @@ async function fetchArticlesForQuery(query, dateFrom, dateTo, region, sortBy) {
   }
 
   var data = await res.json();
-  var articles = data.articles || [];
-  writeCachedArticles(url, articles);
-  return articles;
+  return data.articles || [];
 }
 
 function mergeUniqueArticles(articleSets) {
@@ -649,7 +601,7 @@ async function runSearch() {
   setBtnLoading(true);
   showSkeletons();
 
-  lastSearchRequestInfo = { apiCalls: 0, cacheHits: 0, staleCacheHits: 0 };
+  lastSearchRequestInfo = { apiCalls: 0 };
   var queries = buildQueries(region, sector, keywords, deepRecall);
 
   try {
@@ -695,7 +647,7 @@ async function runSearch() {
     if (err.status === 403) {
       showError("Invalid or expired API key (403). Check your key in <code>js/config.js</code>.");
     } else if (err.status === 429) {
-      showError("Daily request limit reached (429). Default mode now uses only one GNews request per search and caches repeated searches, but this API key has already reached its daily limit. Try again after the quota resets, use another API key, or use cached searches that were already loaded in this browser.");
+      showError("Daily request limit reached (429). Default mode uses only one GNews request per search, but this API key has already reached its daily limit. Try again after the quota resets, use another API key, or keep Deep recall mode unchecked to reduce requests.");
     } else {
       showError("GNews/API network error: " + escHtml(err.message) + ". Make sure you are connected to the internet.");
     }
@@ -713,12 +665,6 @@ function renderArticles(articles, dateFrom, dateTo, regionLabel, sectorLabel, so
   var sourceMode = strictSourceFilter ? "strict" : "preferred";
   var requestMode = deepRecall ? "deep recall" : "quota saver";
   var apiInfo = lastSearchRequestInfo.apiCalls + " API call" + (lastSearchRequestInfo.apiCalls !== 1 ? "s" : "");
-  if (lastSearchRequestInfo.cacheHits) {
-    apiInfo += ", " + lastSearchRequestInfo.cacheHits + " cache hit" + (lastSearchRequestInfo.cacheHits !== 1 ? "s" : "");
-  }
-  if (lastSearchRequestInfo.staleCacheHits) {
-    apiInfo += ", stale cache used after quota error";
-  }
 
   var filterParts = [
     "region: " + escHtml(regionText || regionLabel),

@@ -148,7 +148,7 @@ The app now has two request modes:
 - **Default / quota-saver mode:** 1 GNews API request per search. This is recommended for daily use.
 - **Deep recall mode:** up to 3 GNews API requests per search. Use it only when the normal search misses articles and you want wider Arabic + English recall.
 
-The app also caches identical searches in the browser for 6 hours. Repeating the same search during that period uses the cache instead of spending another GNews request. If the GNews quota is exhausted and a matching cached search exists, the app can show stale cached results from the last 3 days instead of returning a blank screen.
+This version does **not** use cached results. Every search fetches fresh data from GNews.
 
 ### Show listed filters
 
@@ -177,8 +177,7 @@ A `429` error means the GNews API key has reached its daily quota. The app canno
 
 1. Keep **Deep recall mode** unchecked for normal searches.
 2. Avoid repeatedly clicking Search with different filters unless needed.
-3. Use the browser cache by repeating the same search instead of changing filters many times.
-4. Wait for the API quota to reset or use another valid GNews API key.
+3. Wait for the API quota to reset or use another valid GNews API key.
 
 ---
 
