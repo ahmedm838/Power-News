@@ -12,7 +12,7 @@ A local web app that fetches live news about power and energy in the Middle East
 2. Create a free account (just email + password)
 3. Copy your API key from the dashboard
 
-Free tier gives you **100 requests/day** and 10 articles per request.
+The free tier has a limited daily request quota and usually returns up to 10 articles per request. This app uses one request per search by default to protect the quota.
 
 ### Step 2 — Paste the key into config.js
 
@@ -61,6 +61,9 @@ Then open the URL shown in the terminal.
 - Preferred source website chips — default sources are preloaded and you can add domains like `reuters.com`, `zawya.com`, or `pv-magazine.com`
 - Preferred source websites are prioritized client-side after GNews returns articles; strict website filtering is optional and controlled by a checkbox. No unsupported GNews API source parameters are used
 - Arabic and English searches are both supported; the app no longer forces `lang=en`, so Arabic energy articles can be returned
+- Quota-saver mode is enabled by default: one GNews API request per search
+- Optional Deep recall mode can run up to 3 API requests for broader Arabic + English recall
+- Browser caching avoids spending another API request when the same search is repeated within 6 hours
 - Show filters button — displays custom keywords, preferred source websites, and the default related energy/power keyword list used by the app, including Arabic meter/electricity terms
 - Source name with favicon, publication date, summary, direct article link
 - Article thumbnail images where available
@@ -138,6 +141,15 @@ algerie-eco.com
 alghad.com
 ```
 
+### API request mode and quota protection
+
+The app now has two request modes:
+
+- **Default / quota-saver mode:** 1 GNews API request per search. This is recommended for daily use.
+- **Deep recall mode:** up to 3 GNews API requests per search. Use it only when the normal search misses articles and you want wider Arabic + English recall.
+
+The app also caches identical searches in the browser for 6 hours. Repeating the same search during that period uses the cache instead of spending another GNews request. If the GNews quota is exhausted and a matching cached search exists, the app can show stale cached results from the last 3 days instead of returning a blank screen.
+
 ### Show listed filters
 
 Click **Show filters** to display:
@@ -145,6 +157,8 @@ Click **Show filters** to display:
 - Current custom keywords
 - Current preferred source websites
 - Whether source mode is preferred or strict
+- Whether request mode is quota-saver or deep recall
+- Today’s API calls tracked in this browser
 - Default related energy/power keywords used to reject unrelated news
 
 Click the close button or **Show filters** again to hide the panel.
@@ -154,6 +168,17 @@ Click the close button or **Show filters** again to hide the panel.
 ## Why Arabic articles may have been missing before
 
 The previous version forced `lang=en` in the GNews request, which excluded Arabic articles. It also used only English MENA location words for the client-side MENA filter, so Arabic Egypt/Cairo articles could be removed after fetching. This version removes the forced English language parameter, runs Arabic recall queries, adds Arabic MENA terms, and adds `almalnews.com` to the default preferred source list.
+
+---
+
+## Troubleshooting 429 daily limit errors
+
+A `429` error means the GNews API key has reached its daily quota. The app cannot reset that quota from the browser. To reduce the chance of this happening:
+
+1. Keep **Deep recall mode** unchecked for normal searches.
+2. Avoid repeatedly clicking Search with different filters unless needed.
+3. Use the browser cache by repeating the same search instead of changing filters many times.
+4. Wait for the API quota to reset or use another valid GNews API key.
 
 ---
 

@@ -545,3 +545,12 @@ body {
   display: inline-flex;
   align-items: center;
 }
+
+/* ── API request mode ── */
+.quota-mode-box {
+  background: var(--bg-2);
+  border: 0.5px solid var(--border-1);
+  border-radius: var(--radius-md);
+  padding: 8px 10px;
+  margin-bottom: 12px;
+}

@@ -28,7 +28,7 @@
         <strong>Setup required.</strong>
         Open <code>js/config.js</code> and paste your free
         <a href="https://gnews.io/register" target="_blank" rel="noopener">GNews API key</a>
-        (100 free requests/day, no credit card).
+        (limited daily free requests, no credit card).
         Then save the file and reload this page.
       </div>
     </div>
@@ -122,6 +122,14 @@
         <p class="source-mode-help">Default mode prioritizes listed websites but still shows other relevant Arabic/English energy news if the listed sources do not match.</p>
       </div>
 
+
+      <div class="quota-mode-box">
+        <label class="source-mode-toggle" for="deepSearchToggle">
+          <input type="checkbox" id="deepSearchToggle" />
+          Deep recall mode for Arabic + English
+        </label>
+        <p class="source-mode-help">Default mode uses 1 GNews request per search. Deep recall can use up to 3 requests and should only be used when you need wider recall.</p>
+      </div>
       <div class="actions-row">
         <button class="search-btn" id="searchBtn" type="button">
           <i class="ti ti-search" aria-hidden="true"></i>

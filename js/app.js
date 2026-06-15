@@ -4,6 +4,14 @@
 
 var GNEWS_BASE = "https://gnews.io/api/v4/search";
 
+// Keep API usage low for the GNews free quota.
+// Default search uses one API request. Deep recall is optional and uses up to three.
+var REQUEST_CACHE_TTL_MS = 6 * 60 * 60 * 1000; // 6 hours
+var REQUEST_STALE_CACHE_TTL_MS = 3 * 24 * 60 * 60 * 1000; // fallback for quota errors
+var REQUEST_CACHE_PREFIX = "gnews-cache-v4:";
+var REQUEST_COUNT_PREFIX = "gnews-request-count:";
+var lastSearchRequestInfo = { apiCalls: 0, cacheHits: 0, staleCacheHits: 0 };
+
 // ── MENA geography ────────────────────────────────────────────────────────────
 // English + Arabic signals used for client-side regional filtering.
 var MENA_COUNTRIES = [
@@ -196,6 +204,11 @@ function isStrictSourceMode() {
   return !!(strictToggle && strictToggle.checked);
 }
 
+function isDeepSearchMode() {
+  var deepToggle = document.getElementById("deepSearchToggle");
+  return !!(deepToggle && deepToggle.checked);
+}
+
 function toggleFiltersPanel() {
   filtersPanelVisible = !filtersPanelVisible;
   renderFiltersPanel();
@@ -215,6 +228,10 @@ function renderFiltersPanel() {
   var sourceMode = isStrictSourceMode()
     ? "Strict — only articles from listed websites are shown"
     : "Preferred — listed websites are prioritized but other relevant articles are allowed";
+  var requestMode = isDeepSearchMode()
+    ? "Deep recall — up to 3 GNews API requests per search"
+    : "Quota saver — 1 GNews API request per search";
+  var todayRequests = getTodayRequestCount();
   var defaultKwHtml = RELATED_ENERGY_KEYWORDS.map(function(k) {
     return '<span class="filter-chip">' + escHtml(k) + '</span>';
   }).join("");
@@ -227,6 +244,8 @@ function renderFiltersPanel() {
     '<div class="filters-row"><span>Keywords:</span><p>' + keywordText + '</p></div>' +
     '<div class="filters-row"><span>Source websites:</span><p>' + sourceText + '</p></div>' +
     '<div class="filters-row"><span>Source mode:</span><p>' + escHtml(sourceMode) + '</p></div>' +
+    '<div class="filters-row"><span>Request mode:</span><p>' + escHtml(requestMode) + '</p></div>' +
+    '<div class="filters-row"><span>Today API calls:</span><p>' + escHtml(String(todayRequests)) + ' tracked in this browser</p></div>' +
     '<div class="filters-row filters-default"><span>Default related keywords:</span><div class="filter-chip-list">' + defaultKwHtml + '</div></div>';
 
   panel.classList.remove("hidden");
@@ -237,6 +256,51 @@ function renderFiltersPanel() {
       filtersPanelVisible = false;
       renderFiltersPanel();
     });
+  }
+}
+
+
+// ── API quota helpers and browser cache ──────────────────────────────────────
+function getTodayKey() {
+  return new Date().toISOString().slice(0, 10);
+}
+
+function getTodayRequestCount() {
+  var key = REQUEST_COUNT_PREFIX + getTodayKey();
+  return parseInt(localStorage.getItem(key) || "0", 10) || 0;
+}
+
+function recordApiRequest() {
+  var key = REQUEST_COUNT_PREFIX + getTodayKey();
+  var count = getTodayRequestCount() + 1;
+  localStorage.setItem(key, String(count));
+}
+
+function cacheKeyForUrl(url) {
+  return REQUEST_CACHE_PREFIX + btoa(unescape(encodeURIComponent(url))).slice(0, 160);
+}
+
+function readCachedArticles(url, maxAgeMs) {
+  try {
+    var raw = localStorage.getItem(cacheKeyForUrl(url));
+    if (!raw) return null;
+    var cached = JSON.parse(raw);
+    if (!cached || !cached.savedAt || !Array.isArray(cached.articles)) return null;
+    if (Date.now() - cached.savedAt > maxAgeMs) return null;
+    return cached.articles;
+  } catch (_) {
+    return null;
+  }
+}
+
+function writeCachedArticles(url, articles) {
+  try {
+    localStorage.setItem(cacheKeyForUrl(url), JSON.stringify({
+      savedAt: Date.now(),
+      articles: articles || []
+    }));
+  } catch (_) {
+    // localStorage can be full or disabled; search should still work.
   }
 }
 
@@ -317,19 +381,50 @@ function buildArabicQuery(region, sector, userKeywords) {
   return limitQuery(parts.join(" "));
 }
 
-function buildQueries(region, sector, userKeywords) {
+function buildSingleQuery(region, sector, userKeywords) {
+  var userText = userKeywords.join(" ").trim();
+  var regionText = "";
+  var sectorText = "";
+
+  if (region) {
+    regionText = region;
+    if (REGION_ARABIC_TERMS[region]) regionText += " OR " + REGION_ARABIC_TERMS[region];
+  } else {
+    regionText = "MENA OR Egypt OR Gulf OR مصر OR الخليج";
+  }
+
+  if (userText) {
+    sectorText = userText;
+    if (!hasArabic(userText)) sectorText += " OR electricity OR energy";
+  } else if (sector === "electricity grid") {
+    sectorText = "electricity meter OR smart meter OR prepaid meter OR عداد الكهرباء OR عدادات ذكية OR شبكة الكهرباء";
+  } else if (sector && SECTOR_ARABIC_TERMS[sector]) {
+    sectorText = sector + " OR " + SECTOR_ARABIC_TERMS[sector];
+  } else {
+    sectorText = "electricity OR energy OR power OR grid OR solar OR كهرباء OR الطاقة OR عداد الكهرباء";
+  }
+
+  return limitQuery(sectorText + " " + regionText);
+}
+
+function buildQueries(region, sector, userKeywords, deepRecall) {
   var queries = [];
   var userText = userKeywords.join(" ");
 
-  uniquePush(queries, buildEnglishQuery(region, sector, userKeywords));
-  uniquePush(queries, buildArabicQuery(region, sector, userKeywords));
+  // Quota-saver default: one combined Arabic + English query only.
+  uniquePush(queries, buildSingleQuery(region, sector, userKeywords));
 
-  // Extra Arabic electricity-meter query improves recall for Arabic meter articles when the sector is broad.
-  if (!userKeywords.length || hasArabic(userText) || sector === "electricity grid") {
-    uniquePush(queries, limitQuery("عداد الكهرباء العدادات الذكية عدادات مسبقة الدفع " + (REGION_ARABIC_TERMS[region] || "مصر الشرق الأوسط")));
+  // Optional deep recall mode. Use only when the user accepts extra API usage.
+  if (deepRecall) {
+    uniquePush(queries, buildEnglishQuery(region, sector, userKeywords));
+    uniquePush(queries, buildArabicQuery(region, sector, userKeywords));
+
+    if (!userKeywords.length || hasArabic(userText) || sector === "electricity grid") {
+      uniquePush(queries, limitQuery("عداد الكهرباء العدادات الذكية عدادات مسبقة الدفع " + (REGION_ARABIC_TERMS[region] || "مصر الشرق الأوسط")));
+    }
   }
 
-  return queries.slice(0, 3);
+  return queries.slice(0, deepRecall ? 3 : 1);
 }
 
 function buildApiUrl(query, dateFrom, dateTo, region, sortBy) {
@@ -351,9 +446,29 @@ function buildApiUrl(query, dateFrom, dateTo, region, sortBy) {
 }
 
 async function fetchArticlesForQuery(query, dateFrom, dateTo, region, sortBy) {
-  var res = await fetchWithProxy(buildApiUrl(query, dateFrom, dateTo, region, sortBy));
+  var url = buildApiUrl(query, dateFrom, dateTo, region, sortBy);
+
+  var cached = readCachedArticles(url, REQUEST_CACHE_TTL_MS);
+  if (cached) {
+    lastSearchRequestInfo.cacheHits += 1;
+    return cached;
+  }
+
+  var res = await fetchWithProxy(url);
+  lastSearchRequestInfo.apiCalls += 1;
+  recordApiRequest();
 
   if (!res.ok) {
+    // If quota is exhausted, show any stale cached result for the exact same query instead of a blank page.
+    if (res.status === 429) {
+      var stale = readCachedArticles(url, REQUEST_STALE_CACHE_TTL_MS);
+      if (stale) {
+        lastSearchRequestInfo.cacheHits += 1;
+        lastSearchRequestInfo.staleCacheHits += 1;
+        return stale;
+      }
+    }
+
     var errMsg = "HTTP " + res.status;
     try {
       var errData = await res.json();
@@ -365,7 +480,9 @@ async function fetchArticlesForQuery(query, dateFrom, dateTo, region, sortBy) {
   }
 
   var data = await res.json();
-  return data.articles || [];
+  var articles = data.articles || [];
+  writeCachedArticles(url, articles);
+  return articles;
 }
 
 function mergeUniqueArticles(articleSets) {
@@ -522,6 +639,7 @@ async function runSearch() {
   var sector = document.getElementById("sectorFilter").value;
   var sortBy = document.getElementById("sortOrder").value;
   var strictSourceFilter = isStrictSourceMode();
+  var deepRecall = isDeepSearchMode();
 
   if (!dateFrom || !dateTo) {
     showError("Please select both a start and end date.");
@@ -531,7 +649,8 @@ async function runSearch() {
   setBtnLoading(true);
   showSkeletons();
 
-  var queries = buildQueries(region, sector, keywords);
+  lastSearchRequestInfo = { apiCalls: 0, cacheHits: 0, staleCacheHits: 0 };
+  var queries = buildQueries(region, sector, keywords, deepRecall);
 
   try {
     var articleSets = [];
@@ -569,14 +688,14 @@ async function runSearch() {
     } else if (filtered.length === 0) {
       showEmpty("No articles found. Try a wider date range or different keywords.");
     } else {
-      renderArticles(filtered, dateFrom, dateTo, region || "All MENA", sector || "All sectors", sortBy, strictSourceFilter, queries, preferredSourceArticles.length);
+      renderArticles(filtered, dateFrom, dateTo, region || "All MENA", sector || "All sectors", sortBy, strictSourceFilter, queries, preferredSourceArticles.length, deepRecall);
     }
 
   } catch (err) {
     if (err.status === 403) {
       showError("Invalid or expired API key (403). Check your key in <code>js/config.js</code>.");
     } else if (err.status === 429) {
-      showError("Daily request limit reached (429). GNews free plan allows 100 requests/day. This version can run more than one query per search for Arabic + English recall.");
+      showError("Daily request limit reached (429). Default mode now uses only one GNews request per search and caches repeated searches, but this API key has already reached its daily limit. Try again after the quota resets, use another API key, or use cached searches that were already loaded in this browser.");
     } else {
       showError("GNews/API network error: " + escHtml(err.message) + ". Make sure you are connected to the internet.");
     }
@@ -586,12 +705,20 @@ async function runSearch() {
 }
 
 // ── Render results ────────────────────────────────────────────────────────────
-function renderArticles(articles, dateFrom, dateTo, regionLabel, sectorLabel, sortBy, strictSourceFilter, queries, preferredCount) {
+function renderArticles(articles, dateFrom, dateTo, regionLabel, sectorLabel, sortBy, strictSourceFilter, queries, preferredCount, deepRecall) {
   var area = document.getElementById("resultsArea");
   var sortLabel = sortBy === "publishedAt" ? "newest first" : "by relevance";
   var regionText = regionLabel === "All MENA" ? "All MENA" : getSelectText("regionFilter");
   var sectorText = sectorLabel === "All sectors" ? "All sectors" : getSelectText("sectorFilter");
   var sourceMode = strictSourceFilter ? "strict" : "preferred";
+  var requestMode = deepRecall ? "deep recall" : "quota saver";
+  var apiInfo = lastSearchRequestInfo.apiCalls + " API call" + (lastSearchRequestInfo.apiCalls !== 1 ? "s" : "");
+  if (lastSearchRequestInfo.cacheHits) {
+    apiInfo += ", " + lastSearchRequestInfo.cacheHits + " cache hit" + (lastSearchRequestInfo.cacheHits !== 1 ? "s" : "");
+  }
+  if (lastSearchRequestInfo.staleCacheHits) {
+    apiInfo += ", stale cache used after quota error";
+  }
 
   var filterParts = [
     "region: " + escHtml(regionText || regionLabel),
@@ -599,6 +726,9 @@ function renderArticles(articles, dateFrom, dateTo, regionLabel, sectorLabel, so
     "keywords: " + (keywords.length ? keywords.map(escHtml).join(", ") : "none"),
     "sources: " + (sourceWebsites.length ? escHtml(sourceMode) + " / " + sourceWebsites.map(escHtml).join(", ") : "all"),
     "preferred source matches: " + escHtml(String(preferredCount || 0)),
+    "request mode: " + escHtml(requestMode),
+    "API usage: " + escHtml(apiInfo),
+    "today API calls tracked: " + escHtml(String(getTodayRequestCount())),
     "date: " + escHtml(dateFrom) + " to " + escHtml(dateTo),
     "sort: " + escHtml(sortLabel),
     "queries: " + escHtml((queries || []).join(" | "))
@@ -712,6 +842,11 @@ document.addEventListener("DOMContentLoaded", function() {
   var strictSourceToggle = document.getElementById("strictSourceToggle");
   if (strictSourceToggle) {
     strictSourceToggle.addEventListener("change", renderFiltersPanel);
+  }
+
+  var deepSearchToggle = document.getElementById("deepSearchToggle");
+  if (deepSearchToggle) {
+    deepSearchToggle.addEventListener("change", renderFiltersPanel);
   }
 
   document.getElementById("searchBtn").addEventListener("click", runSearch);
