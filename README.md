@@ -58,9 +58,9 @@ Then open the URL shown in the terminal.
 - Filter by energy sector: electricity, oil, gas, solar/renewables, nuclear, energy policy
 - Results are narrowed to related energy and power keywords before display
 - Custom keyword chips — add terms like `NEOM`, `power outage`, `smart meter`, or `Aramco` to refine results
-- Preferred source website chips — add domains like `reuters.com`, `zawya.com`, or `pv-magazine.com`
+- Preferred source website chips — default sources are preloaded and you can add domains like `reuters.com`, `zawya.com`, or `pv-magazine.com`
 - Source website filtering is done client-side after GNews returns articles; no unsupported GNews API source parameters are used
-- Show filters button — displays custom keywords, preferred source websites, and the default related energy/power keyword list used by the app
+- Show filters button — displays custom keywords, preferred source websites, and the default related energy/power keyword list used by the app, including Arabic meter/electricity terms
 - Source name with favicon, publication date, summary, direct article link
 - Article thumbnail images where available
 - Dark mode supported automatically
@@ -84,6 +84,48 @@ www.zawya.com
 ```
 
 The app normalizes these values to clean domains such as `reuters.com` and `zawya.com`, prevents duplicates, and lets you remove them as tags.
+
+
+### Default Arabic power/meter keywords
+
+The default related energy keyword list includes Arabic terms for electricity meters and electricity grid searches:
+
+```text
+عداد كهرباء
+عدادات كهرباء
+عدادات كهربائية
+عدادات كهبرائية
+عدادات مسبقة الدفع
+عدادات ذكية
+شبكة الكهرباء
+```
+
+### Default preferred source websites
+
+The app starts with these preferred source websites already listed as removable source chips:
+
+```text
+attaqa.net
+argaam.com
+utilities-me.com
+ognnews.com
+mees.com
+alborsaanews.com
+wam.ae
+amwalalghad.com
+hespress.com
+shafaq.com
+maal.com
+albayan.ae
+emaratalyoum.com
+alanba.com.kw
+alwatan.com
+thepeninsulaqatar.com
+egypttoday.com
+gate.ahram.org.eg
+algerie-eco.com
+alghad.com
+```
 
 ### Show listed filters
 

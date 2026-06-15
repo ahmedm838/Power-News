@@ -34,7 +34,33 @@ var RELATED_ENERGY_KEYWORDS = [
   "pv", "photovoltaic", "wind power", "wind farm", "hydropower", "battery",
   "energy storage", "battery storage", "ev charging", "electric vehicle charging",
   "nuclear power", "nuclear energy", "natural gas", "gas field", "lng", "oil",
-  "petroleum", "refinery", "pipeline", "hydrogen", "green hydrogen"
+  "petroleum", "refinery", "pipeline", "hydrogen", "green hydrogen",
+  "عداد كهرباء", "عدادات كهرباء", "عدادات كهربائية", "عدادات كهبرائية",
+  "عدادات مسبقة الدفع", "عدادات ذكية", "شبكة الكهرباء"
+];
+
+// Default client-side source website filter. Users can remove or add domains from the UI.
+var DEFAULT_SOURCE_WEBSITES = [
+  "attaqa.net",
+  "argaam.com",
+  "utilities-me.com",
+  "ognnews.com",
+  "mees.com",
+  "alborsaanews.com",
+  "wam.ae",
+  "amwalalghad.com",
+  "hespress.com",
+  "shafaq.com",
+  "maal.com",
+  "albayan.ae",
+  "emaratalyoum.com",
+  "alanba.com.kw",
+  "alwatan.com",
+  "thepeninsulaqatar.com",
+  "egypttoday.com",
+  "gate.ahram.org.eg",
+  "algerie-eco.com",
+  "alghad.com"
 ];
 
 // ── CORS proxy chain ──────────────────────────────────────────────────────────
@@ -60,7 +86,7 @@ async function fetchWithProxy(rawUrl) {
 
 // ── Keyword and source website state ─────────────────────────────────────────
 var keywords = [];
-var sourceWebsites = [];
+var sourceWebsites = DEFAULT_SOURCE_WEBSITES.slice();
 var filtersPanelVisible = false;
 
 function addKeyword() {
@@ -523,6 +549,8 @@ function escAttr(str) {
 // ── Boot ──────────────────────────────────────────────────────────────────────
 document.addEventListener("DOMContentLoaded", function() {
   setDefaultDates();
+  renderTags();
+  renderSourceTags();
 
   document.getElementById("kwInput").addEventListener("keydown", function(e) {
     if (e.key === "Enter") { e.preventDefault(); addKeyword(); }
