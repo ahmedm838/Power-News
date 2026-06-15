@@ -63,6 +63,7 @@ Then open the URL shown in the terminal.
 - Arabic and English searches are both supported; the app no longer forces `lang=en`, so Arabic energy articles can be returned
 - Quota-saver mode is enabled by default: one GNews API request per search
 - Optional Deep recall mode can run up to 3 API requests for broader Arabic + English recall
+- Browser caching avoids spending another API request when the same search is repeated within 6 hours
 - Show filters button — displays custom keywords, preferred source websites, and the default related energy/power keyword list used by the app, including Arabic meter/electricity terms
 - Source name with favicon, publication date, summary, direct article link
 - Article thumbnail images where available
@@ -74,20 +75,7 @@ Then open the URL shown in the terminal.
 
 ### Add custom keywords
 
-Use the **Additional keywords** field, then press Enter, click **Add**, or click **Search news** directly. If you type a keyword and click Search without pressing Add, the app now automatically treats that typed value as an active keyword. The app will only display articles that match at least one of your custom keywords when any are added.
-
-### How filtering is applied
-
-Every search still uses GNews for the initial API result set, but the app also applies the visible criteria again in the browser before showing results:
-
-1. Date range
-2. Selected country / region
-3. Selected sector
-4. Default related energy/power keyword relevance
-5. Custom keywords
-6. Source websites, when **Restrict results to listed websites only** is enabled
-
-This prevents the page from showing broad GNews results that only match the date range.
+Use the **Additional keywords** field, then press Enter or click **Add**. The app will only display articles that match at least one of your custom keywords when any are added.
 
 ### Add preferred source websites
 
@@ -99,7 +87,7 @@ reuters.com
 www.zawya.com
 ```
 
-The app normalizes these values to clean domains such as `reuters.com` and `zawya.com`, prevents duplicates, and lets you remove them as tags. If you type a source and click Search without pressing Add, the app now automatically treats that typed value as an active source.
+The app normalizes these values to clean domains such as `reuters.com` and `zawya.com`, prevents duplicates, and lets you remove them as tags.
 
 By default, these websites are treated as **preferred sources**. Articles from listed websites are prioritized, but other relevant energy articles are still shown. Enable **Restrict results to listed websites only** when you want strict website filtering.
 
