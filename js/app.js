@@ -4,11 +4,13 @@
 
 var GNEWS_BASE = "https://gnews.io/api/v4/search";
 
-// Keep API usage low for the GNews free quota.
-// Default search uses one API request. Deep recall is optional and uses up to three.
+// Keep API usage controlled for the GNews free quota.
+// Wider date ranges are split into a small number of non-overlapping date windows
+// so the app does not keep returning only the latest first page.
 // No browser cache is used; every search fetches fresh results from GNews.
 var REQUEST_COUNT_PREFIX = "gnews-request-count:";
-var lastSearchRequestInfo = { apiCalls: 0 };
+var GNEWS_FREE_RATE_DELAY_MS = 1100;
+var lastSearchRequestInfo = { apiCalls: 0, dateWindows: 0, plannedCalls: 0 };
 
 // ── MENA geography ────────────────────────────────────────────────────────────
 // English + Arabic signals used for client-side regional filtering.
@@ -227,8 +229,8 @@ function renderFiltersPanel() {
     ? "Strict — only articles from listed websites are shown"
     : "Preferred — listed websites are prioritized but other relevant articles are allowed";
   var requestMode = isDeepSearchMode()
-    ? "Deep recall — up to 3 GNews API requests per search"
-    : "Quota saver — 1 GNews API request per search";
+    ? "Deep recall — date-window coverage plus alternate Arabic/English queries, capped at 6 calls"
+    : "Quota saver — 1 to 4 date-window calls depending on the selected range";
   var todayRequests = getTodayRequestCount();
   var defaultKwHtml = RELATED_ENERGY_KEYWORDS.map(function(k) {
     return '<span class="filter-chip">' + escHtml(k) + '</span>';
@@ -275,7 +277,12 @@ function recordApiRequest() {
 }
 
 // ── Date helpers ──────────────────────────────────────────────────────────────
-function toISODate(d) { return d.toISOString().slice(0, 10); }
+function toISODate(d) {
+  var year = d.getFullYear();
+  var month = String(d.getMonth() + 1).padStart(2, "0");
+  var day = String(d.getDate()).padStart(2, "0");
+  return year + "-" + month + "-" + day;
+}
 
 function setDefaultDates() {
   var now = new Date();
@@ -287,6 +294,89 @@ function setDefaultDates() {
 
 function toRFC3339(dateStr, endOfDay) {
   return dateStr + (endOfDay ? "T23:59:59Z" : "T00:00:00Z");
+}
+
+function parseDateInputUTC(dateStr) {
+  var parts = String(dateStr || "").split("-").map(Number);
+  if (parts.length !== 3 || !parts[0] || !parts[1] || !parts[2]) return null;
+  return new Date(Date.UTC(parts[0], parts[1] - 1, parts[2]));
+}
+
+function formatUTCDate(d) {
+  return d.toISOString().slice(0, 10);
+}
+
+function addUTCDays(d, days) {
+  var copy = new Date(d.getTime());
+  copy.setUTCDate(copy.getUTCDate() + days);
+  return copy;
+}
+
+function inclusiveDayCount(dateFrom, dateTo) {
+  var start = parseDateInputUTC(dateFrom);
+  var end = parseDateInputUTC(dateTo);
+  if (!start || !end) return 0;
+  return Math.floor((end.getTime() - start.getTime()) / 86400000) + 1;
+}
+
+function getDateWindowCount(dateFrom, dateTo) {
+  var days = inclusiveDayCount(dateFrom, dateTo);
+  if (days <= 7) return 1;
+  if (days <= 30) return 2;
+  if (days <= 90) return 3;
+  return 4;
+}
+
+function buildDateWindows(dateFrom, dateTo) {
+  var start = parseDateInputUTC(dateFrom);
+  var end = parseDateInputUTC(dateTo);
+  var totalDays = inclusiveDayCount(dateFrom, dateTo);
+  var requestedWindows = getDateWindowCount(dateFrom, dateTo);
+  var count = Math.max(1, Math.min(requestedWindows, totalDays));
+  var baseSize = Math.floor(totalDays / count);
+  var remainder = totalDays % count;
+  var windows = [];
+  var cursor = start;
+
+  for (var i = 0; i < count; i++) {
+    var size = baseSize + (i < remainder ? 1 : 0);
+    var windowEnd = addUTCDays(cursor, size - 1);
+    windows.push({ from: formatUTCDate(cursor), to: formatUTCDate(windowEnd) });
+    cursor = addUTCDays(windowEnd, 1);
+  }
+
+  // Search the newest window first, but still sample the full selected range.
+  return windows.reverse();
+}
+
+function getSearchCallBudget(dateWindows, deepRecall) {
+  if (!deepRecall) return dateWindows.length;
+  return Math.min(6, Math.max(dateWindows.length, dateWindows.length + 2));
+}
+
+function buildSearchTasks(queries, dateWindows, deepRecall) {
+  var budget = getSearchCallBudget(dateWindows, deepRecall);
+  var tasks = [];
+  var q;
+  var w;
+
+  // First priority: one primary query for every date window.
+  for (w = 0; w < dateWindows.length && tasks.length < budget; w++) {
+    tasks.push({ query: queries[0], from: dateWindows[w].from, to: dateWindows[w].to, page: 1 });
+  }
+
+  // Deep recall: spend remaining calls on alternate English/Arabic queries, newest windows first.
+  for (q = 1; q < queries.length && tasks.length < budget; q++) {
+    for (w = 0; w < dateWindows.length && tasks.length < budget; w++) {
+      tasks.push({ query: queries[q], from: dateWindows[w].from, to: dateWindows[w].to, page: 1 });
+    }
+  }
+
+  return tasks;
+}
+
+function sleep(ms) {
+  return new Promise(function(resolve) { setTimeout(resolve, ms); });
 }
 
 // ── Query builder ─────────────────────────────────────────────────────────────
@@ -361,7 +451,7 @@ function buildSingleQuery(region, userKeywords) {
     sectorText = "electricity OR energy OR power OR grid OR solar OR كهرباء OR الطاقة OR عداد الكهرباء";
   }
 
-  return limitQuery(sectorText + " " + regionText);
+  return limitQuery("(" + sectorText + ") AND (" + regionText + ")");
 }
 
 function buildQueries(region, userKeywords, deepRecall) {
@@ -384,10 +474,11 @@ function buildQueries(region, userKeywords, deepRecall) {
   return queries.slice(0, deepRecall ? 3 : 1);
 }
 
-function buildApiUrl(query, dateFrom, dateTo, region, sortBy) {
+function buildApiUrl(query, dateFrom, dateTo, region, sortBy, page) {
   var apiUrl = GNEWS_BASE +
     "?q=" + encodeURIComponent(query) +
     "&max=10" +
+    "&page=" + encodeURIComponent(page || 1) +
     "&sortby=" + encodeURIComponent(sortBy) +
     "&in=" + encodeURIComponent("title,description,content") +
     "&nullable=" + encodeURIComponent("description,content,image") +
@@ -402,8 +493,8 @@ function buildApiUrl(query, dateFrom, dateTo, region, sortBy) {
   return apiUrl;
 }
 
-async function fetchArticlesForQuery(query, dateFrom, dateTo, region, sortBy) {
-  var url = buildApiUrl(query, dateFrom, dateTo, region, sortBy);
+async function fetchArticlesForQuery(query, dateFrom, dateTo, region, sortBy, page) {
+  var url = buildApiUrl(query, dateFrom, dateTo, region, sortBy, page);
 
   var res = await fetchWithProxy(url);
   lastSearchRequestInfo.apiCalls += 1;
@@ -413,7 +504,7 @@ async function fetchArticlesForQuery(query, dateFrom, dateTo, region, sortBy) {
     var errMsg = "HTTP " + res.status;
     try {
       var errData = await res.json();
-      if (errData.errors) errMsg = errData.errors.join(" ");
+      errMsg = extractApiErrorMessage(errData, errMsg);
     } catch (_) {}
     var error = new Error(errMsg);
     error.status = res.status;
@@ -422,6 +513,17 @@ async function fetchArticlesForQuery(query, dateFrom, dateTo, region, sortBy) {
 
   var data = await res.json();
   return data.articles || [];
+}
+
+function extractApiErrorMessage(errData, fallback) {
+  if (!errData || !errData.errors) return fallback;
+  if (Array.isArray(errData.errors)) return errData.errors.join(" ");
+  if (typeof errData.errors === "object") {
+    return Object.keys(errData.errors).map(function(key) {
+      return key + ": " + errData.errors[key];
+    }).join(" ");
+  }
+  return String(errData.errors);
 }
 
 function mergeUniqueArticles(articleSets) {
@@ -497,6 +599,25 @@ function matchesSourceWebsite(article, websites) {
     if (urlText.indexOf(websites[i].toLowerCase()) !== -1) return true;
   }
   return false;
+}
+
+function matchesDateRange(article, dateFrom, dateTo) {
+  if (!article.publishedAt) return false;
+  var published = new Date(article.publishedAt);
+  if (isNaN(published.getTime())) return false;
+
+  var start = new Date(toRFC3339(dateFrom, false));
+  var end = new Date(toRFC3339(dateTo, true));
+  return published.getTime() >= start.getTime() && published.getTime() <= end.getTime();
+}
+
+function sortMergedArticles(articles, sortBy) {
+  if (sortBy !== "publishedAt") return articles;
+  return articles.slice().sort(function(a, b) {
+    var aTime = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
+    var bTime = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
+    return bTime - aTime;
+  });
 }
 
 function prioritizePreferredSources(articles, websites) {
@@ -581,19 +702,41 @@ async function runSearch() {
     return;
   }
 
+  var startDate = parseDateInputUTC(dateFrom);
+  var endDate = parseDateInputUTC(dateTo);
+  if (!startDate || !endDate || startDate.getTime() > endDate.getTime()) {
+    showError("The From date must be earlier than or equal to the To date.");
+    return;
+  }
+
   setBtnLoading(true);
   showSkeletons();
 
-  lastSearchRequestInfo = { apiCalls: 0 };
   var queries = buildQueries(region, keywords, deepRecall);
+  var dateWindows = buildDateWindows(dateFrom, dateTo);
+  var searchTasks = buildSearchTasks(queries, dateWindows, deepRecall);
+  lastSearchRequestInfo = {
+    apiCalls: 0,
+    dateWindows: dateWindows.length,
+    plannedCalls: searchTasks.length
+  };
 
   try {
     var articleSets = [];
-    for (var i = 0; i < queries.length; i++) {
-      articleSets.push(await fetchArticlesForQuery(queries[i], dateFrom, dateTo, region, sortBy));
+    for (var i = 0; i < searchTasks.length; i++) {
+      if (i > 0) await sleep(GNEWS_FREE_RATE_DELAY_MS);
+      var task = searchTasks[i];
+      articleSets.push(await fetchArticlesForQuery(
+        task.query, task.from, task.to, region, sortBy, task.page
+      ));
     }
 
-    var articles = mergeUniqueArticles(articleSets);
+    var articles = sortMergedArticles(mergeUniqueArticles(articleSets), sortBy);
+
+    // Enforce the selected date range client-side as a final guard.
+    articles = articles.filter(function(a) {
+      return matchesDateRange(a, dateFrom, dateTo);
+    });
 
     // Final displayed results must pass the core filters.
     var menaArticles = articles.filter(isMenaArticle);
@@ -623,14 +766,16 @@ async function runSearch() {
     } else if (filtered.length === 0) {
       showEmpty("No articles found. Try a wider date range or different keywords.");
     } else {
-      renderArticles(filtered, dateFrom, dateTo, region || "All MENA", sortBy, strictSourceFilter, queries, preferredSourceArticles.length, deepRecall);
+      renderArticles(filtered, dateFrom, dateTo, region || "All MENA", sortBy, strictSourceFilter, queries, preferredSourceArticles.length, deepRecall, dateWindows);
     }
 
   } catch (err) {
-    if (err.status === 403) {
-      showError("Invalid or expired API key (403). Check your key in <code>js/config.js</code>.");
+    if (err.status === 401) {
+      showError("Invalid API key (401). Check your key in <code>js/config.js</code>.");
+    } else if (err.status === 403) {
+      showError("Daily request quota reached (403). Try again after the quota resets, use another API key, or choose a shorter date range to reduce requests.");
     } else if (err.status === 429) {
-      showError("Daily request limit reached (429). Default mode uses only one GNews request per search, but this API key has already reached its daily limit. Try again after the quota resets, use another API key, or keep Deep recall mode unchecked to reduce requests.");
+      showError("GNews rate limit reached (429). The app already spaces requests apart; try the search again and keep Deep recall mode unchecked.");
     } else {
       showError("GNews/API network error: " + escHtml(err.message) + ". Make sure you are connected to the internet.");
     }
@@ -640,13 +785,16 @@ async function runSearch() {
 }
 
 // ── Render results ────────────────────────────────────────────────────────────
-function renderArticles(articles, dateFrom, dateTo, regionLabel, sortBy, strictSourceFilter, queries, preferredCount, deepRecall) {
+function renderArticles(articles, dateFrom, dateTo, regionLabel, sortBy, strictSourceFilter, queries, preferredCount, deepRecall, dateWindows) {
   var area = document.getElementById("resultsArea");
   var sortLabel = sortBy === "publishedAt" ? "newest first" : "by relevance";
   var regionText = regionLabel === "All MENA" ? "All MENA" : getSelectText("regionFilter");
   var sourceMode = strictSourceFilter ? "strict" : "preferred";
   var requestMode = deepRecall ? "deep recall" : "quota saver";
   var apiInfo = lastSearchRequestInfo.apiCalls + " API call" + (lastSearchRequestInfo.apiCalls !== 1 ? "s" : "");
+  var windowInfo = (dateWindows || []).map(function(window) {
+    return window.from + "→" + window.to;
+  }).join(" | ");
 
   var filterParts = [
     "region: " + escHtml(regionText || regionLabel),
@@ -655,6 +803,7 @@ function renderArticles(articles, dateFrom, dateTo, regionLabel, sortBy, strictS
     "preferred source matches: " + escHtml(String(preferredCount || 0)),
     "request mode: " + escHtml(requestMode),
     "API usage: " + escHtml(apiInfo),
+    "date windows: " + escHtml(String(lastSearchRequestInfo.dateWindows || 1)) + (windowInfo ? " (" + escHtml(windowInfo) + ")" : ""),
     "today API calls tracked: " + escHtml(String(getTodayRequestCount())),
     "date: " + escHtml(dateFrom) + " to " + escHtml(dateTo),
     "sort: " + escHtml(sortLabel),
