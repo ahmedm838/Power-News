@@ -303,22 +303,15 @@ function limitQuery(q) {
   return String(q || "").replace(/\s+/g, " ").trim().slice(0, 190);
 }
 
-function buildEnglishQuery(region, sector, userKeywords) {
+function buildEnglishQuery(region, userKeywords) {
   var parts = [];
 
   if (userKeywords.length > 0) {
     parts.push(userKeywords[0]);
     if (userKeywords.length > 1 && userKeywords[1].length < 30) parts.push(userKeywords[1]);
-  } else if (sector) {
-    parts.push(sector);
+    if (!hasArabic(userKeywords.join(" "))) parts.push("energy electricity");
   } else {
     parts.push("energy electricity power");
-  }
-
-  if (sector && userKeywords.length > 0) {
-    parts.push(sector);
-  } else if (!sector && userKeywords.length > 0 && !hasArabic(userKeywords.join(" "))) {
-    parts.push("energy electricity");
   }
 
   if (region) {
@@ -330,14 +323,12 @@ function buildEnglishQuery(region, sector, userKeywords) {
   return limitQuery(parts.join(" "));
 }
 
-function buildArabicQuery(region, sector, userKeywords) {
+function buildArabicQuery(region, userKeywords) {
   var parts = [];
   var userText = userKeywords.join(" ").trim();
 
   if (userText && hasArabic(userText)) {
     parts.push(userText);
-  } else if (sector && SECTOR_ARABIC_TERMS[sector]) {
-    parts.push(SECTOR_ARABIC_TERMS[sector]);
   } else {
     parts.push("الكهرباء عداد الكهرباء الطاقة");
   }
@@ -351,7 +342,7 @@ function buildArabicQuery(region, sector, userKeywords) {
   return limitQuery(parts.join(" "));
 }
 
-function buildSingleQuery(region, sector, userKeywords) {
+function buildSingleQuery(region, userKeywords) {
   var userText = userKeywords.join(" ").trim();
   var regionText = "";
   var sectorText = "";
@@ -366,10 +357,6 @@ function buildSingleQuery(region, sector, userKeywords) {
   if (userText) {
     sectorText = userText;
     if (!hasArabic(userText)) sectorText += " OR electricity OR energy";
-  } else if (sector === "electricity grid") {
-    sectorText = "electricity meter OR smart meter OR prepaid meter OR عداد الكهرباء OR عدادات ذكية OR شبكة الكهرباء";
-  } else if (sector && SECTOR_ARABIC_TERMS[sector]) {
-    sectorText = sector + " OR " + SECTOR_ARABIC_TERMS[sector];
   } else {
     sectorText = "electricity OR energy OR power OR grid OR solar OR كهرباء OR الطاقة OR عداد الكهرباء";
   }
@@ -377,19 +364,19 @@ function buildSingleQuery(region, sector, userKeywords) {
   return limitQuery(sectorText + " " + regionText);
 }
 
-function buildQueries(region, sector, userKeywords, deepRecall) {
+function buildQueries(region, userKeywords, deepRecall) {
   var queries = [];
   var userText = userKeywords.join(" ");
 
   // Quota-saver default: one combined Arabic + English query only.
-  uniquePush(queries, buildSingleQuery(region, sector, userKeywords));
+  uniquePush(queries, buildSingleQuery(region, userKeywords));
 
   // Optional deep recall mode. Use only when the user accepts extra API usage.
   if (deepRecall) {
-    uniquePush(queries, buildEnglishQuery(region, sector, userKeywords));
-    uniquePush(queries, buildArabicQuery(region, sector, userKeywords));
+    uniquePush(queries, buildEnglishQuery(region, userKeywords));
+    uniquePush(queries, buildArabicQuery(region, userKeywords));
 
-    if (!userKeywords.length || hasArabic(userText) || sector === "electricity grid") {
+    if (!userKeywords.length || hasArabic(userText)) {
       uniquePush(queries, limitQuery("عداد الكهرباء العدادات الذكية عدادات مسبقة الدفع " + (REGION_ARABIC_TERMS[region] || "مصر الشرق الأوسط")));
     }
   }
@@ -476,18 +463,15 @@ function isMenaArticle(article) {
   return false;
 }
 
-function matchesRelatedEnergyKeywords(article, sector, userKeywords) {
+function matchesRelatedEnergyKeywords(article, userKeywords) {
   var text = articleSearchText(article);
+
+  // If user has keywords, an article only needs to match those (handled by matchesKeywords).
+  // For no-keyword searches, still require it to be energy-related.
+  if (userKeywords.length > 0) return true;
 
   for (var i = 0; i < RELATED_ENERGY_KEYWORDS.length; i++) {
     if (text.indexOf(RELATED_ENERGY_KEYWORDS[i].toLowerCase()) !== -1) return true;
-  }
-
-  if (sector) {
-    var sectorParts = sector.toLowerCase().split(/\s+/);
-    for (var s = 0; s < sectorParts.length; s++) {
-      if (sectorParts[s] && text.indexOf(sectorParts[s]) !== -1) return true;
-    }
   }
 
   return false;
@@ -588,7 +572,6 @@ async function runSearch() {
   var dateFrom = document.getElementById("dateFrom").value;
   var dateTo = document.getElementById("dateTo").value;
   var region = document.getElementById("regionFilter").value;
-  var sector = document.getElementById("sectorFilter").value;
   var sortBy = document.getElementById("sortOrder").value;
   var strictSourceFilter = isStrictSourceMode();
   var deepRecall = isDeepSearchMode();
@@ -602,7 +585,7 @@ async function runSearch() {
   showSkeletons();
 
   lastSearchRequestInfo = { apiCalls: 0 };
-  var queries = buildQueries(region, sector, keywords, deepRecall);
+  var queries = buildQueries(region, keywords, deepRecall);
 
   try {
     var articleSets = [];
@@ -615,7 +598,7 @@ async function runSearch() {
     // Final displayed results must pass the core filters.
     var menaArticles = articles.filter(isMenaArticle);
     var relatedArticles = menaArticles.filter(function(a) {
-      return matchesRelatedEnergyKeywords(a, sector, keywords);
+      return matchesRelatedEnergyKeywords(a, keywords);
     });
     var keywordArticles = relatedArticles.filter(function(a) {
       return matchesKeywords(a, keywords);
@@ -632,15 +615,15 @@ async function runSearch() {
     if (articles.length > 0 && menaArticles.length === 0) {
       showEmpty("GNews returned results, but none matched the MENA country/location filter. Arabic MENA terms are now included; try selecting a specific country or widening the date range.");
     } else if (menaArticles.length > 0 && relatedArticles.length === 0) {
-      showEmpty("Found MENA articles, but none matched the default energy and power relevance keywords. Try another sector or wider date range.");
+      showEmpty("Found MENA articles, but none matched the energy and power relevance keywords. Try adding specific keywords or widen the date range.");
     } else if (relatedArticles.length > 0 && keywordArticles.length === 0) {
-      showEmpty("Found MENA energy articles, but none matched your custom keywords. Try different or fewer keywords.");
+      showEmpty("Found MENA energy articles, but none matched your keywords. Try different or fewer keywords.");
     } else if (strictSourceFilter && keywordArticles.length > 0 && filtered.length === 0 && sourceWebsites.length > 0) {
       showEmpty("Found MENA energy articles, but none matched the selected source websites. Turn off strict source filtering, remove some websites, or widen the date range.");
     } else if (filtered.length === 0) {
       showEmpty("No articles found. Try a wider date range or different keywords.");
     } else {
-      renderArticles(filtered, dateFrom, dateTo, region || "All MENA", sector || "All sectors", sortBy, strictSourceFilter, queries, preferredSourceArticles.length, deepRecall);
+      renderArticles(filtered, dateFrom, dateTo, region || "All MENA", sortBy, strictSourceFilter, queries, preferredSourceArticles.length, deepRecall);
     }
 
   } catch (err) {
@@ -657,18 +640,16 @@ async function runSearch() {
 }
 
 // ── Render results ────────────────────────────────────────────────────────────
-function renderArticles(articles, dateFrom, dateTo, regionLabel, sectorLabel, sortBy, strictSourceFilter, queries, preferredCount, deepRecall) {
+function renderArticles(articles, dateFrom, dateTo, regionLabel, sortBy, strictSourceFilter, queries, preferredCount, deepRecall) {
   var area = document.getElementById("resultsArea");
   var sortLabel = sortBy === "publishedAt" ? "newest first" : "by relevance";
   var regionText = regionLabel === "All MENA" ? "All MENA" : getSelectText("regionFilter");
-  var sectorText = sectorLabel === "All sectors" ? "All sectors" : getSelectText("sectorFilter");
   var sourceMode = strictSourceFilter ? "strict" : "preferred";
   var requestMode = deepRecall ? "deep recall" : "quota saver";
   var apiInfo = lastSearchRequestInfo.apiCalls + " API call" + (lastSearchRequestInfo.apiCalls !== 1 ? "s" : "");
 
   var filterParts = [
     "region: " + escHtml(regionText || regionLabel),
-    "sector: " + escHtml(sectorText || sectorLabel),
     "keywords: " + (keywords.length ? keywords.map(escHtml).join(", ") : "none"),
     "sources: " + (sourceWebsites.length ? escHtml(sourceMode) + " / " + sourceWebsites.map(escHtml).join(", ") : "all"),
     "preferred source matches: " + escHtml(String(preferredCount || 0)),
