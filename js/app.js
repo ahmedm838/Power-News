@@ -107,6 +107,10 @@ var DEFAULT_SOURCE_WEBSITES = [
   "gate.ahram.org.eg",
   "masrawy.com",
   "youm7.com",
+  "zawya.com",
+  "almasryalyoum.com",
+  "arabic.cnn.com",
+  "alarabiya.net",
   "powernews.cc",
   "economyplusme.com",
   "taqanews.com",
@@ -200,6 +204,7 @@ function removeSourceWebsite(domain) {
 
 function renderSourceTags() {
   var c = document.getElementById("sourceContainer");
+  if (!c) return;
   c.innerHTML = sourceWebsites.map(function(domain) {
     return '<span class="tag source-tag">' + escHtml(domain) +
       '<button class="source-remove" data-domain="' + escAttr(domain) + '" aria-label="Remove source website ' + escAttr(domain) + '">x</button></span>';
@@ -924,10 +929,13 @@ document.addEventListener("DOMContentLoaded", function() {
     if (e.key === "Enter") { e.preventDefault(); addSourceWebsite(); }
   });
   document.getElementById("addSourceBtn").addEventListener("click", addSourceWebsite);
-  document.getElementById("sourceContainer").addEventListener("click", function(e) {
-    var btn = e.target.closest(".source-remove");
-    if (btn) removeSourceWebsite(btn.getAttribute("data-domain"));
-  });
+  var sourceContainer = document.getElementById("sourceContainer");
+  if (sourceContainer) {
+    sourceContainer.addEventListener("click", function(e) {
+      var btn = e.target.closest(".source-remove");
+      if (btn) removeSourceWebsite(btn.getAttribute("data-domain"));
+    });
+  }
 
   var strictSourceToggle = document.getElementById("strictSourceToggle");
   if (strictSourceToggle) {
