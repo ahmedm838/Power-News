@@ -12,7 +12,7 @@ A local web app that fetches live news about power and energy in the Middle East
 2. Create a free account (just email + password)
 3. Copy your API key from the dashboard
 
-The free tier has a limited daily request quota and usually returns up to 10 articles per request. To make date ranges meaningful, this app uses 1–4 non-overlapping date-window requests in normal mode, depending on the selected range.
+The free tier has a limited daily request quota and usually returns up to 10 articles per request. To make date ranges meaningful, this app uses non-overlapping date-window requests and fetches up to 3 pages per window in normal mode, capped at 12 API calls per search.
 
 ### Step 2 — Paste the key into config.js
 
@@ -61,8 +61,8 @@ Then open the URL shown in the terminal.
 - Preferred source website chips — default sources are preloaded and you can add domains like `reuters.com`, `zawya.com`, or `pv-magazine.com`
 - Preferred source websites are prioritized client-side after GNews returns articles; strict website filtering is optional and controlled by a checkbox. No unsupported GNews API source parameters are used
 - Arabic and English searches are both supported; the app no longer forces `lang=en`, so Arabic energy articles can be returned
-- Quota-saver mode is enabled by default: 1–4 API requests are used to cover non-overlapping parts of the selected date range
-- Optional Deep recall mode adds Arabic + English query variants and is capped at 6 API requests
+- Quota-saver mode is enabled by default: up to 3 pages are fetched for each date window, capped at 12 API requests per search
+- Optional Deep recall mode adds Arabic + English query variants and is capped at 18 API requests
 - No browser result cache is used; each search requests fresh data
 - Show filters button — displays custom keywords, preferred source websites, and the default related energy/power keyword list used by the app, including Arabic meter/electricity terms
 - Source name with favicon, publication date, summary, direct article link
@@ -145,8 +145,8 @@ alghad.com
 
 The app now has two request modes:
 
-- **Default / quota-saver mode:** the selected range is divided into 1 window for up to 7 days, 2 windows for 8–30 days, 3 windows for 31–90 days, and 4 windows for longer ranges. Each window uses one request and returns its own first page, preventing older parts of the range from being hidden behind the newest 10 results.
-- **Deep recall mode:** uses the same date-window coverage and adds alternate Arabic/English queries, with a maximum of 6 API requests per search.
+- **Default / quota-saver mode:** the selected range is divided into 1 window for up to 7 days, 2 windows for 8–30 days, 3 windows for 31–90 days, and 4 windows for longer ranges. Each window fetches up to 3 pages, capped at 12 API requests, so the app can collect more than the newest 10 raw results before filtering.
+- **Deep recall mode:** uses the same multi-page date-window coverage and adds alternate Arabic/English queries, with a maximum of 18 API requests per search.
 
 This version does **not** use cached results. Every search fetches fresh data from GNews.
 

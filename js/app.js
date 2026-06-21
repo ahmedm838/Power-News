@@ -11,6 +11,9 @@ var GNEWS_BASE = "https://gnews.io/api/v4/search";
 var REQUEST_COUNT_PREFIX = "gnews-request-count:";
 var GNEWS_FREE_RATE_DELAY_MS = 1100;
 var PAGE_REFRESH_INTERVAL_MS = 10 * 60 * 60 * 1000;
+var GNEWS_PAGES_PER_DATE_WINDOW = 3;
+var GNEWS_DEFAULT_MAX_CALLS = 12;
+var GNEWS_DEEP_RECALL_MAX_CALLS = 18;
 var lastSearchRequestInfo = { apiCalls: 0, dateWindows: 0, plannedCalls: 0 };
 
 // ── MENA geography ────────────────────────────────────────────────────────────
@@ -241,8 +244,8 @@ function renderFiltersPanel() {
     ? "Strict — only articles from listed websites are shown"
     : "Preferred — listed websites are prioritized but other relevant articles are allowed";
   var requestMode = isDeepSearchMode()
-    ? "Deep recall — date-window coverage plus alternate Arabic/English queries, capped at 6 calls"
-    : "Quota saver — 1 to 4 date-window calls depending on the selected range";
+    ? "Deep recall — up to 3 pages per date window plus alternate Arabic/English queries, capped at 18 calls"
+    : "Quota saver — up to 3 pages per date window, capped at 12 calls";
   var todayRequests = getTodayRequestCount();
   var defaultKwHtml = RELATED_ENERGY_KEYWORDS.map(function(k) {
     return '<span class="filter-chip">' + escHtml(k) + '</span>';
@@ -368,22 +371,26 @@ function buildDateWindows(dateFrom, dateTo) {
 }
 
 function getSearchCallBudget(dateWindows, deepRecall) {
-  if (!deepRecall) return dateWindows.length;
-  return Math.min(6, Math.max(dateWindows.length, dateWindows.length + 2));
+  var primaryPageCalls = dateWindows.length * GNEWS_PAGES_PER_DATE_WINDOW;
+  if (!deepRecall) return Math.min(GNEWS_DEFAULT_MAX_CALLS, primaryPageCalls);
+  return Math.min(GNEWS_DEEP_RECALL_MAX_CALLS, primaryPageCalls + (dateWindows.length * 2));
 }
 
 function buildSearchTasks(queries, dateWindows, deepRecall) {
   var budget = getSearchCallBudget(dateWindows, deepRecall);
   var tasks = [];
+  var page;
   var q;
   var w;
 
-  // First priority: one primary query for every date window.
+  // First priority: multiple pages for the primary query in every date window.
   for (w = 0; w < dateWindows.length && tasks.length < budget; w++) {
-    tasks.push({ query: queries[0], from: dateWindows[w].from, to: dateWindows[w].to, page: 1 });
+    for (page = 1; page <= GNEWS_PAGES_PER_DATE_WINDOW && tasks.length < budget; page++) {
+      tasks.push({ query: queries[0], from: dateWindows[w].from, to: dateWindows[w].to, page: page });
+    }
   }
 
-  // Deep recall: spend remaining calls on alternate English/Arabic queries, newest windows first.
+  // Deep recall: spend remaining calls on alternate English/Arabic first pages.
   for (q = 1; q < queries.length && tasks.length < budget; q++) {
     for (w = 0; w < dateWindows.length && tasks.length < budget; w++) {
       tasks.push({ query: queries[q], from: dateWindows[w].from, to: dateWindows[w].to, page: 1 });
