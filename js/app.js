@@ -104,6 +104,12 @@ var DEFAULT_SOURCE_WEBSITES = [
   "thepeninsulaqatar.com",
   "egypttoday.com",
   "gate.ahram.org.eg",
+  "masrawy.com",
+  "youm7.com",
+  "powernews.cc",
+  "economyplusme.com",
+  "taqanews.com",
+  "asharqbusiness.com",
   "algerie-eco.com",
   "alghad.com"
 ];
