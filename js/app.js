@@ -791,7 +791,7 @@ async function runSearch() {
     } else if (filtered.length === 0) {
       showEmpty("No articles found. Try a wider date range or different keywords.");
     } else {
-      renderArticles(filtered, dateFrom, dateTo, region || "All MENA", sortBy, strictSourceFilter, queries, preferredSourceArticles.length, deepRecall, dateWindows);
+      renderArticles(filtered, dateFrom, dateTo, region || "All MENA", sortBy, preferredSourceArticles.length, deepRecall, dateWindows);
     }
 
   } catch (err) {
@@ -810,11 +810,10 @@ async function runSearch() {
 }
 
 // ── Render results ────────────────────────────────────────────────────────────
-function renderArticles(articles, dateFrom, dateTo, regionLabel, sortBy, strictSourceFilter, queries, preferredCount, deepRecall, dateWindows) {
+function renderArticles(articles, dateFrom, dateTo, regionLabel, sortBy, preferredCount, deepRecall, dateWindows) {
   var area = document.getElementById("resultsArea");
   var sortLabel = sortBy === "publishedAt" ? "newest first" : "by relevance";
   var regionText = regionLabel === "All MENA" ? "All MENA" : getSelectText("regionFilter");
-  var sourceMode = strictSourceFilter ? "strict" : "preferred";
   var requestMode = deepRecall ? "deep recall" : "quota saver";
   var apiInfo = lastSearchRequestInfo.apiCalls + " API call" + (lastSearchRequestInfo.apiCalls !== 1 ? "s" : "");
   var windowInfo = (dateWindows || []).map(function(window) {
@@ -823,16 +822,13 @@ function renderArticles(articles, dateFrom, dateTo, regionLabel, sortBy, strictS
 
   var filterParts = [
     "region: " + escHtml(regionText || regionLabel),
-    "keywords: " + (keywords.length ? keywords.map(escHtml).join(", ") : "none"),
-    "sources: " + (sourceWebsites.length ? escHtml(sourceMode) + " / " + sourceWebsites.map(escHtml).join(", ") : "all"),
     "preferred source matches: " + escHtml(String(preferredCount || 0)),
     "request mode: " + escHtml(requestMode),
     "API usage: " + escHtml(apiInfo),
     "date windows: " + escHtml(String(lastSearchRequestInfo.dateWindows || 1)) + (windowInfo ? " (" + escHtml(windowInfo) + ")" : ""),
     "today API calls tracked: " + escHtml(String(getTodayRequestCount())),
     "date: " + escHtml(dateFrom) + " to " + escHtml(dateTo),
-    "sort: " + escHtml(sortLabel),
-    "queries: " + escHtml((queries || []).join(" | "))
+    "sort: " + escHtml(sortLabel)
   ];
 
   var html = '<div class="results-header"><span class="results-count">' +
