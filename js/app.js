@@ -10,6 +10,7 @@ var GNEWS_BASE = "https://gnews.io/api/v4/search";
 // No browser cache is used; every search fetches fresh results from GNews.
 var REQUEST_COUNT_PREFIX = "gnews-request-count:";
 var GNEWS_FREE_RATE_DELAY_MS = 1100;
+var PAGE_REFRESH_INTERVAL_MS = 10 * 60 * 60 * 1000;
 var lastSearchRequestInfo = { apiCalls: 0, dateWindows: 0, plannedCalls: 0 };
 
 // ── MENA geography ────────────────────────────────────────────────────────────
@@ -292,10 +293,16 @@ function toISODate(d) {
 
 function setDefaultDates() {
   var now = new Date();
-  var week = new Date(now);
-  week.setDate(now.getDate() - 7);
+  var oneWeekAgo = new Date(now);
+  oneWeekAgo.setDate(now.getDate() - 7);
   document.getElementById("dateTo").value = toISODate(now);
-  document.getElementById("dateFrom").value = toISODate(week);
+  document.getElementById("dateFrom").value = toISODate(oneWeekAgo);
+}
+
+function schedulePageRefresh() {
+  window.setTimeout(function() {
+    window.location.reload();
+  }, PAGE_REFRESH_INTERVAL_MS);
 }
 
 function toRFC3339(dateStr, endOfDay) {
@@ -900,6 +907,7 @@ function escAttr(str) {
 // ── Boot ──────────────────────────────────────────────────────────────────────
 document.addEventListener("DOMContentLoaded", function() {
   setDefaultDates();
+  schedulePageRefresh();
   renderTags();
   renderSourceTags();
 
