@@ -4,7 +4,7 @@ A local web app that fetches live news about power and energy in the Middle East
 
 ---
 
-## Quick setup (2 steps)
+## Quick setup
 
 ### Step 1 — Get your free GNews API key
 
@@ -25,6 +25,21 @@ const CONFIG = {
 ```
 
 Save the file.
+
+### Optional: add NewsAPI.org for more results
+
+Create a free NewsAPI account at **https://newsapi.org/register**, copy your key, then replace `YOUR_NEWSAPI_API_KEY_HERE` in `js/config.js`:
+
+```js
+const CONFIG = {
+  GNEWS_API_KEY: "abc123yourrealkeyhere",
+  NEWSAPI_API_KEY: "newsapi123yourrealkeyhere",
+};
+```
+
+When both keys are configured, each search combines GNews and NewsAPI results, removes duplicates, applies the same MENA/energy/keyword filters, and sorts the merged list newest to oldest when **Newest first** is selected. NewsAPI requests use `/v2/everything` with `pageSize=100` for broader recall.
+
+NewsAPI Developer keys are useful for local development, but the free plan is limited to development/localhost use, 100 requests per day, and delayed article access. Use a backend/proxy and an appropriate paid plan for production.
 
 > Important for public GitHub repositories: a browser-only GitHub Pages app cannot fully hide an API key. For internal use, keep the repository private or protect the key by using your own backend/proxy.
 
@@ -52,7 +67,7 @@ Then open the URL shown in the terminal.
 
 ## Features
 
-- Live news via GNews.io (real articles, real sources, real links)
+- Live news via GNews.io, with optional NewsAPI.org search scope for more recall
 - Date range picker — defaults to the last 7 days
 - Filter by country/region: Egypt, Saudi Arabia, UAE, Iraq, Libya, Algeria, Morocco, and more
 - Filter by energy sector: electricity, oil, gas, solar/renewables, nuclear, energy policy
@@ -148,7 +163,9 @@ The app now has two request modes:
 - **Default / quota-saver mode:** the selected range is divided into 1 window for up to 7 days, 2 windows for 8–30 days, 3 windows for 31–90 days, and 4 windows for longer ranges. Each window fetches up to 3 pages, capped at 12 API requests, so the app can collect more than the newest 10 raw results before filtering.
 - **Deep recall mode:** uses the same multi-page date-window coverage and adds alternate Arabic/English queries, with a maximum of 18 API requests per search.
 
-This version does **not** use cached results. Every search fetches fresh data from GNews.
+This version does **not** use cached results. Every search fetches fresh data from the configured news providers.
+
+If `NEWSAPI_API_KEY` is configured, the same search also asks NewsAPI for up to 100 articles per provider call. Normal mode adds up to 4 NewsAPI calls, and Deep recall adds up to 6 NewsAPI calls.
 
 ### Show listed filters
 

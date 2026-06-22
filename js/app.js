@@ -1,8 +1,9 @@
 // MENA Power & Energy News -- App Logic
-// GNews.io free API + CORS proxy chain
+// GNews.io + optional NewsAPI.org search with CORS proxy chain
 // Search is locked to MENA + related energy/power keywords, with optional user keywords and preferred source domains.
 
 var GNEWS_BASE = "https://gnews.io/api/v4/search";
+var NEWSAPI_BASE = "https://newsapi.org/v2/everything";
 
 // Keep API usage controlled for the GNews free quota.
 // Wider date ranges are split into a small number of non-overlapping date windows
@@ -14,7 +15,10 @@ var PAGE_REFRESH_INTERVAL_MS = 10 * 60 * 60 * 1000;
 var GNEWS_PAGES_PER_DATE_WINDOW = 3;
 var GNEWS_DEFAULT_MAX_CALLS = 12;
 var GNEWS_DEEP_RECALL_MAX_CALLS = 18;
-var lastSearchRequestInfo = { apiCalls: 0, dateWindows: 0, plannedCalls: 0 };
+var NEWSAPI_PAGE_SIZE = 100;
+var NEWSAPI_DEFAULT_MAX_CALLS = 4;
+var NEWSAPI_DEEP_RECALL_MAX_CALLS = 6;
+var lastSearchRequestInfo = { apiCalls: 0, gnewsCalls: 0, newsApiCalls: 0, dateWindows: 0, plannedCalls: 0 };
 
 // ── MENA geography ────────────────────────────────────────────────────────────
 // English + Arabic signals used for client-side regional filtering.
@@ -243,9 +247,13 @@ function renderFiltersPanel() {
   var sourceMode = isStrictSourceMode()
     ? "Strict — only articles from listed websites are shown"
     : "Preferred — listed websites are prioritized but other relevant articles are allowed";
+  var providerText = [
+    hasGNewsApiKey() ? "GNews" : "",
+    hasNewsApiKey() ? "NewsAPI" : ""
+  ].filter(Boolean).join(" + ") || "No API key configured";
   var requestMode = isDeepSearchMode()
-    ? "Deep recall — up to 3 pages per date window plus alternate Arabic/English queries, capped at 18 calls"
-    : "Quota saver — up to 3 pages per date window, capped at 12 calls";
+    ? "Deep recall - extra Arabic/English query variants with provider call caps"
+    : "Quota saver - controlled date-window coverage with provider call caps";
   var todayRequests = getTodayRequestCount();
   var defaultKwHtml = RELATED_ENERGY_KEYWORDS.map(function(k) {
     return '<span class="filter-chip">' + escHtml(k) + '</span>';
@@ -259,6 +267,7 @@ function renderFiltersPanel() {
     '<div class="filters-row"><span>Keywords:</span><p>' + keywordText + '</p></div>' +
     '<div class="filters-row"><span>Source websites:</span><p>' + sourceText + '</p></div>' +
     '<div class="filters-row"><span>Source mode:</span><p>' + escHtml(sourceMode) + '</p></div>' +
+    '<div class="filters-row"><span>News providers:</span><p>' + escHtml(providerText) + '</p></div>' +
     '<div class="filters-row"><span>Request mode:</span><p>' + escHtml(requestMode) + '</p></div>' +
     '<div class="filters-row"><span>Today API calls:</span><p>' + escHtml(String(todayRequests)) + ' tracked in this browser</p></div>' +
     '<div class="filters-row filters-default"><span>Default related keywords:</span><div class="filter-chip-list">' + defaultKwHtml + '</div></div>';
@@ -400,6 +409,32 @@ function buildSearchTasks(queries, dateWindows, deepRecall) {
   return tasks;
 }
 
+function getNewsApiCallBudget(dateWindows, deepRecall) {
+  var baseCalls = Math.max(1, dateWindows.length);
+  return Math.min(deepRecall ? NEWSAPI_DEEP_RECALL_MAX_CALLS : NEWSAPI_DEFAULT_MAX_CALLS, baseCalls + (deepRecall ? 2 : 0));
+}
+
+function buildNewsApiTasks(queries, dateWindows, deepRecall) {
+  var budget = getNewsApiCallBudget(dateWindows, deepRecall);
+  var tasks = [];
+  var q;
+  var w;
+
+  for (w = 0; w < dateWindows.length && tasks.length < budget; w++) {
+    tasks.push({ query: queries[0], from: dateWindows[w].from, to: dateWindows[w].to, page: 1 });
+  }
+
+  if (deepRecall) {
+    for (q = 1; q < queries.length && tasks.length < budget; q++) {
+      for (w = 0; w < dateWindows.length && tasks.length < budget; w++) {
+        tasks.push({ query: queries[q], from: dateWindows[w].from, to: dateWindows[w].to, page: 1 });
+      }
+    }
+  }
+
+  return tasks;
+}
+
 function sleep(ms) {
   return new Promise(function(resolve) { setTimeout(resolve, ms); });
 }
@@ -518,11 +553,29 @@ function buildApiUrl(query, dateFrom, dateTo, region, sortBy, page) {
   return apiUrl;
 }
 
+function buildNewsApiUrl(query, dateFrom, dateTo, sortBy, page) {
+  var newsSortBy = sortBy === "publishedAt" ? "publishedAt" : "relevancy";
+  return NEWSAPI_BASE +
+    "?q=" + encodeURIComponent(limitNewsApiQuery(query)) +
+    "&searchIn=" + encodeURIComponent("title,description,content") +
+    "&from=" + encodeURIComponent(dateFrom) +
+    "&to=" + encodeURIComponent(dateTo) +
+    "&sortBy=" + encodeURIComponent(newsSortBy) +
+    "&pageSize=" + encodeURIComponent(NEWSAPI_PAGE_SIZE) +
+    "&page=" + encodeURIComponent(page || 1) +
+    "&apiKey=" + encodeURIComponent(CONFIG.NEWSAPI_API_KEY);
+}
+
+function limitNewsApiQuery(query) {
+  return String(query || "").replace(/\s+/g, " ").trim().slice(0, 500);
+}
+
 async function fetchArticlesForQuery(query, dateFrom, dateTo, region, sortBy, page) {
   var url = buildApiUrl(query, dateFrom, dateTo, region, sortBy, page);
 
   var res = await fetchWithProxy(url);
   lastSearchRequestInfo.apiCalls += 1;
+  lastSearchRequestInfo.gnewsCalls += 1;
   recordApiRequest();
 
   if (!res.ok) {
@@ -533,11 +586,59 @@ async function fetchArticlesForQuery(query, dateFrom, dateTo, region, sortBy, pa
     } catch (_) {}
     var error = new Error(errMsg);
     error.status = res.status;
+    error.provider = "GNews";
     throw error;
   }
 
   var data = await res.json();
   return data.articles || [];
+}
+
+async function fetchNewsApiArticlesForQuery(query, dateFrom, dateTo, sortBy, page) {
+  var url = buildNewsApiUrl(query, dateFrom, dateTo, sortBy, page);
+
+  var res = await fetchWithProxy(url);
+  lastSearchRequestInfo.apiCalls += 1;
+  lastSearchRequestInfo.newsApiCalls += 1;
+  recordApiRequest();
+
+  if (!res.ok) {
+    var errMsg = "NewsAPI HTTP " + res.status;
+    try {
+      var errData = await res.json();
+      errMsg = errData.message || errMsg;
+    } catch (_) {}
+    var error = new Error(errMsg);
+    error.status = res.status;
+    error.provider = "NewsAPI";
+    throw error;
+  }
+
+  var data = await res.json();
+  if (data.status === "error") {
+    var apiError = new Error(data.message || "NewsAPI request failed.");
+    apiError.status = data.code || "newsapi-error";
+    apiError.provider = "NewsAPI";
+    throw apiError;
+  }
+
+  return (data.articles || []).map(normalizeNewsApiArticle);
+}
+
+function normalizeNewsApiArticle(article) {
+  return {
+    title: article.title || "",
+    description: article.description || "",
+    content: article.content || "",
+    url: article.url || "",
+    image: article.urlToImage || "",
+    publishedAt: article.publishedAt || "",
+    source: {
+      name: article.source && article.source.name ? article.source.name : "NewsAPI",
+      url: article.url || ""
+    },
+    provider: "NewsAPI"
+  };
 }
 
 function extractApiErrorMessage(errData, fallback) {
@@ -704,14 +805,29 @@ function getSelectText(selectId) {
 }
 
 // ── Main search ───────────────────────────────────────────────────────────────
+function hasGNewsApiKey() {
+  return (
+    typeof CONFIG !== "undefined" &&
+    CONFIG.GNEWS_API_KEY &&
+    CONFIG.GNEWS_API_KEY !== "YOUR_GNEWS_API_KEY_HERE"
+  );
+}
+
+function hasNewsApiKey() {
+  return (
+    typeof CONFIG !== "undefined" &&
+    CONFIG.NEWSAPI_API_KEY &&
+    CONFIG.NEWSAPI_API_KEY !== "YOUR_NEWSAPI_API_KEY_HERE"
+  );
+}
+
 async function runSearch() {
-  if (
-    typeof CONFIG === "undefined" ||
-    !CONFIG.GNEWS_API_KEY ||
-    CONFIG.GNEWS_API_KEY === "YOUR_GNEWS_API_KEY_HERE"
-  ) {
-    showError('No API key found. Open <code>js/config.js</code>, paste your free GNews key, and reload.<br>' +
-      'Get one free at <a href="https://gnews.io/register" target="_blank">gnews.io/register</a> (no credit card).');
+  var useGNews = hasGNewsApiKey();
+  var useNewsApi = hasNewsApiKey();
+
+  if (!useGNews && !useNewsApi) {
+    showError('No API key found. Open <code>js/config.js</code>, paste a GNews key and/or NewsAPI key, and reload.<br>' +
+      'Get GNews at <a href="https://gnews.io/register" target="_blank">gnews.io/register</a> or NewsAPI at <a href="https://newsapi.org/register" target="_blank">newsapi.org/register</a>.');
     return;
   }
 
@@ -739,9 +855,26 @@ async function runSearch() {
 
   var queries = buildQueries(region, keywords, deepRecall);
   var dateWindows = buildDateWindows(dateFrom, dateTo);
-  var searchTasks = buildSearchTasks(queries, dateWindows, deepRecall);
+  var searchTasks = [];
+
+  if (useGNews) {
+    searchTasks = searchTasks.concat(buildSearchTasks(queries, dateWindows, deepRecall).map(function(task) {
+      task.provider = "gnews";
+      return task;
+    }));
+  }
+
+  if (useNewsApi) {
+    searchTasks = searchTasks.concat(buildNewsApiTasks(queries, dateWindows, deepRecall).map(function(task) {
+      task.provider = "newsapi";
+      return task;
+    }));
+  }
+
   lastSearchRequestInfo = {
     apiCalls: 0,
+    gnewsCalls: 0,
+    newsApiCalls: 0,
     dateWindows: dateWindows.length,
     plannedCalls: searchTasks.length
   };
@@ -751,9 +884,13 @@ async function runSearch() {
     for (var i = 0; i < searchTasks.length; i++) {
       if (i > 0) await sleep(GNEWS_FREE_RATE_DELAY_MS);
       var task = searchTasks[i];
-      articleSets.push(await fetchArticlesForQuery(
-        task.query, task.from, task.to, region, sortBy, task.page
-      ));
+      if (task.provider === "newsapi") {
+        articleSets.push(await fetchNewsApiArticlesForQuery(task.query, task.from, task.to, sortBy, task.page));
+      } else {
+        articleSets.push(await fetchArticlesForQuery(
+          task.query, task.from, task.to, region, sortBy, task.page
+        ));
+      }
     }
 
     var articles = sortMergedArticles(mergeUniqueArticles(articleSets), sortBy);
@@ -781,7 +918,7 @@ async function runSearch() {
       : prioritizePreferredSources(keywordArticles, sourceWebsites, sortBy);
 
     if (articles.length > 0 && menaArticles.length === 0) {
-      showEmpty("GNews returned results, but none matched the MENA country/location filter. Arabic MENA terms are now included; try selecting a specific country or widening the date range.");
+      showEmpty("The news providers returned results, but none matched the MENA country/location filter. Arabic MENA terms are now included; try selecting a specific country or widening the date range.");
     } else if (menaArticles.length > 0 && relatedArticles.length === 0) {
       showEmpty("Found MENA articles, but none matched the energy and power relevance keywords. Try adding specific keywords or widen the date range.");
     } else if (relatedArticles.length > 0 && keywordArticles.length === 0) {
@@ -800,9 +937,9 @@ async function runSearch() {
     } else if (err.status === 403) {
       showError("Daily request quota reached (403). Try again after the quota resets, use another API key, or choose a shorter date range to reduce requests.");
     } else if (err.status === 429) {
-      showError("GNews rate limit reached (429). The app already spaces requests apart; try the search again and keep Deep recall mode unchecked.");
+      showError((err.provider || "News API") + " rate limit reached (429). The app already spaces requests apart; try the search again and keep Deep recall mode unchecked.");
     } else {
-      showError("GNews/API network error: " + escHtml(err.message) + ". Make sure you are connected to the internet.");
+      showError((err.provider || "News API") + " network error: " + escHtml(err.message) + ". Make sure you are connected to the internet.");
     }
   }
 
@@ -816,6 +953,9 @@ function renderArticles(articles, dateFrom, dateTo, regionLabel, sortBy, preferr
   var regionText = regionLabel === "All MENA" ? "All MENA" : getSelectText("regionFilter");
   var requestMode = deepRecall ? "deep recall" : "quota saver";
   var apiInfo = lastSearchRequestInfo.apiCalls + " API call" + (lastSearchRequestInfo.apiCalls !== 1 ? "s" : "");
+  var providerInfo = [];
+  if (lastSearchRequestInfo.gnewsCalls) providerInfo.push("GNews " + lastSearchRequestInfo.gnewsCalls);
+  if (lastSearchRequestInfo.newsApiCalls) providerInfo.push("NewsAPI " + lastSearchRequestInfo.newsApiCalls);
   var windowInfo = (dateWindows || []).map(function(window) {
     return window.from + "→" + window.to;
   }).join(" | ");
@@ -824,7 +964,7 @@ function renderArticles(articles, dateFrom, dateTo, regionLabel, sortBy, preferr
     "region: " + escHtml(regionText || regionLabel),
     "preferred source matches: " + escHtml(String(preferredCount || 0)),
     "request mode: " + escHtml(requestMode),
-    "API usage: " + escHtml(apiInfo),
+    "API usage: " + escHtml(apiInfo) + (providerInfo.length ? " (" + escHtml(providerInfo.join(", ")) + ")" : ""),
     "date windows: " + escHtml(String(lastSearchRequestInfo.dateWindows || 1)) + (windowInfo ? " (" + escHtml(windowInfo) + ")" : ""),
     "today API calls tracked: " + escHtml(String(getTodayRequestCount())),
     "date: " + escHtml(dateFrom) + " to " + escHtml(dateTo),
@@ -953,11 +1093,7 @@ document.addEventListener("DOMContentLoaded", function() {
   document.getElementById("searchBtn").addEventListener("click", runSearch);
   document.getElementById("showListsBtn").addEventListener("click", toggleFiltersPanel);
 
-  if (
-    typeof CONFIG !== "undefined" &&
-    CONFIG.GNEWS_API_KEY &&
-    CONFIG.GNEWS_API_KEY !== "YOUR_GNEWS_API_KEY_HERE"
-  ) {
+  if (hasGNewsApiKey() || hasNewsApiKey()) {
     document.getElementById("apiNotice").classList.add("hidden");
   }
 });
