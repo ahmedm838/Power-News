@@ -18,5 +18,5 @@
 // NewsAPI Developer keys are intended for localhost/development use.
 const CONFIG = {
   GNEWS_API_KEY: "7a4960d85051c9f1481b6647672547c3",
-  NEWSAPI_API_KEY: "YOUR_NEWSAPI_API_KEY_HERE",
+  NEWSAPI_API_KEY: "a5d55319797843adbd0cb6a68fad801c",
 };
