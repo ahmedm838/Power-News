@@ -645,8 +645,8 @@ function sortMergedArticles(articles, sortBy) {
   });
 }
 
-function prioritizePreferredSources(articles, websites) {
-  if (!websites.length) return articles;
+function prioritizePreferredSources(articles, websites, sortBy) {
+  if (!websites.length || sortBy === "publishedAt") return articles;
 
   return articles.slice().sort(function(a, b) {
     var aMatch = matchesSourceWebsite(a, websites) ? 1 : 0;
@@ -778,7 +778,7 @@ async function runSearch() {
 
     var filtered = strictSourceFilter
       ? preferredSourceArticles
-      : prioritizePreferredSources(keywordArticles, sourceWebsites);
+      : prioritizePreferredSources(keywordArticles, sourceWebsites, sortBy);
 
     if (articles.length > 0 && menaArticles.length === 0) {
       showEmpty("GNews returned results, but none matched the MENA country/location filter. Arabic MENA terms are now included; try selecting a specific country or widening the date range.");
