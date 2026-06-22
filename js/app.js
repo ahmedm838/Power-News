@@ -8,7 +8,7 @@ var NEWSAPI_BASE = "https://newsapi.org/v2/everything";
 // Keep API usage controlled for the GNews free quota.
 // Wider date ranges are split into a small number of non-overlapping date windows
 // so the app does not keep returning only the latest first page.
-// No browser cache is used; every search fetches fresh results from GNews.
+// No browser cache is used; every search fetches fresh results from configured providers.
 var REQUEST_COUNT_PREFIX = "gnews-request-count:";
 var GNEWS_FREE_RATE_DELAY_MS = 1100;
 var PAGE_REFRESH_INTERVAL_MS = 10 * 60 * 60 * 1000;
