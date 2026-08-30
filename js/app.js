@@ -1,9 +1,10 @@
 // MENA Power & Energy News -- App Logic
-// GNews.io + optional NewsAPI.org search with CORS proxy chain
+// Same-origin scheduled news index + optional direct GNews/NewsAPI calls for localhost.
 // Search is locked to MENA + related energy/power keywords, with optional user keywords and preferred source domains.
 
 var GNEWS_BASE = "https://gnews.io/api/v4/search";
 var NEWSAPI_BASE = "https://newsapi.org/v2/everything";
+var STATIC_NEWS_INDEX_URL = "data/news.json";
 
 // Keep API usage controlled for the GNews free quota.
 // Wider date ranges are split into a small number of non-overlapping date windows
@@ -18,7 +19,7 @@ var GNEWS_DEEP_RECALL_MAX_CALLS = 18;
 var NEWSAPI_PAGE_SIZE = 100;
 var NEWSAPI_DEFAULT_MAX_CALLS = 4;
 var NEWSAPI_DEEP_RECALL_MAX_CALLS = 6;
-var lastSearchRequestInfo = { apiCalls: 0, gnewsCalls: 0, newsApiCalls: 0, dateWindows: 0, plannedCalls: 0 };
+var lastSearchRequestInfo = { apiCalls: 0, gnewsCalls: 0, newsApiCalls: 0, staticArticles: 0, dateWindows: 0, plannedCalls: 0 };
 
 // ── MENA geography ────────────────────────────────────────────────────────────
 // English + Arabic signals used for client-side regional filtering.
@@ -126,25 +127,11 @@ var DEFAULT_SOURCE_WEBSITES = [
   "alghad.com"
 ];
 
-// ── CORS proxy chain ──────────────────────────────────────────────────────────
-var CORS_PROXIES = [
-  function(url){ return "https://corsproxy.io/?url=" + encodeURIComponent(url); },
-  function(url){ return "https://api.allorigins.win/raw?url=" + encodeURIComponent(url); },
-  function(url){ return "https://corsmirror.onrender.com/v1/cors?url=" + encodeURIComponent(url); }
-];
-
-async function fetchWithProxy(rawUrl) {
-  var lastError = null;
-  for (var i = 0; i < CORS_PROXIES.length; i++) {
-    try {
-      var res = await fetch(CORS_PROXIES[i](rawUrl));
-      if (res.status !== 0) return res;
-    } catch (err) {
-      lastError = err;
-      console.warn("Proxy " + (i + 1) + " failed:", err.message);
-    }
-  }
-  throw new Error(lastError ? "All proxies failed (" + lastError.message + ")." : "All proxies failed.");
+// API keys must never be sent through public CORS proxies. GNews/NewsAPI free
+// keys are therefore optional localhost-only additions; GitHub Pages uses the
+// same-origin scheduled index above.
+async function fetchDirect(rawUrl) {
+  return fetch(rawUrl);
 }
 
 // ── Keyword and source website state ─────────────────────────────────────────
@@ -248,9 +235,10 @@ function renderFiltersPanel() {
     ? "Strict — only articles from listed websites are shown"
     : "Preferred — listed websites are prioritized but other relevant articles are allowed";
   var providerText = [
+    "Scheduled news index",
     hasGNewsApiKey() ? "GNews" : "",
     hasNewsApiKey() ? "NewsAPI" : ""
-  ].filter(Boolean).join(" + ") || "No API key configured";
+  ].filter(Boolean).join(" + ");
   var requestMode = isDeepSearchMode()
     ? "Deep recall - extra Arabic/English query variants with provider call caps"
     : "Quota saver - controlled date-window coverage with provider call caps";
@@ -573,7 +561,7 @@ function limitNewsApiQuery(query) {
 async function fetchArticlesForQuery(query, dateFrom, dateTo, region, sortBy, page) {
   var url = buildApiUrl(query, dateFrom, dateTo, region, sortBy, page);
 
-  var res = await fetchWithProxy(url);
+  var res = await fetchDirect(url);
   lastSearchRequestInfo.apiCalls += 1;
   lastSearchRequestInfo.gnewsCalls += 1;
   recordApiRequest();
@@ -597,7 +585,7 @@ async function fetchArticlesForQuery(query, dateFrom, dateTo, region, sortBy, pa
 async function fetchNewsApiArticlesForQuery(query, dateFrom, dateTo, sortBy, page) {
   var url = buildNewsApiUrl(query, dateFrom, dateTo, sortBy, page);
 
-  var res = await fetchWithProxy(url);
+  var res = await fetchDirect(url);
   lastSearchRequestInfo.apiCalls += 1;
   lastSearchRequestInfo.newsApiCalls += 1;
   recordApiRequest();
@@ -639,6 +627,20 @@ function normalizeNewsApiArticle(article) {
     },
     provider: "NewsAPI"
   };
+}
+
+async function fetchStaticNewsArticles() {
+  var res = await fetch(STATIC_NEWS_INDEX_URL + "?v=" + Date.now(), { cache: "no-store" });
+  if (!res.ok) {
+    var error = new Error("Scheduled news index HTTP " + res.status);
+    error.provider = "Scheduled news index";
+    throw error;
+  }
+
+  var data = await res.json();
+  var articles = Array.isArray(data.articles) ? data.articles : [];
+  lastSearchRequestInfo.staticArticles = articles.length;
+  return articles;
 }
 
 function extractApiErrorMessage(errData, fallback) {
@@ -689,6 +691,24 @@ function isMenaArticle(article) {
     if (text.indexOf(MENA_COUNTRIES[i].toLowerCase()) !== -1) return true;
   }
   return false;
+}
+
+function matchesSelectedRegion(article, region) {
+  if (!region) return true;
+
+  if (Array.isArray(article.regions) && article.regions.indexOf(region) !== -1) {
+    return true;
+  }
+
+  var signals = [region];
+  if (REGION_ARABIC_TERMS[region]) {
+    signals = signals.concat(REGION_ARABIC_TERMS[region].split(/\s+/));
+  }
+
+  var text = articleSearchText(article);
+  return signals.some(function(signal) {
+    return signal && text.indexOf(signal.toLowerCase()) !== -1;
+  });
 }
 
 function matchesRelatedEnergyKeywords(article, userKeywords) {
@@ -825,12 +845,6 @@ async function runSearch() {
   var useGNews = hasGNewsApiKey();
   var useNewsApi = hasNewsApiKey();
 
-  if (!useGNews && !useNewsApi) {
-    showError('No API key found. Open <code>js/config.js</code>, paste a GNews key and/or NewsAPI key, and reload.<br>' +
-      'Get GNews at <a href="https://gnews.io/register" target="_blank">gnews.io/register</a> or NewsAPI at <a href="https://newsapi.org/register" target="_blank">newsapi.org/register</a>.');
-    return;
-  }
-
   var dateFrom = document.getElementById("dateFrom").value;
   var dateTo = document.getElementById("dateTo").value;
   var region = document.getElementById("regionFilter").value;
@@ -875,23 +889,40 @@ async function runSearch() {
     apiCalls: 0,
     gnewsCalls: 0,
     newsApiCalls: 0,
+    staticArticles: 0,
     dateWindows: dateWindows.length,
     plannedCalls: searchTasks.length
   };
 
   try {
     var articleSets = [];
+    var providerErrors = [];
+
+    try {
+      articleSets.push(await fetchStaticNewsArticles());
+    } catch (staticError) {
+      providerErrors.push(staticError);
+      console.warn("Scheduled news index failed:", staticError.message);
+    }
+
     for (var i = 0; i < searchTasks.length; i++) {
       if (i > 0) await sleep(GNEWS_FREE_RATE_DELAY_MS);
       var task = searchTasks[i];
-      if (task.provider === "newsapi") {
-        articleSets.push(await fetchNewsApiArticlesForQuery(task.query, task.from, task.to, sortBy, task.page));
-      } else {
-        articleSets.push(await fetchArticlesForQuery(
-          task.query, task.from, task.to, region, sortBy, task.page
-        ));
+      try {
+        if (task.provider === "newsapi") {
+          articleSets.push(await fetchNewsApiArticlesForQuery(task.query, task.from, task.to, sortBy, task.page));
+        } else {
+          articleSets.push(await fetchArticlesForQuery(
+            task.query, task.from, task.to, region, sortBy, task.page
+          ));
+        }
+      } catch (providerError) {
+        providerErrors.push(providerError);
+        console.warn((providerError.provider || "News provider") + " failed:", providerError.message);
       }
     }
+
+    if (!articleSets.length && providerErrors.length) throw providerErrors[0];
 
     var articles = sortMergedArticles(mergeUniqueArticles(articleSets), sortBy);
 
@@ -901,7 +932,9 @@ async function runSearch() {
     });
 
     // Final displayed results must pass the core filters.
-    var menaArticles = articles.filter(isMenaArticle);
+    var menaArticles = articles.filter(isMenaArticle).filter(function(a) {
+      return matchesSelectedRegion(a, region);
+    });
     var relatedArticles = menaArticles.filter(function(a) {
       return matchesRelatedEnergyKeywords(a, keywords);
     });
@@ -951,9 +984,11 @@ function renderArticles(articles, dateFrom, dateTo, regionLabel, sortBy, preferr
   var area = document.getElementById("resultsArea");
   var sortLabel = sortBy === "publishedAt" ? "newest first" : "by relevance";
   var regionText = regionLabel === "All MENA" ? "All MENA" : getSelectText("regionFilter");
-  var requestMode = deepRecall ? "deep recall" : "quota saver";
+  var requestMode = lastSearchRequestInfo.apiCalls
+    ? (deepRecall ? "scheduled index + deep recall" : "scheduled index + quota saver")
+    : "scheduled index";
   var apiInfo = lastSearchRequestInfo.apiCalls + " API call" + (lastSearchRequestInfo.apiCalls !== 1 ? "s" : "");
-  var providerInfo = [];
+  var providerInfo = ["Scheduled index " + lastSearchRequestInfo.staticArticles];
   if (lastSearchRequestInfo.gnewsCalls) providerInfo.push("GNews " + lastSearchRequestInfo.gnewsCalls);
   if (lastSearchRequestInfo.newsApiCalls) providerInfo.push("NewsAPI " + lastSearchRequestInfo.newsApiCalls);
   var windowInfo = (dateWindows || []).map(function(window) {
@@ -964,7 +999,7 @@ function renderArticles(articles, dateFrom, dateTo, regionLabel, sortBy, preferr
     "region: " + escHtml(regionText || regionLabel),
     "preferred source matches: " + escHtml(String(preferredCount || 0)),
     "request mode: " + escHtml(requestMode),
-    "API usage: " + escHtml(apiInfo) + (providerInfo.length ? " (" + escHtml(providerInfo.join(", ")) + ")" : ""),
+    "sources: " + escHtml(providerInfo.join(", ")) + (lastSearchRequestInfo.apiCalls ? " (" + escHtml(apiInfo) + ")" : ""),
     "date windows: " + escHtml(String(lastSearchRequestInfo.dateWindows || 1)) + (windowInfo ? " (" + escHtml(windowInfo) + ")" : ""),
     "today API calls tracked: " + escHtml(String(getTodayRequestCount())),
     "date: " + escHtml(dateFrom) + " to " + escHtml(dateTo),
@@ -1087,13 +1122,13 @@ document.addEventListener("DOMContentLoaded", function() {
 
   var deepSearchToggle = document.getElementById("deepSearchToggle");
   if (deepSearchToggle) {
+    if (!hasGNewsApiKey() && !hasNewsApiKey()) {
+      deepSearchToggle.checked = false;
+      deepSearchToggle.disabled = true;
+    }
     deepSearchToggle.addEventListener("change", renderFiltersPanel);
   }
 
   document.getElementById("searchBtn").addEventListener("click", runSearch);
   document.getElementById("showListsBtn").addEventListener("click", toggleFiltersPanel);
-
-  if (hasGNewsApiKey() || hasNewsApiKey()) {
-    document.getElementById("apiNotice").classList.add("hidden");
-  }
 });
