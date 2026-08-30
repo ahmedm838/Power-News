@@ -1,12 +1,22 @@
-name: Update Al Mal index
+name: Update news indexes
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/build-news-index.mjs
+      - scripts/build-almalnews-index.mjs
+      - .github/workflows/update-almalnews-index.yml
   schedule:
     - cron: "15 */6 * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-news-indexes
+  cancel-in-progress: true
 
 jobs:
   update:
@@ -16,8 +26,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - run: node scripts/build-news-index.mjs
       - run: node scripts/build-almalnews-index.mjs
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update Al Mal news index
-          file_pattern: data/almalnews.json
+          commit_message: Update scheduled news indexes
+          file_pattern: data/news.json data/almalnews.json
