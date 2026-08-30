@@ -1,22 +1,19 @@
 // ─────────────────────────────────────────────────────────────────────────────
-//  MENA Power & Energy News — Configuration
+//  MENA Power & Energy News — optional local-development configuration
 //
-//  HOW TO GET YOUR FREE API KEY (takes ~1 minute, no credit card):
-//  1. Go to https://gnews.io/register
-//  2. Create a free account
-//  3. Copy your API key from the dashboard
-//  4. Paste it below between the quotes, replacing YOUR_GNEWS_API_KEY_HERE
-//  5. Save this file and reload index.html
+//  The deployed GitHub Pages app reads data/news.json, which is refreshed by
+//  GitHub Actions. Do not commit API keys to this public repository.
 //
-//  Free tier limits: 100 requests/day · 10 articles/request
+//  Optional live API calls are supported only for localhost development (or a
+//  provider plan that explicitly enables CORS for your production origin).
 // ─────────────────────────────────────────────────────────────────────────────
 
 // Optional extra provider for broader recall:
 // 1. Go to https://newsapi.org/register
 // 2. Copy your NewsAPI key
 // 3. Replace YOUR_NEWSAPI_API_KEY_HERE below
-// NewsAPI Developer keys are intended for localhost/development use.
+// NewsAPI Developer keys are also intended for localhost/development use.
 const CONFIG = {
-  GNEWS_API_KEY: "7a4960d85051c9f1481b6647672547c3",
-  NEWSAPI_API_KEY: "a5d55319797843adbd0cb6a68fad801c",
+  GNEWS_API_KEY: "YOUR_GNEWS_API_KEY_HERE",
+  NEWSAPI_API_KEY: "YOUR_NEWSAPI_API_KEY_HERE",
 };
