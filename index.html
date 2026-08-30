@@ -21,16 +21,12 @@
 
   <main class="container">
 
-    <!-- ── API Key setup notice ── -->
+    <!-- ── Data source notice ── -->
     <div class="api-notice" id="apiNotice">
       <i class="ti ti-info-circle" aria-hidden="true"></i>
       <div>
-        <strong>Setup required.</strong>
-        Open <code>js/config.js</code> and paste a
-        <a href="https://gnews.io/register" target="_blank" rel="noopener">GNews API key</a>
-        and/or a
-        <a href="https://newsapi.org/register" target="_blank" rel="noopener">NewsAPI key</a>.
-        Then save the file and reload this page.
+        <strong>No API key required.</strong>
+        The news index is refreshed automatically every six hours and searched locally in your browser.
       </div>
     </div>
 
@@ -114,9 +110,9 @@
       <div class="quota-mode-box">
         <label class="source-mode-toggle" for="deepSearchToggle">
           <input type="checkbox" id="deepSearchToggle" />
-          Deep recall mode for Arabic + English
+          Deep recall mode for optional local APIs
         </label>
-        <p class="source-mode-help">The app splits wider date ranges into up to 4 non-overlapping windows, fetches up to 3 pages per window, and uses Deep recall for extra Arabic/English query variants.</p>
+        <p class="source-mode-help">This setting only adds Arabic/English API calls when optional localhost API keys are configured. The scheduled index is always searched.</p>
       </div>
       <div class="actions-row">
         <button class="search-btn" id="searchBtn" type="button">
