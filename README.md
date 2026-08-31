@@ -38,7 +38,8 @@ Then open the URL shown in the terminal.
 - Date range picker — defaults to the last 7 days
 - Filter by country/region: Egypt, Saudi Arabia, UAE, Iraq, Libya, Algeria, Morocco, and more
 - Filter by energy sector: electricity, oil, gas, solar/renewables, nuclear, energy policy
-- Results are narrowed to related energy and power keywords before display
+- Results require concrete electricity, grid, generation, renewable, metering, or energy-industry signals before display
+- Conflict-only coverage (war, missiles, attacks, military news) is rejected unless the article has a concrete power-infrastructure signal
 - Custom keyword chips — add terms like `NEOM`, `power outage`, `smart meter`, or `Aramco` to refine results
 - Preferred source website chips — default sources are preloaded and you can add domains like `reuters.com`, `zawya.com`, or `pv-magazine.com`
 - Preferred source websites are prioritized client-side; strict website filtering is optional
@@ -124,7 +125,7 @@ alghad.com
 
 ### Scheduled index and optional APIs
 
-The deployed app searches `data/news.json` locally. GitHub Actions rebuilds that file from Arabic and English Google News RSS searches every six hours. The existing Al Mal index is refreshed in the same workflow.
+The deployed app searches `data/news.json` locally. GitHub Actions rebuilds that file from Arabic and English Google News RSS searches every six hours. The indexer uses precise sector phrases, excludes conflict terms from feed queries, and applies the same strict relevance test before saving an article. Broad words such as `power`, `energy`, `oil`, and `gas` do not qualify an article by themselves. The existing Al Mal index is refreshed in the same workflow.
 
 When optional localhost API keys are configured, the app merges those provider results with the scheduled index. A provider failure no longer discards results from the other sources.
 
