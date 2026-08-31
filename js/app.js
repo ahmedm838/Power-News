@@ -92,6 +92,48 @@ var RELATED_ENERGY_KEYWORDS = [
   "سرقة التيار", "التيار الكهربائي", "تعريفة الكهرباء", "أسعار الكهرباء", "اسعار الكهرباء"
 ];
 
+var POWER_INFRASTRUCTURE_KEYWORDS = [
+  "electricity", "electric power", "power grid", "electricity grid", "electrical grid", "grid operator",
+  "smart grid", "power plant", "power station", "power generation", "electricity generation",
+  "generating capacity", "transmission grid", "transmission line", "substation", "transformer",
+  "distribution network", "distribution company", "electric utility", "utility company",
+  "electricity utility", "power utility", "electricity tariff", "electricity price", "electricity bill",
+  "power outage", "blackout", "load shedding", "smart meter", "electricity meter", "prepaid meter",
+  "renewable energy", "solar power", "solar farm", "photovoltaic", "wind power", "wind farm",
+  "hydropower", "hydroelectric", "battery storage", "energy storage", "ev charging",
+  "nuclear power plant", "nuclear reactor",
+  "الكهرباء", "كهرباء", "شبكة الكهرباء", "شبكة نقل الكهرباء", "محطة كهرباء", "محطة توليد",
+  "توليد الكهرباء", "قدرة توليد", "نقل الكهرباء", "توزيع الكهرباء", "شركة الكهرباء",
+  "شركات الكهرباء", "مرفق الكهرباء", "تعريفة الكهرباء", "أسعار الكهرباء", "فاتورة الكهرباء",
+  "انقطاع الكهرباء", "تخفيف الأحمال", "عداد الكهرباء", "عدادات الكهرباء", "عدادات ذكية",
+  "الطاقة المتجددة", "الطاقة الشمسية", "محطة شمسية", "طاقة الرياح", "محطة رياح",
+  "الطاقة الكهرومائية", "تخزين الطاقة", "بطاريات", "شحن السيارات الكهربائية",
+  "محطة نووية", "مفاعل نووي"
+];
+
+var ENERGY_COMMODITY_KEYWORDS = [
+  "oil", "crude", "petroleum", "natural gas", "lng", "gas", "energy",
+  "الطاقة", "النفط", "البترول", "الغاز", "الخام"
+];
+
+var ENERGY_INDUSTRY_CONTEXT_KEYWORDS = [
+  "production", "output", "export", "import", "refinery", "refining", "pipeline",
+  "oilfield", "oil field", "gas field", "drilling", "exploration", "reserves", "capacity",
+  "project", "investment", "contract", "company", "market", "prices", "supply", "demand",
+  "ministry", "regulator", "megawatt", "gigawatt",
+  "إنتاج", "استخراج", "تصدير", "استيراد", "مصفاة", "تكرير", "خط أنابيب", "حقل نفط",
+  "حقل غاز", "حفر", "استكشاف", "احتياطيات", "قدرة", "مشروع", "استثمار", "عقد",
+  "شركة", "سوق", "أسعار", "إمدادات", "طلب", "وزارة", "هيئة", "ميجاوات", "جيجاوات"
+];
+
+var CONFLICT_KEYWORDS = [
+  "war", "warfare", "missile", "military", "attack", "airstrike", "air strike", "bomb",
+  "bombing", "weapon", "troops", "army", "navy", "armed conflict", "fighting", "killed",
+  "casualties", "ceasefire", "invasion",
+  "حرب", "صاروخ", "صواريخ", "عسكري", "عسكرية", "هجوم", "غارة", "قصف", "سلاح",
+  "أسلحة", "قوات", "جيش", "معارك", "قتلى", "ضحايا", "وقف إطلاق النار", "غزو"
+];
+
 // Default preferred websites. These are now preferred sources, not strict blockers unless the checkbox is enabled.
 var DEFAULT_SOURCE_WEBSITES = [
   "almalnews.com",
@@ -449,7 +491,7 @@ function buildEnglishQuery(region, userKeywords) {
     if (userKeywords.length > 1 && userKeywords[1].length < 30) parts.push(userKeywords[1]);
     if (!hasArabic(userKeywords.join(" "))) parts.push("energy electricity");
   } else {
-    parts.push("energy electricity power");
+    parts.push('"electricity grid" OR "power plant" OR "power generation" OR "renewable energy"');
   }
 
   if (region) {
@@ -496,7 +538,7 @@ function buildSingleQuery(region, userKeywords) {
     sectorText = userText;
     if (!hasArabic(userText)) sectorText += " OR electricity OR energy";
   } else {
-    sectorText = "electricity OR energy OR power OR grid OR solar OR كهرباء OR الطاقة OR عداد الكهرباء";
+    sectorText = '"electricity grid" OR "power plant" OR "power generation" OR "renewable energy" OR "smart meter" OR "oil production" OR "gas field" OR شبكة الكهرباء OR محطة توليد OR عداد الكهرباء OR الطاقة المتجددة';
   }
 
   return limitQuery("(" + sectorText + ") AND (" + regionText + ")");
@@ -674,21 +716,62 @@ function mergeUniqueArticles(articleSets) {
 function articleSearchText(article) {
   var sourceName = (article.source && article.source.name) ? article.source.name : "";
   var sourceUrl = (article.source && article.source.url) ? article.source.url : "";
+  var provider = String(article.provider || "");
+  // Older scheduled indexes stored the feed query in content. Never let that
+  // synthetic query text satisfy the region or power-sector relevance checks.
+  var realContent = provider.indexOf("Scheduled") === 0 ? "" : (article.content || "");
   return (
     (article.title || "") + " " +
     (article.description || "") + " " +
-    (article.content || "") + " " +
+    realContent + " " +
     (article.url || "") + " " +
     sourceName + " " + sourceUrl
   ).toLowerCase();
 }
 
+function containsSearchTerm(text, term) {
+  var cleanTerm = String(term || "").toLowerCase();
+  if (!cleanTerm) return false;
+
+  // These fixed English terms contain only letters, numbers, and spaces.
+  // Explicit boundaries stop short terms from matching inside unrelated words.
+  if (/^[a-z0-9 ]+$/.test(cleanTerm)) {
+    return new RegExp("(^|[^a-z0-9])" + cleanTerm + "([^a-z0-9]|$)", "i").test(text);
+  }
+
+  return text.indexOf(cleanTerm) !== -1;
+}
+
+function containsAnySearchTerm(text, terms) {
+  return terms.some(function(term) {
+    return containsSearchTerm(text, term);
+  });
+}
+
+function isPowerSectorArticle(article) {
+  var text = articleSearchText(article);
+  var hasPowerInfrastructure = containsAnySearchTerm(text, POWER_INFRASTRUCTURE_KEYWORDS);
+  var hasEnergyCommodity = containsAnySearchTerm(text, ENERGY_COMMODITY_KEYWORDS);
+  var hasIndustryContext = containsAnySearchTerm(text, ENERGY_INDUSTRY_CONTEXT_KEYWORDS);
+  var hasConflictContext = containsAnySearchTerm(text, CONFLICT_KEYWORDS);
+
+  // Conflict coverage is excluded unless the story has a concrete electricity,
+  // grid, generation, renewable, metering, or power-infrastructure signal.
+  if (hasConflictContext && !hasPowerInfrastructure) return false;
+
+  // Broad words such as "power", "energy", "oil", and "gas" are not sufficient
+  // alone. Commodity coverage also needs an industry/business signal.
+  return hasPowerInfrastructure || (hasEnergyCommodity && hasIndustryContext);
+}
+
 // GNews doesn't always respect region scope perfectly.
 // After fetching, drop any article with zero MENA signals in its text/source/url.
 function isMenaArticle(article) {
+  if (Array.isArray(article.regions) && article.regions.length > 0) return true;
+
   var text = articleSearchText(article);
   for (var i = 0; i < MENA_COUNTRIES.length; i++) {
-    if (text.indexOf(MENA_COUNTRIES[i].toLowerCase()) !== -1) return true;
+    if (containsSearchTerm(text, MENA_COUNTRIES[i])) return true;
   }
   return false;
 }
@@ -711,18 +794,9 @@ function matchesSelectedRegion(article, region) {
   });
 }
 
-function matchesRelatedEnergyKeywords(article, userKeywords) {
-  var text = articleSearchText(article);
-
-  // If user has keywords, an article only needs to match those (handled by matchesKeywords).
-  // For no-keyword searches, still require it to be energy-related.
-  if (userKeywords.length > 0) return true;
-
-  for (var i = 0; i < RELATED_ENERGY_KEYWORDS.length; i++) {
-    if (text.indexOf(RELATED_ENERGY_KEYWORDS[i].toLowerCase()) !== -1) return true;
-  }
-
-  return false;
+function matchesRelatedEnergyKeywords(article) {
+  // Power/energy relevance is mandatory even when custom keywords are supplied.
+  return isPowerSectorArticle(article);
 }
 
 // When the user has added keywords, only show articles that match at least one.
