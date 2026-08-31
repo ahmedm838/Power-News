@@ -189,7 +189,7 @@ let successfulFeeds = 0;
 for (const feed of FEEDS) {
   try {
     const response = await fetch(feedUrl(feed), {
-      headers: { "user-agent": "Power-News-Indexer/1.0" },
+      headers: { "user-agent": "Power-News-Indexer/2.0" },
     });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
