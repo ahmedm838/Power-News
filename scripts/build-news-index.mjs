@@ -1,6 +1,7 @@
 import { mkdir, writeFile } from "node:fs/promises";
 
-const ENERGY_QUERY = "electricity OR power OR energy OR solar OR wind OR oil OR gas OR nuclear OR grid OR meter OR كهرباء OR الطاقة OR النفط OR الغاز OR عداد";
+const ENERGY_QUERY = "\"electricity grid\" OR \"power grid\" OR \"power plant\" OR \"power generation\" OR \"renewable energy\" OR \"solar power\" OR \"wind power\" OR \"smart meter\" OR \"electricity meter\" OR \"oil production\" OR \"gas production\" OR refinery OR pipeline OR LNG OR الكهرباء OR \"شبكة الكهرباء\" OR \"محطة توليد\" OR \"عداد الكهرباء\" OR \"الطاقة المتجددة\" OR \"إنتاج النفط\" OR \"إنتاج الغاز\"";
+const CONFLICT_EXCLUSIONS = "-war -warfare -missile -military -attack -airstrike -bombing -weapon -حرب -صاروخ -صواريخ -عسكري -هجوم -غارة -قصف";
 const REGIONS = [
   ["egypt", "Egypt", "مصر"],
   ["saudi arabia", "Saudi Arabia", "السعودية"],
@@ -18,22 +19,22 @@ const REGIONS = [
 
 const FEEDS = [
   {
-    query: `(${ENERGY_QUERY}) (MENA OR "Middle East" OR "North Africa" OR الخليج OR "الشرق الأوسط")`,
+    query: `(${ENERGY_QUERY}) (MENA OR "Middle East" OR "North Africa" OR الخليج OR "الشرق الأوسط") ${CONFLICT_EXCLUSIONS}`,
     regions: [],
     locale: "en",
   },
   {
-    query: "(الكهرباء OR الطاقة OR النفط OR الغاز OR العدادات الذكية) (مصر OR الخليج OR الشرق الأوسط OR شمال أفريقيا)",
+    query: `(الكهرباء OR "شبكة الكهرباء" OR "محطة توليد" OR "الطاقة المتجددة" OR "الطاقة الشمسية" OR "طاقة الرياح" OR "عداد الكهرباء" OR "إنتاج النفط" OR "إنتاج الغاز") (مصر OR الخليج OR الشرق الأوسط OR شمال أفريقيا) ${CONFLICT_EXCLUSIONS}`,
     regions: [],
     locale: "ar",
   },
   {
-    query: "(smart meter OR prepaid meter OR AMI OR electricity meter OR عداد الكهرباء OR العدادات الذكية) (MENA OR Egypt OR Gulf OR مصر OR الخليج)",
+    query: `(smart meter OR prepaid meter OR AMI OR electricity meter OR عداد الكهرباء OR العدادات الذكية) (MENA OR Egypt OR Gulf OR مصر OR الخليج) ${CONFLICT_EXCLUSIONS}`,
     regions: [],
     locale: "en",
   },
   ...REGIONS.map(([key, english, arabic]) => ({
-    query: `(${ENERGY_QUERY}) (${english} OR ${arabic})`,
+    query: `(${ENERGY_QUERY}) (${english} OR ${arabic}) ${CONFLICT_EXCLUSIONS}`,
     regions: [key],
     locale: /[\u0600-\u06ff]/.test(arabic) ? "ar" : "en",
   })),
@@ -75,6 +76,77 @@ function cleanText(value = "") {
     .trim();
 }
 
+const POWER_INFRASTRUCTURE_KEYWORDS = [
+  "electricity", "electric power", "power grid", "electricity grid", "electrical grid", "grid operator",
+  "smart grid", "power plant", "power station", "power generation", "electricity generation",
+  "generating capacity", "transmission grid", "transmission line", "substation", "transformer",
+  "distribution network", "distribution company", "electric utility", "utility company",
+  "electricity utility", "power utility", "electricity tariff", "electricity price", "electricity bill",
+  "power outage", "blackout", "load shedding", "smart meter", "electricity meter", "prepaid meter",
+  "renewable energy", "solar power", "solar farm", "photovoltaic", "wind power", "wind farm",
+  "hydropower", "hydroelectric", "battery storage", "energy storage", "ev charging",
+  "nuclear power plant", "nuclear reactor",
+  "الكهرباء", "كهرباء", "شبكة الكهرباء", "شبكة نقل الكهرباء", "محطة كهرباء", "محطة توليد",
+  "توليد الكهرباء", "قدرة توليد", "نقل الكهرباء", "توزيع الكهرباء", "شركة الكهرباء",
+  "شركات الكهرباء", "مرفق الكهرباء", "تعريفة الكهرباء", "أسعار الكهرباء", "فاتورة الكهرباء",
+  "انقطاع الكهرباء", "تخفيف الأحمال", "عداد الكهرباء", "عدادات الكهرباء", "عدادات ذكية",
+  "الطاقة المتجددة", "الطاقة الشمسية", "محطة شمسية", "طاقة الرياح", "محطة رياح",
+  "الطاقة الكهرومائية", "تخزين الطاقة", "بطاريات", "شحن السيارات الكهربائية",
+  "محطة نووية", "مفاعل نووي"
+];
+
+const ENERGY_COMMODITY_KEYWORDS = [
+  "oil", "crude", "petroleum", "natural gas", "lng", "gas", "energy",
+  "الطاقة", "النفط", "البترول", "الغاز", "الخام"
+];
+
+const ENERGY_INDUSTRY_CONTEXT_KEYWORDS = [
+  "production", "output", "export", "import", "refinery", "refining", "pipeline",
+  "oilfield", "oil field", "gas field", "drilling", "exploration", "reserves", "capacity",
+  "project", "investment", "contract", "company", "market", "prices", "supply", "demand",
+  "ministry", "regulator", "megawatt", "gigawatt",
+  "إنتاج", "استخراج", "تصدير", "استيراد", "مصفاة", "تكرير", "خط أنابيب", "حقل نفط",
+  "حقل غاز", "حفر", "استكشاف", "احتياطيات", "قدرة", "مشروع", "استثمار", "عقد",
+  "شركة", "سوق", "أسعار", "إمدادات", "طلب", "وزارة", "هيئة", "ميجاوات", "جيجاوات"
+];
+
+const CONFLICT_KEYWORDS = [
+  "war", "warfare", "missile", "military", "attack", "airstrike", "air strike", "bomb",
+  "bombing", "weapon", "troops", "army", "navy", "armed conflict", "fighting", "killed",
+  "casualties", "ceasefire", "invasion",
+  "حرب", "صاروخ", "صواريخ", "عسكري", "عسكرية", "هجوم", "غارة", "قصف", "سلاح",
+  "أسلحة", "قوات", "جيش", "معارك", "قتلى", "ضحايا", "وقف إطلاق النار", "غزو"
+];
+
+function containsSearchTerm(text, term) {
+  const cleanTerm = String(term || "").toLowerCase();
+  if (!cleanTerm) return false;
+  if (/^[a-z0-9 ]+$/.test(cleanTerm)) {
+    return new RegExp(`(^|[^a-z0-9])${cleanTerm}([^a-z0-9]|$)`, "i").test(text);
+  }
+  return text.includes(cleanTerm);
+}
+
+function containsAnySearchTerm(text, terms) {
+  return terms.some((term) => containsSearchTerm(text, term));
+}
+
+function isPowerSectorArticle(article) {
+  const text = [
+    article.title || "",
+    article.description || "",
+    article.source?.name || "",
+  ].join(" ").toLowerCase();
+
+  const hasPowerInfrastructure = containsAnySearchTerm(text, POWER_INFRASTRUCTURE_KEYWORDS);
+  const hasEnergyCommodity = containsAnySearchTerm(text, ENERGY_COMMODITY_KEYWORDS);
+  const hasIndustryContext = containsAnySearchTerm(text, ENERGY_INDUSTRY_CONTEXT_KEYWORDS);
+  const hasConflictContext = containsAnySearchTerm(text, CONFLICT_KEYWORDS);
+
+  if (hasConflictContext && !hasPowerInfrastructure) return false;
+  return hasPowerInfrastructure || (hasEnergyCommodity && hasIndustryContext);
+}
+
 function readSource(itemXml) {
   const match = itemXml.match(/<source(?:\s+url="([^"]*)")?>([\s\S]*?)<\/source>/i);
   return {
@@ -91,7 +163,7 @@ function parseFeed(xml, feed) {
     return {
       title: cleanText(tagValue(itemXml, "title")),
       description,
-      content: `${feed.query} ${description}`,
+      content: description,
       url: tagValue(itemXml, "link") || tagValue(itemXml, "guid"),
       image: "",
       publishedAt: Number.isNaN(published.getTime()) ? "" : published.toISOString(),
@@ -99,7 +171,12 @@ function parseFeed(xml, feed) {
       provider: "Scheduled Google News index",
       regions: feed.regions,
     };
-  }).filter((article) => article.title && article.url && article.publishedAt);
+  }).filter((article) =>
+    article.title &&
+    article.url &&
+    article.publishedAt &&
+    isPowerSectorArticle(article)
+  );
 }
 
 function articleKey(article) {
