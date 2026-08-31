@@ -285,7 +285,7 @@ function renderFiltersPanel() {
     ? "Deep recall - extra Arabic/English query variants with provider call caps"
     : "Quota saver - controlled date-window coverage with provider call caps";
   var todayRequests = getTodayRequestCount();
-  var defaultKwHtml = RELATED_ENERGY_KEYWORDS.map(function(k) {
+  var defaultKwHtml = POWER_INFRASTRUCTURE_KEYWORDS.concat(ENERGY_COMMODITY_KEYWORDS).map(function(k) {
     return '<span class="filter-chip">' + escHtml(k) + '</span>';
   }).join("");
 
@@ -300,7 +300,8 @@ function renderFiltersPanel() {
     '<div class="filters-row"><span>News providers:</span><p>' + escHtml(providerText) + '</p></div>' +
     '<div class="filters-row"><span>Request mode:</span><p>' + escHtml(requestMode) + '</p></div>' +
     '<div class="filters-row"><span>Today API calls:</span><p>' + escHtml(String(todayRequests)) + ' tracked in this browser</p></div>' +
-    '<div class="filters-row filters-default"><span>Default related keywords:</span><div class="filter-chip-list">' + defaultKwHtml + '</div></div>';
+    '<div class="filters-row"><span>Conflict rule:</span><p>Conflict-only stories are rejected unless they contain a concrete power-infrastructure signal.</p></div>' +
+    '<div class="filters-row filters-default"><span>Power-sector signals:</span><div class="filter-chip-list">' + defaultKwHtml + '</div></div>';
 
   panel.classList.remove("hidden");
 
@@ -1107,7 +1108,9 @@ function renderArticles(articles, dateFrom, dateTo, regionLabel, sortBy, preferr
 
     var articleText = articleSearchText(a);
     var matchedKw = keywords.filter(function(kw) { return articleText.indexOf(kw.toLowerCase()) !== -1; });
-    var matchedDefaultKw = RELATED_ENERGY_KEYWORDS.filter(function(kw) { return articleText.indexOf(kw.toLowerCase()) !== -1; });
+    var matchedDefaultKw = POWER_INFRASTRUCTURE_KEYWORDS.concat(ENERGY_COMMODITY_KEYWORDS).filter(function(kw) {
+      return containsSearchTerm(articleText, kw);
+    });
     var kwBadges = matchedKw.concat(matchedDefaultKw.slice(0, 3)).slice(0, 5).map(function(k) {
       return '<span class="kw-match">' + escHtml(k) + '</span>';
     }).join("");
