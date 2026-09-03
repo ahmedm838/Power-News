@@ -339,12 +339,34 @@ function toISODate(d) {
   return year + "-" + month + "-" + day;
 }
 
+function setTodayToDate() {
+  var dateTo = document.getElementById("dateTo");
+  if (!dateTo) return;
+  var today = toISODate(new Date());
+  dateTo.value = today;
+  dateTo.max = today;
+}
+
 function setDefaultDates() {
   var now = new Date();
   var oneWeekAgo = new Date(now);
   oneWeekAgo.setDate(now.getDate() - 7);
-  document.getElementById("dateTo").value = toISODate(now);
+  setTodayToDate();
   document.getElementById("dateFrom").value = toISODate(oneWeekAgo);
+}
+
+function keepPageFreshWhenChromeRestoresIt() {
+  window.addEventListener("pageshow", function(event) {
+    setTodayToDate();
+
+    // Chrome can restore a tab from its back/forward cache without reloading it.
+    // Force one real reload in that case so the latest deployed app and index load.
+    if (event.persisted) window.location.reload();
+  });
+
+  document.addEventListener("visibilitychange", function() {
+    if (!document.hidden) setTodayToDate();
+  });
 }
 
 function schedulePageRefresh() {
@@ -768,6 +790,7 @@ function isPowerSectorArticle(article) {
 // GNews doesn't always respect region scope perfectly.
 // After fetching, drop any article with zero MENA signals in its text/source/url.
 function isMenaArticle(article) {
+  if (article.preferredSite) return true;
   if (Array.isArray(article.regions) && article.regions.length > 0) return true;
 
   var text = articleSearchText(article);
@@ -1167,6 +1190,7 @@ function escAttr(str) {
 // ── Boot ──────────────────────────────────────────────────────────────────────
 document.addEventListener("DOMContentLoaded", function() {
   setDefaultDates();
+  keepPageFreshWhenChromeRestoresIt();
   schedulePageRefresh();
   renderTags();
   renderSourceTags();
