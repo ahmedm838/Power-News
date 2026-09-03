@@ -119,6 +119,7 @@ alwatan.com
 thepeninsulaqatar.com
 egypttoday.com
 gate.ahram.org.eg
+egelectricgate.com
 masrawy.com
 youm7.com
 zawya.com
