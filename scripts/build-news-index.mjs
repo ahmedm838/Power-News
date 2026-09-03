@@ -24,6 +24,7 @@ const PREFERRED_SITES = [
   ["thepeninsulaqatar.com", "en"],
   ["egypttoday.com", "en"],
   ["gate.ahram.org.eg", "ar"],
+  ["egelectricgate.com", "ar"],
   ["masrawy.com", "ar"],
   ["youm7.com", "ar"],
   ["zawya.com", "en"],
