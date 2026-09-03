@@ -2,6 +2,42 @@ import { mkdir, writeFile } from "node:fs/promises";
 
 const ENERGY_QUERY = "\"electricity grid\" OR \"power grid\" OR \"power plant\" OR \"power generation\" OR \"renewable energy\" OR \"solar power\" OR \"wind power\" OR \"smart meter\" OR \"electricity meter\" OR \"oil production\" OR \"gas production\" OR refinery OR pipeline OR LNG OR الكهرباء OR \"شبكة الكهرباء\" OR \"محطة توليد\" OR \"عداد الكهرباء\" OR \"الطاقة المتجددة\" OR \"إنتاج النفط\" OR \"إنتاج الغاز\"";
 const CONFLICT_EXCLUSIONS = "-war -warfare -missile -military -attack -airstrike -bombing -weapon -حرب -صاروخ -صواريخ -عسكري -هجوم -غارة -قصف";
+const SITE_ENERGY_QUERY = "\"electricity\" OR \"power plant\" OR \"power grid\" OR \"renewable energy\" OR \"solar power\" OR \"wind power\" OR \"smart meter\" OR \"oil production\" OR \"gas production\" OR refinery OR pipeline OR LNG OR الكهرباء OR \"شبكة الكهرباء\" OR \"محطة توليد\" OR \"عداد الكهرباء\" OR \"الطاقة المتجددة\" OR \"إنتاج النفط\" OR \"إنتاج الغاز\"";
+
+const PREFERRED_SITES = [
+  ["almalnews.com", "ar"],
+  ["attaqa.net", "ar"],
+  ["argaam.com", "ar"],
+  ["utilities-me.com", "en"],
+  ["ognnews.com", "en"],
+  ["mees.com", "en"],
+  ["alborsaanews.com", "ar"],
+  ["wam.ae", "ar"],
+  ["amwalalghad.com", "en"],
+  ["hespress.com", "ar"],
+  ["shafaq.com", "ar"],
+  ["maal.com", "ar"],
+  ["albayan.ae", "ar"],
+  ["emaratalyoum.com", "ar"],
+  ["alanba.com.kw", "ar"],
+  ["alwatan.com", "ar"],
+  ["thepeninsulaqatar.com", "en"],
+  ["egypttoday.com", "en"],
+  ["gate.ahram.org.eg", "ar"],
+  ["masrawy.com", "ar"],
+  ["youm7.com", "ar"],
+  ["zawya.com", "en"],
+  ["almasryalyoum.com", "ar"],
+  ["arabic.cnn.com", "ar"],
+  ["alarabiya.net", "ar"],
+  ["powernews.cc", "ar"],
+  ["economyplusme.com", "ar"],
+  ["taqanews.com", "ar"],
+  ["asharqbusiness.com", "ar"],
+  ["algerie-eco.com", "ar"],
+  ["alghad.com", "ar"],
+];
+
 const REGIONS = [
   ["egypt", "Egypt", "مصر"],
   ["saudi arabia", "Saudi Arabia", "السعودية"],
@@ -37,6 +73,15 @@ const FEEDS = [
     query: `(${ENERGY_QUERY}) (${english} OR ${arabic}) ${CONFLICT_EXCLUSIONS}`,
     regions: [key],
     locale: /[\u0600-\u06ff]/.test(arabic) ? "ar" : "en",
+  })),
+  // Give every default listed website its own feed so coverage does not depend
+  // on whether it appears in the broad regional Google News searches.
+  ...PREFERRED_SITES.map(([site, locale]) => ({
+    query: `(${SITE_ENERGY_QUERY}) site:${site} ${CONFLICT_EXCLUSIONS}`,
+    regions: [],
+    locale,
+    site,
+    limit: 30,
   })),
 ];
 
@@ -170,6 +215,7 @@ function parseFeed(xml, feed) {
       source: readSource(itemXml),
       provider: "Scheduled Google News index",
       regions: feed.regions,
+      preferredSite: feed.site || "",
     };
   }).filter((article) =>
     article.title &&
@@ -195,12 +241,15 @@ for (const feed of FEEDS) {
 
     // Keep each geography represented instead of letting the broadest feeds
     // crowd smaller markets out of the final index.
-    const articles = parseFeed(await response.text(), feed).slice(0, 60);
+    const articles = parseFeed(await response.text(), feed).slice(0, feed.limit || 60);
     for (const article of articles) {
       const key = articleKey(article);
       const existing = collected.get(key);
       if (existing) {
         existing.regions = [...new Set([...existing.regions, ...article.regions])];
+        if (!existing.preferredSite && article.preferredSite) {
+          existing.preferredSite = article.preferredSite;
+        }
       } else {
         collected.set(key, article);
       }
