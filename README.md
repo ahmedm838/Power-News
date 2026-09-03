@@ -6,7 +6,7 @@ A GitHub Pages web app for power and energy news across the Middle East and Nort
 
 ## Quick setup
 
-No API key is required. Enable GitHub Pages for the `main` branch and leave GitHub Actions enabled. The **Update news indexes** workflow runs every six hours and can also be started manually from the Actions tab.
+Enable GitHub Pages for the `main` branch and leave GitHub Actions enabled. The **Update news indexes** workflow runs every six hours and can also be started manually from the Actions tab.
 
 For optional localhost development, `js/config.js` still accepts GNews or NewsAPI keys. Never commit real keys. Free provider plans generally restrict browser CORS to localhost; production live API calls require a provider-supported origin and should normally go through a backend you control.
 
@@ -35,14 +35,14 @@ Then open the URL shown in the terminal.
 ## Features
 
 - Scheduled Google News RSS index refreshed every six hours by GitHub Actions
-- Date range picker — defaults to the last 7 days
+- Date range picker — defaults to the last 7 days, with the To date reset to today whenever the page opens or is restored by Chrome
 - Filter by country/region: Egypt, Saudi Arabia, UAE, Iraq, Libya, Algeria, Morocco, and more
 - Filter by energy sector: electricity, oil, gas, solar/renewables, nuclear, energy policy
 - Results require concrete electricity, grid, generation, renewable, metering, or energy-industry signals before display
 - Conflict-only coverage (war, missiles, attacks, military news) is rejected unless the article has a concrete power-infrastructure signal
 - Custom keyword chips — add terms like `NEOM`, `power outage`, `smart meter`, or `Aramco` to refine results
 - Preferred source website chips — default sources are preloaded and you can add domains like `reuters.com`, `zawya.com`, or `pv-magazine.com`
-- Preferred source websites are prioritized client-side; strict website filtering is optional
+- Every default listed website gets its own scheduled Google News feed, then listed sources are prioritized client-side; strict website filtering is optional
 - Arabic and English feeds are both indexed
 - No API key or public CORS proxy is used by the deployed app
 - Optional localhost GNews/NewsAPI support remains available for development
@@ -119,6 +119,16 @@ alwatan.com
 thepeninsulaqatar.com
 egypttoday.com
 gate.ahram.org.eg
+masrawy.com
+youm7.com
+zawya.com
+almasryalyoum.com
+arabic.cnn.com
+alarabiya.net
+powernews.cc
+economyplusme.com
+taqanews.com
+asharqbusiness.com
 algerie-eco.com
 alghad.com
 ```
