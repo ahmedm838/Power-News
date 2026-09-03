@@ -181,10 +181,11 @@ function containsAnySearchTerm(text, terms) {
 }
 
 function isPowerSectorArticle(article) {
+  // Publisher names can contain words such as "electricity"; only the
+  // article's own title and description are allowed to establish relevance.
   const text = [
     article.title || "",
     article.description || "",
-    article.source?.name || "",
   ].join(" ").toLowerCase();
 
   const hasPowerInfrastructure = containsAnySearchTerm(text, POWER_INFRASTRUCTURE_KEYWORDS);
