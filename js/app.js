@@ -737,9 +737,7 @@ function mergeUniqueArticles(articleSets) {
 }
 
 // ── Client-side filters ───────────────────────────────────────────────────────
-function articleSearchText(article) {
-  var sourceName = (article.source && article.source.name) ? article.source.name : "";
-  var sourceUrl = (article.source && article.source.url) ? article.source.url : "";
+function articleContentText(article) {
   var provider = String(article.provider || "");
   // Older scheduled indexes stored the feed query in content. Never let that
   // synthetic query text satisfy the region or power-sector relevance checks.
@@ -747,7 +745,15 @@ function articleSearchText(article) {
   return (
     (article.title || "") + " " +
     (article.description || "") + " " +
-    realContent + " " +
+    realContent
+  ).toLowerCase();
+}
+
+function articleSearchText(article) {
+  var sourceName = (article.source && article.source.name) ? article.source.name : "";
+  var sourceUrl = (article.source && article.source.url) ? article.source.url : "";
+  return (
+    articleContentText(article) + " " +
     (article.url || "") + " " +
     sourceName + " " + sourceUrl
   ).toLowerCase();
@@ -773,7 +779,8 @@ function containsAnySearchTerm(text, terms) {
 }
 
 function isPowerSectorArticle(article) {
-  var text = articleSearchText(article);
+  // Relevance must come from the article itself, never from a publisher name.
+  var text = articleContentText(article);
   var hasPowerInfrastructure = containsAnySearchTerm(text, POWER_INFRASTRUCTURE_KEYWORDS);
   var hasEnergyCommodity = containsAnySearchTerm(text, ENERGY_COMMODITY_KEYWORDS);
   var hasIndustryContext = containsAnySearchTerm(text, ENERGY_INDUSTRY_CONTEXT_KEYWORDS);
