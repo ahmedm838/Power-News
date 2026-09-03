@@ -24,7 +24,7 @@ const PREFERRED_SITES = [
   ["thepeninsulaqatar.com", "en"],
   ["egypttoday.com", "en"],
   ["gate.ahram.org.eg", "ar"],
-  ["egelectricgate.com", "ar"],
+  ["egelectricgate.com", "ar", "https://www.egelectricgate.com/?feed=rss2"],
   ["masrawy.com", "ar"],
   ["youm7.com", "ar"],
   ["zawya.com", "en"],
@@ -77,16 +77,19 @@ const FEEDS = [
   })),
   // Give every default listed website its own feed so coverage does not depend
   // on whether it appears in the broad regional Google News searches.
-  ...PREFERRED_SITES.map(([site, locale]) => ({
+  ...PREFERRED_SITES.map(([site, locale, directUrl]) => ({
     query: `(${SITE_ENERGY_QUERY}) site:${site} ${CONFLICT_EXCLUSIONS}`,
     regions: [],
     locale,
     site,
+    directUrl: directUrl || "",
     limit: 30,
   })),
 ];
 
 function feedUrl(feed) {
+  if (feed.directUrl) return feed.directUrl;
+
   const arabic = feed.locale === "ar";
   const params = new URLSearchParams({
     q: feed.query,
@@ -193,7 +196,14 @@ function isPowerSectorArticle(article) {
   return hasPowerInfrastructure || (hasEnergyCommodity && hasIndustryContext);
 }
 
-function readSource(itemXml) {
+function readSource(itemXml, feed) {
+  if (feed.directUrl && feed.site) {
+    return {
+      name: "بوابة أخبار كهرباء مصر",
+      url: "https://www.egelectricgate.com/",
+    };
+  }
+
   const match = itemXml.match(/<source(?:\s+url="([^"]*)")?>([\s\S]*?)<\/source>/i);
   return {
     name: match ? cleanText(match[2]) : "Google News",
@@ -213,7 +223,7 @@ function parseFeed(xml, feed) {
       url: tagValue(itemXml, "link") || tagValue(itemXml, "guid"),
       image: "",
       publishedAt: Number.isNaN(published.getTime()) ? "" : published.toISOString(),
-      source: readSource(itemXml),
+      source: readSource(itemXml, feed),
       provider: "Scheduled Google News index",
       regions: feed.regions,
       preferredSite: feed.site || "",
