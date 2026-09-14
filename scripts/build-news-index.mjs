@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 
 const ENERGY_QUERY = "\"electricity grid\" OR \"power grid\" OR \"power plant\" OR \"power generation\" OR \"renewable energy\" OR \"solar power\" OR \"wind power\" OR \"smart meter\" OR \"electricity meter\" OR \"oil production\" OR \"gas production\" OR refinery OR pipeline OR LNG OR الكهرباء OR \"شبكة الكهرباء\" OR \"محطة توليد\" OR \"عداد الكهرباء\" OR \"الطاقة المتجددة\" OR \"إنتاج النفط\" OR \"إنتاج الغاز\"";
 const CONFLICT_EXCLUSIONS = "-war -warfare -missile -military -attack -airstrike -bombing -weapon -حرب -صاروخ -صواريخ -عسكري -هجوم -غارة -قصف";
@@ -241,24 +241,52 @@ function articleKey(article) {
   return `${article.title.toLowerCase()}|${article.source.name.toLowerCase()}`;
 }
 
+// Keep published coverage across transient feed outages and rotating RSS pages.
 const collected = new Map();
+try {
+  const previous = JSON.parse(await readFile("data/news.json", "utf8"));
+  for (const article of previous.articles || []) {
+    if (article.title && article.url && article.publishedAt && isPowerSectorArticle(article)) {
+      collected.set(articleKey(article), article);
+    }
+  }
+} catch (error) {
+  if (error.code !== "ENOENT") throw error;
+}
+
+async function fetchFeed(feed) {
+  for (let attempt = 0; attempt < 2; attempt += 1) {
+    try {
+      const response = await fetch(feedUrl(feed), {
+        headers: { "user-agent": "Power-News-Indexer/2.0" },
+        signal: AbortSignal.timeout(15000),
+      });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const xml = await response.text();
+      if (!/<rss[\s>]/i.test(xml)) throw new Error("Invalid RSS response");
+      return xml;
+    } catch (error) {
+      if (attempt === 1) throw error;
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+    }
+  }
+}
 let successfulFeeds = 0;
 
 for (const feed of FEEDS) {
   try {
-    const response = await fetch(feedUrl(feed), {
-      headers: { "user-agent": "Power-News-Indexer/2.0" },
-    });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const xml = await fetchFeed(feed);
 
     // Keep each geography represented instead of letting the broadest feeds
     // crowd smaller markets out of the final index.
-    const articles = parseFeed(await response.text(), feed).slice(0, feed.limit || 60);
+    const articles = parseFeed(xml, feed).slice(0, feed.limit || 60);
     for (const article of articles) {
       const key = articleKey(article);
       const existing = collected.get(key);
       if (existing) {
-        existing.regions = [...new Set([...existing.regions, ...article.regions])];
+        article.regions = [...new Set([...(existing.regions || []), ...article.regions])];
+        article.preferredSite = article.preferredSite || existing.preferredSite;
+        collected.set(key, article);
         if (!existing.preferredSite && article.preferredSite) {
           existing.preferredSite = article.preferredSite;
         }
@@ -284,6 +312,7 @@ const output = {
   generatedAt: new Date().toISOString(),
   successfulFeeds,
   totalFeeds: FEEDS.length,
+  failedFeeds: FEEDS.length - successfulFeeds,
   articles,
 };
 
