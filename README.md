@@ -35,7 +35,7 @@ Then open the URL shown in the terminal.
 ## Features
 
 - Scheduled Google News RSS index refreshed every six hours by GitHub Actions
-- Date range picker — defaults to the last 7 days, with the To date reset to today whenever the page opens or is restored by Chrome
+- Date range picker — defaults to 10 days before the To date, with the To date reset to today whenever the page opens or is restored by Chrome
 - Filter by country/region: Egypt, Saudi Arabia, UAE, Iraq, Libya, Algeria, Morocco, and more
 - Filter by energy sector: electricity, oil, gas, solar/renewables, nuclear, energy policy
 - Results require concrete electricity, grid, generation, renewable, metering, or energy-industry signals before display
