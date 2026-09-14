@@ -360,10 +360,10 @@ function setTodayToDate() {
 
 function setDefaultDates() {
   var now = new Date();
-  var oneWeekAgo = new Date(now);
-  oneWeekAgo.setDate(now.getDate() - 7);
+  var tenDaysAgo = new Date(now);
+  tenDaysAgo.setDate(now.getDate() - 10);
   setTodayToDate();
-  document.getElementById("dateFrom").value = toISODate(oneWeekAgo);
+  document.getElementById("dateFrom").value = toISODate(tenDaysAgo);
 }
 
 function keepPageFreshWhenChromeRestoresIt() {
