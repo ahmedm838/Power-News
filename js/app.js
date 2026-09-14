@@ -346,6 +346,16 @@ function setTodayToDate() {
   var today = toISODate(new Date());
   dateTo.value = today;
   dateTo.max = today;
+
+  // Restored tabs may retain a From date that is now more than 10 days old.
+  var dateFrom = document.getElementById("dateFrom");
+  if (!dateFrom) return;
+  var earliestFrom = formatUTCDate(addUTCDays(parseDateInputUTC(today), -10));
+  if (!dateFrom.value || dateFrom.value < earliestFrom) {
+    dateFrom.value = earliestFrom;
+  } else if (dateFrom.value > today) {
+    dateFrom.value = today;
+  }
 }
 
 function setDefaultDates() {
