@@ -1,9 +1,129 @@
 {
-  "generatedAt": "2026-09-15T21:24:36.138Z",
+  "generatedAt": "2026-09-16T04:53:32.038Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "EPA repeals power plant GHG rules, clearing path for new gas-fired generation - Oil & Gas Journal",
+      "description": "EPA repeals power plant GHG rules, clearing path for new gas-fired generation &nbsp;&nbsp; Oil & Gas Journal",
+      "content": "EPA repeals power plant GHG rules, clearing path for new gas-fired generation &nbsp;&nbsp; Oil & Gas Journal",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV3RaUi1aV19QMHZwSmh0YzZOdGhYeWJfNzdhLXpFeXY2TXhBSUh6NHBUdjQzNzZCekliWVRlSExFWEZfWlBrV2x4RFlrVWllMkVYd2hlc3VUdHhQYXBjWEdLbUdDUTQ1N0Y4anluaFF2ZU45VUQzcUtzRVNVZmlicWRiLWZJS3pQbklHVk8tSWJrNkFHYXZCWjRTS2F0ZkRGSEpsTlZuNnllUm5NSnpGTkF2c29zRFh1YV9XenE1NU02NlppTVhrdmNrVE5jUGNncFU0aA?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-16T04:18:45.000Z",
+      "source": {
+        "name": "Oil & Gas Journal",
+        "url": "https://www.ogj.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "The Gumi Natural Gas Power Plant, which was built in the 5th complex of the Gumi High-Tech Valley Na.. - 매일경제",
+      "description": "The Gumi Natural Gas Power Plant, which was built in the 5th complex of the Gumi High-Tech Valley Na.. &nbsp;&nbsp; 매일경제",
+      "content": "The Gumi Natural Gas Power Plant, which was built in the 5th complex of the Gumi High-Tech Valley Na.. &nbsp;&nbsp; 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlNDhzSDNZOENQamh3MjVQb0dodFczR1VOTGJydE5GaXZ6QzlqV3lZSnYydjlvWkVNS1RidkRVZ0dLbG1zcFEyNDctQ1RIeGkySkE?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-16T01:53:13.000Z",
+      "source": {
+        "name": "매일경제",
+        "url": "https://www.mk.co.kr"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Residents raise concerns over proposed Evergy natural gas power plant - KQ2",
+      "description": "Residents raise concerns over proposed Evergy natural gas power plant &nbsp;&nbsp; KQ2",
+      "content": "Residents raise concerns over proposed Evergy natural gas power plant &nbsp;&nbsp; KQ2",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1l0eXBfYVZvVXhtQlVOaTd6aHVrX3RZV20tcHl2dUVJVFhaZERnTFE3T0JIQkpPOWhNM3ZKT1NrLWJoUDhhMnR1ZFJsOWl5M0d1MHRCRm9oeS1yYk1rTEs4dTlGeDY4V3JKZDdYLUdHaTRnVndGdHNvTGctRVpnNFg3ZUhBZ2ZEY2JrM1JMc3Z2QTNHRllPT1FnckpUOFdUODg4c0xPU3JaQQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T23:03:45.000Z",
+      "source": {
+        "name": "KQ2",
+        "url": "https://www.kq2.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "HD KSOE Develops 100MW Floating Power Plant - thelec.net",
+      "description": "HD KSOE Develops 100MW Floating Power Plant &nbsp;&nbsp; thelec.net",
+      "content": "HD KSOE Develops 100MW Floating Power Plant &nbsp;&nbsp; thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xck8waGJqZk51M2xfaUY3QUtobktiRFJ1eUNubk4yamZrdkdZTUp5QXotN1J5RVdTNWxNZkpSeFVfRFZ4dUNwd3NIUk1lN0YyRFg5bnI1X2lSemYyVlJ6dEM4VGZPUGM?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T22:48:40.000Z",
+      "source": {
+        "name": "thelec.net",
+        "url": "https://www.thelec.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "EPA scraps Biden power plant GHG rules, moves to eliminate other standards - Utility Dive",
+      "description": "EPA scraps Biden power plant GHG rules, moves to eliminate other standards &nbsp;&nbsp; Utility Dive",
+      "content": "EPA scraps Biden power plant GHG rules, moves to eliminate other standards &nbsp;&nbsp; Utility Dive",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNalMyajFHWmkwZ2Q4SU1pVU1vcjhCUXJwV2lLWnh0OFJDSXh0V0tGaFJHUlNnamdSMGxzcGZ5OEk1SHpRS2tFcmpGZHZ4dHQ0MkVxMVIxSzhQbHY2OFZja3ZQYmdkd2p0cTdfUkVhWXBjRFlDakcyenJ6VWN6SVpGZVVrTXA0MU85cGZsaGVrN2dXMTlXZ1I0TUlSMnduODZ0ekpULTdGQVhpNXBxNlBmbDItNmc?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T22:05:33.000Z",
+      "source": {
+        "name": "Utility Dive",
+        "url": "https://www.utilitydive.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "EPA Repeals Biden-Era Limits on Power Plant Greenhouse Gas Emissions - The Well News",
+      "description": "EPA Repeals Biden-Era Limits on Power Plant Greenhouse Gas Emissions &nbsp;&nbsp; The Well News",
+      "content": "EPA Repeals Biden-Era Limits on Power Plant Greenhouse Gas Emissions &nbsp;&nbsp; The Well News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXNYNjlWcTFnN0Ftb1k5bzFIZlNXUjFfWTFjR2gzcmpkVVFFQXB0Zk1PSGZKS2tNaUdJd3RHUlhNRWdtdmJ3czMwdWhhNFVWT05CNUo2RmV5QjFNaWpDWkI2TkVnd3NtbzhVV29rZWhGNUpfMklEbkZkaHRrUTJPWGx2blFJNldhWU5WcmstbDk3bEluUExTdFBETXdBYS1lNVVNaTFxN0duajdY?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T21:31:54.000Z",
+      "source": {
+        "name": "The Well News",
+        "url": "https://www.thewellnews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Loosened EPA power plant regulations could negatively impact Wisconsin public health - WPR",
+      "description": "Loosened EPA power plant regulations could negatively impact Wisconsin public health &nbsp;&nbsp; WPR",
+      "content": "Loosened EPA power plant regulations could negatively impact Wisconsin public health &nbsp;&nbsp; WPR",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0NMOHZVaUI4d2hnZ3gxZTl6ZW0wUE56LXZUMWRRWlRoWUpMakt6NTZBR2dyVlRSQmhuVEpnaFowTndreFVyd0pkakZFT1ljRkhTNGoybnJmVDlrdGVqZXptc1N2NF9YSTFLZkpYRUwxUU0teXJwamV1SEp5NzNIeW1wQWlPNnhKcHY1TExqMkk5VzNu?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T21:17:52.000Z",
+      "source": {
+        "name": "WPR",
+        "url": "https://www.wpr.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "88 % ارتفاعاً في سعة مشروعات الطاقة المتجددة بالسعودية خلال 2025 - الشرق الأوسط",
+      "description": "88 % ارتفاعاً في سعة مشروعات الطاقة المتجددة بالسعودية خلال 2025 &nbsp;&nbsp; الشرق الأوسط",
+      "content": "88 % ارتفاعاً في سعة مشروعات الطاقة المتجددة بالسعودية خلال 2025 &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNVlZvNTZuaE1hSWpNaDZDNXZjQVNLM1RWZFNaZDFGYVkxX1gyMUxHUGNMRUctazR0VjdUc3d3d3BBVlJveklKM2xUMnNGNUVCR1BSYzZibHJEOGRMZkZndzlhempmM3cyVTYza2JBMHlMSEJDRGNlMzhpVWM4d3hGQ0ludFhTcG1LTzVmWFlyUHdGYzExdWdiU1RWZXlSZ1JqeUx3ZDFtMXVSajBjYmZwU3dtOVlwOGQwUUlWd0xHakwzbXhCWFYyY1UxeF9Cb1d3V2txMWQwOTVWSkJwY2hsSnpoZGtNcXRncXJfLXlVdTBiWnlmempYVDJjZEFBY3VFeWcyNVdxVzlabDZnR01YekNnczZwQVRvVHdzSzR1LUlBcUM3NC15bjlFbFRzLXV3U0VRQnIzVGRfbEZUaTQyeDl0UllKRksyVHZ6VkJiWXFlZmQxZGlTUklnbzNHRS1ySF94RHByN1VwaWRhSUd4RkM0MDJkbnpPU3JTUm5EOURIMUZJdndrX1ZhR19rM1dRUW9xenIxcGlLd2I0U29kZ3JNcllkTXpLUG5uOWdnQWthdEhnR1pVSXpCaS1uRFF1YmRWRWZzN3ZmTzExR2hwVHdsVXYzbW9DWjRBbmZaeElfbzhDQzZNRko1OUpsdDc1T1ozVFNEQm12dWktM1VVNnZPZXM0RXN2aUw4Snh3?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T20:45:09.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "Trump EPA repeals coal, gas power plant pollution limits - The Week",
       "description": "Trump EPA repeals coal, gas power plant pollution limits &nbsp;&nbsp; The Week",
@@ -65,6 +185,21 @@
       "preferredSite": ""
     },
     {
+      "title": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة - الشرق الأوسط",
+      "description": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة &nbsp;&nbsp; الشرق الأوسط",
+      "content": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPajJkem95eGd1RGtvdmpwMXMxenAtUHhkNlNpNG4wRXYtUTBWVmxpOW5MZmpSZkxDT2NqN29FZkhNUjBCeDF0NTVPNDlkY0VhRjFBclVuVUpVSllXaEFIQmZGY0RtaXBLSEFQYUYtUjRwdGNQalNiczl5MDQzNDBNMUxFNU5ucVZhT2YtWWNmSTVHeWFheC0wSGZHSVMwNGoxM3NWdE9hM1ZBSWNLNWpWblBTdTIwQk1TNDJRcVF6OURYUUZMRmlaSDd5UURuU1hMSTNHazdGbGVrZnZkOGRGUEdNR3V4bjdOcVRuRjRwaDFyRzdwczhGaWxWZzlvQkZGRndDSW9yLWxLdldQQ2R2SDgzWG9xb0swUW5nM01RaHcyWnYzMEllLVYwdzJFX2F6dXRrQnRRaXFvMm5qbUV4SE5MNm1DQzlUbjNwWWlWek5Pci16ZFAyQV9ab3BGcVBNc3lEU2cwaXRTeFZYMHRHTU5PMkhxUTQ4cmxfQkVBUUZrQnJrM3JTVVRhWXY4NUgzdTUwaVNGWlp6Vmh5WVM0OXRxV0FpM2c1VEYtVGNWQVJQcktHbnJVeWZaVFRuZUpfZW5SVENDSHIzZl9FUWFZYS1vY19hemlyTUxSRWNiUDVnNGYtbXgwSE8tNGJfVU5icXlLV0JIekllUUdZeWNJYlRBajZoQXF3WjFGMXhveldxRVIwZlZHTjgtSURrYl9UR2lRcFc2UlBPLXlfMUFNTTlEMnQ2SGJheV9IMWliMTRybWplQlppWDA5SjNYVkdTS05FWmJUUy0xUUhzbndwcElyZjBZS0lKckE2My05eDdVSHZOVjJQUGpzaVFJTUN3Tlg1QWwtSW05YnQ0Z3htd3hCd2hoVFRZTUh5VV83VlF0dw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T17:20:15.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "قطاع الشاحنات السعودي يتجه من الديزل إلى الكهرباء والقيادة الذاتية - الشرق الأوسط",
       "description": "قطاع الشاحنات السعودي يتجه من الديزل إلى الكهرباء والقيادة الذاتية &nbsp;&nbsp; الشرق الأوسط",
       "content": "قطاع الشاحنات السعودي يتجه من الديزل إلى الكهرباء والقيادة الذاتية &nbsp;&nbsp; الشرق الأوسط",
@@ -95,21 +230,6 @@
       "preferredSite": ""
     },
     {
-      "title": "More data, more gas? Wisconsin power plant rules face scrutiny - VernonReporter",
-      "description": "More data, more gas? Wisconsin power plant rules face scrutiny &nbsp;&nbsp; VernonReporter",
-      "content": "More data, more gas? Wisconsin power plant rules face scrutiny &nbsp;&nbsp; VernonReporter",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOExOYU1JWGpWaEFTX3BGREZxQjF6VW15VnlTc2xFMWQya255NkJTal92bU1EZ2hmejl0ZTdhVHozcTVOVk8wMnNxSHlqSDVIOWs2WEJteXVWQkxuLURrUHhVVDBpUkVMd3FMd1BfQ0tuaUozVW41dVJEODMzRmVQVEt1VkYzeklvckk3c3hMUlB2dw?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-15T15:23:44.000Z",
-      "source": {
-        "name": "VernonReporter",
-        "url": "https://vernonreporter.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "EPA repeals power plant regulations, Zeldin says its a major win for natural gas access - National News Desk",
       "description": "EPA repeals power plant regulations, Zeldin says its a major win for natural gas access &nbsp;&nbsp; National News Desk",
       "content": "EPA repeals power plant regulations, Zeldin says its a major win for natural gas access &nbsp;&nbsp; National News Desk",
@@ -118,6 +238,21 @@
       "publishedAt": "2026-09-15T15:23:42.000Z",
       "source": {
         "name": "National News Desk",
+        "url": "https://thenationaldesk.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "EPA repeals power plant regulations, Zeldin says its a major win for natural gas access - The National Desk",
+      "description": "EPA repeals power plant regulations, Zeldin says its a major win for natural gas access &nbsp;&nbsp; The National Desk",
+      "content": "EPA repeals power plant regulations, Zeldin says its a major win for natural gas access &nbsp;&nbsp; The National Desk",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONE1uNUs2ZE5sUGo3TU5DczlIaU9OcTdCZ1J3T1hKTTAtSVkzRW5sVHdPUFYwQU1IMHVXeFE0ekxENVVIMC1lWk82STBNSFFQY3JLc1dMOUxsa05XUzNSd0JEaWtzTHlXaEVBdy1QUGRaYWk3Tnh3cWJPREJRQlhnT2Rla2pqVHA4OHFic216bnFCdGJaQ3pkOVc3cUZFdW1fdlZXLVBKdmNPSWNVek0tVlFBZjkzbk9WS0JXakFJTFFyY3RIWkVxd3RxbGlMV2NQb0EySGF3LXZhVUhzZTgtd2NwYlNnUTVMOGlkQjI0Mk5vZWdUUnBZ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T15:23:42.000Z",
+      "source": {
+        "name": "The National Desk",
         "url": "https://thenationaldesk.com"
       },
       "provider": "Scheduled Google News index",
@@ -138,6 +273,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "More data, more gas? Wisconsin power plant rules face scrutiny - VernonReporter",
+      "description": "More data, more gas? Wisconsin power plant rules face scrutiny &nbsp;&nbsp; VernonReporter",
+      "content": "More data, more gas? Wisconsin power plant rules face scrutiny &nbsp;&nbsp; VernonReporter",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOExOYU1JWGpWaEFTX3BGREZxQjF6VW15VnlTc2xFMWQya255NkJTal92bU1EZ2hmejl0ZTdhVHozcTVOVk8wMnNxSHlqSDVIOWs2WEJteXVWQkxuLURrUHhVVDBpUkVMd3FMd1BfQ0tuaUozVW41dVJEODMzRmVQVEt1VkYzeklvckk3c3hMUlB2dw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T14:23:44.000Z",
+      "source": {
+        "name": "VernonReporter",
+        "url": "https://vernonreporter.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived - صحيفة مال",
@@ -194,6 +344,21 @@
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "'A giant step backward': Trump administration axes limits on coal and gas power plant pollution - BusinessGreen",
+      "description": "'A giant step backward': Trump administration axes limits on coal and gas power plant pollution &nbsp;&nbsp; BusinessGreen",
+      "content": "'A giant step backward': Trump administration axes limits on coal and gas power plant pollution &nbsp;&nbsp; BusinessGreen",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVJxTWRFTnpDLTBXVVVLc25famo4YWZob1lITHRXQUdtWDVrbDhfUjd5Nks4dDJJQ05zVG1lTU55M1AtSDM1Unp5aXVqdFctZWpVaENzN0VfT1dCa0I3TGJDWmpxZjl1eDZmZjBzeFZoVU1hVS1Ua0dKNTh4N3FHdGR4dGZ1SFBlN1RyUVM4djVyWVd0RnMxMUFybXBjWUczUEZKTTlqVWp1WU1aUE5kRHVXbFpUbkxlUGxuNTVENlR2YXlC?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T10:58:41.000Z",
+      "source": {
+        "name": "BusinessGreen",
+        "url": "https://www.businessgreen.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -335,6 +500,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns - thehindu.com",
+      "description": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns &nbsp;&nbsp; thehindu.com",
+      "content": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns &nbsp;&nbsp; thehindu.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEl4OHZxN01ST3I4WThXeFdKU1V1MXZObUxhWEVLYlk1WmlqVjk1MnVrQ1NiTldwNkQtZTBSTTFFcFYxN2x5T3NSTkVCeW04azdVeGQ2eUtCMldBQ0sxZU4zUTVIUkgybE96eHRwNzgwa3NnbEJpRnFoT3Frdm5jTUIwZVhRU2M0d0hYQXBiOEdBcks1VFdJSXc4dlJocV9xR0VhSmlBSmgteTZNanh3VVVIT3M3SDNSNzVuZWVhUEFteFJYMVJEVzlQa0hkV0JrVmfSAdgBQVVfeXFMTTdCdlFPV0VTQXh0RUlkbngxSTBkTnFvLVVaMFItSnQ0a2x5ZS1xYnhDLW1Xd0t2VldrSE15OVk4OWZtaERLeHdtVFpsU0RSOFVmS0F0SkpXdjdhaFJxTWFONGtDUHVJUkNzVUdMblNOSW5fX1FLaUx2LVJDSUhYR0JwNDlFMDByZ1B3aEs2Qjd1bEhaem5hYzg5SGF2Wmp6VDlfeWdZR0pyX2E0dThsLWtTZmJqcXVQUFBqYm9VR2VrbmR5WlgyQzQwNndwdVBqR1lLY0Q4U1lF?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T06:34:13.000Z",
+      "source": {
+        "name": "thehindu.com",
+        "url": "https://www.thehindu.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
       "title": "Oil Rises as Saudi Pipeline Halts... - jordannews.jo",
       "description": "Oil Rises as Saudi Pipeline Halts... &nbsp;&nbsp; jordannews.jo",
       "content": "Oil Rises as Saudi Pipeline Halts... &nbsp;&nbsp; jordannews.jo",
@@ -368,6 +548,21 @@
       "title": "Letter to Commission: German Gas power plant plans remain incompatible with European State Aid laws - ClientEarth",
       "description": "Letter to Commission: German Gas power plant plans remain incompatible with European State Aid laws &nbsp;&nbsp; ClientEarth",
       "content": "Letter to Commission: German Gas power plant plans remain incompatible with European State Aid laws &nbsp;&nbsp; ClientEarth",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS3RfNXV0V0tnN3I5NEJCQkVGakFFNG50LTdVMW51ZmtJdjVONl9zTmdUUjd3cHBBOGM1ZnRWWUw4YkV6UmdYM0pOY2Q5MjlwQVFLRjFwTWdycGNfUFNWdW55VjdJeXpkalhyZ1g4ek0wVGxNMFVRM2ZkM1lxQjZBQ2x5NkNWYktDemFveXI5Q2ZWRzdHdVVVb2FVLTR5eGpvR1lWNXI2T0lmVDJuTVoyVXpzQldTNUJVNV9pOF9YNjdHcDJsOXRJN08yQ0lXNlpxel9iRG5kMTBjdkRBdUpBUA?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T02:42:46.000Z",
+      "source": {
+        "name": "ClientEarth",
+        "url": "https://www.clientearth.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "German gas power plant plans remain incompatible with EU State aid law - ClientEarth",
+      "description": "German gas power plant plans remain incompatible with EU State aid law &nbsp;&nbsp; ClientEarth",
+      "content": "German gas power plant plans remain incompatible with EU State aid law &nbsp;&nbsp; ClientEarth",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS3RfNXV0V0tnN3I5NEJCQkVGakFFNG50LTdVMW51ZmtJdjVONl9zTmdUUjd3cHBBOGM1ZnRWWUw4YkV6UmdYM0pOY2Q5MjlwQVFLRjFwTWdycGNfUFNWdW55VjdJeXpkalhyZ1g4ek0wVGxNMFVRM2ZkM1lxQjZBQ2x5NkNWYktDemFveXI5Q2ZWRzdHdVVVb2FVLTR5eGpvR1lWNXI2T0lmVDJuTVoyVXpzQldTNUJVNV9pOF9YNjdHcDJsOXRJN08yQ0lXNlpxel9iRG5kMTBjdkRBdUpBUA?oc=5",
       "image": "",
       "publishedAt": "2026-09-15T02:42:46.000Z",
@@ -680,6 +875,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Dominion Energy proposes new natural gas power plant in West Virginia - Daily Energy Insider",
+      "description": "Dominion Energy proposes new natural gas power plant in West Virginia &nbsp;&nbsp; Daily Energy Insider",
+      "content": "Dominion Energy proposes new natural gas power plant in West Virginia &nbsp;&nbsp; Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0pNMzNBVTVWTm91SkZtLUxMWVRJa2FuS01TaVo2QWZ0Z0pyVTNZQ3lBdWh2WHFUVkdwc0Zwbk5Cc1dCMHJLczhybDZuRU85VEJNSWVGNngzMWJ1cEliMVFhQVVCcnh3cUVEdFg3NjZiNU9VYTNrUkZwMWt5LVNkZ1FmaUpJc2pMYzdWOURnbDV3YktQbXF4VXR4UXJ4eDBtYXB5bDRFbGRoekhHMEN5V0p3?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-14T17:36:27.000Z",
+      "source": {
+        "name": "Daily Energy Insider",
+        "url": "https://dailyenergyinsider.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Trump moves to axe power plant climate rules - afp.com",
       "description": "Trump moves to axe power plant climate rules &nbsp;&nbsp; afp.com",
       "content": "Trump moves to axe power plant climate rules &nbsp;&nbsp; afp.com",
@@ -747,6 +957,21 @@
       "source": {
         "name": "facebook.com",
         "url": "https://www.facebook.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "EPA scraps Biden-era power plant carbon rules, moves to eliminate all power-sector GHG standards - Smart Cities Dive",
+      "description": "EPA scraps Biden-era power plant carbon rules, moves to eliminate all power-sector GHG standards &nbsp;&nbsp; Smart Cities Dive",
+      "content": "EPA scraps Biden-era power plant carbon rules, moves to eliminate all power-sector GHG standards &nbsp;&nbsp; Smart Cities Dive",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYXlLS2ZHNHF5VGRkRzdZYjh4X1VSTkh5WkVobU1vNUk5V0lMc0ZVckxFRExtcDBfNGVlMkdrenBmWWZjV2lWdzV3dWVpZHlMTGotcExJR1dLUnk2d1ZOeWlZRmx6MlVUMUdXeXVfRmd3Yy1sV1hRWEd0OGtYZ3hJNXNkYm96a1dxYlk4eEp1OU9nWXozYkZ6dmpmbGl1NmJXX3VuZkd5QWRaY0d5LTZreUhpaXdEcVpQZlV3?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-14T16:12:32.000Z",
+      "source": {
+        "name": "Smart Cities Dive",
+        "url": "https://www.smartcitiesdive.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -933,15 +1158,15 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "EPA scraps Biden-era power plant carbon rules, moves to eliminate all power-sector GHG standards - Smart Cities Dive",
-      "description": "EPA scraps Biden-era power plant carbon rules, moves to eliminate all power-sector GHG standards &nbsp;&nbsp; Smart Cities Dive",
-      "content": "EPA scraps Biden-era power plant carbon rules, moves to eliminate all power-sector GHG standards &nbsp;&nbsp; Smart Cities Dive",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYXlLS2ZHNHF5VGRkRzdZYjh4X1VSTkh5WkVobU1vNUk5V0lMc0ZVckxFRExtcDBfNGVlMkdrenBmWWZjV2lWdzV3dWVpZHlMTGotcExJR1dLUnk2d1ZOeWlZRmx6MlVUMUdXeXVfRmd3Yy1sV1hRWEd0OGtYZ3hJNXNkYm96a1dxYlk4eEp1OU9nWXozYkZ6dmpmbGl1NmJXX3VuZkd5QWRaY0d5LTZreUhpaXdEcVpQZlV3?oc=5",
+      "title": "EPA poised to scrap power plant carbon standards - Utility Dive",
+      "description": "EPA poised to scrap power plant carbon standards &nbsp;&nbsp; Utility Dive",
+      "content": "EPA poised to scrap power plant carbon standards &nbsp;&nbsp; Utility Dive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzcwcWw2bERTdmh5eFVvVjdVUGNOWDN4MElEaklQUGNuZmpEV2toQjRuMUp3VHFmV2ljbnVlXzZDR1BNSlF1TWhFTURNZklodnVhYkRCS0xQRkdsLWRQcUEyMUVPM1JJVTA4QW96YndRSTdQUDFaTnc2dEJzRzRWSk93alk3djBhT091NktOQ2Rvb1k?oc=5",
       "image": "",
       "publishedAt": "2026-09-14T07:00:00.000Z",
       "source": {
-        "name": "Smart Cities Dive",
-        "url": "https://www.smartcitiesdive.com"
+        "name": "Utility Dive",
+        "url": "https://www.utilitydive.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -1578,21 +1803,6 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "88 % ارتفاعاً في سعة مشروعات الطاقة المتجددة بالسعودية خلال 2025 - الشرق الأوسط",
-      "description": "88 % ارتفاعاً في سعة مشروعات الطاقة المتجددة بالسعودية خلال 2025 &nbsp;&nbsp; الشرق الأوسط",
-      "content": "88 % ارتفاعاً في سعة مشروعات الطاقة المتجددة بالسعودية خلال 2025 &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNVlZvNTZuaE1hSWpNaDZDNXZjQVNLM1RWZFNaZDFGYVkxX1gyMUxHUGNMRUctazR0VjdUc3d3d3BBVlJveklKM2xUMnNGNUVCR1BSYzZibHJEOGRMZkZndzlhempmM3cyVTYza2JBMHlMSEJDRGNlMzhpVWM4d3hGQ0ludFhTcG1LTzVmWFlyUHdGYzExdWdiU1RWZXlSZ1JqeUx3ZDFtMXVSajBjYmZwU3dtOVlwOGQwUUlWd0xHakwzbXhCWFYyY1UxeF9Cb1d3V2txMWQwOTVWSkJwY2hsSnpoZGtNcXRncXJfLXlVdTBiWnlmempYVDJjZEFBY3VFeWcyNVdxVzlabDZnR01YekNnczZwQVRvVHdzSzR1LUlBcUM3NC15bjlFbFRzLXV3U0VRQnIzVGRfbEZUaTQyeDl0UllKRksyVHZ6VkJiWXFlZmQxZGlTUklnbzNHRS1ySF94RHByN1VwaWRhSUd4RkM0MDJkbnpPU3JTUm5EOURIMUZJdndrX1ZhR19rM1dRUW9xenIxcGlLd2I0U29kZ3JNcllkTXpLUG5uOWdnQWthdEhnR1pVSXpCaS1uRFF1YmRWRWZzN3ZmTzExR2hwVHdsVXYzbW9DWjRBbmZaeElfbzhDQzZNRko1OUpsdDc1T1ozVFNEQm12dWktM1VVNnZPZXM0RXN2aUw4Snh3?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-08T09:22:20.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "معلومات الوزراء: مصر تسجل نموًا سنويًا بنسبة 176% فى إضافات الطاقة الشمسية - اليوم السابع",
       "description": "معلومات الوزراء: مصر تسجل نموًا سنويًا بنسبة 176% فى إضافات الطاقة الشمسية &nbsp;&nbsp; اليوم السابع",
       "content": "معلومات الوزراء: مصر تسجل نموًا سنويًا بنسبة 176% فى إضافات الطاقة الشمسية &nbsp;&nbsp; اليوم السابع",
@@ -2088,21 +2298,6 @@
       "preferredSite": ""
     },
     {
-      "title": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة - الشرق الأوسط",
-      "description": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة &nbsp;&nbsp; الشرق الأوسط",
-      "content": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPajJkem95eGd1RGtvdmpwMXMxenAtUHhkNlNpNG4wRXYtUTBWVmxpOW5MZmpSZkxDT2NqN29FZkhNUjBCeDF0NTVPNDlkY0VhRjFBclVuVUpVSllXaEFIQmZGY0RtaXBLSEFQYUYtUjRwdGNQalNiczl5MDQzNDBNMUxFNU5ucVZhT2YtWWNmSTVHeWFheC0wSGZHSVMwNGoxM3NWdE9hM1ZBSWNLNWpWblBTdTIwQk1TNDJRcVF6OURYUUZMRmlaSDd5UURuU1hMSTNHazdGbGVrZnZkOGRGUEdNR3V4bjdOcVRuRjRwaDFyRzdwczhGaWxWZzlvQkZGRndDSW9yLWxLdldQQ2R2SDgzWG9xb0swUW5nM01RaHcyWnYzMEllLVYwdzJFX2F6dXRrQnRRaXFvMm5qbUV4SE5MNm1DQzlUbjNwWWlWek5Pci16ZFAyQV9ab3BGcVBNc3lEU2cwaXRTeFZYMHRHTU5PMkhxUTQ4cmxfQkVBUUZrQnJrM3JTVVRhWXY4NUgzdTUwaVNGWlp6Vmh5WVM0OXRxV0FpM2c1VEYtVGNWQVJQcktHbnJVeWZaVFRuZUpfZW5SVENDSHIzZl9FUWFZYS1vY19hemlyTUxSRWNiUDVnNGYtbXgwSE8tNGJfVU5icXlLV0JIekllUUdZeWNJYlRBajZoQXF3WjFGMXhveldxRVIwZlZHTjgtSURrYl9UR2lRcFc2UlBPLXlfMUFNTTlEMnQ2SGJheV9IMWliMTRybWplQlppWDA5SjNYVkdTS05FWmJUUy0xUUhzbndwcElyZjBZS0lKckE2My05eDdVSHZOVjJQUGpzaVFJTUN3Tlg1QWwtSW05YnQ0Z3htd3hCd2hoVFRZTUh5VV83VlF0dw?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-31T14:52:58.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Cumberland planning commission recommends approval of massive natural gas power plant - 12onyourside.com",
       "description": "Cumberland planning commission recommends approval of massive natural gas power plant &nbsp;&nbsp; 12onyourside.com",
       "content": "Cumberland planning commission recommends approval of massive natural gas power plant &nbsp;&nbsp; 12onyourside.com",
@@ -2343,6 +2538,21 @@
       "preferredSite": ""
     },
     {
+      "title": "من هرمز إلى فاتورة الكهرباء.. حرب الشرق الأوسط تدخل منازل الأوروبيين - janoubia.com",
+      "description": "من هرمز إلى فاتورة الكهرباء.. حرب الشرق الأوسط تدخل منازل الأوروبيين &nbsp;&nbsp; janoubia.com",
+      "content": "من هرمز إلى فاتورة الكهرباء.. حرب الشرق الأوسط تدخل منازل الأوروبيين &nbsp;&nbsp; janoubia.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNX05rNFNINmY0b3F3eWFUQnY3LTcwa0pUeUpJMzMyajNPV0RqZHRDM1g1ZVZqVElteUtlclRZQWVHMjhzdUk5bW9ubTBFZWZBR2RLVDI2YlFYQ1NOZUx1b2hhM1UwNEswNlM1aElxaVdBM19JNXRYNVRBUzAway1DQk45RTQzdHl1d005amZ2cVdQQ19nTW9pLWN0SGo2UW00Sl95eWhoY21DOUtTX2QxNnNZY0dZOUw3NlR5SDJQWW9Gd2hpQWZHZGZJWmlkZGU2TXd4SGFaT09MbE9MQkpwcDA0TXo2WlF1bDV5TWtwMzBZeEVCVjA2U3pnamotZWJsTzJJZnEtbjdoQ3ZRbjVJb2dUSGdvMnM2bElIYlBhSVBLSFNScmhaT2IwMXAtMWR2MHRxdmp0MzBxc3ZtQkZ6WndPRTc3UVht?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "source": {
+        "name": "janoubia.com",
+        "url": "https://janoubia.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "غضب شعبي متصاعد في العاصمة الليبية بسبب أزمة الكهرباء - الشرق الأوسط",
       "description": "غضب شعبي متصاعد في العاصمة الليبية بسبب أزمة الكهرباء &nbsp;&nbsp; الشرق الأوسط",
       "content": "غضب شعبي متصاعد في العاصمة الليبية بسبب أزمة الكهرباء &nbsp;&nbsp; الشرق الأوسط",
@@ -2538,6 +2748,21 @@
       "preferredSite": ""
     },
     {
+      "title": "حرب إيران تخلق انتكاسة مؤقتة لمشروعات الطاقة المتجددة بالشرق الأوسط - cnnbusinessarabic.com",
+      "description": "حرب إيران تخلق انتكاسة مؤقتة لمشروعات الطاقة المتجددة بالشرق الأوسط &nbsp;&nbsp; cnnbusinessarabic.com",
+      "content": "حرب إيران تخلق انتكاسة مؤقتة لمشروعات الطاقة المتجددة بالشرق الأوسط &nbsp;&nbsp; cnnbusinessarabic.com",
+      "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPREVZN0JfS0Jyd0lMTU1RSGw4ZC1DU3M2b2RKdnFSd0JCdkl6cDhvS2E2SEczZWNvZmp2eWF0bWp4ejlwU0VOX1FRcnJiNWY5Q1RLaGdiempLMDRPR2tPRnMxMVZkcml0b0lpRXAwWUMwcERkeko0OWNmbFVXcDdlT0hsZk1xc1Rid1Fwb3kwendkeUlPczc5RkxfVjZSQzhCQzd3b2RCcGQ2SmdJRUFDTHBQSjJ4OU5ENGN6cE5ZQm1Wb0VkYmt5eFpWeVJwM0VEeUFqVWs3dC1XTFFlLWpWYlNkNXFIb0V5ZnlkSHZrTjNPNmNXZkRPb0lVV1Y4Q0x4Tzl0MHljMGp5NHRxWW1lOHJhdFhSOFROMmlvQlVheVpEcVgxcnBQUkRDTEdDLUl6QVdSZlo1U3RXcGl5Z1lLSV9DZVBIWjVKQXVkM1ZnZUZTLUFEZTR0T3pBaTFRT2Fja2tPQ21WbFlKQlVUUnFfUTNneDNwbkFTYkc1ZE44XzRyY1NFdHE4eksyLWRCdzBtWWFzRFpmOGd4MzRBUmdyRnBhQWthR0JJSmJqZVZxZUU3b3BHZWQ3UnFGdndYT3RWT0lVdk5Idi1Oa0VGZDJfQVNpd0YtT2t2NGFjLUNLakRLY2NNYUluZjVKcWZfWURvdEhVNlU1STFyUDl0VWItYlFCSmZSblN2MXZNb3dwOFVCbXpXQXNkS1RTVDBHVWFBNTdGOUg5bTFRU29MamZfNlo2bzNoOTJtSGJ4cnN4VWV3enpOQXI0TE9vejhMZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "source": {
+        "name": "cnnbusinessarabic.com",
+        "url": "https://cnnbusinessarabic.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "الخليج يسبق الذكاء الاصطناعي بطلب توربينات الغاز لتوليد الكهرباء - الجزيرة نت",
       "description": "الخليج يسبق الذكاء الاصطناعي بطلب توربينات الغاز لتوليد الكهرباء &nbsp;&nbsp; الجزيرة نت",
       "content": "الخليج يسبق الذكاء الاصطناعي بطلب توربينات الغاز لتوليد الكهرباء &nbsp;&nbsp; الجزيرة نت",
@@ -2670,7 +2895,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "طاقة عربية وAfrica50 توقعان اتفاقية لبيع الغاز لمشروع LNG في تنزانيا - Masrawy",
@@ -3228,21 +3453,6 @@
       "preferredSite": ""
     },
     {
-      "title": "Dominion Energy proposes new natural gas power plant in West Virginia - Daily Energy Insider",
-      "description": "Dominion Energy proposes new natural gas power plant in West Virginia &nbsp;&nbsp; Daily Energy Insider",
-      "content": "Dominion Energy proposes new natural gas power plant in West Virginia &nbsp;&nbsp; Daily Energy Insider",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0pNMzNBVTVWTm91SkZtLUxMWVRJa2FuS01TaVo2QWZ0Z0pyVTNZQ3lBdWh2WHFUVkdwc0Zwbk5Cc1dCMHJLczhybDZuRU85VEJNSWVGNngzMWJ1cEliMVFhQVVCcnh3cUVEdFg3NjZiNU9VYTNrUkZwMWt5LVNkZ1FmaUpJc2pMYzdWOURnbDV3YktQbXF4VXR4UXJ4eDBtYXB5bDRFbGRoekhHMEN5V0p3?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-30T14:12:45.000Z",
-      "source": {
-        "name": "Daily Energy Insider",
-        "url": "https://dailyenergyinsider.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Controversial Central WA gas power plant for data centers canceled amid activist backlash - KUOW",
       "description": "Controversial Central WA gas power plant for data centers canceled amid activist backlash &nbsp;&nbsp; KUOW",
       "content": "Controversial Central WA gas power plant for data centers canceled amid activist backlash &nbsp;&nbsp; KUOW",
@@ -3608,7 +3818,7 @@
       "content": "كيف دعمت مصر استعادة الكهرباء في ليبيا؟ &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQV09hM1Nlc0lFUDB1MS0zRi0zZUFESDFjRjJsLXVWbjZPZl9QMmc0aHU1bXRodzMzZzVIY3BBbmQxTzVoX1pxM29VcWVUMDZtTWM5OGtVUFk0N1VGM1BfNUx3LUs3ZWplTjcxSTJFWkZmS1JFQmZVWWp4RGpyMHJQUmNUVHpiV3g3X19UWlFaclM2RS1JUWx3emhSejQ3V1JXVm1ZVUhwNVJKVDdlcUpGSXdIQmpoT3YwRGI4bTFycy03RXpBY1A0SnFPQTRqMXdQb1dJY1BpNzk0WTBYWV9lQTFDMHJremJsOHNieFhTZlpPc0t6WlkwWnNOQUJSdU9lRjhQOEZRcTh1cXplWnRkX3FBWTRlaW9WWkRvTXRzTlFsNklmajY1THpOaFNCcl9pTTFvQ3VXZEpWV0F3TFN5RW1qRDBWOWRPbTRzNGVvUUVVNEl0MF9lcGpfdXFPU1E2MDhINkZPMV9TTHAwTlNUYWZKMGlVd3owd0lmSHZYWHJuMjdZVDVtdUJrTEt5N3hvMmxGR0JCaWRILTFURHVPckZVWk5Hc21QTUZTMUxwRHVVRWdDQklVT2twWTdla1VSUjBPUlZ5QlVCTG13VjF4OEJHSFpCb0FiZGtyeTJFMmJqRVJVRzF2TG9jaUtWS0JqemRIRnpsRXBVWlUyNDZLTlF6SEc3d05xUG0wajNR?oc=5",
       "image": "",
-      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "publishedAt": "2026-07-21T13:23:15.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -4263,6 +4473,21 @@
       "preferredSite": ""
     },
     {
+      "title": "EPA’s power plant repeal could leave some rules in place - E&E News by POLITICO",
+      "description": "EPA’s power plant repeal could leave some rules in place &nbsp;&nbsp; E&E News by POLITICO",
+      "content": "EPA’s power plant repeal could leave some rules in place &nbsp;&nbsp; E&E News by POLITICO",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYW51alFNaFVBN0puU2tPWG9EcW1vemhWRXRtMk01dnFhWFhDdFQzVlR6aDVJSVhjZENjMURYY2hRUERqZERhU2NCYW03bWJQNEFhRndQQ0xNVWJRZFFzcGZMY1VNU190REx3dzFTRnhVS0NFVFVCZGVTVGkxMWhCQXdiek1BYUt6aU1XWjMzbUo1dw?oc=5",
+      "image": "",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "source": {
+        "name": "E&E News by POLITICO",
+        "url": "https://www.eenews.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Public Comment Set For Fort Martin Gas-Fired Power Plant - West Virginia Public Broadcasting",
       "description": "Public Comment Set For Fort Martin Gas-Fired Power Plant &nbsp;&nbsp; West Virginia Public Broadcasting",
       "content": "Public Comment Set For Fort Martin Gas-Fired Power Plant &nbsp;&nbsp; West Virginia Public Broadcasting",
@@ -4497,6 +4722,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Dominion Energy, Santee Cooper receive state approval for $5B gas project - Utility Dive",
+      "description": "Dominion Energy, Santee Cooper receive state approval for $5B gas project &nbsp;&nbsp; Utility Dive",
+      "content": "Dominion Energy, Santee Cooper receive state approval for $5B gas project &nbsp;&nbsp; Utility Dive",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnh0SE8wV0twWE5mVGJkY0tYQ01OMnJJaUtscEs5NlFRTjRxQXhMM2NmQXItWjk1WGh2amg1WVFvUDhnbnVWVXNKamY4czlRR1RZanA0a3U3WFo0X1h3NmdfMlNOeVA1dU9Ta0I5WTZuRUNGOTI4QWpzQWQzZXlUNmtIaUFMZmZPYnB6Y2dHVQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-06-16T07:00:00.000Z",
+      "source": {
+        "name": "Utility Dive",
+        "url": "https://www.utilitydive.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Hybrid electricity management system for residential power block applications - nature.com",
       "description": "Hybrid electricity management system for residential power block applications &nbsp;&nbsp; nature.com",
       "content": "Hybrid electricity management system for residential power block applications &nbsp;&nbsp; nature.com",
@@ -4632,6 +4872,21 @@
       "preferredSite": ""
     },
     {
+      "title": "استثمارات الطاقة عالميًا قد ترتفع 5% في 2026 رغم أزمة الشرق الأوسط - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "description": "استثمارات الطاقة عالميًا قد ترتفع 5% في 2026 رغم أزمة الشرق الأوسط &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "content": "استثمارات الطاقة عالميًا قد ترتفع 5% في 2026 رغم أزمة الشرق الأوسط &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOV0xPTW8zNTBSWFhNbDA2di1MTmVGNUZvb1BocHJIS1N6ME9vSDAxQ1kxam84NHNSN3ZzTzFwRFJLY2pyQ3VnTndoYzQyY1JLT1hkNGVCOFoyekUtSV81aUdSdmNJMFZqOVBHSFF2WnI5Vnl0VVNZSXVsVExYSFI5cmlEeGRNdTk2VU5Ld1NVdUNBMFRIdENXbUtqcy1XajVfR2hxUUxaLVRqWG14YmhsQmRzRzhPZE9yNlBMRkNlVmFFWDdjbFNJaGsweXg4cktPZS1EV1VlYjQwVV9iTmFxWEZRUTR0Rk5KVmtQd0E4d2ZwSlNoWk80a2pTejllc01meDlZZzRDUTRSMUROd2NtcjE0WTVIb0N1eXRJQmN0ZFdISEYwaEpmRTUyOXVDYTktMzE3YWlWVlZUdXZXQ1FjVGZUY0hyZURycGQ2NXV3?oc=5",
+      "image": "",
+      "publishedAt": "2026-05-28T07:00:00.000Z",
+      "source": {
+        "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+        "url": "https://attaqa.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Solar power could soon be cheaper than natural gas power in Anchorage - Alaska Beacon",
       "description": "Solar power could soon be cheaper than natural gas power in Anchorage &nbsp;&nbsp; Alaska Beacon",
       "content": "Solar power could soon be cheaper than natural gas power in Anchorage &nbsp;&nbsp; Alaska Beacon",
@@ -4655,21 +4910,6 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "source": {
         "name": "eenews.net",
-        "url": "https://www.eenews.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "EPA’s power plant repeal could leave some rules in place - E&E News by POLITICO",
-      "description": "EPA’s power plant repeal could leave some rules in place &nbsp;&nbsp; E&E News by POLITICO",
-      "content": "EPA’s power plant repeal could leave some rules in place &nbsp;&nbsp; E&E News by POLITICO",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYW51alFNaFVBN0puU2tPWG9EcW1vemhWRXRtMk01dnFhWFhDdFQzVlR6aDVJSVhjZENjMURYY2hRUERqZERhU2NCYW03bWJQNEFhRndQQ0xNVWJRZFFzcGZMY1VNU190REx3dzFTRnhVS0NFVFVCZGVTVGkxMWhCQXdiek1BYUt6aU1XWjMzbUo1dw?oc=5",
-      "image": "",
-      "publishedAt": "2026-05-27T07:00:00.000Z",
-      "source": {
-        "name": "E&E News by POLITICO",
         "url": "https://www.eenews.net"
       },
       "provider": "Scheduled Google News index",
@@ -4780,6 +5020,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "صعود الطاقة المتجددة – الجزء الأول: كيف تعيد أربع دول تشكيل أمن الطاقة - UN News",
+      "description": "صعود الطاقة المتجددة – الجزء الأول: كيف تعيد أربع دول تشكيل أمن الطاقة &nbsp;&nbsp; UN News",
+      "content": "صعود الطاقة المتجددة – الجزء الأول: كيف تعيد أربع دول تشكيل أمن الطاقة &nbsp;&nbsp; UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00X0pXc0t5TDVNSXpLMlhPYi1BY01QdkhHZXBLekZRRk1QTG9qYlpKU2tjMFFndEJBWWFOX21FZUFtSVdEMFRQel9lRkEwUHpMemVNZ2gybw?oc=5",
+      "image": "",
+      "publishedAt": "2026-04-25T07:00:00.000Z",
+      "source": {
+        "name": "UN News",
+        "url": "https://news.un.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "WATCH: Ranking Member Pingree Blasts Burgum for Sabotaging Renewable Energy as Gas Prices Soar - Representative Chellie Pingree (.gov)",
