@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-16T11:41:08.257Z",
+  "generatedAt": "2026-09-16T17:01:38.711Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Should you store your solar power or sell it back to the grid? - The Independent",
+      "description": "Should you store your solar power or sell it back to the grid? &nbsp;&nbsp; The Independent",
+      "content": "Should you store your solar power or sell it back to the grid? &nbsp;&nbsp; The Independent",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU05lWTNTQ1JMWVYyWkcxOHRtMmZ1UmpqVnNQbXl2Z19nTG9LeGVSTFNVbVhJUGxpd2YtQjAxeG1wM19WM28tZ2hyaU1JME4yTzJKalhPRkVFWTN1LWZIUWdKZlpuTVB3b1Fma0hvRzRLbDFTQUhZSXN3aFVNM3E0VmpxbWFtTHBiSWdUcjZ1eklYcTJXMllyVUFB?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-16T15:42:00.000Z",
+      "source": {
+        "name": "The Independent",
+        "url": "https://www.independent.co.uk"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "الكهرباء تكشف حصاد مواجهة سرقات التيار وتحصيل 18 مليار جنيه",
+      "description": "أعلنت وزارة الكهرباء والطاقة المتجددة، في بيان، تحسنًا عامًا في مؤشرات أداء شركات توزيع الكهرباء خلال العام المالي 2025/2026، بالتزامن …",
+      "content": "أعلنت وزارة الكهرباء والطاقة المتجددة، في بيان، تحسنًا عامًا في مؤشرات أداء شركات توزيع الكهرباء خلال العام المالي 2025/2026، بالتزامن …",
+      "url": "https://www.egelectricgate.com/?p=10520",
+      "image": "",
+      "publishedAt": "2026-09-16T15:25:03.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية - الشرق الأوسط",
+      "description": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
+      "content": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxOdGVyY0QtWVpUckRCNnk0ZHNJMXZDcldGS2pHYWNKRTQtdFVVQUh5NjVLTGxYSE04LW9rcU9BV0p6Z0RSZHFmdEc5MGpBSkt2MVVjTVRlVkRvVTVQT1AxeTZidmtCQXJjTGQ4VE10T3BsRVBrdnRIT1FWTl80bExjWGZpNVozZVZkOFhma0pLSm5pNzR4N1JwdS1KcnlfNDRCNUtIcGFCNjFQYVg1R0JXY0pndWJpNkxaNmZra2NlRG1CVnlYUHoxQi1SdWVTUVJWNE9JNXVkTVNncHNDOFZmb2NLNHNPYXJ3eGNqUkc3T0hOMVAwMkdDei1EX1N2b3IyNWlielNEclp6S0RiVm1ydm5NMUV3Q3FXUHpTZGUtWUpjWWZNZjVyVS16TE9FMkdDb2hMUWRiUFhXOVZ1YWljUE1ZVW15d3NxSDVvcVBjNHFFc0VaRFc4ck5JdFJfdjJvLXpuS05FWDcyREtHa2xocmk1c2x2T29HWEo4ekxMNlp2LVNocTlLdW5uSHBVd0V2cl9kLWZaaDBXYzY4OTFhaGhJTUo5Q2dkOGk4UFoxWVRvRzkyNXNIZjYxYjN3eVZZZi1IVlBpbkthNk95bVJySmhwVXJJeE9xVVFITmE2WVROTHBsRDFiNUtFenpLWDdaNko4cml6dEhUb3NMSUFraW5ScVhaQVdjUnZld2pkZ2JGNnFEV1JEVTdWYks?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-16T12:09:49.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "قطاع الشاحنات السعودي يتجه من الديزل إلى الكهرباء والقيادة الذاتية - الشرق الأوسط",
+      "description": "قطاع الشاحنات السعودي يتجه من الديزل إلى الكهرباء والقيادة الذاتية &nbsp;&nbsp; الشرق الأوسط",
+      "content": "قطاع الشاحنات السعودي يتجه من الديزل إلى الكهرباء والقيادة الذاتية &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPZngzODFDdC03YjJicExhbGhWcEdHVFowLW14Y09oc3ZMV3JrQ1pZVkxqTnNRd01Jakl6YnEwQUtNSGpJV2h1WUZLOUhIN292LUJNUTRQN1A1ZkpLamFmMkNlWFQ4aWFLRzRwdm1SRVdidVRyZTFwVEdUVjVQcjYyOXRwMm1FTkkyYm9oSldRNWVVZk14dERnYmJkZ29GRmlTY0lPa180MXB5bWo0N1M3NFBHdGZUak5MRlBPMF9UZFl4b2VtVUI4VkthMkJBUkNrVEo1anFwZGYybV9ZaVpiYnJKZk1hcHlncDR1RzY1OEtNeEQxSGhYVzVhWDBXczdfSUlzeXYxc19XX2dpbEdrTVphd3FuREF0UTBSd0JyRVpqU1I2T0s5MlpQSEFXNmduWThWY1B5cllHZ2JRbUJZYndSRndodXdyeDJlS1NKYVkyMWlTYm1KNE02WDNEajNxa25FTmRHSVFHZGo1TEZxZDhuU09LSUpYckFjZ0lKRm9Rd08tSlgyTEcya0huMGRqMWZwWDJ4WENYSmxkUlpxMzRQRkdqTW5vT284eWlyb0I0U1dOM1k2Qm9jVGRjNURQY0ExN0NCd3dwR19iSkN2Ui1sSlVreS1QTVlTcmxxYlU2cW9KX2tWQTlPcEk0UlF6dWNUOGVMTXVTYWduSzZuZkxtX1FmOEpJeU0ybkN3cWNFdWc0VHlBRzZHTGZIU2h3MlpJOU1QSk9nQlhkem5IWVZIVUJUZDFxOWpIR1pTbHU4Xzk3aW9lMXFLT0VGNThrVzFjY2Jn?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-16T11:23:03.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "EPA repeals power plant GHG rules, clearing path for new gas-fired generation - Oil & Gas Journal",
       "description": "EPA repeals power plant GHG rules, clearing path for new gas-fired generation &nbsp;&nbsp; Oil & Gas Journal",
@@ -70,7 +130,7 @@
       "content": "Residents raise concerns over proposed Evergy natural gas power plant &nbsp;&nbsp; KQ2",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1l0eXBfYVZvVXhtQlVOaTd6aHVrX3RZV20tcHl2dUVJVFhaZERnTFE3T0JIQkpPOWhNM3ZKT1NrLWJoUDhhMnR1ZFJsOWl5M0d1MHRCRm9oeS1yYk1rTEs4dTlGeDY4V3JKZDdYLUdHaTRnVndGdHNvTGctRVpnNFg3ZUhBZ2ZEY2JrM1JMc3Z2QTNHRllPT1FnckpUOFdUODg4c0xPU3JaQQ?oc=5",
       "image": "",
-      "publishedAt": "2026-09-15T23:03:45.000Z",
+      "publishedAt": "2026-09-15T23:04:06.000Z",
       "source": {
         "name": "KQ2",
         "url": "https://www.kq2.com"
@@ -245,21 +305,6 @@
       "preferredSite": ""
     },
     {
-      "title": "قطاع الشاحنات السعودي يتجه من الديزل إلى الكهرباء والقيادة الذاتية - الشرق الأوسط",
-      "description": "قطاع الشاحنات السعودي يتجه من الديزل إلى الكهرباء والقيادة الذاتية &nbsp;&nbsp; الشرق الأوسط",
-      "content": "قطاع الشاحنات السعودي يتجه من الديزل إلى الكهرباء والقيادة الذاتية &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPZngzODFDdC03YjJicExhbGhWcEdHVFowLW14Y09oc3ZMV3JrQ1pZVkxqTnNRd01Jakl6YnEwQUtNSGpJV2h1WUZLOUhIN292LUJNUTRQN1A1ZkpLamFmMkNlWFQ4aWFLRzRwdm1SRVdidVRyZTFwVEdUVjVQcjYyOXRwMm1FTkkyYm9oSldRNWVVZk14dERnYmJkZ29GRmlTY0lPa180MXB5bWo0N1M3NFBHdGZUak5MRlBPMF9UZFl4b2VtVUI4VkthMkJBUkNrVEo1anFwZGYybV9ZaVpiYnJKZk1hcHlncDR1RzY1OEtNeEQxSGhYVzVhWDBXczdfSUlzeXYxc19XX2dpbEdrTVphd3FuREF0UTBSd0JyRVpqU1I2T0s5MlpQSEFXNmduWThWY1B5cllHZ2JRbUJZYndSRndodXdyeDJlS1NKYVkyMWlTYm1KNE02WDNEajNxa25FTmRHSVFHZGo1TEZxZDhuU09LSUpYckFjZ0lKRm9Rd08tSlgyTEcya0huMGRqMWZwWDJ4WENYSmxkUlpxMzRQRkdqTW5vT284eWlyb0I0U1dOM1k2Qm9jVGRjNURQY0ExN0NCd3dwR19iSkN2Ui1sSlVreS1QTVlTcmxxYlU2cW9KX2tWQTlPcEk0UlF6dWNUOGVMTXVTYWduSzZuZkxtX1FmOEpJeU0ybkN3cWNFdWc0VHlBRzZHTGZIU2h3MlpJOU1QSk9nQlhkem5IWVZIVUJUZDFxOWpIR1pTbHU4Xzk3aW9lMXFLT0VGNThrVzFjY2Jn?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-15T15:40:04.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Energy industry leaders react to EPA deregulation of coal, natural gas power plant emissions - WV News",
       "description": "Energy industry leaders react to EPA deregulation of coal, natural gas power plant emissions &nbsp;&nbsp; WV News",
       "content": "Energy industry leaders react to EPA deregulation of coal, natural gas power plant emissions &nbsp;&nbsp; WV News",
@@ -423,6 +468,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Renewables produced 74.4% of electricity in first eight months of year - Portugal Resident",
+      "description": "Renewables produced 74.4% of electricity in first eight months of year &nbsp;&nbsp; Portugal Resident",
+      "content": "Renewables produced 74.4% of electricity in first eight months of year &nbsp;&nbsp; Portugal Resident",
+      "url": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxNN2tKZm5xU1FrWmgyOFM1ME9vU2RlYWZzalZUSXkzM2RKX3NQaElkaEp6RC1scHBlampGM3piY0tBSjF1VExmTHFicXlvYmszVk13a1JyYXRidHVxQ3FXUFdwX0F4Vy05RlhvWGp2UWcyNmpNNUR1UlZacXBwVUtEYWNtR2ZLRmd5QmczM1hRMXQwUXVOTV9SeTltcU92SWR6TTVUNjlUV3RJY2FldFNBYTVxTVI3cHQ3TlFQNEJrVjd2a2xQbURTRU1hckFPUkFTcHdzclpmS05zaFFlbXhUUy10UUVUY0EwRTEyYWNFX3B1RG5UenpSVkR2WUxlMzRnOUdUTE5HdGRvMHpDV3ZrSUpYUmlFNExfWHdvUUY5eEwtaFhDWDl0UEhhUXltNU9jRDZLaUNWQ3FrY181V2F0bnJ3NXpreng2ell4SnlrR0h5TXNaZXc5NW5NZ1h5MG5XSzBOeTdHUzZsVXlaUVV5RWFqdXhGV2gxNXZKb19Kd1ktWVU5ck9qYlBmQnlfX1NIM1lmN0dJTHNEZUxNSlI4cE9RQzVNRkhYWXlUT3hQNDFUQlk0WjFWM2VYRFZ5SmMxdlVRWldZLWVjVVJFQVg1S001LVdkNjdRMlJid3pCZmtHcFNYMFpodzNvVmRsWXN1RUYtRVpqY2JfeG5YeDJnOVVhVThxaVljT0UwSmVLMXZtRnIwZWdVeUZQcXVHVmdScWd2SVF4Z2UxTVFCLVRYNXVrRjUwR0pKTnR2VC1Ja19VSWtpQUZYazllX3ExZERiRzNzWUJmSF9hVXc?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T11:31:35.000Z",
+      "source": {
+        "name": "Portugal Resident",
+        "url": "https://www.portugalresident.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
     },
     {
       "title": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو - الشرق الأوسط",
@@ -665,6 +725,21 @@
       "preferredSite": ""
     },
     {
+      "title": "German gas power plant plans remain incompatible with EU State aid law - clientearth.org",
+      "description": "German gas power plant plans remain incompatible with EU State aid law &nbsp;&nbsp; clientearth.org",
+      "content": "German gas power plant plans remain incompatible with EU State aid law &nbsp;&nbsp; clientearth.org",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS3RfNXV0V0tnN3I5NEJCQkVGakFFNG50LTdVMW51ZmtJdjVONl9zTmdUUjd3cHBBOGM1ZnRWWUw4YkV6UmdYM0pOY2Q5MjlwQVFLRjFwTWdycGNfUFNWdW55VjdJeXpkalhyZ1g4ek0wVGxNMFVRM2ZkM1lxQjZBQ2x5NkNWYktDemFveXI5Q2ZWRzdHdVVVb2FVLTR5eGpvR1lWNXI2T0lmVDJuTVoyVXpzQldTNUJVNV9pOF9YNjdHcDJsOXRJN08yQ0lXNlpxel9iRG5kMTBjdkRBdUpBUA?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T02:42:46.000Z",
+      "source": {
+        "name": "clientearth.org",
+        "url": "https://www.clientearth.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "More data, more gas? Wisconsin power plant rules face scrutiny - Civic Media",
       "description": "More data, more gas? Wisconsin power plant rules face scrutiny &nbsp;&nbsp; Civic Media",
       "content": "More data, more gas? Wisconsin power plant rules face scrutiny &nbsp;&nbsp; Civic Media",
@@ -800,6 +875,21 @@
       "preferredSite": ""
     },
     {
+      "title": "EPA repeals power plant emissions rule; North Dakota leaders celebrate ‘win for energy grid’ - kfyrtv.com",
+      "description": "EPA repeals power plant emissions rule; North Dakota leaders celebrate ‘win for energy grid’ &nbsp;&nbsp; kfyrtv.com",
+      "content": "EPA repeals power plant emissions rule; North Dakota leaders celebrate ‘win for energy grid’ &nbsp;&nbsp; kfyrtv.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTDZBNzB6T0lNLVlzTFJmNVczSkhJS0FUU2NPVHFKeW8zVDhVa2c5c1FiZ0xQMWdjaTk1OWtSdTJ3Y05fZ3ZESlZHZzFaX2Jma21CLWc0bVVNRlhpS0VNSXZtRmJKQnFDLTBBTWVnRVAxWElFRnhHYkY1TndJOXF0QnROaXFDVGQ5Um5MNTRCVzVRclNQZU5rNWxFLWdMdkZUWDdFb0k4SlJTQVc4X1RkbzVYZWxsZ25rYUlNUNIB0AFBVV95cUxQbk1wOU5naDFBR1dGOEFmMkRQTENhS1prM1hpQmwzVG5IQUlPSFZFTlA3VzgwZm5fU3cwZ2lyQXNCNHU1eFB6bzNsOVc0Z29SaEV6NC1IcHJ5Uk5SdWJOa2J5ck1wamtGQ0ZDakp2aDFlQnRDdjV2ZUJVdWtvTUEzRmFwTjRaeHpXQmVWTlh0QjdlUklWTDl1QnFmWGliWUR2Sm01TXlsYlZFRzJiZTRlUXZaQmRqdjhnZVJpdHV4a0wwUThWRWhYNTE1d05EcFV4?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-14T23:58:00.000Z",
+      "source": {
+        "name": "kfyrtv.com",
+        "url": "https://www.kfyrtv.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Expert available to discuss EPA repeal of power plant greenhouse gas rules - Rice University",
       "description": "Expert available to discuss EPA repeal of power plant greenhouse gas rules &nbsp;&nbsp; Rice University",
       "content": "Expert available to discuss EPA repeal of power plant greenhouse gas rules &nbsp;&nbsp; Rice University",
@@ -913,6 +1003,21 @@
       "publishedAt": "2026-09-14T20:47:11.000Z",
       "source": {
         "name": "Financial Times",
+        "url": "https://www.ft.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Donald Trump to scrap Joe Biden-era climate protections on power plant pollution - ft.com",
+      "description": "Donald Trump to scrap Joe Biden-era climate protections on power plant pollution &nbsp;&nbsp; ft.com",
+      "content": "Donald Trump to scrap Joe Biden-era climate protections on power plant pollution &nbsp;&nbsp; ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVzJuSWxPRmhkdjhnQ1N5NHJJUldTUFg2bkZHRnEwRFF1LWZSaGVxX0l2YURsbmZSUzRCTkN2ZzdvRmNqazUtdkZNNWQ2dDBuNXhDMk15NGRBVkJEQXFjQjRBbnAxNlNYZDV4TUZVRGlHV3JPdVY1YzMyNUowcHRqQzhpY3Q?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-14T20:47:11.000Z",
+      "source": {
+        "name": "ft.com",
         "url": "https://www.ft.com"
       },
       "provider": "Scheduled Google News index",
@@ -1968,6 +2073,21 @@
       "preferredSite": "egelectricgate.com"
     },
     {
+      "title": "روسيا: إعادة إمدادات الكهرباء الخارجية لمحطة زابوريجيا النووية - Reuters",
+      "description": "روسيا: إعادة إمدادات الكهرباء الخارجية لمحطة زابوريجيا النووية &nbsp;&nbsp; Reuters",
+      "content": "روسيا: إعادة إمدادات الكهرباء الخارجية لمحطة زابوريجيا النووية &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oc0FHNUFNU3RaQk5MUjdJYnQwUXc5cXhFelFiTTVkWmlvZ1l2T3JwRXZ5Znp5T2NWNWo4Z2VQWi1tcFkxbU8wdkJNWGdBZkJFSGRsOG5OVEZuT2JYbGFoc2M0VUthUUl3aHlEUFJyOGljcVF2cHVxTlNxWQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-07T07:00:00.000Z",
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "د.محمد سليم يكتب ..من التوليد إلى عداد المشترك.. أين تذهب الطاقة وكم تبلغ قيمة الفقد؟",
       "description": "استكمالًا لسلسلة قراءة مؤشرات قطاع الكهرباء، ننتقل في هذا المقال من محطات الإنتاج إلى شبكتي النقل والتوزيع، اعتمادًا على بيانات …",
       "content": "استكمالًا لسلسلة قراءة مؤشرات قطاع الكهرباء، ننتقل في هذا المقال من محطات الإنتاج إلى شبكتي النقل والتوزيع، اعتمادًا على بيانات …",
@@ -2703,12 +2823,12 @@
       "preferredSite": ""
     },
     {
-      "title": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية - الشرق الأوسط",
-      "description": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
-      "content": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxOdGVyY0QtWVpUckRCNnk0ZHNJMXZDcldGS2pHYWNKRTQtdFVVQUh5NjVLTGxYSE04LW9rcU9BV0p6Z0RSZHFmdEc5MGpBSkt2MVVjTVRlVkRvVTVQT1AxeTZidmtCQXJjTGQ4VE10T3BsRVBrdnRIT1FWTl80bExjWGZpNVozZVZkOFhma0pLSm5pNzR4N1JwdS1KcnlfNDRCNUtIcGFCNjFQYVg1R0JXY0pndWJpNkxaNmZra2NlRG1CVnlYUHoxQi1SdWVTUVJWNE9JNXVkTVNncHNDOFZmb2NLNHNPYXJ3eGNqUkc3T0hOMVAwMkdDei1EX1N2b3IyNWlielNEclp6S0RiVm1ydm5NMUV3Q3FXUHpTZGUtWUpjWWZNZjVyVS16TE9FMkdDb2hMUWRiUFhXOVZ1YWljUE1ZVW15d3NxSDVvcVBjNHFFc0VaRFc4ck5JdFJfdjJvLXpuS05FWDcyREtHa2xocmk1c2x2T29HWEo4ekxMNlp2LVNocTlLdW5uSHBVd0V2cl9kLWZaaDBXYzY4OTFhaGhJTUo5Q2dkOGk4UFoxWVRvRzkyNXNIZjYxYjN3eVZZZi1IVlBpbkthNk95bVJySmhwVXJJeE9xVVFITmE2WVROTHBsRDFiNUtFenpLWDdaNko4cml6dEhUb3NMSUFraW5ScVhaQVdjUnZld2pkZ2JGNnFEV1JEVTdWYks?oc=5",
+      "title": "«كهرباء لبنان» تبدأ قطع التيار عن القطاع العام لتحصيل المتأخرات - الشرق الأوسط",
+      "description": "«كهرباء لبنان» تبدأ قطع التيار عن القطاع العام لتحصيل المتأخرات &nbsp;&nbsp; الشرق الأوسط",
+      "content": "«كهرباء لبنان» تبدأ قطع التيار عن القطاع العام لتحصيل المتأخرات &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxNOUh6enV1c0RTMzJMa3Vvc1RUQjJ5RWpZSmxWRHNseEhNcWJFeXp0b1hwbTRFbnZaZ1dQZk90NmlPUGMwZ2hQdWxWcHRIMjlaMEN0X3oycTA2TFVfOTI5ZEhGOW1HOTVTNXlVaXgtTXFfWTQ5dWxDTFB2cXU5Z0V1MkM5NFVDNndfeG5QdV9mWlppZDNXMnV1MzlfV1B2bnloTzAwdWlhdi1ucEp1M05HV3RRUmk3SFNVOEdyLVk2Z1dwVXZEODJmczdNS2RuRmx2UWJIZlFBaHR3QTN4eFJBY3JETnFrcDhNN1NEWTYwNDNSMnFLSkZJU05KT3NzTVphMTBoMDA4dkpHckhlRDJ3aTFPU1RDaWo3ZFJkdXNTOFhiZ3NfYTM3UlBMZHhnamcwV1B5UFhZZ21fNzBBVXJNVDllWjZRcmNoVG5xV09oV2pqTUNoR1JuZm9jLUxPemZGeUpjMDVZLWQtRWdMdXBoVkc5QnZJamdhMXFtVmpQS2JrMEQxZ3B2VGx0NzBDMy1qcU9ka0FiSDdjWUhuZ2lfQ2wteUVEdGtnSzgyTWQ4dk0tZGIyYk4tYlBXOFhhTXRrcXhlMHFDZWdFVi00WkNJVnQ3ZmkyWE5IbFBpUzZ6UFhzOG90UmNGYXpfVXpnbHVXYlgyc2JWTlBsSXlZa3ZHdkVuclZzYW95TjVxQnMxbGhJTjV6dlZJeTVoX1A2NHlqZmE1TDI0MXc4ZTFhSnlGLXN1aHA0dnEyTk5OaFpQUDl5U2F2T1FrZG1TSVpWTktKUnF5XzRuNGtoSVQ1R2didEtrMjBTaTY4UnFtNVp1MkplLVZRc3RhYkQ0SXZyb2JhS2Nmbm5xUl9YQlpvd1E5WlVQcWg5Y29ZT2lLRjNXb1d1eWZRNDAzSjIxd0QyYUs0bGc?oc=5",
       "image": "",
-      "publishedAt": "2026-08-22T07:00:00.000Z",
+      "publishedAt": "2026-08-24T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -2877,6 +2997,21 @@
       "source": {
         "name": "cnnbusinessarabic.com",
         "url": "https://cnnbusinessarabic.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "رئيس اقتصادية قناة السويس يشهد وضع حجر أساس مصنع لتجميع أنظمة تخزين الطاقة - اليوم السابع",
+      "description": "رئيس اقتصادية قناة السويس يشهد وضع حجر أساس مصنع لتجميع أنظمة تخزين الطاقة &nbsp;&nbsp; اليوم السابع",
+      "content": "رئيس اقتصادية قناة السويس يشهد وضع حجر أساس مصنع لتجميع أنظمة تخزين الطاقة &nbsp;&nbsp; اليوم السابع",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPeENmclJiY1F2Y04wWHhxZHk0TXZvc1hDVEZZMlJvbTNoQTM0UTZQLS1Ib0xSUS05N1RqNkpFbEFDR2JRN09SX2lOamRDa0phMmgwc1RhUzI3cVduV3NfVWw1VGlSUTNZNHI1QjUtWS1IMWVLVVA1bHRyQXloR0d4d3FvNjJ4Sl9LNmJscmxiTmNiYXFwYlJraGFIQWtpbVVoV0gyMHljeVBiNGpERDc2Q1NRSWdsQ2ZHWGJ2ZEZXd2FwVDdwVzVOZ1JHQzRuSVpLbWJuYmVPeHNyVldEaWhGTXluSllFbWhFcURmekVtSlNFLUpScUNHNHlxeUJGcklsZGlxVW44ck42SjZtWFQzeUxET1c5VDFCR0pDY1M5X29RMXRReHNuM0pJNGJsQ0p2eTVIRGJaSENhRks4TG9wbHBsTXU5V2RIR3N0cVQ4c0ZNOHV2c3kyZTZDalAxZ1ZpLW9ZeWc2ZTFvMkRJR3dmVTBkNjNSalZDWFNhYXotNnVqbHdhT3BVcWJ3cjhXSEtieGtKU25jdWVfQUJmRHhDbFF4WXI1V0Z0RFlrNDNPLWtrbnJvNlZwaE1PRzRIYXFaZGdEeFMzVjI5ZmJHc0dmTWhNUmhIQdIB0ANBVV95cUxPZEZrTmFhVkdEMERTMlNJODZDYS0tS21ycjZ3Rlh3WjNnUm1Za2JRWXU4TlNWYl90NC1yelEzMnBuTklDbktUdGQ1WW1PcGJFV3BKQXVNbTJwLWVlekJmcXJtVWxodzhpaEZaWTN5NGo1QmlnOFhRcWpkbzkyRElXa0lnbHQ2VWUwTmxVRnlScjRHcXJTNFd0cmJONzFLd2ljbHFMellZQlBjS0loRlhKaVlXdldpRW1kZzB3cW1pNXJYdFQwOHgyd2EwYlVwNTFOSnFYSWN4dWZPeVVjMm5HendLOXJlc2JDVERqVURZRVNnQVVuUGd2dFEwdDV4MjJ5U29BVk5yNm1VdjlYYVFfckliSmFvYmFKek53cTBHRE1tczRmOHo1RlNkVnNPalhYTjQwRzB4ZV9EWGRYWFlTVDd3TXpCOFJXX3RRZlZtdURPbU16WUdJN1hHRTF2RTVjV0VuSlhUVk1maWF6RTNhR0tWOVZ0Z0tpSmw4S2s2MzloZ0pxSWhWMU1VQTRhM2dPMnVTN1FyY2t6QkxlU05iZHQ3Z3RMZkN6Q1l6bmNHNy1HLWpCMF84alROLVp5TkVRQ1VfZkZlTEdQbFdvX25fYw?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "source": {
+        "name": "اليوم السابع",
+        "url": "https://www.youm7.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -4503,6 +4638,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "Total power grid failure leaves Cuba in darkness amid growing crisis and protests - miamiherald.com",
+      "description": "Total power grid failure leaves Cuba in darkness amid growing crisis and protests &nbsp;&nbsp; miamiherald.com",
+      "content": "Total power grid failure leaves Cuba in darkness amid growing crisis and protests &nbsp;&nbsp; miamiherald.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2pxTGpZMTlkUDJ2cVd4MVpBUE9pYmZIVjdTWHZ0T1BIQ21nZm9Jdm9pWFVFSnpTeUFDQ3V4VnlHMWlfVDNyVkFNNXhsT2lfVW85NGRVN19wczBCVnNDRlVPR3hHbzZ1aGVYMk0wWGNJd1VES0VHM1lWOC1qbVpIcUVfTVV4ZFRTLV84QjQ0QnHSAZABQVVfeXFMTkpERkhhVDNvbmVxVllndkdXS0dhVHJnT0h6U3gxa09DWkxVWmRiUnFRUGVPOHFXZFZvUkdRVllKSzl6cG9VQnJLVzFoYk5uYTJ1T2FYQVF6U2dMak9hbW5uck51SWJqRndXSmpsUldpX0dFbnBpODZqMDJnTUJFazQweWZHVzJZZmxWcEZ4VGdH?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
+      "source": {
+        "name": "miamiherald.com",
+        "url": "https://www.miamiherald.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
       "title": "From Legacy to Future: APS Plans to Convert Cholla Power Plant to Natural Gas - Arizona Public Service",
       "description": "From Legacy to Future: APS Plans to Convert Cholla Power Plant to Natural Gas &nbsp;&nbsp; Arizona Public Service",
       "content": "From Legacy to Future: APS Plans to Convert Cholla Power Plant to Natural Gas &nbsp;&nbsp; Arizona Public Service",
@@ -4676,6 +4826,34 @@
       "publishedAt": "2026-06-21T07:00:00.000Z",
       "source": {
         "name": "Euronews.com",
+        "url": "https://arabic.euronews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [
+        "egypt",
+        "saudi arabia",
+        "UAE",
+        "iraq",
+        "iran",
+        "libya",
+        "algeria",
+        "morocco",
+        "jordan",
+        "kuwait",
+        "qatar",
+        "turkey"
+      ],
+      "preferredSite": ""
+    },
+    {
+      "title": "صحيفة عبرية: مصر تتوسع في الطاقة المتجددة.. لكن الغاز الإسرائيلي يظل \"شريان\" الاستقرار - Euronews",
+      "description": "صحيفة عبرية: مصر تتوسع في الطاقة المتجددة.. لكن الغاز الإسرائيلي يظل \"شريان\" الاستقرار &nbsp;&nbsp; Euronews",
+      "content": "صحيفة عبرية: مصر تتوسع في الطاقة المتجددة.. لكن الغاز الإسرائيلي يظل \"شريان\" الاستقرار &nbsp;&nbsp; Euronews",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHQ4eEJqQWI5OU5iUG5oNnpaMTBBeExBbE4wRzdGckx6OV9iaDRLVk52eUZpTnV0SFQzcEpZTEhxQkdLYzA2TWtsMXJBUDk2aU1BcWszUkVSSGtjVlhKZ21EMXRaYllsOGVvcV9GUG5HYUxmajlfaTBRVXRXUjRkcXdGc3ZvVDhfdkNHZnhCLWpDaXM5R185REpWQW5JbzFLMlgzZFBubERZaHZfRnc?oc=5",
+      "image": "",
+      "publishedAt": "2026-06-21T07:00:00.000Z",
+      "source": {
+        "name": "Euronews",
         "url": "https://arabic.euronews.com"
       },
       "provider": "Scheduled Google News index",
@@ -5127,6 +5305,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK - WCAX",
+      "description": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK &nbsp;&nbsp; WCAX",
+      "content": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK &nbsp;&nbsp; WCAX",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdV9MUldtbENUR3dBM0IxblpwSnNHUC1OZWcwSHlidE1UUVNsTFZ0aGNVRU4tRFJFZ3Y1LUxfbmZ1X0EyNVpvbVktem5GTUxYQTFLb3lfbF9LYjRPOG1kdHdWaDZUMlM1QkFscm04a3M0SnNJcC1saWNWTGg4N0lVS1dGQ0Z6cU5fWjVLazVWVmVhc0wzMVRXTkJkQi1iYkJaLWpXQUw1ZmVEdnlBanBUOWFVMXpKX0VZaDhSbmpoeTI?oc=5",
+      "image": "",
+      "publishedAt": "2026-05-22T07:00:00.000Z",
+      "source": {
+        "name": "WCAX",
+        "url": "https://www.wcax.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
       "title": "Iraq’s Delayed Gulf Cooperation Council Power Link Deepens Summer Electricity Risks - Middle East Forum",
       "description": "Iraq’s Delayed Gulf Cooperation Council Power Link Deepens Summer Electricity Risks &nbsp;&nbsp; Middle East Forum",
       "content": "Iraq’s Delayed Gulf Cooperation Council Power Link Deepens Summer Electricity Risks &nbsp;&nbsp; Middle East Forum",
@@ -5225,6 +5418,21 @@
       "publishedAt": "2026-04-24T07:00:00.000Z",
       "source": {
         "name": "maaal.com",
+        "url": "https://maaal.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
+    {
+      "title": "Goldman Sachs: Gulf Oil Production Could Rebound Within Months After Hormuz Reopens - صحيفة مال",
+      "description": "Goldman Sachs: Gulf Oil Production Could Rebound Within Months After Hormuz Reopens &nbsp;&nbsp; صحيفة مال",
+      "content": "Goldman Sachs: Gulf Oil Production Could Rebound Within Months After Hormuz Reopens &nbsp;&nbsp; صحيفة مال",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51RkpVTE5ZRHpkQVlqZEQwRW9HVTBvSHdsbk5iR2pTM1RVdFJVbkxOUGM5c0hrRXAxamxxNzAxbDJIeFRZM0JCWHBNNWFTdHUzTmJBaHZ4N2diSUFkN190blh4X3NFWUVOdzYw?oc=5",
+      "image": "",
+      "publishedAt": "2026-04-24T07:00:00.000Z",
+      "source": {
+        "name": "صحيفة مال",
         "url": "https://maaal.com"
       },
       "provider": "Scheduled Google News index",
