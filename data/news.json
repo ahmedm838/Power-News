@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T04:53:32.038Z",
+  "generatedAt": "2026-09-16T11:41:08.257Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
@@ -29,6 +29,36 @@
       "source": {
         "name": "매일경제",
         "url": "https://www.mk.co.kr"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "The Gumi Natural Gas Power Plant, which was built in the 5th complex of the Gumi High-Tech Valley Na.. - mk.co.kr",
+      "description": "The Gumi Natural Gas Power Plant, which was built in the 5th complex of the Gumi High-Tech Valley Na.. &nbsp;&nbsp; mk.co.kr",
+      "content": "The Gumi Natural Gas Power Plant, which was built in the 5th complex of the Gumi High-Tech Valley Na.. &nbsp;&nbsp; mk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlNDhzSDNZOENQamh3MjVQb0dodFczR1VOTGJydE5GaXZ6QzlqV3lZSnYydjlvWkVNS1RidkRVZ0dLbG1zcFEyNDctQ1RIeGkySkE?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-16T01:53:13.000Z",
+      "source": {
+        "name": "mk.co.kr",
+        "url": "https://www.mk.co.kr"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Residents raise concerns over proposed Evergy natural gas power plant - kq2.com",
+      "description": "Residents raise concerns over proposed Evergy natural gas power plant &nbsp;&nbsp; kq2.com",
+      "content": "Residents raise concerns over proposed Evergy natural gas power plant &nbsp;&nbsp; kq2.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1l0eXBfYVZvVXhtQlVOaTd6aHVrX3RZV20tcHl2dUVJVFhaZERnTFE3T0JIQkpPOWhNM3ZKT1NrLWJoUDhhMnR1ZFJsOWl5M0d1MHRCRm9oeS1yYk1rTEs4dTlGeDY4V3JKZDdYLUdHaTRnVndGdHNvTGctRVpnNFg3ZUhBZ2ZEY2JrM1JMc3Z2QTNHRllPT1FnckpUOFdUODg4c0xPU3JaQQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T23:04:06.000Z",
+      "source": {
+        "name": "kq2.com",
+        "url": "https://www.kq2.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -185,6 +215,21 @@
       "preferredSite": ""
     },
     {
+      "title": "NRECA Welcomes Partial Rollback of EPA Power Plant Rule, Pushes for Full Repeal - America's Electric Cooperatives",
+      "description": "NRECA Welcomes Partial Rollback of EPA Power Plant Rule, Pushes for Full Repeal &nbsp;&nbsp; America's Electric Cooperatives",
+      "content": "NRECA Welcomes Partial Rollback of EPA Power Plant Rule, Pushes for Full Repeal &nbsp;&nbsp; America's Electric Cooperatives",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVFhdGhiZmZlWFZ5Q2hNa0lVNHBYZlVJdXN0Z1BnM3poeEFqc3ZtLXNJcVptbUhyUDBDM1lsekdnUHo2Qm45RjhfVGxST1pMQlhBUGN2RGFzSDBsOXc1UVB3U3lqb05mQm9nMTJ2ZFBqbEdBWDFaWjNqRjFIMzFOYVFXTjY4YzRrODhXWHR6Z2lzdldHV3FDU3dqcUpWalJoQXh5S01mOA?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T17:37:47.000Z",
+      "source": {
+        "name": "America's Electric Cooperatives",
+        "url": "https://www.electric.coop"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة - الشرق الأوسط",
       "description": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة &nbsp;&nbsp; الشرق الأوسط",
       "content": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة &nbsp;&nbsp; الشرق الأوسط",
@@ -260,6 +305,21 @@
       "preferredSite": ""
     },
     {
+      "title": "EPA repeals power plant regulations, Zeldin says its a major win for natural gas access - thenationaldesk.com",
+      "description": "EPA repeals power plant regulations, Zeldin says its a major win for natural gas access &nbsp;&nbsp; thenationaldesk.com",
+      "content": "EPA repeals power plant regulations, Zeldin says its a major win for natural gas access &nbsp;&nbsp; thenationaldesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONE1uNUs2ZE5sUGo3TU5DczlIaU9OcTdCZ1J3T1hKTTAtSVkzRW5sVHdPUFYwQU1IMHVXeFE0ekxENVVIMC1lWk82STBNSFFQY3JLc1dMOUxsa05XUzNSd0JEaWtzTHlXaEVBdy1QUGRaYWk3Tnh3cWJPREJRQlhnT2Rla2pqVHA4OHFic216bnFCdGJaQ3pkOVc3cUZFdW1fdlZXLVBKdmNPSWNVek0tVlFBZjkzbk9WS0JXakFJTFFyY3RIWkVxd3RxbGlMV2NQb0EySGF3LXZhVUhzZTgtd2NwYlNnUTVMOGlkQjI0Mk5vZWdUUnBZ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T15:23:42.000Z",
+      "source": {
+        "name": "thenationaldesk.com",
+        "url": "https://thenationaldesk.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "LNG supply rises, gas availability nears pre-disruption level - daily-sun.com",
       "description": "LNG supply rises, gas availability nears pre-disruption level &nbsp;&nbsp; daily-sun.com",
       "content": "LNG supply rises, gas availability nears pre-disruption level &nbsp;&nbsp; daily-sun.com",
@@ -290,6 +350,21 @@
       "preferredSite": ""
     },
     {
+      "title": "More data, more gas? Wisconsin power plant rules face scrutiny - vernonreporter.com",
+      "description": "More data, more gas? Wisconsin power plant rules face scrutiny &nbsp;&nbsp; vernonreporter.com",
+      "content": "More data, more gas? Wisconsin power plant rules face scrutiny &nbsp;&nbsp; vernonreporter.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOExOYU1JWGpWaEFTX3BGREZxQjF6VW15VnlTc2xFMWQya255NkJTal92bU1EZ2hmejl0ZTdhVHozcTVOVk8wMnNxSHlqSDVIOWs2WEJteXVWQkxuLURrUHhVVDBpUkVMd3FMd1BfQ0tuaUozVW41dVJEODMzRmVQVEt1VkYzeklvckk3c3hMUlB2dw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T14:23:44.000Z",
+      "source": {
+        "name": "vernonreporter.com",
+        "url": "https://vernonreporter.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived - صحيفة مال",
       "description": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived &nbsp;&nbsp; صحيفة مال",
       "content": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived &nbsp;&nbsp; صحيفة مال",
@@ -298,6 +373,21 @@
       "publishedAt": "2026-09-15T13:07:44.000Z",
       "source": {
         "name": "صحيفة مال",
+        "url": "https://maaal.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
+    {
+      "title": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived - maaal.com",
+      "description": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived &nbsp;&nbsp; maaal.com",
+      "content": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived &nbsp;&nbsp; maaal.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vSUdsNEVOTEhTclA4Y19fWUptT2RxQVFsbVpGNEwzbm9WR1JFTWd4TTlqTmFDMEtUWHRqYk5MVWlPejBXVVJDRm9EUjREQ1FrUWdpYUNieGtqWHc0N0I3TlpQR2ppcDNDbVlR?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T13:07:44.000Z",
+      "source": {
+        "name": "maaal.com",
         "url": "https://maaal.com"
       },
       "provider": "Scheduled Google News index",
@@ -718,6 +808,21 @@
       "publishedAt": "2026-09-14T22:29:27.000Z",
       "source": {
         "name": "Rice University",
+        "url": "https://news.rice.edu"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Expert available to discuss EPA repeal of power plant greenhouse gas rules - news.rice.edu",
+      "description": "Expert available to discuss EPA repeal of power plant greenhouse gas rules &nbsp;&nbsp; news.rice.edu",
+      "content": "Expert available to discuss EPA repeal of power plant greenhouse gas rules &nbsp;&nbsp; news.rice.edu",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHFIakdyQlpxSzJESXozSzVfaFZyZkJPcHVscDhxa0E1anVwd1h4eVZTY2NVSThJWXRWLWdBOUhXbkdqbmt1aV9Nc0ZyRnhzN2pGWnhKZXFHdU1odmEwY3NuV2VsQlBIN2RmamhWVUVna0ZkcldCWGY2eTBNOWN0Xy13UW9vZXBOb3RnaGhOZm9reXpDYllxUnFRNW5TbnpoTUE?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-14T22:29:27.000Z",
+      "source": {
+        "name": "news.rice.edu",
         "url": "https://news.rice.edu"
       },
       "provider": "Scheduled Google News index",
@@ -1806,9 +1911,9 @@
       "title": "معلومات الوزراء: مصر تسجل نموًا سنويًا بنسبة 176% فى إضافات الطاقة الشمسية - اليوم السابع",
       "description": "معلومات الوزراء: مصر تسجل نموًا سنويًا بنسبة 176% فى إضافات الطاقة الشمسية &nbsp;&nbsp; اليوم السابع",
       "content": "معلومات الوزراء: مصر تسجل نموًا سنويًا بنسبة 176% فى إضافات الطاقة الشمسية &nbsp;&nbsp; اليوم السابع",
-      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQTzNqaW5Ta3RFWVRhZGZiMzdtNTFaS3hMNERoeElWbGhLUFFVX2JUVEtCc2Q0eElPbGlPQlBWZEIyNGR4ZXJGY3oyRjBaOUhnRTE4UUZYUVJQZ2NRTHNBR0JZRldRN09VZVZfWml6dERNdGhyYWQ1UHRDSkVkTm9aMjlYNVd2dkMwMmNEVWxqeDB1SngyWVdYbS1MZHZQTnZzejQ3d2VaY01CSnRjN1ZiVHVnOTRnWkZUSlcxaXdfLWxCbXNndVlYNUtlN1l3dXRoMllOQ3ByUGFRcHhoTWU4MEZoWHNpSXZtN0VQaDJ3WDdyZk42SGVWQnYyN2l1OFlab21KY3N2MTRiX05zZ2Z4dWhaR2FPRWxWOEZXdGJXNkk4WFZ0cDFWQ3pqVDc5N1hjb0c5b3pneklsU3M0bGMzVFVUaGRGSFpacWhiX1NZTGhCWW1ucENfbDhaWnozZVp3SGQwYjh6TTR4YzJycDh5TjRUekJrNnN6SUJIQTlhV0ZCNlZJRjNRV2RqaGxtN1NDcERfUUZ5SXFFaVhfZFlPaTdPTS1wVnV5cGJOLTZBVHJaM1VYUVJpS3FsdnN6X1hzNk5KV3JucXV5U1ZDOWtHMQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQTzNqaW5Ta3RFWVRhZGZiMzdtNTFaS3hMNERoeElWbGhLUFFVX2JUVEtCc2Q0eElPbGlPQlBWZEIyNGR4ZXJGY3oyRjBaOUhnRTE4UUZYUVJQZ2NRTHNBR0JZRldRN09VZVZfWml6dERNdGhyYWQ1UHRDSkVkTm9aMjlYNVd2dkMwMmNEVWxqeDB1SngyWVdYbS1MZHZQTnZzejQ3d2VaY01CSnRjN1ZiVHVnOTRnWkZUSlcxaXdfLWxCbXNndVlYNUtlN1l3dXRoMllOQ3ByUGFRcHhoTWU4MEZoWHNpSXZtN0VQaDJ3WDdyZk42SGVWQnYyN2l1OFlab21KY3N2MTRiX05zZ2Z4dWhaR2FPRWxWOEZXdGJXNkk4WFZ0cDFWQ3pqVDc5N1hjb0c5b3pneklsU3M0bGMzVFVUaGRGSFpacWhiX1NZTGhCWW1ucENfbDhaWnozZVp3SGQwYjh6TTR4YzJycDh5TjRUekJrNnN6SUJIQTlhV0ZCNlZJRjNRV2RqaGxtN1NDcERfUUZ5SXFFaVhfZFlPaTdPTS1wVnV5cGJOLTZBVHJaM1VYUVJpS3FsdnN6X1hzNk5KV3JucXV5U1ZDOWtHMdIBywNBVV95cUxPdGFXWDA0UzVXdFVpMUt4cmI3SVZQcXY1aG1fTldMMF85ZDBRU3ZGOGxLXzduc0hpQnZZc2tSNklQUTVFTnVENEM1VjlteDRKZlUtSUM2RnBvLWYycTlKUDhDM1RBUmNhZDFJMXNCdFlqdDZRcEJPVl90eTgzRzFodUJRV2FEOEN5c1l1dlM5RXpIRExueHh3dGkyandwQWM5cmhaZHdjVmt2dlViV3NaYl9KLXdJMmIwQzY1djc5OXk2OEpLTC1nTmdGNmZVbmlxSmRHZF9VaU5ER1NicWNkcHkwaG4yVUtjRjNrSXpsSXlKdFl1QVRjSkRHWmxTWmo0YWs1OGhUT0Z0MnJTNEYwNkEtNm95QnlWQTFIZGlSZzBOMVR2T1Ftdm9TaGZtNTc0eHdSNlJlTVkwcmFNWGkyeHdTazdJeGhxQnhnOXFXQzFDeFI1QTJsb0NjLXZUcGduZGtiUTFHNmhLaEozbWZ2SGhnUE90RHBST2l1WXVMSHEyd0FQbzR3eGVCM1dITE9zYWxOVEp1V3NtalZxNnhwSUtUaUVrWGxYZm9PQVZ4RE90U1c1a1FLX1RUc0lPemM1a2t3MnJBOGVDbUk?oc=5",
       "image": "",
-      "publishedAt": "2026-09-08T08:10:00.000Z",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
       "source": {
         "name": "اليوم السابع",
         "url": "https://www.youm7.com"
@@ -1950,7 +2055,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "almalnews.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Bisat: There is a justified increase in generator costs, but higher diesel prices do not give anyone the right to exploit people’s need for electricity or justify violating the official tariff or imposing additional fees or charges - MTV Lebanon",
@@ -2336,6 +2441,21 @@
       "publishedAt": "2026-08-30T07:00:00.000Z",
       "source": {
         "name": "Yahoo Creators",
+        "url": "https://creators.yahoo.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "I had no idea Dolly Parton was born in a 2-room log cabin with no electricity or water — and you can still see it today - creators.yahoo.com",
+      "description": "I had no idea Dolly Parton was born in a 2-room log cabin with no electricity or water — and you can still see it today &nbsp;&nbsp; creators.yahoo.com",
+      "content": "I had no idea Dolly Parton was born in a 2-room log cabin with no electricity or water — and you can still see it today &nbsp;&nbsp; creators.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZUoyVWZidVdTWEExdEpXY01ZSEYtTC1ZRE5VRFltV1JQRDMxdFpGN2xxUkIySnViRG9selItUEdfc2hkelpGbDJqLVVmZEVBOUo4cUxjNXpEOGZFaUhiTXFkWWg1MjdrQkFsSE53S0tnVXlsUzBVN280Q05QSlhuRVFMZ2taRldYT2dIaXdhOWlzb3J6WDRmQUlhWXFPbkg3UWVPblpXMVF0Z1ozQlNtWTNNMDNRZkxBUVd4MFlLUjBCYldTU2g2aTBpUkt6UlhqSkMzckRBRWJBSFg0RDJVY1F4UjRDV01kM3BkY0VRSnI4OTR2MW9aZG9LVElmdC05dmc?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-30T07:00:00.000Z",
+      "source": {
+        "name": "creators.yahoo.com",
         "url": "https://creators.yahoo.com"
       },
       "provider": "Scheduled Google News index",
@@ -3211,6 +3331,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "مصر.. انتقادات لزيادة أسعار الكهرباء ونواب يطالبون مراجعة القرار - arabic.cnn.com",
+      "description": "مصر.. انتقادات لزيادة أسعار الكهرباء ونواب يطالبون مراجعة القرار &nbsp;&nbsp; arabic.cnn.com",
+      "content": "مصر.. انتقادات لزيادة أسعار الكهرباء ونواب يطالبون مراجعة القرار &nbsp;&nbsp; arabic.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOEhWMzJVcWRVZl9zMTZQUTQyLWE3M29EUkJjdnh6ajhyVDVjRWlndVVaWklyMmFzSGNtNHdNTk1CLUJVUGR4QlZVVWV2WlBhR2QtajVkbXNtZ2I4UFJIclIzSzktTE1DMGhnVkFzeVdCZlhCdkJEOXVhUE5ETWV2Qy1VcVlNc2d3ak8teXlBUVNncXBTT3FXWnlmNklJZHYtRWJuaTZfd2xMLXZkbHJCRmpGb1U0ZTU0akQwcU1LSUg0dw?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "source": {
+        "name": "arabic.cnn.com",
+        "url": "https://arabic.cnn.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "مصر تبدأ إنتاج الغاز من حقل خوفو في 2027 بمعدل 45 مليون قدم مكعبة - الشرق بلومبرغ",
@@ -4203,6 +4338,21 @@
       "preferredSite": ""
     },
     {
+      "title": "قرار أوروبي يستهدف محولات الطاقة الشمسية الصينية.. وتأثيره يمتد لأفريقيا والشرق الأوسط - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "description": "قرار أوروبي يستهدف محولات الطاقة الشمسية الصينية.. وتأثيره يمتد لأفريقيا والشرق الأوسط &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "content": "قرار أوروبي يستهدف محولات الطاقة الشمسية الصينية.. وتأثيره يمتد لأفريقيا والشرق الأوسط &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPSy1BdE1NRkhYblQxakMtVXl5Z1VDQ1BVMU0tLVNVaERGTHBSYjdsS1hrcWxPV2t2eW9sN1JnaXJ3VU82V3RNbkNCUnlPRmtxa2w3Z2JWNVlhd3ZOZF9yQWE0OGdnYkNKOGZVTnI2LTcxMS1FMTFLdEowOW5DSnQ4T184dnloSkhzOTJvVmJyY2ZEMEwta2NCcjJHMjlzYmxQY092Sm9BdkNNWjBlb2NDQ2lmOGdIVkJOQVh2aFZWb2U3Tk9XLXMxaVF0bGEwMnBNb1RseUp1eXJqb3RPdkRBTW83MnZfLUstdk03eTU2d1VpQU1NUEpNeTZGNjh4dXpXeHpWZmZZVHIzN2ZsejVwSWdGQTd1TkZZS3ZYLVFreEZFbUVZMmdCWklVTHlfVGFKZF91bWtkcC1MN2N0dEpvOGtPc2FTd0EzSk1MZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-09T07:00:00.000Z",
+      "source": {
+        "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+        "url": "https://attaqa.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Canada carves role for gas in clean power grid strategy - Reuters",
       "description": "Canada carves role for gas in clean power grid strategy &nbsp;&nbsp; Reuters",
       "content": "Canada carves role for gas in clean power grid strategy &nbsp;&nbsp; Reuters",
@@ -4331,6 +4481,21 @@
       "publishedAt": "2026-07-06T07:00:00.000Z",
       "source": {
         "name": "Honolulu Star-Advertiser",
+        "url": "https://www.staradvertiser.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Cuba suffers nationwide blackout after total power grid failure - staradvertiser.com",
+      "description": "Cuba suffers nationwide blackout after total power grid failure &nbsp;&nbsp; staradvertiser.com",
+      "content": "Cuba suffers nationwide blackout after total power grid failure &nbsp;&nbsp; staradvertiser.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVDBlUUZ2OWFjU3VCX2RXdllURG1qZndJUUxWTXlyS3FOSWtFOF9WbnZiUHc2RlY1d1E4VFctZmxfOUdUdXVLRlJmbFdVWm5USFdaQUp5eDY2cFlVdFJJaGFXNGNDOW0wek9TSDRiZmF1bWE2NUFYQ0phZEZveE1LRFhSRXE5SnppWkNMSnJxWkpmX0pnd1p3YmdmdXFaM25CLV85NzlFbjlsQ0F6NkpXa0dsYVNZMWtzOVpLcw?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
+      "source": {
+        "name": "staradvertiser.com",
         "url": "https://www.staradvertiser.com"
       },
       "provider": "Scheduled Google News index",
@@ -4932,6 +5097,21 @@
       "preferredSite": ""
     },
     {
+      "title": "إنتاج الغاز في الشرق الأوسط قد يتراجع 220 مليار متر مكعب خلال 2026 - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "description": "إنتاج الغاز في الشرق الأوسط قد يتراجع 220 مليار متر مكعب خلال 2026 &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "content": "إنتاج الغاز في الشرق الأوسط قد يتراجع 220 مليار متر مكعب خلال 2026 &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQN2JfZEpvaTR6V0l3N09LQXBsdmg0cThUVUZVUnhOLTA3Y2ZXN1cwaUExX3A4SVlGVTRUeEs5Tm15U2ZSNmswS1MzYjFab1RwYS1UbjBwaG1oMV92aW5waTlHQzJOXzlwNlpXYXR6bGtIR0lpSWhiRGs1WnhRckRYY3FwS2hjc2J5cVp0UjlGQ3VHY3FoODg1cTJldkZIZHg2aVBVN2N2Zy03X2hZRnhOVlhGclNRYjVzUGVwaUpDYmFNbkRRNWc4bFpFMUN5aVhYQ2hzLTM2Tnd3aVVXM09XMnY1ZUFwZWFsSkM1SGxRYUhKMTNaUDc2dUV1VjhmbWdmczhtQmhXZjVnMkNkek1vMGR2b3BMZks1ck1iZWYzaWZYalhkSXk2c3RSaHRQOGg2cjB6cGUyX2NraG1BZXRnZVhNZ1NYYVVRaHRn?oc=5",
+      "image": "",
+      "publishedAt": "2026-05-26T07:00:00.000Z",
+      "source": {
+        "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+        "url": "https://attaqa.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK - ictnews.org",
       "description": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK &nbsp;&nbsp; ictnews.org",
       "content": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK &nbsp;&nbsp; ictnews.org",
@@ -5035,6 +5215,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "Goldman Sachs: Gulf Oil Production Could Rebound Within Months After Hormuz Reopens - maaal.com",
+      "description": "Goldman Sachs: Gulf Oil Production Could Rebound Within Months After Hormuz Reopens &nbsp;&nbsp; maaal.com",
+      "content": "Goldman Sachs: Gulf Oil Production Could Rebound Within Months After Hormuz Reopens &nbsp;&nbsp; maaal.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51RkpVTE5ZRHpkQVlqZEQwRW9HVTBvSHdsbk5iR2pTM1RVdFJVbkxOUGM5c0hrRXAxamxxNzAxbDJIeFRZM0JCWHBNNWFTdHUzTmJBaHZ4N2diSUFkN190blh4X3NFWUVOdzYw?oc=5",
+      "image": "",
+      "publishedAt": "2026-04-24T07:00:00.000Z",
+      "source": {
+        "name": "maaal.com",
+        "url": "https://maaal.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
     },
     {
       "title": "WATCH: Ranking Member Pingree Blasts Burgum for Sabotaging Renewable Energy as Gas Prices Soar - Representative Chellie Pingree (.gov)",
