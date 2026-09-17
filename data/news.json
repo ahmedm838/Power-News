@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-09-16T21:21:07.419Z",
+  "generatedAt": "2026-09-17T04:56:46.500Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "China’s gas demand affected by Guangdong’s power generation shift - theedgesingapore.com",
+      "description": "China’s gas demand affected by Guangdong’s power generation shift &nbsp;&nbsp; theedgesingapore.com",
+      "content": "China’s gas demand affected by Guangdong’s power generation shift &nbsp;&nbsp; theedgesingapore.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1BSRU5Ha0J5dkJqWG5haVlLUUF1Z0JKVm9BSjZuZlNtVjJmd3lfOVZtRWFWdXBzUWJUWFpuc1VGbzRXNVE4WTFPeG1haUlRbjhnenN5UVo1LUcyd0tmVzk5dnlWcENWd0hiUG5TNm1TZV9vV3M5MjZqbkhEcHBDNVk5aTRocnludGhJUkdYQjZHQTFzWG5DUFZ0Tkotal9GNm1WcGtVeDVMUdIBrwFBVV95cUxOM1lwREhCRmtXNDViX0xaMm9HMUZTb1dEcVFVTlRxMjg0QXRWVXJHQWI1a0dZSHV2SlpfTjFzdDZwUUdrSTU4b053UVo5VzFxTlptdlBRbW0xMGxiZlJYQzhBS1VIV2xvV3V1VVgxUUZSeDJKbk85VUZHMHI3WjY0RXRwUnZaTUtfZ3hVTjFTaGFtY2dTSHpKXzZLTmtkS3B4eHptT3hQOFRsb2JKRlVB?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-17T01:49:20.000Z",
+      "source": {
+        "name": "theedgesingapore.com",
+        "url": "https://www.theedgesingapore.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "د. محمد سليم يكتب ..شركة القابضة لكهرباء مصر تحت التقييم بالذكاء الاصطناعي",
+      "description": "في هذا المقال، استخدمت أدوات الذكاء الاصطناعي لتحليل مؤشرات الأداء الفني والمالي المنشورة في التقرير السنوي للشركة القابضة لكهرباء مصر …",
+      "content": "في هذا المقال، استخدمت أدوات الذكاء الاصطناعي لتحليل مؤشرات الأداء الفني والمالي المنشورة في التقرير السنوي للشركة القابضة لكهرباء مصر …",
+      "url": "https://www.egelectricgate.com/?p=10523",
+      "image": "",
+      "publishedAt": "2026-09-16T21:54:45.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
     {
       "title": "Algeria Set to Record Africa’s Fastest Renewable Energy Growth at 42.5% CAGR – الشروق أونلاين - الشروق أونلاين",
       "description": "Algeria Set to Record Africa’s Fastest Renewable Energy Growth at 42.5% CAGR – الشروق أونلاين &nbsp;&nbsp; الشروق أونلاين",
@@ -27,7 +57,8 @@
         "morocco",
         "jordan",
         "qatar",
-        "turkey"
+        "turkey",
+        "kuwait"
       ],
       "preferredSite": ""
     },
@@ -82,7 +113,7 @@
       "content": "EPA repeals power plant GHG rules, clearing path for new gas-fired generation &nbsp;&nbsp; Oil & Gas Journal",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV3RaUi1aV19QMHZwSmh0YzZOdGhYeWJfNzdhLXpFeXY2TXhBSUh6NHBUdjQzNzZCekliWVRlSExFWEZfWlBrV2x4RFlrVWllMkVYd2hlc3VUdHhQYXBjWEdLbUdDUTQ1N0Y4anluaFF2ZU45VUQzcUtzRVNVZmlicWRiLWZJS3pQbklHVk8tSWJrNkFHYXZCWjRTS2F0ZkRGSEpsTlZuNnllUm5NSnpGTkF2c29zRFh1YV9XenE1NU02NlppTVhrdmNrVE5jUGNncFU0aA?oc=5",
       "image": "",
-      "publishedAt": "2026-09-16T04:18:45.000Z",
+      "publishedAt": "2026-09-16T02:39:26.000Z",
       "source": {
         "name": "Oil & Gas Journal",
         "url": "https://www.ogj.com"
@@ -175,6 +206,21 @@
       "publishedAt": "2026-09-15T22:05:33.000Z",
       "source": {
         "name": "Utility Dive",
+        "url": "https://www.utilitydive.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "EPA scraps Biden power plant GHG rules, moves to eliminate other standards - utilitydive.com",
+      "description": "EPA scraps Biden power plant GHG rules, moves to eliminate other standards &nbsp;&nbsp; utilitydive.com",
+      "content": "EPA scraps Biden power plant GHG rules, moves to eliminate other standards &nbsp;&nbsp; utilitydive.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNalMyajFHWmkwZ2Q4SU1pVU1vcjhCUXJwV2lLWnh0OFJDSXh0V0tGaFJHUlNnamdSMGxzcGZ5OEk1SHpRS2tFcmpGZHZ4dHQ0MkVxMVIxSzhQbHY2OFZja3ZQYmdkd2p0cTdfUkVhWXBjRFlDakcyenJ6VWN6SVpGZVVrTXA0MU85cGZsaGVrN2dXMTlXZ1I0TUlSMnduODZ0ekpULTdGQVhpNXBxNlBmbDItNmc?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T22:05:33.000Z",
+      "source": {
+        "name": "utilitydive.com",
         "url": "https://www.utilitydive.com"
       },
       "provider": "Scheduled Google News index",
@@ -495,21 +541,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "alghad.com"
-    },
-    {
-      "title": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو - الشرق الأوسط",
-      "description": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو &nbsp;&nbsp; الشرق الأوسط",
-      "content": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxQejdETzBoS01aekFUTGxTOHZiUFA5dEZEdjd0U1pBVmVtLV95QTUtRFczbkJBcVRleUN2OWYtR1g2MGVYYV96eWhaSVZLc0dCVVpUNjYtajNya2NwNHplM2pIWmVmMmM4RWdlNTI2X3JqOEFEZGdYVkc2SmgxU1loYmd5Sms1cEZlRnhqcWxPX19sd1dHVnJJZDFkbU5oVEFEN3pIU2VKVWd3YW5SeDJXVXF6eHQzVC1GdlhMR1dzQjlrcHA0WHdpYVRMVUpCOHBBbk5TRWhVbEUtMlhjVUhfSFRDUVIxWFdCNDIydWFvSjFQUU9hc1NoaW5Ja2d0Tno1QWFjeEpxU3ZWb1A5S3FEZmVZaUNoWkZpc3ZKT2pEbXBibmJpd005ck5uNTNPUFhoOWVIT1ZndmkzWlp4ekJVVkNPbXZ5bk5IaU1QLXQtNldQejhFb3JXZV9WMjdmMGVJaVJyZndGZy05THpzV2lSTXVIeC11cHdjR1FLMHJBcmRWcEJpWlJGamNZc1d3Rk1VLVlKcHQ3TW9WRVh0UFVZMTg2TkVoQVdtaWtyLXIzQ0FnTHBEVUpIX28wTDlxbE1MVnlsWEpkeHRWQ05zY2JiZWY5VXhJZUJBTUFlSFVCeHZ6Yk9scVo3N0FvUW1VVTllMEl0MlBDWjY0Y25GZ1lnNnM0MjZHZWotSUlybmFkR25OOUJ3LXdEQmtBLThmenlPVTFIZ09UWi1zWEYzOTVQZGN3SjlGY3hnUTBwakdZNHNWRWI3UlEtTnk5SHNId1paLUxDZTZrN1FJYzlfak5nWW9ZdzFaZkU?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-15T11:09:19.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     },
     {
       "title": "'A giant step backward': Trump administration axes limits on coal and gas power plant pollution - BusinessGreen",
@@ -1155,21 +1186,6 @@
       "preferredSite": ""
     },
     {
-      "title": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة - الشرق الأوسط",
-      "description": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; الشرق الأوسط",
-      "content": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxOUU9QQ2FhVl85RkN1bWEzMXZ1Wmd3b2ZxSnl0NDl2Nzh3SFJoZ1VlUnBrME5BNFhhOHItQnlxRzVoUTdvdzM2R3Fscm5kU3hNQm8xWnpWUGNqSzVnSkR5eHZCdk5HRjEwTVNjd0VKX0JXNjJqUlFodko1cEZFUnJjLWNzY3BKc1lsTVEwSHlLaEZYd2NRLUExc3Mwc01wSktjb0VaNTJYZjdueGhVandldXJxTHdveEgtVDhxZmVnN1pWcGhhZE1nUTFqanBOQjZrUTQ3d0taUjV5QUhnbExqalA4TWNtZkE3LXpFREFMNDZDNjEwLWtoMHJ6VWd1Wk9mMTZwVmpubWlURHlrcmhCeFU2NnVpWXNST3FEVjVaYnlHYVl5dHQ0QWhDRHdUdGFCUDJ2YWtnQ2xiVVNWRmZ6NlJPbFNsTUpleE9VNmtiTU02NHdBX3FqZzRyM0QxLTJPYld3S0diVVo3RS1pT0FOWm9TZEl5Q091RXRiQWhCdEJfVGVleGNoU0pQUW4wWDdUWjFiUExwaWpfQzBYN0hYWGE4YnY4UVVYSzI3d0FKcmV4VUtiWF9OY2JYQ3lQUjBTVUdLSDhSVm5fTzE3T2FoNi15QWdvZC1ZemJZcEtXdVFvRi05ajdZajBab296cHRtbTg5MGZvTHBNUlRzcDY5TjFvdmh6dmhZRWRMb09FeHFrNVQzU1kyOXJjZC1VNUVWc0JsNjZpX1E5d1B0WmQ3UldvQkdXckJmMXVJVkpicVN3V2tmZFNJaElyUWJtS3V1SXRwejVsR2RNTmlCQThUMWZEUjBEcW9leXhwUTQ3bE5IU0dHeUJ3M2VBMG56bV9NSTJzR2RscmxKR3Y3ZWZfc2lEQTNpNUxGc3EyeE9Ccmg?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-14T16:41:45.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "EPA poised to scrap power plant carbon standards - Smart Cities Dive",
       "description": "EPA poised to scrap power plant carbon standards &nbsp;&nbsp; Smart Cities Dive",
       "content": "EPA poised to scrap power plant carbon standards &nbsp;&nbsp; Smart Cities Dive",
@@ -1403,6 +1419,21 @@
       "publishedAt": "2026-09-14T07:00:00.000Z",
       "source": {
         "name": "Utility Dive",
+        "url": "https://www.utilitydive.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "EPA poised to scrap power plant carbon standards - utilitydive.com",
+      "description": "EPA poised to scrap power plant carbon standards &nbsp;&nbsp; utilitydive.com",
+      "content": "EPA poised to scrap power plant carbon standards &nbsp;&nbsp; utilitydive.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzcwcWw2bERTdmh5eFVvVjdVUGNOWDN4MElEaklQUGNuZmpEV2toQjRuMUp3VHFmV2ljbnVlXzZDR1BNSlF1TWhFTURNZklodnVhYkRCS0xQRkdsLWRQcUEyMUVPM1JJVTA4QW96YndRSTdQUDFaTnc2dEJzRzRWSk93alk3djBhT091NktOQ2Rvb1k?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-14T07:00:00.000Z",
+      "source": {
+        "name": "utilitydive.com",
         "url": "https://www.utilitydive.com"
       },
       "provider": "Scheduled Google News index",
@@ -2460,21 +2491,6 @@
       "preferredSite": ""
     },
     {
-      "title": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى - الشرق الأوسط",
-      "description": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى &nbsp;&nbsp; الشرق الأوسط",
-      "content": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxQM2xDdWJ3TjFjVElnTVB3cU1KWEpNQ0piX2R6Tm1uUDdYdTZZeW9KTEp5QWlUZ3h5VE84Z2NnbEUyako3YlFWRlZpQXZGdlhIbTVoa2J5VUFLV0lJaWNYTVlydlNRZ3BjT1dMY0NCclNheUpfSzRWOWJ1VEJ0SmUxSE1JcjZlSEx1alRWcU9Mbk96eTFwbnR3eUVYMnRSMjNjMmFLazJqVTdpclotTjVTVGQ2N3R1ZVF1Z0tzZ3JBcmNab0ZMcGk3N2d3cnNkQm5BR0tpZ2JuRTZ5UUtGX2VUYVJlSDZuWGhPcHRyeGlJRjJGVnFUUVpqLW5GTUJ5X1A1Z2tRcUEyRThDZ1FaUGgtNjJTRFpYTFNSSUEzamdzdEgwU2ZtWHc1OUluS1R5SFBSOU1kQ0phU3lJcXllY1FodG90TFF0dnpfVVgyN1JTT3VBRDBXZWthbUxmM0tiLXh6YTJPcXFKSko0TFJ3S2xTZ2V2SlFUN1BucVF2c1hNVlpHRGNZXzlQYndFSlRwQmR1OEFVNmxJa1d6X2x5RVNXV1RldDFzX0tWZU1veXBIS0dlSHFtWnl4ZUo1ZGtVNVRFWVotcUlGbDY3M3hyM3pPTlVxLWNRdm1YWGQzU2FXMzAyUFJTOTVlaHBNckpraW5YWnUxbW4xRFlFdGtCUEpFaERncXV4YnNxbjBZTm83Z1dYZ2p1VXNDY1RwQTZmUEhteVZ2QWp6U0dCeTJXRDc5cFNoM0s2QlBmcTdFN1dJa1BDSWx5dkotT1NicjktQ1dmbER1N1VlSC1RdXNMZkk4VkJQVDdMX1U3Z1lDV0dtSQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-02T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "وزير الكهرباء النيجيري: نبحث مع الإمارات دعم إنتاج الكهرباء بـ5000 ميجاواط - الاتحاد للأخبار",
       "description": "وزير الكهرباء النيجيري: نبحث مع الإمارات دعم إنتاج الكهرباء بـ5000 ميجاواط &nbsp;&nbsp; الاتحاد للأخبار",
       "content": "وزير الكهرباء النيجيري: نبحث مع الإمارات دعم إنتاج الكهرباء بـ5000 ميجاواط &nbsp;&nbsp; الاتحاد للأخبار",
@@ -2484,6 +2500,21 @@
       "source": {
         "name": "الاتحاد للأخبار",
         "url": "https://www.aletihad.ae"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى - الشرق الأوسط",
+      "description": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى &nbsp;&nbsp; الشرق الأوسط",
+      "content": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxQM2xDdWJ3TjFjVElnTVB3cU1KWEpNQ0piX2R6Tm1uUDdYdTZZeW9KTEp5QWlUZ3h5VE84Z2NnbEUyako3YlFWRlZpQXZGdlhIbTVoa2J5VUFLV0lJaWNYTVlydlNRZ3BjT1dMY0NCclNheUpfSzRWOWJ1VEJ0SmUxSE1JcjZlSEx1alRWcU9Mbk96eTFwbnR3eUVYMnRSMjNjMmFLazJqVTdpclotTjVTVGQ2N3R1ZVF1Z0tzZ3JBcmNab0ZMcGk3N2d3cnNkQm5BR0tpZ2JuRTZ5UUtGX2VUYVJlSDZuWGhPcHRyeGlJRjJGVnFUUVpqLW5GTUJ5X1A1Z2tRcUEyRThDZ1FaUGgtNjJTRFpYTFNSSUEzamdzdEgwU2ZtWHc1OUluS1R5SFBSOU1kQ0phU3lJcXllY1FodG90TFF0dnpfVVgyN1JTT3VBRDBXZWthbUxmM0tiLXh6YTJPcXFKSko0TFJ3S2xTZ2V2SlFUN1BucVF2c1hNVlpHRGNZXzlQYndFSlRwQmR1OEFVNmxJa1d6X2x5RVNXV1RldDFzX0tWZU1veXBIS0dlSHFtWnl4ZUo1ZGtVNVRFWVotcUlGbDY3M3hyM3pPTlVxLWNRdm1YWGQzU2FXMzAyUFJTOTVlaHBNckpraW5YWnUxbW4xRFlFdGtCUEpFaERncXV4YnNxbjBZTm83Z1dYZ2p1VXNDY1RwQTZmUEhteVZ2QWp6U0dCeTJXRDc5cFNoM0s2QlBmcTdFN1dJa1BDSWx5dkotT1NicjktQ1dmbER1N1VlSC1RdXNMZkk4VkJQVDdMX1U3Z1lDV0dtSQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -2652,7 +2683,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "utilities-me.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "A Silvia Perez Concert in Havana without Electricity or Sound Equipment - Havana Times",
@@ -2743,6 +2774,36 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "utilities-me.com"
+    },
+    {
+      "title": "Natural Gas Leads U.S. Power Generation: 2 Midstream Stocks to Gain - finance.yahoo.com",
+      "description": "Natural Gas Leads U.S. Power Generation: 2 Midstream Stocks to Gain &nbsp;&nbsp; finance.yahoo.com",
+      "content": "Natural Gas Leads U.S. Power Generation: 2 Midstream Stocks to Gain &nbsp;&nbsp; finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGdzODk5amxkbVhETXlCRkdnZGZMdlBVejRvaGIxQVNQV043Q3pXMmk3U1lnN3N6b3dzNnJuUFhkZUNRUGxIWjBHTkFYcnRuSk1RUXF2cWVqbGFnVzF4Y0NiMGRKbkJXaElGWkVaMVo2Q280N1pWUktnX2N4Q2VQR1lXcnd3M01kdmc?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-28T07:00:00.000Z",
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة - الشرق الأوسط",
+      "description": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; الشرق الأوسط",
+      "content": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxOUU9QQ2FhVl85RkN1bWEzMXZ1Wmd3b2ZxSnl0NDl2Nzh3SFJoZ1VlUnBrME5BNFhhOHItQnlxRzVoUTdvdzM2R3Fscm5kU3hNQm8xWnpWUGNqSzVnSkR5eHZCdk5HRjEwTVNjd0VKX0JXNjJqUlFodko1cEZFUnJjLWNzY3BKc1lsTVEwSHlLaEZYd2NRLUExc3Mwc01wSktjb0VaNTJYZjdueGhVandldXJxTHdveEgtVDhxZmVnN1pWcGhhZE1nUTFqanBOQjZrUTQ3d0taUjV5QUhnbExqalA4TWNtZkE3LXpFREFMNDZDNjEwLWtoMHJ6VWd1Wk9mMTZwVmpubWlURHlrcmhCeFU2NnVpWXNST3FEVjVaYnlHYVl5dHQ0QWhDRHdUdGFCUDJ2YWtnQ2xiVVNWRmZ6NlJPbFNsTUpleE9VNmtiTU02NHdBX3FqZzRyM0QxLTJPYld3S0diVVo3RS1pT0FOWm9TZEl5Q091RXRiQWhCdEJfVGVleGNoU0pQUW4wWDdUWjFiUExwaWpfQzBYN0hYWGE4YnY4UVVYSzI3d0FKcmV4VUtiWF9OY2JYQ3lQUjBTVUdLSDhSVm5fTzE3T2FoNi15QWdvZC1ZemJZcEtXdVFvRi05ajdZajBab296cHRtbTg5MGZvTHBNUlRzcDY5TjFvdmh6dmhZRWRMb09FeHFrNVQzU1kyOXJjZC1VNUVWc0JsNjZpX1E5d1B0WmQ3UldvQkdXckJmMXVJVkpicVN3V2tmZFNJaElyUWJtS3V1SXRwejVsR2RNTmlCQThUMWZEUjBEcW9leXhwUTQ3bE5IU0dHeUJ3M2VBMG56bV9NSTJzR2RscmxKR3Y3ZWZfc2lEQTNpNUxGc3EyeE9Ccmg?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "عقد كبير لتطوير 3 مشروعات تخزين الكهرباء بالبطاريات في الشرق الأوسط - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -2918,6 +2979,21 @@
       "publishedAt": "2026-08-20T07:00:00.000Z",
       "source": {
         "name": "Utility Dive",
+        "url": "https://www.utilitydive.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Electric co-ops press for repeal of gas power plant emissions rules - utilitydive.com",
+      "description": "Electric co-ops press for repeal of gas power plant emissions rules &nbsp;&nbsp; utilitydive.com",
+      "content": "Electric co-ops press for repeal of gas power plant emissions rules &nbsp;&nbsp; utilitydive.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTUJnYVNXQ0VuT081SEF1Z3Zzd1U4MXBuX0hMNlROQ3RYYkFJcXJaRG1aWmNVN084NGg4S1hiU0hrb3VHMV9LWWNYVGJhMDFaa2ZkckhNSVNPdFJZa1RGa1dZdXdESW04SVdyQ3M0VkVjVWxCVEp2MUNrUzBUWUg5NzlSS0JRc3hsektWdWQ3TjMtUkZBdzNFVDZDaEoyZU5a?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "source": {
+        "name": "utilitydive.com",
         "url": "https://www.utilitydive.com"
       },
       "provider": "Scheduled Google News index",
@@ -3219,6 +3295,21 @@
       "source": {
         "name": "The Sun Times News",
         "url": "https://thesuntimesnews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals - finance.yahoo.com",
+      "description": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals &nbsp;&nbsp; finance.yahoo.com",
+      "content": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals &nbsp;&nbsp; finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWklWQlRzRVRwbUNDMEdBQWc1eXhRMU1YN292aGFuZ1NJRW8weG5aYzE1bkVOLWFtV3AzZXJvNzNwUVNVa2lQNWFRTzVQR3FQWVlwOTFrbmIySFlsVVNGYWY0Wk5ydnZ3UnpIZXlmb3R6SVlsanlTUUo2amRtZG9DS2hwbEQyUEttS3hiM2NMY0owemh6Ukx3Z21LQ3F0LUpNMDRz?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-14T07:00:00.000Z",
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -4230,14 +4321,14 @@
       "preferredSite": ""
     },
     {
-      "title": "Smart metering is responding to changing electricity demand patterns - ESI-Africa.com",
-      "description": "Smart metering is responding to changing electricity demand patterns &nbsp;&nbsp; ESI-Africa.com",
-      "content": "Smart metering is responding to changing electricity demand patterns &nbsp;&nbsp; ESI-Africa.com",
+      "title": "Smart metering is responding to changing electricity demand patterns - esi-africa.com",
+      "description": "Smart metering is responding to changing electricity demand patterns &nbsp;&nbsp; esi-africa.com",
+      "content": "Smart metering is responding to changing electricity demand patterns &nbsp;&nbsp; esi-africa.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmVod1BLMThhQWZFQ0hlT0tkMktXSG5WNnQ0a25KT1FHYzc3bUQtcE00Z3J3TzlNbVNlTmpvVEtHdk54dE1Bci1OVnFwQ093N0FxTmw1ZTlkZFFHOEZFZ2R3V25ONDdwRlctb0VwTGREWERRY2VhMzdKakZOa3NPMDVVWTRUZERTem1UQVJJdENwRE1lZXFySU94RjB5VGlSYzgxMDdqdmhWOWhzSFgwV0dFcF9uN2vSAb8BQVVfeXFMTmNyZ052MF9HWUo4NTFILTl4eTVSWDFsRU5ocmZrNDFWWlliZVdvYTMtM05kM3VIcFBJSUJsVUcwU2tCNlgzYlMwNUd3VXR3cDR2X1h4R0NvaW1Ed2JDc1JlQzVoM0JJSklkR3dRaVBidG05dlU2LWg3RmZRbDU0WDRhaHRUU3FldHhYRng3eGxmcXNtcFo3Zk52QkRUYWppUWEtR0VYTVdXZXlOMkljTXJNdEtnRzhqUXRvcmRNRmc?oc=5",
       "image": "",
       "publishedAt": "2026-07-21T07:00:00.000Z",
       "source": {
-        "name": "ESI-Africa.com",
+        "name": "esi-africa.com",
         "url": "https://www.esi-africa.com"
       },
       "provider": "Scheduled Google News index",
@@ -4408,6 +4499,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو - الشرق الأوسط",
+      "description": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو &nbsp;&nbsp; الشرق الأوسط",
+      "content": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxQejdETzBoS01aekFUTGxTOHZiUFA5dEZEdjd0U1pBVmVtLV95QTUtRFczbkJBcVRleUN2OWYtR1g2MGVYYV96eWhaSVZLc0dCVVpUNjYtajNya2NwNHplM2pIWmVmMmM4RWdlNTI2X3JqOEFEZGdYVkc2SmgxU1loYmd5Sms1cEZlRnhqcWxPX19sd1dHVnJJZDFkbU5oVEFEN3pIU2VKVWd3YW5SeDJXVXF6eHQzVC1GdlhMR1dzQjlrcHA0WHdpYVRMVUpCOHBBbk5TRWhVbEUtMlhjVUhfSFRDUVIxWFdCNDIydWFvSjFQUU9hc1NoaW5Ja2d0Tno1QWFjeEpxU3ZWb1A5S3FEZmVZaUNoWkZpc3ZKT2pEbXBibmJpd005ck5uNTNPUFhoOWVIT1ZndmkzWlp4ekJVVkNPbXZ5bk5IaU1QLXQtNldQejhFb3JXZV9WMjdmMGVJaVJyZndGZy05THpzV2lSTXVIeC11cHdjR1FLMHJBcmRWcEJpWlJGamNZc1d3Rk1VLVlKcHQ3TW9WRVh0UFVZMTg2TkVoQVdtaWtyLXIzQ0FnTHBEVUpIX28wTDlxbE1MVnlsWEpkeHRWQ05zY2JiZWY5VXhJZUJBTUFlSFVCeHZ6Yk9scVo3N0FvUW1VVTllMEl0MlBDWjY0Y25GZ1lnNnM0MjZHZWotSUlybmFkR25OOUJ3LXdEQmtBLThmenlPVTFIZ09UWi1zWEYzOTVQZGN3SjlGY3hnUTBwakdZNHNWRWI3UlEtTnk5SHNId1paLUxDZTZrN1FJYzlfak5nWW9ZdzFaZkU?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "Jackson residents concerned about proposed gas power plant - WJTV",
@@ -5449,7 +5555,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "ognnews.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Iraq’s Delayed Gulf Cooperation Council Power Link Deepens Summer Electricity Risks - Middle East Forum",
@@ -5494,7 +5600,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "ognnews.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "مشروعات الطاقة المتجددة في الشرق الأوسط مهددة بتأخير يصل إلى عام - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
