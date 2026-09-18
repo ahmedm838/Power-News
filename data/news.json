@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T11:20:42.988Z",
+  "generatedAt": "2026-09-18T16:27:36.622Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
@@ -13,6 +13,21 @@
       "publishedAt": "2026-09-18T08:34:28.000Z",
       "source": {
         "name": "bbc.co.uk",
+        "url": "https://www.bbc.co.uk"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Louise Minchin's advice on smart meters smart meter compensation - BBC",
+      "description": "Louise Minchin's advice on smart meters smart meter compensation &nbsp;&nbsp; BBC",
+      "content": "Louise Minchin's advice on smart meters smart meter compensation &nbsp;&nbsp; BBC",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ULWZpR21fVnRhdG5yZjJ6V3ZucmxYbFRBLXZDUXJHWVpsUDhZUk9OY1c3WHBWXzdSZ1dWUktYd0R4MkxUem02RHFOS2FJOTJ6LXNWdzFuUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-18T08:34:28.000Z",
+      "source": {
+        "name": "BBC",
         "url": "https://www.bbc.co.uk"
       },
       "provider": "Scheduled Google News index",
@@ -38,12 +53,27 @@
       "title": "EPA Sued Over Power Plant Greenhouse Gas Rule Repeal - Law360",
       "description": "EPA Sued Over Power Plant Greenhouse Gas Rule Repeal &nbsp;&nbsp; Law360",
       "content": "EPA Sued Over Power Plant Greenhouse Gas Rule Repeal &nbsp;&nbsp; Law360",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0RydGE5bXFONGZWY2ZTblBFOE50UU1wN2pzZEhUcEktdEhldmk1Zk50bmxiVnFSSk1jNkdRTEFWQlRfek1hdUN1QlhuR1Jtelc0NU4tMFBfblFNTDRkd3lwbVZDT2ZPbW8wM2FSYnoxVkFjNlpTZmxDWmExTXFmdGxwT1dyUXpuWEYxTC1lV1h6cUVsMkI0cXplbC05eHNt0gFWQVVfeXFMT0JJdjBhNHJicXNjdk1zWG8yeHFXR2htUGhDNzVzdkdmeFV2NkdpYkFrMjRHNnFlZGphNHNLQ0tVeWdvc0hBZkJVdm1wcnBWUl9hSVMwNnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaUNnZjBGNHJVVHVjcmg1cm9BeGx2THBBWEFvV3VJbmxEbUFZQU1JZ19NenRZMVlfOVRqcnE4ZFpURWRJMGZBM3lzT25YNGFQelMzUTlOeG9zNjV0OVBUWFBEbzlJSkVwanIyWGZCcDhVMVI0ZktrVXlZa28yS1FxSEx1X205SzRVeEdESEY3TGllTW5zb01r0gFWQVVfeXFMT0JJdjBhNHJicXNjdk1zWG8yeHFXR2htUGhDNzVzdkdmeFV2NkdpYkFrMjRHNnFlZGphNHNLQ0tVeWdvc0hBZkJVdm1wcnBWUl9hSVMwNnc?oc=5",
       "image": "",
       "publishedAt": "2026-09-18T00:12:00.000Z",
       "source": {
         "name": "Law360",
         "url": "https://www.law360.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
+      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-17T22:45:18.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -100,7 +130,7 @@
       "content": "Alberta plans new royalty incentives to spur oil production &nbsp;&nbsp; Oil & Gas 360",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORG1KeHN4QmhRdFlzZjVoX291cFZBQmZYLWxlLVpsdkZXVl92MVpKWWlfNS1WUG5rN1VtcWR6UGJPUFM5MGltTGdlRTJuNnZIa2U1Y2tkNVJMdzVWYmFTWmtWWU1pTC1LNmxQeVFvWG51SHYwN0RxSUNxa1VVelVkOE1vbHVJX0RuaHNyWms3eUVOMkE?oc=5",
       "image": "",
-      "publishedAt": "2026-09-17T18:38:06.000Z",
+      "publishedAt": "2026-09-17T18:45:06.000Z",
       "source": {
         "name": "Oil & Gas 360",
         "url": "https://www.oilandgas360.com"
@@ -119,21 +149,6 @@
       "source": {
         "name": "White River Now",
         "url": "https://www.whiterivernow.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
-      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-17T17:19:51.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -213,6 +228,34 @@
       "preferredSite": ""
     },
     {
+      "title": "Algeria Set to Record Africa’s Fastest Renewable Energy Growth at 42.5% CAGR – الشروق أونلاين - echoroukonline.com",
+      "description": "Algeria Set to Record Africa’s Fastest Renewable Energy Growth at 42.5% CAGR – الشروق أونلاين &nbsp;&nbsp; echoroukonline.com",
+      "content": "Algeria Set to Record Africa’s Fastest Renewable Energy Growth at 42.5% CAGR – الشروق أونلاين &nbsp;&nbsp; echoroukonline.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd3NqUF9SME5QRTJFXzNENnA5clZOWi1RN0R2SERSblZkNVhNVlFKTktONHJHRUJGekNsNDh0VkZsVjFWdi1waHBMellQVGI0U0RHZ1FLUHBxLUVYS19ENE5Fd2c2Sk0wbHhnbk5ZWkNEck5fMFFkTmRFaEFXNm5pLUFYeVhpUlowX3pmdks2YmNiNUxOZWhmMXVZaHFQSTI4TG4yQncydmFxYm84R2c?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-16T18:21:47.000Z",
+      "source": {
+        "name": "echoroukonline.com",
+        "url": "https://www.echoroukonline.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [
+        "egypt",
+        "saudi arabia",
+        "UAE",
+        "iraq",
+        "iran",
+        "libya",
+        "algeria",
+        "morocco",
+        "jordan",
+        "kuwait",
+        "qatar",
+        "turkey"
+      ],
+      "preferredSite": ""
+    },
+    {
       "title": "Should you store your solar power or sell it back to the grid? - The Independent",
       "description": "Should you store your solar power or sell it back to the grid? &nbsp;&nbsp; The Independent",
       "content": "Should you store your solar power or sell it back to the grid? &nbsp;&nbsp; The Independent",
@@ -241,21 +284,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "egelectricgate.com"
-    },
-    {
-      "title": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية - الشرق الأوسط",
-      "description": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
-      "content": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxOdGVyY0QtWVpUckRCNnk0ZHNJMXZDcldGS2pHYWNKRTQtdFVVQUh5NjVLTGxYSE04LW9rcU9BV0p6Z0RSZHFmdEc5MGpBSkt2MVVjTVRlVkRvVTVQT1AxeTZidmtCQXJjTGQ4VE10T3BsRVBrdnRIT1FWTl80bExjWGZpNVozZVZkOFhma0pLSm5pNzR4N1JwdS1KcnlfNDRCNUtIcGFCNjFQYVg1R0JXY0pndWJpNkxaNmZra2NlRG1CVnlYUHoxQi1SdWVTUVJWNE9JNXVkTVNncHNDOFZmb2NLNHNPYXJ3eGNqUkc3T0hOMVAwMkdDei1EX1N2b3IyNWlielNEclp6S0RiVm1ydm5NMUV3Q3FXUHpTZGUtWUpjWWZNZjVyVS16TE9FMkdDb2hMUWRiUFhXOVZ1YWljUE1ZVW15d3NxSDVvcVBjNHFFc0VaRFc4ck5JdFJfdjJvLXpuS05FWDcyREtHa2xocmk1c2x2T29HWEo4ekxMNlp2LVNocTlLdW5uSHBVd0V2cl9kLWZaaDBXYzY4OTFhaGhJTUo5Q2dkOGk4UFoxWVRvRzkyNXNIZjYxYjN3eVZZZi1IVlBpbkthNk95bVJySmhwVXJJeE9xVVFITmE2WVROTHBsRDFiNUtFenpLWDdaNko4cml6dEhUb3NMSUFraW5ScVhaQVdjUnZld2pkZ2JGNnFEV1JEVTdWYks?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-16T12:09:49.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     },
     {
       "title": "إنتاج النفط النرويجي يتجاوز التوقعات في مايو - الشرق الأوسط",
@@ -660,7 +688,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "arabic.cnn.com"
+      "preferredSite": "economyplusme.com"
     },
     {
       "title": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived - maaal.com",
@@ -720,7 +748,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "arabic.cnn.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "'A giant step backward': Trump administration axes limits on coal and gas power plant pollution - BusinessGreen",
@@ -1681,21 +1709,6 @@
       "preferredSite": ""
     },
     {
-      "title": "‘BNP in power without gas, electricity or fertiliser crises?’: Rumeen’s remarks spark uproar in parliament - The Daily Star",
-      "description": "‘BNP in power without gas, electricity or fertiliser crises?’: Rumeen’s remarks spark uproar in parliament &nbsp;&nbsp; The Daily Star",
-      "content": "‘BNP in power without gas, electricity or fertiliser crises?’: Rumeen’s remarks spark uproar in parliament &nbsp;&nbsp; The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRXFKRXFrZXpWQUdHeWJuMVluLU9STXhLOUpLQnFTYmhJWVFEc21pVks4NzlrTzdEOGd4Vnlydy1pdkxoVUtzcktWZUJvTS12aVRZVl94VFJ3VDFORjdIWFpIYkxHTlFjNVFZSUpQTGFxaGF4VWI5b1NKazVjRWNwVTZvcnVTdzNyZkpON3pmY1NMMzJUWU8tN21fXzNCRmJKcnhSSG5jU2tYWjJuQVhLY2gwemdEckMyZTRpTV9VdVZZV1pONW83d05uZmxaUTlOUE03OG54X196QlNPOHBOREo1R3cwNjVlWEJ4WUJCYU8wbzdTdlE?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-13T23:15:02.000Z",
-      "source": {
-        "name": "The Daily Star",
-        "url": "https://www.thedailystar.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
       "title": "أزمة الكهرباء تفجر غضباً شعبياً بغرب ليبيا ومطالب برحيل «الوحدة» - الشرق الأوسط",
       "description": "أزمة الكهرباء تفجر غضباً شعبياً بغرب ليبيا ومطالب برحيل «الوحدة» &nbsp;&nbsp; الشرق الأوسط",
       "content": "أزمة الكهرباء تفجر غضباً شعبياً بغرب ليبيا ومطالب برحيل «الوحدة» &nbsp;&nbsp; الشرق الأوسط",
@@ -2206,6 +2219,21 @@
       "preferredSite": ""
     },
     {
+      "title": "‘BNP in power without gas, electricity or fertiliser crises?’: Rumeen’s remarks spark uproar in parliament - The Daily Star",
+      "description": "‘BNP in power without gas, electricity or fertiliser crises?’: Rumeen’s remarks spark uproar in parliament &nbsp;&nbsp; The Daily Star",
+      "content": "‘BNP in power without gas, electricity or fertiliser crises?’: Rumeen’s remarks spark uproar in parliament &nbsp;&nbsp; The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRXFKRXFrZXpWQUdHeWJuMVluLU9STXhLOUpLQnFTYmhJWVFEc21pVks4NzlrTzdEOGd4Vnlydy1pdkxoVUtzcktWZUJvTS12aVRZVl94VFJ3VDFORjdIWFpIYkxHTlFjNVFZSUpQTGFxaGF4VWI5b1NKazVjRWNwVTZvcnVTdzNyZkpON3pmY1NMMzJUWU8tN21fXzNCRmJKcnhSSG5jU2tYWjJuQVhLY2gwemdEckMyZTRpTV9VdVZZV1pONW83d05uZmxaUTlOUE03OG54X196QlNPOHBOREo1R3cwNjVlWEJ4WUJCYU8wbzdTdlE?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-09T15:43:40.000Z",
+      "source": {
+        "name": "The Daily Star",
+        "url": "https://www.thedailystar.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
       "title": "بطاريات تخزين الطاقة في الشرق الأوسط: ثلاث أسواق مختلفة تدفعها حاجة واحدة - سولارابيك",
       "description": "بطاريات تخزين الطاقة في الشرق الأوسط: ثلاث أسواق مختلفة تدفعها حاجة واحدة &nbsp;&nbsp; سولارابيك",
       "content": "بطاريات تخزين الطاقة في الشرق الأوسط: ثلاث أسواق مختلفة تدفعها حاجة واحدة &nbsp;&nbsp; سولارابيك",
@@ -2376,7 +2404,7 @@
       "content": "Satellite Images Show Jizan Oil Refinery Being Targeted &nbsp;&nbsp; الخبر اليمني",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XMDNyeXJCVndVOWkwdld1N2ZKb0U4SGliaHcxZHhNNWtWdmJicXd0Vmd6TkJONnNCVjNmaXVQYVBHV2tEY2h6UDUyYmZWZHRHamljWm5fNkpXREE?oc=5",
       "image": "",
-      "publishedAt": "2026-09-07T22:20:34.000Z",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
       "source": {
         "name": "الخبر اليمني",
         "url": "https://alkhabaralyemeni.net"
@@ -3361,6 +3389,21 @@
       "preferredSite": ""
     },
     {
+      "title": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية - الشرق الأوسط",
+      "description": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
+      "content": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxOdGVyY0QtWVpUckRCNnk0ZHNJMXZDcldGS2pHYWNKRTQtdFVVQUh5NjVLTGxYSE04LW9rcU9BV0p6Z0RSZHFmdEc5MGpBSkt2MVVjTVRlVkRvVTVQT1AxeTZidmtCQXJjTGQ4VE10T3BsRVBrdnRIT1FWTl80bExjWGZpNVozZVZkOFhma0pLSm5pNzR4N1JwdS1KcnlfNDRCNUtIcGFCNjFQYVg1R0JXY0pndWJpNkxaNmZra2NlRG1CVnlYUHoxQi1SdWVTUVJWNE9JNXVkTVNncHNDOFZmb2NLNHNPYXJ3eGNqUkc3T0hOMVAwMkdDei1EX1N2b3IyNWlielNEclp6S0RiVm1ydm5NMUV3Q3FXUHpTZGUtWUpjWWZNZjVyVS16TE9FMkdDb2hMUWRiUFhXOVZ1YWljUE1ZVW15d3NxSDVvcVBjNHFFc0VaRFc4ck5JdFJfdjJvLXpuS05FWDcyREtHa2xocmk1c2x2T29HWEo4ekxMNlp2LVNocTlLdW5uSHBVd0V2cl9kLWZaaDBXYzY4OTFhaGhJTUo5Q2dkOGk4UFoxWVRvRzkyNXNIZjYxYjN3eVZZZi1IVlBpbkthNk95bVJySmhwVXJJeE9xVVFITmE2WVROTHBsRDFiNUtFenpLWDdaNko4cml6dEhUb3NMSUFraW5ScVhaQVdjUnZld2pkZ2JGNnFEV1JEVTdWYks?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-22T07:00:00.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية - aawsat.com",
       "description": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; aawsat.com",
       "content": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; aawsat.com",
@@ -3501,7 +3544,7 @@
       "content": "شبكات الكهرباء العالمية تهدر طفرة الطاقة النظيفة &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQMV9LZjFieVFaNVhUMGJoS1lZc2tRam50bmRaa3dDdFRIUWN0X2lFLTlXb29QYU1Pc2FtZXRTckV1c1JEVTZYUUdrOHFyMmZ2WF94eGYza0FIRHFEbDFTNGtoTDF3cGJfWlZYV25lMVFDb3lJN2EzSEtEMDIyOWR2SUFBc3dvZW9OMjAwSWtJZzhMQjBlZ1F4WkhJSVZ5Mzl4TVl3V1ZlZjF2MUwzR2FOeWNRcFpNR2FrSXk2aGdudkdELVBiaFhmcENuSWxGd240UjNENXdEakUzZmZ6OEFBVVR6RWg3b0JRQWRNbnVoSU1QcVAxbTJlYUgwWGh0M1hLa0ZNNFdRTExoVzZyT0tYdmcxbXZmNkx2NGMwYXQzc082MmJhZ3J2ZExvV2o2aVRRWUpOUkFhTHNjT2FNYUtuZHRyODM1bGh1V3lPaTdCY1pIcFcyaHA4aDhZczZaeWE1MzRhZXJOaUdpaVdaZTNhMEFrWmpfXzBmQjYtS1RRdGNEQzFEOEY4LTBWU3NaUm1pNmhZTThtaXBrUExTWWdLQ1N5Q0d2YVZXRW9TVmZTblZMX1JLZmp2ZDN0TmhVWnpDdWxvNmFNc1VzR3NvdkpvemxOdzhIZnlIenc?oc=5",
       "image": "",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "publishedAt": "2026-08-17T13:09:07.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -4081,6 +4124,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Factcheck: How nuclear, gas, wind and solar power are affected during heatwaves - carbonbrief.org",
+      "description": "Factcheck: How nuclear, gas, wind and solar power are affected during heatwaves &nbsp;&nbsp; carbonbrief.org",
+      "content": "Factcheck: How nuclear, gas, wind and solar power are affected during heatwaves &nbsp;&nbsp; carbonbrief.org",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZEswOVpZRGJDZ2JVUVEtTnc2YUU0ZzlkbTRCSmIwVHo3S2ZwSkJWc3NLWTBpVDhXSDBaem5wQ01Pc1FPbFM0RGNyendMdmc1QjA4YVBDOGh4UUhGV0dkNVZpZVNZYUQ1YXBoZnJQR1NkcGZEUTZhZ3F1azExaWstVGlmUnIwMU1SMEFxRlROWi1rZFZBOXJxNVZlR0VZUkhlckxUTEdycw?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "source": {
+        "name": "carbonbrief.org",
+        "url": "https://www.carbonbrief.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "مصر.. انتقادات لزيادة أسعار الكهرباء ونواب يطالبون مراجعة القرار - CNN Arabic",
       "description": "مصر.. انتقادات لزيادة أسعار الكهرباء ونواب يطالبون مراجعة القرار &nbsp;&nbsp; CNN Arabic",
       "content": "مصر.. انتقادات لزيادة أسعار الكهرباء ونواب يطالبون مراجعة القرار &nbsp;&nbsp; CNN Arabic",
@@ -4156,6 +4214,36 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "مصر تبدأ إنتاج الغاز من حقل \"خوفو\" في 2027 بـ45 مليون قدم مكعبة يومياً - الشرق بلومبرغ",
+      "description": "مصر تبدأ إنتاج الغاز من حقل \"خوفو\" في 2027 بـ45 مليون قدم مكعبة يومياً &nbsp;&nbsp; الشرق بلومبرغ",
+      "content": "مصر تبدأ إنتاج الغاز من حقل \"خوفو\" في 2027 بـ45 مليون قدم مكعبة يومياً &nbsp;&nbsp; الشرق بلومبرغ",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPZllHUC1JX0ZYUmhwdjVaNXBQQmRNZTE4blpOQkstNGFwVnM2SjdjX1poc1plZVg3bmdwN21YVDJJQU84S1dqeVA0LW5KTzlxUDh2WXV4R3NZVE9icmtFQm9JR1ZVTlA3ZmxJaGIzSUNraGY2X1BRVHBxdlhudHljaGcwaGFnY2ZDa1dOWXpXUEgyMDR6WVlKeWlUZVZ6MGxhNWxrdm51cU5CMTNaVVJWVnp0d0oxOXZVcG5yeGp4MF9MYy1zQW5iUDJsaFpGMG50Nlg3b3A2MERBem1QQzlUdlV2M1VteVVBdDJ0T2NfVkhIS1JGWTdKcXd3ZXlBZmdhczM4MVF5TFNIeWkwbF9HTXJnLXg2eDEzYUJSMzZnOWI2Y1dSLXJUQ0FlT3BQcWdUd081cURJR0FTMUEzNy1LQkpPVGtwOW15TzlsaGNHYlJ3ZmZ0TW92MG5SNDE?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "source": {
+        "name": "الشرق بلومبرغ",
+        "url": "https://asharqbusiness.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "«أوبك بلس» يتفق على زيادة إنتاج النفط 188 ألف برميل يومياً لشهر سبتمبر - الشرق الأوسط",
+      "description": "«أوبك بلس» يتفق على زيادة إنتاج النفط 188 ألف برميل يومياً لشهر سبتمبر &nbsp;&nbsp; الشرق الأوسط",
+      "content": "«أوبك بلس» يتفق على زيادة إنتاج النفط 188 ألف برميل يومياً لشهر سبتمبر &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOcDZEZEdpSEJESEtodnJrZHFYRFRWM3d3WExPR2J6R1NwU3ExTUY3cjdtZ2p5ZEo0WDZjS1Y1YkExR2tVSVNRczcwYmRhLUpycFlzNWgzQ2g2RWVMaHJHZHFmR0ltM3FScUU1Tnp2a082SXhSbmt5eVpJN3owb2VnakxNUzVBc25ZVTdoNUhZNkFlSlJuNHZXcGt0R0NPRjVkVW55V3cyM2ZyaEJpZGJINVdpeFE1dkhlaDFMbkhvakRaVlpVaWg5Qk1zZU5vSnZOZ2FtaC1iZ09DNDBYV3JqUlgxNlZ0d2o5Mm1sNlBGZHpuWGU5bFRJNFFiZ0wtVVFwM2JhOFhMc29pdjIyVlIzNVkzckE2R2psb3M2MFBydGZXMGxWLXlseEhERFlnWS1kVmZRTG5qUkh1eVFQN2JPd1NZRkdKdDRwU0g3T0p1REE4ZTRlZXhnanhtSHRNWFhBRXBlX1RXSFpVVno2b0dhT00zWHk5LUJGVmJmODR0T1ZYLWowZS1MTDF3UnJ2X1dNQXl1VnhodUNpQU1YejNkMXFoR3AzRmFuOFpGbUpRVUZrQjdvX2hsYjNCZUhZZmxNSG40NUZGbURON0N6SzlSQW1QU2o1d2M5WWRkcFFrZjBZT3JTZkw1dkRuOVRtVVE5RmNLdE5IajBOQ3pzbVBQUk9fUGFDN21fVG5xTGpxRDEyTnRhZ3dqWEFTNXpmRkwxWTA4cU9zd01NTDZxYVAtcHZlY0lhMGpZWXlHdXhB?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-02T12:16:35.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "مصر تبدأ إنتاج الغاز من حقل خوفو في 2027 بمعدل 45 مليون قدم مكعبة - الشرق بلومبرغ",
       "description": "مصر تبدأ إنتاج الغاز من حقل خوفو في 2027 بمعدل 45 مليون قدم مكعبة &nbsp;&nbsp; الشرق بلومبرغ",
       "content": "مصر تبدأ إنتاج الغاز من حقل خوفو في 2027 بمعدل 45 مليون قدم مكعبة &nbsp;&nbsp; الشرق بلومبرغ",
@@ -4175,21 +4263,6 @@
       "description": "تحركات برلمانية مصرية ضد رفع أسعار الكهرباء... فهل تتراجع الحكومة؟ &nbsp;&nbsp; الشرق الأوسط",
       "content": "تحركات برلمانية مصرية ضد رفع أسعار الكهرباء... فهل تتراجع الحكومة؟ &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxPOVIyMVJNS3RlV2l5WHBkOXJuYzRXbzhiczRIWlFXLWN0em9IVFZwb0k0R3pHd1JWZ0J3MzBLU0E0M2dBQlZQZm1jUUlULVZFODQwSFZKOGotbWVvUGhLRGZCTzdIU3Nib09HTE96ejZoY2F3d0stOVVicTBMNGo0ZUN2UWpIY2FvbWFtOGtfUHJLYlRtaGRnc24wVjhfV0tMbkNydTZiZl9rZERlNXZ2dm52U3FacGl2cGVOYXY2eDZac1NIbGR5ZmpEVkszeE9ueElxWkp5bHBJR1dFOUFEN0lGSnlxQ0dRcTVwODl3WkxkanhaYmhzamZxdzVyYmYzZ0lKS3hQamFibldxdDZLRE5aUmUwMTlWZ3JSMlVmZ1JVMXR4N3poZnk5dmI2UldXdHVxNVVEdzcxRmZVNTVjbGR0U1VUN1VOeUxHZDdHQ0ZzWTN5XzVpcVQ2QXVCdGhtX0QyYXJZVy1lX09Fdjd6UDR0Yk5UT2FhZlNKdm50aWVObmtfZnFzWEktQjlBTHgteEw5dWtmT3hyZWpVVTJaamk0Y0FhX1IxUWlBcDZKaDhNUkJwaElPMUpvdUEwQ1ZwMHBRaFRWTEx4WklSOXBIVWZ0ZXk0Q3RXUDFRR01teWFVZG5sZHoxc1kxUUxIODBKU0pMdmxyOEtuZ0ViUEl4cmw4b3dUSHA3QVhBN3ZaNzRkM3p4bDJOck5VY1JWNFhHNDJWRkdpcjg4ZTE0ckZfX2tYQWVoejRFWGN0RkZMM0xzM2dvQ1BuaGZrYXVhNEJmUkY0dW9WM3AxVHFBNnROdnE4QkNQdTFmZWlxOElTUWFuMnlYSTdKZzZHQWo2WURKcVpvWjR0NnkzQjdSU0Z1VU1CdF8tTHpXS1hBNjFaUGc3OGFfSW9sSjZFaFF3Y09adDBIZFlGUURwdw?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-02T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "«أوبك بلس» يتفق على زيادة إنتاج النفط 188 ألف برميل يومياً لشهر سبتمبر - الشرق الأوسط",
-      "description": "«أوبك بلس» يتفق على زيادة إنتاج النفط 188 ألف برميل يومياً لشهر سبتمبر &nbsp;&nbsp; الشرق الأوسط",
-      "content": "«أوبك بلس» يتفق على زيادة إنتاج النفط 188 ألف برميل يومياً لشهر سبتمبر &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOcDZEZEdpSEJESEtodnJrZHFYRFRWM3d3WExPR2J6R1NwU3ExTUY3cjdtZ2p5ZEo0WDZjS1Y1YkExR2tVSVNRczcwYmRhLUpycFlzNWgzQ2g2RWVMaHJHZHFmR0ltM3FScUU1Tnp2a082SXhSbmt5eVpJN3owb2VnakxNUzVBc25ZVTdoNUhZNkFlSlJuNHZXcGt0R0NPRjVkVW55V3cyM2ZyaEJpZGJINVdpeFE1dkhlaDFMbkhvakRaVlpVaWg5Qk1zZU5vSnZOZ2FtaC1iZ09DNDBYV3JqUlgxNlZ0d2o5Mm1sNlBGZHpuWGU5bFRJNFFiZ0wtVVFwM2JhOFhMc29pdjIyVlIzNVkzckE2R2psb3M2MFBydGZXMGxWLXlseEhERFlnWS1kVmZRTG5qUkh1eVFQN2JPd1NZRkdKdDRwU0g3T0p1REE4ZTRlZXhnanhtSHRNWFhBRXBlX1RXSFpVVno2b0dhT00zWHk5LUJGVmJmODR0T1ZYLWowZS1MTDF3UnJ2X1dNQXl1VnhodUNpQU1YejNkMXFoR3AzRmFuOFpGbUpRVUZrQjdvX2hsYjNCZUhZZmxNSG40NUZGbURON0N6SzlSQW1QU2o1d2M5WWRkcFFrZjBZT3JTZkw1dkRuOVRtVVE5RmNLdE5IajBOQ3pzbVBQUk9fUGFDN21fVG5xTGpxRDEyTnRhZ3dqWEFTNXpmRkwxWTA4cU9zd01NTDZxYVAtcHZlY0lhMGpZWXlHdXhB?oc=5",
       "image": "",
       "publishedAt": "2026-08-02T07:00:00.000Z",
       "source": {
@@ -4696,6 +4769,21 @@
       "preferredSite": ""
     },
     {
+      "title": "انتقادات لتراجع إنتاج الغاز في مصر رغم تسوية مستحقات الشركات الأجنبية - الشرق الأوسط",
+      "description": "انتقادات لتراجع إنتاج الغاز في مصر رغم تسوية مستحقات الشركات الأجنبية &nbsp;&nbsp; الشرق الأوسط",
+      "content": "انتقادات لتراجع إنتاج الغاز في مصر رغم تسوية مستحقات الشركات الأجنبية &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPa2NNdFJMSUpyNlB0MmI5U2xsQWstLWNTY2dzQVV2elBjUnVhdXlnQUxEaWhZUjJvbTRrVE5LcFJRbWxNYWVoeVdXVVUwSnRGU3hvRlgxNmlzd09Hb3pfSng4TTctUEc2X2RVdF9DSDQxZ2tZMXVsdkt5RUdReGt3MEdkUDQwVXZoWTZEbEY2TFRFWmY5TzlfTWd6Y3VRS0p6Y3JFNkFObDdweHVYTzZFd3h2UExMMUt1eFkwMHVoQ25MSDc3dW9scDJNcXViWkh0S0F0VDRVN0pWT09TUVdHQkVlNmpoYUdZdVVjNXZfM1Q1enVOMzJxa2lxZ0ZXSkZsOFRtdnVUeVI5RnAyZnlSOHhuV183TFVqWGd6bm9heklHUEwzTldEUzZUdjE5M1BwUFNGSjFka1ltckZKcTRjTUNMTUQtSGZfdFZHTHUwRzk1WWhGVW9TSTlaYzRrbTIwbVNkR0gtQmFQOXJ1MEZuUjE0ZllzUU45NVFCVUN1bnh0YUtFQnpXNWx2ZUdGRmd2U0ZHR05LUnRXQ0VLWk1Ia2lERFdNVS1ZV2dsS2VYd2Y4ZUlnRXFic1pXUmVsazB0UGMxQktWYVkxcWh4TjdQQ3ZHcU04MnZicFV6MUN2U01COWpWUHZpVVFLVS1BaFZQeXVnVUVpUXhkMlBkQTJzREoyUTlHVXNiZzZ1bEVJTjF4OUxtNDVqM2s2cUpHNkFxYlBXWldLUGZBZzl1dHJUOEV4VXRFLUFzN1ZERHA2UENkU2JzWEdsZmtSb055c09nQkc2aEZCUDF5aEt2cTRkOTkyLXhCbWoyUFhPc2l2dWRoRHRhTU9TSGc1NTk4TGFyZDI5TkljcFozX1MwaThtRjFDZVNHVWtYdHluaG9RN2ZyQQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-24T14:57:21.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "A proposed Eastern Kentucky gas pipeline to serve a power plant is stirring local opposition - Kentucky Lantern",
       "description": "A proposed Eastern Kentucky gas pipeline to serve a power plant is stirring local opposition &nbsp;&nbsp; Kentucky Lantern",
       "content": "A proposed Eastern Kentucky gas pipeline to serve a power plant is stirring local opposition &nbsp;&nbsp; Kentucky Lantern",
@@ -4726,21 +4814,6 @@
       "preferredSite": ""
     },
     {
-      "title": "انتقادات لتراجع إنتاج الغاز في مصر رغم تسوية مستحقات الشركات الأجنبية - الشرق الأوسط",
-      "description": "انتقادات لتراجع إنتاج الغاز في مصر رغم تسوية مستحقات الشركات الأجنبية &nbsp;&nbsp; الشرق الأوسط",
-      "content": "انتقادات لتراجع إنتاج الغاز في مصر رغم تسوية مستحقات الشركات الأجنبية &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPa2NNdFJMSUpyNlB0MmI5U2xsQWstLWNTY2dzQVV2elBjUnVhdXlnQUxEaWhZUjJvbTRrVE5LcFJRbWxNYWVoeVdXVVUwSnRGU3hvRlgxNmlzd09Hb3pfSng4TTctUEc2X2RVdF9DSDQxZ2tZMXVsdkt5RUdReGt3MEdkUDQwVXZoWTZEbEY2TFRFWmY5TzlfTWd6Y3VRS0p6Y3JFNkFObDdweHVYTzZFd3h2UExMMUt1eFkwMHVoQ25MSDc3dW9scDJNcXViWkh0S0F0VDRVN0pWT09TUVdHQkVlNmpoYUdZdVVjNXZfM1Q1enVOMzJxa2lxZ0ZXSkZsOFRtdnVUeVI5RnAyZnlSOHhuV183TFVqWGd6bm9heklHUEwzTldEUzZUdjE5M1BwUFNGSjFka1ltckZKcTRjTUNMTUQtSGZfdFZHTHUwRzk1WWhGVW9TSTlaYzRrbTIwbVNkR0gtQmFQOXJ1MEZuUjE0ZllzUU45NVFCVUN1bnh0YUtFQnpXNWx2ZUdGRmd2U0ZHR05LUnRXQ0VLWk1Ia2lERFdNVS1ZV2dsS2VYd2Y4ZUlnRXFic1pXUmVsazB0UGMxQktWYVkxcWh4TjdQQ3ZHcU04MnZicFV6MUN2U01COWpWUHZpVVFLVS1BaFZQeXVnVUVpUXhkMlBkQTJzREoyUTlHVXNiZzZ1bEVJTjF4OUxtNDVqM2s2cUpHNkFxYlBXWldLUGZBZzl1dHJUOEV4VXRFLUFzN1ZERHA2UENkU2JzWEdsZmtSb055c09nQkc2aEZCUDF5aEt2cTRkOTkyLXhCbWoyUFhPc2l2dWRoRHRhTU9TSGc1NTk4TGFyZDI5TkljcFozX1MwaThtRjFDZVNHVWtYdHluaG9RN2ZyQQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-24T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Chevron May Invest in a Pipeline Through Iraq - The Institute for Energy Research",
       "description": "Chevron May Invest in a Pipeline Through Iraq &nbsp;&nbsp; The Institute for Energy Research",
       "content": "Chevron May Invest in a Pipeline Through Iraq &nbsp;&nbsp; The Institute for Energy Research",
@@ -4754,6 +4827,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "HECO announces new renewable energy procurement, looks to natural gas - hawaiipublicradio.org",
+      "description": "HECO announces new renewable energy procurement, looks to natural gas &nbsp;&nbsp; hawaiipublicradio.org",
+      "content": "HECO announces new renewable energy procurement, looks to natural gas &nbsp;&nbsp; hawaiipublicradio.org",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSVYzSWdkYUVrWE5TcW5DZXBSaDJTdmtBM0dqTnRiM0FLb3p1SXJaZXdiNFhCWjFCbHEyMFY5VnRTdTlqanptOHRaT2c2dGlHRUtIaG0tMVdvSU5hdWdQT2ZDeUIta0dGdGEzZXZEYU0tbG1zUlo2RWEzRm9tc1NhUWFZNXQ3bWYzUGh6Tm5iNXR5UVhuMC1Hek5kR09JM2pDQTBpQ3plWkNpRjB6a2VEMFNuVTA3OVI4STZBS3J5UFFZUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
+      "source": {
+        "name": "hawaiipublicradio.org",
+        "url": "https://www.hawaiipublicradio.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "Renewable energy: The unstoppable rise of green power worldwide - moeveglobal.com",
@@ -4866,7 +4954,7 @@
       "content": "كيف دعمت مصر استعادة الكهرباء في ليبيا؟ &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQV09hM1Nlc0lFUDB1MS0zRi0zZUFESDFjRjJsLXVWbjZPZl9QMmc0aHU1bXRodzMzZzVIY3BBbmQxTzVoX1pxM29VcWVUMDZtTWM5OGtVUFk0N1VGM1BfNUx3LUs3ZWplTjcxSTJFWkZmS1JFQmZVWWp4RGpyMHJQUmNUVHpiV3g3X19UWlFaclM2RS1JUWx3emhSejQ3V1JXVm1ZVUhwNVJKVDdlcUpGSXdIQmpoT3YwRGI4bTFycy03RXpBY1A0SnFPQTRqMXdQb1dJY1BpNzk0WTBYWV9lQTFDMHJremJsOHNieFhTZlpPc0t6WlkwWnNOQUJSdU9lRjhQOEZRcTh1cXplWnRkX3FBWTRlaW9WWkRvTXRzTlFsNklmajY1THpOaFNCcl9pTTFvQ3VXZEpWV0F3TFN5RW1qRDBWOWRPbTRzNGVvUUVVNEl0MF9lcGpfdXFPU1E2MDhINkZPMV9TTHAwTlNUYWZKMGlVd3owd0lmSHZYWHJuMjdZVDVtdUJrTEt5N3hvMmxGR0JCaWRILTFURHVPckZVWk5Hc21QTUZTMUxwRHVVRWdDQklVT2twWTdla1VSUjBPUlZ5QlVCTG13VjF4OEJHSFpCb0FiZGtyeTJFMmJqRVJVRzF2TG9jaUtWS0JqemRIRnpsRXBVWlUyNDZLTlF6SEc3d05xUG0wajNR?oc=5",
       "image": "",
-      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "publishedAt": "2026-07-21T13:23:15.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
