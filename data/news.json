@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-09-18T20:56:58.384Z",
+  "generatedAt": "2026-09-19T04:41:45.405Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Baker Hughes: Buy Ahead Of The Power Generation Ramp (NASDAQ:BKR) - Seeking Alpha",
+      "description": "Baker Hughes: Buy Ahead Of The Power Generation Ramp (NASDAQ:BKR) &nbsp;&nbsp; Seeking Alpha",
+      "content": "Baker Hughes: Buy Ahead Of The Power Generation Ramp (NASDAQ:BKR) &nbsp;&nbsp; Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmptRThGM0haMkktQWNCSW9oNUZsNmFxSnAyTmhEZ3l4VWNoWFJFYlR3NG5hZ0xYaFBtMnJFajQ2OFV6OW54cXNXN0czTFU5eGdpLU1TTXU4RVZjY2pDdlY5UFdQT21SU3VscE9jakc4RUl2LVFWang3R0JZMjVWUWtzbVlFS3gwendvVUNZaVVtWUFKM2M1YXlzS3lqODItekpwYXBsZ19sWlZJVlN5MS1NTXoxelpvNXlaSG1Xbm1HRTF2b2c?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-18T21:29:19.000Z",
+      "source": {
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - energynow.com",
+      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; energynow.com",
+      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; energynow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-18T20:20:29.000Z",
+      "source": {
+        "name": "energynow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "قرار الاستثمار النهائي في توسعة المرحلة الثانية من LNG Canada قد يصدر في وقت مبكر من الشهر المقبل - IndexBox",
       "description": "قرار الاستثمار النهائي في توسعة المرحلة الثانية من LNG Canada قد يصدر في وقت مبكر من الشهر المقبل &nbsp;&nbsp; IndexBox",
@@ -29,6 +59,21 @@
       "source": {
         "name": "Zacks Investment Research",
         "url": "https://www.zacks.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Trump EPA erases limits on power plant emissions. Where does it leave Michigan? - MLive.com",
+      "description": "Trump EPA erases limits on power plant emissions. Where does it leave Michigan? &nbsp;&nbsp; MLive.com",
+      "content": "Trump EPA erases limits on power plant emissions. Where does it leave Michigan? &nbsp;&nbsp; MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaGVGMWxxTGpjTFBjYmNEMndxTGQ4OXRQTF8yRE5IZ2x0TTFadlo3RktiVGcxcnJxbzJtbzNKUE5ENzktS0U1bEZXX2ZSdTJOUmFZazA3VGdGOGVQVS1fZFRNY09hZWZMWXMyOC0xVVg4dmswYWo4M2tDa1V3N19qc2xhMTlqc2NOOUZPb01ybXNjSFp1TXFvMU94d1JsUEhpd2Q1cjJOTTFIZHItSWVSSWlPNFRMYWtPRnliMW1KRlBDUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-18T10:00:00.000Z",
+      "source": {
+        "name": "MLive.com",
+        "url": "https://www.mlive.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -110,15 +155,15 @@
       "preferredSite": ""
     },
     {
-      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
-      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
+      "title": "Iraq looks to end reliance on Hormuz and Iranian gas with pipelines and new power generation projects - enterpriseam.com",
+      "description": "Iraq looks to end reliance on Hormuz and Iranian gas with pipelines and new power generation projects &nbsp;&nbsp; enterpriseam.com",
+      "content": "Iraq looks to end reliance on Hormuz and Iranian gas with pipelines and new power generation projects &nbsp;&nbsp; enterpriseam.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb0VWNGwtVmRsaHJ2SDZxSndsNFpxT0VvWk53Q1RYdWtxOXVvWDA1NFpwdThrQWhFUnVyRkZvRm1oaGZOckVadXVYUnFqdTNrZm9ld1lSNDVsc3lTME1NNVYzMmR4ZVE4U3VyLUFwYjZBckl2eHNvNUZ4MFlTb2gyWDdJUWk3LUh6WU1KTnZJLXZDMTN6UGtRQVIxSTN6YjRHZXZiTi1ZWHRObDRhdFpfaGRwMTV1eWFlWDg3M25EM251WF9tejFSbkNQQjIwRXNxRF9jaXBuN1NiT0JkY25HRg?oc=5",
       "image": "",
-      "publishedAt": "2026-09-17T22:45:18.000Z",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
       "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
+        "name": "enterpriseam.com",
+        "url": "https://enterpriseam.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -763,7 +808,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "economyplusme.com"
+      "preferredSite": "asharqbusiness.com"
     },
     {
       "title": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived - maaal.com",
@@ -1244,6 +1289,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "Oil climbs as Saudi pipeline outage, fresh Houthi attacks stoke supply fears - The Business Times",
+      "description": "Oil climbs as Saudi pipeline outage, fresh Houthi attacks stoke supply fears &nbsp;&nbsp; The Business Times",
+      "content": "Oil climbs as Saudi pipeline outage, fresh Houthi attacks stoke supply fears &nbsp;&nbsp; The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNelhZR25pTktwejhCclVtUVo2a0RUSTZtTl96N2ZvaFNGanFDYXNWbGd3b3RUUDJNaXBIWEtscUhvVUdFUlp5aWhPM3FCek1aUlU0bXRNeE5tQzRwN213VE9YbHdfSWRLLWQ2dEx3cUNzSnJFcjhvZFU4blgzcHBQdUVGSjF0VFlJRmlnVXFYM2JWRmZaT3piSkdVVzhXWUllTi1ZZDR3LTI4cjlVOE5mb3dDM0ZuVElwY3poZ3o3eTVXOE0wWVN2U2dCYlpQck1NWDh5Vi1YNm82UQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-14T22:39:00.000Z",
+      "source": {
+        "name": "The Business Times",
+        "url": "https://www.businesstimes.com.sg"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Expert available to discuss EPA repeal of power plant greenhouse gas rules - Rice University",
@@ -2714,6 +2774,21 @@
       "preferredSite": ""
     },
     {
+      "title": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ - الشرق الأوسط",
+      "description": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
+      "content": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNaVZDQXNpSVZvd3gzY2dhdnhvc1oyQkowMjcxems3bHdWLUlrM3lZa3Y3eUE2MlJrNURldnAwTXk2RkZPUkQ2cDVrcDdsVWpCa1NCZTR1RW5ycWJrNTc2Z2VGaThINkE5a1BXMTlkLWVOeHVPVmZHeDQ4VXEyLVdKT0VIT3dpMFZLTG56bEdZdFNTYzhfekJlSTRHMURpd0ZXZmI0NFhTM3FOeVlPc01OSW1sLUw2ZjBHYks1OGl4SWhmVGVXTkQ4MkRXTGRJNW9iakZKUFpDTDlTVnRlVEpaR056bHhWWmRSUXpkOVlLeDkzZ3NHOHZaVnZCN0t5OEdZam96Z3VSYnZNUGxRVDFnRnZHbEV0WklFZjVMcTdvYTh0cldScXhnaWNkeDBUVnYxdWtqZG9pbTYzajBYZG9QNDhZcV9xQ1J3V3RvMzR0MWxOUFptWEtLM0dOOF9UY3dIT0Z3YXQ0d1hrclF5c05UaVFtTG41YUtMY09mdm92TVlQTTJ1VmhYMnNGeDBtXzVLUVFqYjNsbGJTYUdZZENRVGNvQ2tHYVg1SFI3Y1liX1l1NFRvMkZmcWdyMGJIWk54cGVsZG45T2F5V0ZDODlCT0RaZDVBeXhBWFJWbm5waU1weUQzLWRCQjVsdV8zLW9TVHc3bHhicm1UX2FiT3FLUzN5bUtJQVB3eDlMcC1VLXk3Y0N6NDlWcWRoMjhQWUNlUEpWZWdqVWx2bkFfRTkxcHFURW42VEZZd3JhaEVmZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-03T10:18:48.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "وزير شؤون الكهرباء والماء يزور أجنحة الشركات البحرينية والدولية في معرض الشرق الأوسط للطاقة 2026 بدبي - الأيام البحرينية",
       "description": "وزير شؤون الكهرباء والماء يزور أجنحة الشركات البحرينية والدولية في معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; الأيام البحرينية",
       "content": "وزير شؤون الكهرباء والماء يزور أجنحة الشركات البحرينية والدولية في معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; الأيام البحرينية",
@@ -2738,21 +2813,6 @@
       "source": {
         "name": "alayam.com",
         "url": "https://www.alayam.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ - الشرق الأوسط",
-      "description": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
-      "content": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNaVZDQXNpSVZvd3gzY2dhdnhvc1oyQkowMjcxems3bHdWLUlrM3lZa3Y3eUE2MlJrNURldnAwTXk2RkZPUkQ2cDVrcDdsVWpCa1NCZTR1RW5ycWJrNTc2Z2VGaThINkE5a1BXMTlkLWVOeHVPVmZHeDQ4VXEyLVdKT0VIT3dpMFZLTG56bEdZdFNTYzhfekJlSTRHMURpd0ZXZmI0NFhTM3FOeVlPc01OSW1sLUw2ZjBHYks1OGl4SWhmVGVXTkQ4MkRXTGRJNW9iakZKUFpDTDlTVnRlVEpaR056bHhWWmRSUXpkOVlLeDkzZ3NHOHZaVnZCN0t5OEdZam96Z3VSYnZNUGxRVDFnRnZHbEV0WklFZjVMcTdvYTh0cldScXhnaWNkeDBUVnYxdWtqZG9pbTYzajBYZG9QNDhZcV9xQ1J3V3RvMzR0MWxOUFptWEtLM0dOOF9UY3dIT0Z3YXQ0d1hrclF5c05UaVFtTG41YUtMY09mdm92TVlQTTJ1VmhYMnNGeDBtXzVLUVFqYjNsbGJTYUdZZENRVGNvQ2tHYVg1SFI3Y1liX1l1NFRvMkZmcWdyMGJIWk54cGVsZG45T2F5V0ZDODlCT0RaZDVBeXhBWFJWbm5waU1weUQzLWRCQjVsdV8zLW9TVHc3bHhicm1UX2FiT3FLUzN5bUtJQVB3eDlMcC1VLXk3Y0N6NDlWcWRoMjhQWUNlUEpWZWdqVWx2bkFfRTkxcHFURW42VEZZd3JhaEVmZw?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-03T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -2887,6 +2947,21 @@
       "publishedAt": "2026-09-02T07:00:00.000Z",
       "source": {
         "name": "Urban Milwaukee",
+        "url": "https://urbanmilwaukee.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Madison Gas and Electric Plans State’s First Fusion Power Plant - urbanmilwaukee.com",
+      "description": "Madison Gas and Electric Plans State’s First Fusion Power Plant &nbsp;&nbsp; urbanmilwaukee.com",
+      "content": "Madison Gas and Electric Plans State’s First Fusion Power Plant &nbsp;&nbsp; urbanmilwaukee.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1NHcWh6ZV91a05Pc1Z2dnhTbF8yTDJWNjYwS2k1N1h4V3dqSmFmVXFOdUVRMmhPSmQzSWFGU0o4Y1djeEE3VVhKWXBxVG9aTWV5ODBGSEExSVpyUV9xeEJBc2Vta0ZyQW01bHY2QXVHbFRMSTZETEZETU1XcDg4QjR3azAwQXZMUzk1WTVQV3ZQN3hWZEYzQ2VZTGdpTlBsdjMw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-02T07:00:00.000Z",
+      "source": {
+        "name": "urbanmilwaukee.com",
         "url": "https://urbanmilwaukee.com"
       },
       "provider": "Scheduled Google News index",
@@ -4304,6 +4379,21 @@
       "preferredSite": ""
     },
     {
+      "title": "مصر تبدأ إنتاج الغاز من حقل \"خوفو\" في 2027 بـ45 مليون قدم مكعبة يومياً - asharqbusiness.com",
+      "description": "مصر تبدأ إنتاج الغاز من حقل \"خوفو\" في 2027 بـ45 مليون قدم مكعبة يومياً &nbsp;&nbsp; asharqbusiness.com",
+      "content": "مصر تبدأ إنتاج الغاز من حقل \"خوفو\" في 2027 بـ45 مليون قدم مكعبة يومياً &nbsp;&nbsp; asharqbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPZllHUC1JX0ZYUmhwdjVaNXBQQmRNZTE4blpOQkstNGFwVnM2SjdjX1poc1plZVg3bmdwN21YVDJJQU84S1dqeVA0LW5KTzlxUDh2WXV4R3NZVE9icmtFQm9JR1ZVTlA3ZmxJaGIzSUNraGY2X1BRVHBxdlhudHljaGcwaGFnY2ZDa1dOWXpXUEgyMDR6WVlKeWlUZVZ6MGxhNWxrdm51cU5CMTNaVVJWVnp0d0oxOXZVcG5yeGp4MF9MYy1zQW5iUDJsaFpGMG50Nlg3b3A2MERBem1QQzlUdlV2M1VteVVBdDJ0T2NfVkhIS1JGWTdKcXd3ZXlBZmdhczM4MVF5TFNIeWkwbF9HTXJnLXg2eDEzYUJSMzZnOWI2Y1dSLXJUQ0FlT3BQcWdUd081cURJR0FTMUEzNy1LQkpPVGtwOW15TzlsaGNHYlJ3ZmZ0TW92MG5SNDE?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "source": {
+        "name": "asharqbusiness.com",
+        "url": "https://asharqbusiness.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "«أوبك بلس» يتفق على زيادة إنتاج النفط 188 ألف برميل يومياً لشهر سبتمبر - الشرق الأوسط",
       "description": "«أوبك بلس» يتفق على زيادة إنتاج النفط 188 ألف برميل يومياً لشهر سبتمبر &nbsp;&nbsp; الشرق الأوسط",
       "content": "«أوبك بلس» يتفق على زيادة إنتاج النفط 188 ألف برميل يومياً لشهر سبتمبر &nbsp;&nbsp; الشرق الأوسط",
@@ -4864,7 +4954,7 @@
       "content": "انتقادات لتراجع إنتاج الغاز في مصر رغم تسوية مستحقات الشركات الأجنبية &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPa2NNdFJMSUpyNlB0MmI5U2xsQWstLWNTY2dzQVV2elBjUnVhdXlnQUxEaWhZUjJvbTRrVE5LcFJRbWxNYWVoeVdXVVUwSnRGU3hvRlgxNmlzd09Hb3pfSng4TTctUEc2X2RVdF9DSDQxZ2tZMXVsdkt5RUdReGt3MEdkUDQwVXZoWTZEbEY2TFRFWmY5TzlfTWd6Y3VRS0p6Y3JFNkFObDdweHVYTzZFd3h2UExMMUt1eFkwMHVoQ25MSDc3dW9scDJNcXViWkh0S0F0VDRVN0pWT09TUVdHQkVlNmpoYUdZdVVjNXZfM1Q1enVOMzJxa2lxZ0ZXSkZsOFRtdnVUeVI5RnAyZnlSOHhuV183TFVqWGd6bm9heklHUEwzTldEUzZUdjE5M1BwUFNGSjFka1ltckZKcTRjTUNMTUQtSGZfdFZHTHUwRzk1WWhGVW9TSTlaYzRrbTIwbVNkR0gtQmFQOXJ1MEZuUjE0ZllzUU45NVFCVUN1bnh0YUtFQnpXNWx2ZUdGRmd2U0ZHR05LUnRXQ0VLWk1Ia2lERFdNVS1ZV2dsS2VYd2Y4ZUlnRXFic1pXUmVsazB0UGMxQktWYVkxcWh4TjdQQ3ZHcU04MnZicFV6MUN2U01COWpWUHZpVVFLVS1BaFZQeXVnVUVpUXhkMlBkQTJzREoyUTlHVXNiZzZ1bEVJTjF4OUxtNDVqM2s2cUpHNkFxYlBXWldLUGZBZzl1dHJUOEV4VXRFLUFzN1ZERHA2UENkU2JzWEdsZmtSb055c09nQkc2aEZCUDF5aEt2cTRkOTkyLXhCbWoyUFhPc2l2dWRoRHRhTU9TSGc1NTk4TGFyZDI5TkljcFozX1MwaThtRjFDZVNHVWtYdHluaG9RN2ZyQQ?oc=5",
       "image": "",
-      "publishedAt": "2026-07-24T14:57:21.000Z",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -5059,7 +5149,7 @@
       "content": "كيف دعمت مصر استعادة الكهرباء في ليبيا؟ &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQV09hM1Nlc0lFUDB1MS0zRi0zZUFESDFjRjJsLXVWbjZPZl9QMmc0aHU1bXRodzMzZzVIY3BBbmQxTzVoX1pxM29VcWVUMDZtTWM5OGtVUFk0N1VGM1BfNUx3LUs3ZWplTjcxSTJFWkZmS1JFQmZVWWp4RGpyMHJQUmNUVHpiV3g3X19UWlFaclM2RS1JUWx3emhSejQ3V1JXVm1ZVUhwNVJKVDdlcUpGSXdIQmpoT3YwRGI4bTFycy03RXpBY1A0SnFPQTRqMXdQb1dJY1BpNzk0WTBYWV9lQTFDMHJremJsOHNieFhTZlpPc0t6WlkwWnNOQUJSdU9lRjhQOEZRcTh1cXplWnRkX3FBWTRlaW9WWkRvTXRzTlFsNklmajY1THpOaFNCcl9pTTFvQ3VXZEpWV0F3TFN5RW1qRDBWOWRPbTRzNGVvUUVVNEl0MF9lcGpfdXFPU1E2MDhINkZPMV9TTHAwTlNUYWZKMGlVd3owd0lmSHZYWHJuMjdZVDVtdUJrTEt5N3hvMmxGR0JCaWRILTFURHVPckZVWk5Hc21QTUZTMUxwRHVVRWdDQklVT2twWTdla1VSUjBPUlZ5QlVCTG13VjF4OEJHSFpCb0FiZGtyeTJFMmJqRVJVRzF2TG9jaUtWS0JqemRIRnpsRXBVWlUyNDZLTlF6SEc3d05xUG0wajNR?oc=5",
       "image": "",
-      "publishedAt": "2026-07-21T13:23:15.000Z",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -5965,6 +6055,21 @@
       "preferredSite": ""
     },
     {
+      "title": "\"الكهرباء\" تستعد لعقد الجمعيات العمومية للشركات التابعة - Masrawy",
+      "description": "\"الكهرباء\" تستعد لعقد الجمعيات العمومية للشركات التابعة &nbsp;&nbsp; Masrawy",
+      "content": "\"الكهرباء\" تستعد لعقد الجمعيات العمومية للشركات التابعة &nbsp;&nbsp; Masrawy",
+      "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxOSVk5eERRYnJCOC0ya0pvRjA4bDVEV2w4YjEwN1BpcWhqalNSZU9qVUtPUy1SYkxiWU9DandQWUdxSjdVakdKQW1TNFlvYmpvSWxOOEdlTkpZOTlvMDVDRlplMTV4bEotdWpaM0hVaU9MRUhuZFFQNUVDRzJSVkYxVGdkSWdTRk9rcm9Vdy15ckFDaXgtYjRBNGFQMlpjSWFTakdiaElrb0lhbUwxLVhYUzdYeW9KNmhBN2w2SzhSQ3A3T0wxUHAtdjFOWGNISFpzSVJtQ1hscUNIMlFGTTROanNTcklyREF2SjlLejc5ZldiXzNxbm9ERGdWS1kxaG1JRVpsUmphZVVpc25DT0Z2RVJ2QUdPb1VPN1k5a1RxSFVxQlZGMFRSMmxoeUZzN2ZKdmhCYjVCMmtvOEM3aG1PdXV4cE9xRmsxYS04ZnZYWGtLc1Z0NkdRczhjcVZjV1A0OVRPdlIxZEhab0YtYXE0dmFuemtWM1Y2clVrVWFhZmlYSmJuRlJDWFoybkVnazd0a2tZX3ZfaE0tTXBZM1pPWnJLVkdTQS1UYVBGS0lfMklKb3U2eEpUTTVaMi0teWkyODFNc3JjTVFYTXMxYjM4clJBODJZRlVQTERMMHRqZ1lsNUozcE5obEJ1aVphdFdQdmQwcFh30gH7A0FVX3lxTE9fS0dVNXVjSm03SHMwUkhUVy1reWd2M1pHN0d5d01SWXV1WnlYbV9DdEV2TzJQMEFSNlBwMGJmVDRRUWZmTkJ2dHZDU0E1aXpxSVgzZHYzOURGeW9aMFFMcjBVZktWVmVvY3VkejBWTExoc0wwZ3IwbnN3S2p0dWVDMHdwVi1FSUdjd3UtM0lOT0NubGp3YVBVT3FBUjhNcGVSa191SkI1cU8yX0FXMEp3LS1aaEVzNWJ5Rl95Q3lyb0wzbmlfMW13bVRxNFlpM04xZTUtczJVRjdwNkFCVWVrOHZ3RjdZNERRdFRidXdSRk9oS1VWaUVNWFJKOEE4Q3FaWEd4YnM2anV3WjlEeVlOcGZSSmpOWGswQlRqOFZyV0VRX0RoX3pya2dLeXNRYTRpLVhSYmJHUmJWRjlIeXVST0tzanhtdGxTY0JOWlZBc196VFlXVVBKOV92WkNJU1lJMnJWcGV6cWRZYV9HSmt6S0swZUVXVDBPTXRlSEppSXZ6dklmckctRjNDcENrZDRwQ20tVnFBUXJMWE5vRHlFSjFxT0Y1NVJlNk9BRU9SVk5mdmVJeHNVeFVoSXZlTzEtUnNwXzAxd3hWQVVXZ3l6WWlwMVhsWVc3bU1WYjRLdExWb0ZpamdEMVF4Q3ViLU9lZ25SLUs2Y0lyZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-06-21T07:00:00.000Z",
+      "source": {
+        "name": "Masrawy",
+        "url": "https://www.masrawy.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "مصر لاستغلال «صحاري سيناء» في مشروعات توليد الكهرباء - الشرق الأوسط",
       "description": "مصر لاستغلال «صحاري سيناء» في مشروعات توليد الكهرباء &nbsp;&nbsp; الشرق الأوسط",
       "content": "مصر لاستغلال «صحاري سيناء» في مشروعات توليد الكهرباء &nbsp;&nbsp; الشرق الأوسط",
@@ -6619,6 +6724,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "Rising Electricity Prices - Foundation for Economic Education",
+      "description": "Rising Electricity Prices &nbsp;&nbsp; Foundation for Economic Education",
+      "content": "Rising Electricity Prices &nbsp;&nbsp; Foundation for Economic Education",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kcS1YX04xeUEwcnBKT0FYb0tmbFZvZzJTSGJnUGhwOUlnT3d5MkJ6a3luNzRQZGRfZ01TYmxIcnVXb0RMUDNJeUlxZUh3NzUyUkpvQkRBQkxQNHlSUFkyWQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-04-20T07:00:00.000Z",
+      "source": {
+        "name": "Foundation for Economic Education",
+        "url": "https://fee.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "From springs and bolts, St. Olaf researchers built a computer that doesn’t require electricity - St. Olaf College",
