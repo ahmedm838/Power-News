@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-09-19T11:04:25.872Z",
+  "generatedAt": "2026-09-19T15:55:08.441Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "عطل بمحطة محولات العاشر من رمضان.. و«المصرية لنقل الكهرباء» تعيد التيار خلال 10 دقائق",
+      "description": "شهدت مدينة العاشر من رمضان انقطاعًا مفاجئًا للتيار الكهربائي في بعض المناطق، إثر عطل طارئ أصاب أحد محولات التيار بمحطة …",
+      "content": "شهدت مدينة العاشر من رمضان انقطاعًا مفاجئًا للتيار الكهربائي في بعض المناطق، إثر عطل طارئ أصاب أحد محولات التيار بمحطة …",
+      "url": "https://www.egelectricgate.com/?p=10531",
+      "image": "",
+      "publishedAt": "2026-09-19T12:27:41.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
     {
       "title": "تنفيذًا لتوجيهات الوزير.. «شمعة» و«صفائي» يضعان خطة استباقية لتأمين كهرباء صيف 2027 بمصر الوسطي",
       "description": "محمد ابراهيم عقدت شركة مصر الوسطى لتوزيع الكهرباء اجتماعًا موسعًا مع قيادات الشركة المصرية لنقل الكهرباء، لبحث الاستعدادات المبكرة لتأمين …",
@@ -18,6 +33,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - energynow.com",
+      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; energynow.com",
+      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; energynow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-18T23:08:33.000Z",
+      "source": {
+        "name": "energynow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "Baker Hughes: Buy Ahead Of The Power Generation Ramp (NASDAQ:BKR) - Seeking Alpha",
@@ -44,21 +74,6 @@
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
-      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-18T20:20:29.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -92,7 +107,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "asharqbusiness.com"
     },
     {
       "title": "Natural Gas Dominates U.S. Power Generation: 2 Midstream Stocks to Watch - Zacks Investment Research",
@@ -215,6 +230,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Iraq looks to end reliance on Hormuz and Iranian gas with pipelines and new power generation projects - EnterpriseAM",
+      "description": "Iraq looks to end reliance on Hormuz and Iranian gas with pipelines and new power generation projects &nbsp;&nbsp; EnterpriseAM",
+      "content": "Iraq looks to end reliance on Hormuz and Iranian gas with pipelines and new power generation projects &nbsp;&nbsp; EnterpriseAM",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb0VWNGwtVmRsaHJ2SDZxSndsNFpxT0VvWk53Q1RYdWtxOXVvWDA1NFpwdThrQWhFUnVyRkZvRm1oaGZOckVadXVYUnFqdTNrZm9ld1lSNDVsc3lTME1NNVYzMmR4ZVE4U3VyLUFwYjZBckl2eHNvNUZ4MFlTb2gyWDdJUWk3LUh6WU1KTnZJLXZDMTN6UGtRQVIxSTN6YjRHZXZiTi1ZWHRObDRhdFpfaGRwMTV1eWFlWDg3M25EM251WF9tejFSbkNQQjIwRXNxRF9jaXBuN1NiT0JkY25HRg?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "source": {
+        "name": "EnterpriseAM",
+        "url": "https://enterpriseam.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "EPA Repeals Power Plant Carbon Pollution Standards and Proposes to Repeal All Power Plant Greenhouse Gas Emissions Standards - The National Law Review",
       "description": "EPA Repeals Power Plant Carbon Pollution Standards and Proposes to Repeal All Power Plant Greenhouse Gas Emissions Standards &nbsp;&nbsp; The National Law Review",
       "content": "EPA Repeals Power Plant Carbon Pollution Standards and Proposes to Repeal All Power Plant Greenhouse Gas Emissions Standards &nbsp;&nbsp; The National Law Review",
@@ -233,6 +263,21 @@
       "title": "Belledune power plant to transition from coal to wood pellets as fuel - CBC",
       "description": "Belledune power plant to transition from coal to wood pellets as fuel &nbsp;&nbsp; CBC",
       "content": "Belledune power plant to transition from coal to wood pellets as fuel &nbsp;&nbsp; CBC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS21pOVVmbEhLU1o3SkJvRXo4aTR0UFlUWVRqRnNydlJHYnk4ZFZMLUxraTZGTlhvV3AxWmJjbU81T05kMFZoNGdDRDVlUzBMMjJOYkRKbUUyVnowQ3JPSHc5cmdBMW1rUm1mdUhVWVJLdTA0ZmtrTktaWUIwRkhMN1ZYcFBQLWR1ankzQzJocVJNOXZMSTlIVkVlbzJidw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-17T21:04:12.000Z",
+      "source": {
+        "name": "CBC",
+        "url": "https://www.cbc.ca"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Belledune power plant to be converted from coal to wood pellets as fuel - CBC",
+      "description": "Belledune power plant to be converted from coal to wood pellets as fuel &nbsp;&nbsp; CBC",
+      "content": "Belledune power plant to be converted from coal to wood pellets as fuel &nbsp;&nbsp; CBC",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS21pOVVmbEhLU1o3SkJvRXo4aTR0UFlUWVRqRnNydlJHYnk4ZFZMLUxraTZGTlhvV3AxWmJjbU81T05kMFZoNGdDRDVlUzBMMjJOYkRKbUUyVnowQ3JPSHc5cmdBMW1rUm1mdUhVWVJLdTA0ZmtrTktaWUIwRkhMN1ZYcFBQLWR1ankzQzJocVJNOXZMSTlIVkVlbzJidw?oc=5",
       "image": "",
       "publishedAt": "2026-09-17T21:04:12.000Z",
@@ -601,6 +646,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Loosened EPA power plant regulations could negatively impact Wisconsin public health - wpr.org",
+      "description": "Loosened EPA power plant regulations could negatively impact Wisconsin public health &nbsp;&nbsp; wpr.org",
+      "content": "Loosened EPA power plant regulations could negatively impact Wisconsin public health &nbsp;&nbsp; wpr.org",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0NMOHZVaUI4d2hnZ3gxZTl6ZW0wUE56LXZUMWRRWlRoWUpMakt6NTZBR2dyVlRSQmhuVEpnaFowTndreFVyd0pkakZFT1ljRkhTNGoybnJmVDlrdGVqZXptc1N2NF9YSTFLZkpYRUwxUU0teXJwamV1SEp5NzNIeW1wQWlPNnhKcHY1TExqMkk5VzNu?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T21:17:52.000Z",
+      "source": {
+        "name": "wpr.org",
+        "url": "https://www.wpr.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Groups cite huge health costs from EPA’s power plant GHG rollback, vow to sue - C&EN",
       "description": "Groups cite huge health costs from EPA’s power plant GHG rollback, vow to sue &nbsp;&nbsp; C&EN",
       "content": "Groups cite huge health costs from EPA’s power plant GHG rollback, vow to sue &nbsp;&nbsp; C&EN",
@@ -714,6 +774,21 @@
       "publishedAt": "2026-09-15T17:37:47.000Z",
       "source": {
         "name": "America's Electric Cooperatives",
+        "url": "https://www.electric.coop"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "NRECA Welcomes Partial Rollback of EPA Power Plant Rule, Pushes for Full Repeal - electric.coop",
+      "description": "NRECA Welcomes Partial Rollback of EPA Power Plant Rule, Pushes for Full Repeal &nbsp;&nbsp; electric.coop",
+      "content": "NRECA Welcomes Partial Rollback of EPA Power Plant Rule, Pushes for Full Repeal &nbsp;&nbsp; electric.coop",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVFhdGhiZmZlWFZ5Q2hNa0lVNHBYZlVJdXN0Z1BnM3poeEFqc3ZtLXNJcVptbUhyUDBDM1lsekdnUHo2Qm45RjhfVGxST1pMQlhBUGN2RGFzSDBsOXc1UVB3U3lqb05mQm9nMTJ2ZFBqbEdBWDFaWjNqRjFIMzFOYVFXTjY4YzRrODhXWHR6Z2lzdldHV3FDU3dqcUpWalJoQXh5S01mOA?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T17:37:47.000Z",
+      "source": {
+        "name": "electric.coop",
         "url": "https://www.electric.coop"
       },
       "provider": "Scheduled Google News index",
@@ -853,7 +928,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "asharqbusiness.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived - maaal.com",
@@ -913,7 +988,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "powernews.cc"
+      "preferredSite": "asharqbusiness.com"
     },
     {
       "title": "'A giant step backward': Trump administration axes limits on coal and gas power plant pollution - BusinessGreen",
@@ -1093,7 +1168,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "mees.com"
     },
     {
       "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns - thehindu.com",
@@ -1120,6 +1195,21 @@
       "source": {
         "name": "jordannews.jo",
         "url": "https://www.jordannews.jo"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns - clubofmozambique.com",
+      "description": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns &nbsp;&nbsp; clubofmozambique.com",
+      "content": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns &nbsp;&nbsp; clubofmozambique.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOTJIYU4xR05XdHBULTVjZzVWOWJKcmZ5dFl1bmFWZHZQdFdEb3dlMUtHZFVTWTdHaUkyY1llc0RCWFVjSDlVSU1lNVl4MXFPWmFodDNHRV9tN2s5N2R2a3lMbjRSc0pGQXpYREZzOWQ2MzVvd0NHT0MxdEEwUl9mUkIwSGdiQ3dGV1pFakFoQTFRWDJUMFY5QkxaV3JqenZtVnVGblFxaTJmeUJaOUE?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T05:50:35.000Z",
+      "source": {
+        "name": "clubofmozambique.com",
+        "url": "https://clubofmozambique.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -1589,21 +1679,6 @@
       "preferredSite": ""
     },
     {
-      "title": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة - الشرق الأوسط",
-      "description": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; الشرق الأوسط",
-      "content": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxOUU9QQ2FhVl85RkN1bWEzMXZ1Wmd3b2ZxSnl0NDl2Nzh3SFJoZ1VlUnBrME5BNFhhOHItQnlxRzVoUTdvdzM2R3Fscm5kU3hNQm8xWnpWUGNqSzVnSkR5eHZCdk5HRjEwTVNjd0VKX0JXNjJqUlFodko1cEZFUnJjLWNzY3BKc1lsTVEwSHlLaEZYd2NRLUExc3Mwc01wSktjb0VaNTJYZjdueGhVandldXJxTHdveEgtVDhxZmVnN1pWcGhhZE1nUTFqanBOQjZrUTQ3d0taUjV5QUhnbExqalA4TWNtZkE3LXpFREFMNDZDNjEwLWtoMHJ6VWd1Wk9mMTZwVmpubWlURHlrcmhCeFU2NnVpWXNST3FEVjVaYnlHYVl5dHQ0QWhDRHdUdGFCUDJ2YWtnQ2xiVVNWRmZ6NlJPbFNsTUpleE9VNmtiTU02NHdBX3FqZzRyM0QxLTJPYld3S0diVVo3RS1pT0FOWm9TZEl5Q091RXRiQWhCdEJfVGVleGNoU0pQUW4wWDdUWjFiUExwaWpfQzBYN0hYWGE4YnY4UVVYSzI3d0FKcmV4VUtiWF9OY2JYQ3lQUjBTVUdLSDhSVm5fTzE3T2FoNi15QWdvZC1ZemJZcEtXdVFvRi05ajdZajBab296cHRtbTg5MGZvTHBNUlRzcDY5TjFvdmh6dmhZRWRMb09FeHFrNVQzU1kyOXJjZC1VNUVWc0JsNjZpX1E5d1B0WmQ3UldvQkdXckJmMXVJVkpicVN3V2tmZFNJaElyUWJtS3V1SXRwejVsR2RNTmlCQThUMWZEUjBEcW9leXhwUTQ3bE5IU0dHeUJ3M2VBMG56bV9NSTJzR2RscmxKR3Y3ZWZfc2lEQTNpNUxGc3EyeE9Ccmg?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-14T16:41:45.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "EPA poised to scrap power plant carbon standards - Smart Cities Dive",
       "description": "EPA poised to scrap power plant carbon standards &nbsp;&nbsp; Smart Cities Dive",
       "content": "EPA poised to scrap power plant carbon standards &nbsp;&nbsp; Smart Cities Dive",
@@ -1919,21 +1994,6 @@
       "preferredSite": "egelectricgate.com"
     },
     {
-      "title": "شبكات الكهرباء العالمية تهدر طفرة الطاقة النظيفة - الشرق الأوسط",
-      "description": "شبكات الكهرباء العالمية تهدر طفرة الطاقة النظيفة &nbsp;&nbsp; الشرق الأوسط",
-      "content": "شبكات الكهرباء العالمية تهدر طفرة الطاقة النظيفة &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQMV9LZjFieVFaNVhUMGJoS1lZc2tRam50bmRaa3dDdFRIUWN0X2lFLTlXb29QYU1Pc2FtZXRTckV1c1JEVTZYUUdrOHFyMmZ2WF94eGYza0FIRHFEbDFTNGtoTDF3cGJfWlZYV25lMVFDb3lJN2EzSEtEMDIyOWR2SUFBc3dvZW9OMjAwSWtJZzhMQjBlZ1F4WkhJSVZ5Mzl4TVl3V1ZlZjF2MUwzR2FOeWNRcFpNR2FrSXk2aGdudkdELVBiaFhmcENuSWxGd240UjNENXdEakUzZmZ6OEFBVVR6RWg3b0JRQWRNbnVoSU1QcVAxbTJlYUgwWGh0M1hLa0ZNNFdRTExoVzZyT0tYdmcxbXZmNkx2NGMwYXQzc082MmJhZ3J2ZExvV2o2aVRRWUpOUkFhTHNjT2FNYUtuZHRyODM1bGh1V3lPaTdCY1pIcFcyaHA4aDhZczZaeWE1MzRhZXJOaUdpaVdaZTNhMEFrWmpfXzBmQjYtS1RRdGNEQzFEOEY4LTBWU3NaUm1pNmhZTThtaXBrUExTWWdLQ1N5Q0d2YVZXRW9TVmZTblZMX1JLZmp2ZDN0TmhVWnpDdWxvNmFNc1VzR3NvdkpvemxOdzhIZnlIenc?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-13T17:29:10.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "قدرات الطاقة الشمسية والرياح في منطقة المتوسط.. مصر وإسبانيا بالصدارة - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
       "description": "قدرات الطاقة الشمسية والرياح في منطقة المتوسط.. مصر وإسبانيا بالصدارة &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
       "content": "قدرات الطاقة الشمسية والرياح في منطقة المتوسط.. مصر وإسبانيا بالصدارة &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -2084,6 +2144,21 @@
       "preferredSite": ""
     },
     {
+      "title": "وزير: تركيا وأذربيجان تسعيان لاتفاق بشأن خط ينقل الكهرباء إلى أوروبا - Reuters",
+      "description": "وزير: تركيا وأذربيجان تسعيان لاتفاق بشأن خط ينقل الكهرباء إلى أوروبا &nbsp;&nbsp; Reuters",
+      "content": "وزير: تركيا وأذربيجان تسعيان لاتفاق بشأن خط ينقل الكهرباء إلى أوروبا &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vNThzWUd0d0ZkV243MlBsaFZEbHhQT1Jhc1lpV3pyZC1OaE8zeWhRQzNWa3RiU1RWLXNiUG5OSlpjODVCdEJqT1FGNXRaZWhweER6bDNwTjd0NHRpQmJ3UmRyN21TR0VReHVVM0d1MU1JVVRQbzBCRHM1enYwcjQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-11T12:20:19.000Z",
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Malaysia may need 9 GW of gas-fired power plant by 2032 - enerdata.net",
       "description": "Malaysia may need 9 GW of gas-fired power plant by 2032 &nbsp;&nbsp; enerdata.net",
       "content": "Malaysia may need 9 GW of gas-fired power plant by 2032 &nbsp;&nbsp; enerdata.net",
@@ -2144,6 +2219,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Saudi oil pipeline may be hit as Houthi attacks escalate: report - Gulf News",
+      "description": "Saudi oil pipeline may be hit as Houthi attacks escalate: report &nbsp;&nbsp; Gulf News",
+      "content": "Saudi oil pipeline may be hit as Houthi attacks escalate: report &nbsp;&nbsp; Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaEFpd2YxcG9vLTJUM2hGamQtcXN1VXZwcmZSeVBjVlBnSmVqQmx2TDFtODA1eGxUY1JDclF3NFdwMkl4TXRLeE5vb3Bna19lVWlMeU9rQ0Z6bG5XcHVfNVA0OUptS2JxZ1R2SU5lSUtlZFpYdDFFTUs2bVV0cWQzNTNaXzlVZl9saVpnVGxDSEg4bkdCNHQ1dEhMX1VXSmp5WEY4WGtkMlBsdWFhQ1hOV19R0gHEAUFVX3lxTE03eFF6ZllxcGNWNFF2UElwMUswcjlOUUUwMndGTXFEOHV5THM1NFNKb3ZhUWZrbUxRMVRxdEh4STdWamJlTnROaHFxSlFnbnZ4VG9UOFJVMEIwMDR4eXZidDlXVVBpcVlCdmpnS1gtNUxyTlZlcHd6MUVxelk5RGRrR29DcDNTRzZyVko1QllnNFBlOEQxWnUxWjhsQVFieW9wc1ZzQVBLaDlCVmRXcXRYS21VS2l3cE50VFp0V2hZeXlKUXg?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-11T07:00:00.000Z",
+      "source": {
+        "name": "Gulf News",
+        "url": "https://gulfnews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
       "title": "Shell to Sell Interest in US Gas Turbine Power Plant for $715 Million - marketscreener.com",
       "description": "Shell to Sell Interest in US Gas Turbine Power Plant for $715 Million &nbsp;&nbsp; marketscreener.com",
       "content": "Shell to Sell Interest in US Gas Turbine Power Plant for $715 Million &nbsp;&nbsp; marketscreener.com",
@@ -2157,21 +2247,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
-    },
-    {
-      "title": "Saudi oil pipeline may be hit as Houthi attacks escalate: report - Gulf News",
-      "description": "Saudi oil pipeline may be hit as Houthi attacks escalate: report &nbsp;&nbsp; Gulf News",
-      "content": "Saudi oil pipeline may be hit as Houthi attacks escalate: report &nbsp;&nbsp; Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaEFpd2YxcG9vLTJUM2hGamQtcXN1VXZwcmZSeVBjVlBnSmVqQmx2TDFtODA1eGxUY1JDclF3NFdwMkl4TXRLeE5vb3Bna19lVWlMeU9rQ0Z6bG5XcHVfNVA0OUptS2JxZ1R2SU5lSUtlZFpYdDFFTUs2bVV0cWQzNTNaXzlVZl9saVpnVGxDSEg4bkdCNHQ1dEhMX1VXSmp5WEY4WGtkMlBsdWFhQ1hOV19R0gHEAUFVX3lxTE03eFF6ZllxcGNWNFF2UElwMUswcjlOUUUwMndGTXFEOHV5THM1NFNKb3ZhUWZrbUxRMVRxdEh4STdWamJlTnROaHFxSlFnbnZ4VG9UOFJVMEIwMDR4eXZidDlXVVBpcVlCdmpnS1gtNUxyTlZlcHd6MUVxelk5RGRrR29DcDNTRzZyVko1QllnNFBlOEQxWnUxWjhsQVFieW9wc1ZzQVBLaDlCVmRXcXRYS21VS2l3cE50VFp0V2hZeXlKUXg?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-11T02:31:27.000Z",
-      "source": {
-        "name": "Gulf News",
-        "url": "https://gulfnews.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
     },
     {
       "title": "Shell signs U.S. power plant transactions as part of active portfolio management - pgjonline.com",
@@ -2329,7 +2404,7 @@
       "content": "L.A. says it will clean up its biggest gas power plant. Environmentalists aren’t buying it &nbsp;&nbsp; latimes.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdWZyeXBLcGRnek5iM2pmRDJHdmtoQXpCeEF4TURyRENHQloyaFN3UTBBYTdWYmZBOW8wTzBWSmxFdXMwT0FSelMteGpydk16UGhjdk52YVRqYml2ZUlQR25lYVJuNGhsUEhjLUlLS3NLSU94cTgtcFpzSG81eGtwSGRUQW9QcGktMElDelgwY2RkRS0xUjVDVHRhYXE0M1lNa0Vqa3hyQ0xWTU9XTkZpclJsT3pxTmJPOU5xOWJWdU5JWmFxQlBuSVNKcGU0NHNLazNhZFltWkl1VGZE?oc=5",
       "image": "",
-      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
       "source": {
         "name": "latimes.com",
         "url": "https://www.latimes.com"
@@ -3059,6 +3134,21 @@
       "preferredSite": ""
     },
     {
+      "title": "وزير الكهرباء النيجيري: نبحث مع الإمارات دعم إنتاج الكهرباء بـ5000 ميجاواط - aletihad.ae",
+      "description": "وزير الكهرباء النيجيري: نبحث مع الإمارات دعم إنتاج الكهرباء بـ5000 ميجاواط &nbsp;&nbsp; aletihad.ae",
+      "content": "وزير الكهرباء النيجيري: نبحث مع الإمارات دعم إنتاج الكهرباء بـ5000 ميجاواط &nbsp;&nbsp; aletihad.ae",
+      "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxOUGh3bjFjb0tEZHY1U00xdGltNHlkVnZ5dkVVMUpOVWtnUUx2M0x6ZU5nRFN5ZE9lZEVVaU9OSlQ2TUgwNEd2RHhLYUxITHhMdkhQTEh5RFl1YlN0bThXZVVoVWlEaW9yejMxcHg1aXVrZXhJR2tYU0duSzQ4b2NNdU5hVFZpQkozWVVGczRPTWRuWEVWb1JieEFfQUF6eTdlQkY2WXlmeVVkUDB2MEc4QmExSTJqcS01Q3BNRy1wZUdPNTIwVnFnUzI0bEVCM1ZLalF2d1V2MDVqQm5ZYTFEWXI3UnJQTS1TWGdLTExDUzVLOXlDd09PV25FalpzUTQ5NXQwYjhFYTQyOU0wMllNMGxVbENSUGhjckpYaVJBVmJPSUNQa2N4NjNMdG4wSjlvMURneDNsSExMeXpUcjhISWxMZXJzUkE3XzhfVXNPRjJiYlZzNnNUQll5QWJ2TWlNWTlRNFlxSDVnZDRtR0VCaDRNcmc4WkZ3dU9BRkFKUWNjVzNTWWs5WUVMeEF5aExwaU40clRuRFNaMkN6cEhZZ20yOHZMZ20wUWlBRC1xeGJOMmVxR1lfYkt3NTRkUWFyMUlpLXlKcmVWRTg3WkpTM2lIYW9RQTJ3UDhTMU9tbzMyb1lTOW56UHJ5cmxzQWs3Z3lJdkljaldhVFU3WWVLUG9iU01wUG5oS1RKREZuc2RsQ2ZnSDFzN01JeUE1TzZXa0ZuUGlub092bGo5S2RMamhlNA?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-01T18:57:53.000Z",
+      "source": {
+        "name": "aletihad.ae",
+        "url": "https://www.aletihad.ae"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Private gas plants to power data centers would skirt state’s renewable energy law - Nevada Current",
       "description": "Private gas plants to power data centers would skirt state’s renewable energy law &nbsp;&nbsp; Nevada Current",
       "content": "Private gas plants to power data centers would skirt state’s renewable energy law &nbsp;&nbsp; Nevada Current",
@@ -3266,7 +3356,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "mees.com"
     },
     {
       "title": "I had no idea Dolly Parton was born in a 2-room log cabin with no electricity or water — and you can still see it today - creators.yahoo.com",
@@ -3398,6 +3488,21 @@
       "source": {
         "name": "finance.yahoo.com",
         "url": "https://finance.yahoo.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة - الشرق الأوسط",
+      "description": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; الشرق الأوسط",
+      "content": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxOUU9QQ2FhVl85RkN1bWEzMXZ1Wmd3b2ZxSnl0NDl2Nzh3SFJoZ1VlUnBrME5BNFhhOHItQnlxRzVoUTdvdzM2R3Fscm5kU3hNQm8xWnpWUGNqSzVnSkR5eHZCdk5HRjEwTVNjd0VKX0JXNjJqUlFodko1cEZFUnJjLWNzY3BKc1lsTVEwSHlLaEZYd2NRLUExc3Mwc01wSktjb0VaNTJYZjdueGhVandldXJxTHdveEgtVDhxZmVnN1pWcGhhZE1nUTFqanBOQjZrUTQ3d0taUjV5QUhnbExqalA4TWNtZkE3LXpFREFMNDZDNjEwLWtoMHJ6VWd1Wk9mMTZwVmpubWlURHlrcmhCeFU2NnVpWXNST3FEVjVaYnlHYVl5dHQ0QWhDRHdUdGFCUDJ2YWtnQ2xiVVNWRmZ6NlJPbFNsTUpleE9VNmtiTU02NHdBX3FqZzRyM0QxLTJPYld3S0diVVo3RS1pT0FOWm9TZEl5Q091RXRiQWhCdEJfVGVleGNoU0pQUW4wWDdUWjFiUExwaWpfQzBYN0hYWGE4YnY4UVVYSzI3d0FKcmV4VUtiWF9OY2JYQ3lQUjBTVUdLSDhSVm5fTzE3T2FoNi15QWdvZC1ZemJZcEtXdVFvRi05ajdZajBab296cHRtbTg5MGZvTHBNUlRzcDY5TjFvdmh6dmhZRWRMb09FeHFrNVQzU1kyOXJjZC1VNUVWc0JsNjZpX1E5d1B0WmQ3UldvQkdXckJmMXVJVkpicVN3V2tmZFNJaElyUWJtS3V1SXRwejVsR2RNTmlCQThUMWZEUjBEcW9leXhwUTQ3bE5IU0dHeUJ3M2VBMG56bV9NSTJzR2RscmxKR3Y3ZWZfc2lEQTNpNUxGc3EyeE9Ccmg?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -3712,6 +3817,21 @@
       "publishedAt": "2026-08-17T13:09:07.000Z",
       "source": {
         "name": "aawsat.com",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "شبكات الكهرباء العالمية تهدر طفرة الطاقة النظيفة - الشرق الأوسط",
+      "description": "شبكات الكهرباء العالمية تهدر طفرة الطاقة النظيفة &nbsp;&nbsp; الشرق الأوسط",
+      "content": "شبكات الكهرباء العالمية تهدر طفرة الطاقة النظيفة &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQMV9LZjFieVFaNVhUMGJoS1lZc2tRam50bmRaa3dDdFRIUWN0X2lFLTlXb29QYU1Pc2FtZXRTckV1c1JEVTZYUUdrOHFyMmZ2WF94eGYza0FIRHFEbDFTNGtoTDF3cGJfWlZYV25lMVFDb3lJN2EzSEtEMDIyOWR2SUFBc3dvZW9OMjAwSWtJZzhMQjBlZ1F4WkhJSVZ5Mzl4TVl3V1ZlZjF2MUwzR2FOeWNRcFpNR2FrSXk2aGdudkdELVBiaFhmcENuSWxGd240UjNENXdEakUzZmZ6OEFBVVR6RWg3b0JRQWRNbnVoSU1QcVAxbTJlYUgwWGh0M1hLa0ZNNFdRTExoVzZyT0tYdmcxbXZmNkx2NGMwYXQzc082MmJhZ3J2ZExvV2o2aVRRWUpOUkFhTHNjT2FNYUtuZHRyODM1bGh1V3lPaTdCY1pIcFcyaHA4aDhZczZaeWE1MzRhZXJOaUdpaVdaZTNhMEFrWmpfXzBmQjYtS1RRdGNEQzFEOEY4LTBWU3NaUm1pNmhZTThtaXBrUExTWWdLQ1N5Q0d2YVZXRW9TVmZTblZMX1JLZmp2ZDN0TmhVWnpDdWxvNmFNc1VzR3NvdkpvemxOdzhIZnlIenc?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
@@ -4766,7 +4886,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "mees.com"
     },
     {
       "title": "Controversial Central WA gas power plant for data centers canceled amid activist backlash - kuow.org",
@@ -4793,6 +4913,21 @@
       "source": {
         "name": "ca.style.yahoo.com",
         "url": "https://ca.style.yahoo.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Their Floating Hotel Had No Electricity or AC. How They Slept in the Complete Darkness of the Jungle (Exclusive) - AOL.com",
+      "description": "Their Floating Hotel Had No Electricity or AC. How They Slept in the Complete Darkness of the Jungle (Exclusive) &nbsp;&nbsp; AOL.com",
+      "content": "Their Floating Hotel Had No Electricity or AC. How They Slept in the Complete Darkness of the Jungle (Exclusive) &nbsp;&nbsp; AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUtnTlhzSDNqamlLT1NQRk00UEFTSlJaaUYyTWttQW1EWmJFb3Rna2lLRHpLNHZaMi15TURSbzBzbHhBc3lyV1FySDlkZThVb19paWRWQlZjei1oZnRyR212Q1B1WXpNaVo2U1BtYThWb2gtTldvd0RWdlBpR3dhUHJSaw?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-30T07:00:00.000Z",
+      "source": {
+        "name": "AOL.com",
+        "url": "https://www.aol.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -4928,6 +5063,21 @@
       "source": {
         "name": "almalnews.com",
         "url": "https://almalnews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Dominion Energy to build new gas fired power plant at Mt. Storm - WV MetroNews",
+      "description": "Dominion Energy to build new gas fired power plant at Mt. Storm &nbsp;&nbsp; WV MetroNews",
+      "content": "Dominion Energy to build new gas fired power plant at Mt. Storm &nbsp;&nbsp; WV MetroNews",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0kxRlQyb2pZdHR6SkVpYlk5eWdrLTEtbnNQUzJubUJBMWxQYm9EMW5rZDRhalZXWHl5dTE2dTUxd2FOSlN1Rzg3UVZYd19pRTBleC1vd3ppdjdoOEhYUWNuSkl4eE1BcktGRUlHU2dlMEpabGVfVmtHZWE4VHlxRjRZMEdBWW1aUHJSRF9DS3ROS3pwUEJySjF4dGE0aTg?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-28T07:00:00.000Z",
+      "source": {
+        "name": "WV MetroNews",
+        "url": "https://wvmetronews.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -5474,6 +5624,21 @@
       "preferredSite": ""
     },
     {
+      "title": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire - Yahoo Tech",
+      "description": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire &nbsp;&nbsp; Yahoo Tech",
+      "content": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire &nbsp;&nbsp; Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFZoMWxrSzBtbzlqSVJYMUxoNzkxX3pDMkpGNFAtN3RYSFBsczZnLXNhTEVKTlo2MTE3RFhSRVBnUGsyMXp1dnFhUzMzUTA4eGNKZVFNVnJmNmcwaGRrRWo3WGoySDNKYzRSbncxRlMzcG9DUkw2UWd1Y1JsQktqeV8wOGQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "source": {
+        "name": "Yahoo Tech",
+        "url": "https://tech.yahoo.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "mees.com"
+    },
+    {
       "title": "كيف تسببت الهجمات الأمريكية على إيران في تفاقم أزمة انقطاع الكهرباء؟ - BBC",
       "description": "كيف تسببت الهجمات الأمريكية على إيران في تفاقم أزمة انقطاع الكهرباء؟ &nbsp;&nbsp; BBC",
       "content": "كيف تسببت الهجمات الأمريكية على إيران في تفاقم أزمة انقطاع الكهرباء؟ &nbsp;&nbsp; BBC",
@@ -5772,6 +5937,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "The Basra-Aqaba Pipeline: Iraq Seeks an Oil Outlet to the Red Sea - خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+      "description": "The Basra-Aqaba Pipeline: Iraq Seeks an Oil Outlet to the Red Sea &nbsp;&nbsp; خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+      "content": "The Basra-Aqaba Pipeline: Iraq Seeks an Oil Outlet to the Red Sea &nbsp;&nbsp; خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUw5MFhtVjJIc3ZoQkpoRUhvLW9JOUxRc1lNMG5uMWlVWTZiLU1lQVRRX3NMZ3VKekVSSHNPYXAyZHlmS2NEM090bm9jU1ZFR0Jna2VoUUE1aXN0OVdlaHB3Tjc4MUQ0QndEY1Q1N2NBOUREZFZuRmdyejB1am5aTXpLVzJDNnRfbmtYalc4b3E5ZnVENHJSZ3dvdExEdEV3NVhR?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-06T22:09:08.000Z",
+      "source": {
+        "name": "خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+        "url": "https://www.khaberni.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "powernews.cc"
     },
     {
       "title": "Total power grid failure leaves Cuba in darkness amid growing crisis and protests - Miami Herald",
@@ -6166,6 +6346,34 @@
       "publishedAt": "2026-06-18T08:14:00.000Z",
       "source": {
         "name": "Alliance of Mediterranean News Agencies",
+        "url": "https://www.aman-alliance.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [
+        "egypt",
+        "saudi arabia",
+        "UAE",
+        "iraq",
+        "iran",
+        "libya",
+        "algeria",
+        "morocco",
+        "jordan",
+        "kuwait",
+        "qatar",
+        "turkey"
+      ],
+      "preferredSite": ""
+    },
+    {
+      "title": "APS - Launch of \"DigiEnR\" project to digitize renewable energy integration, bolster Algerian-German cooperation - Alliance of Mediterranean News Agencies (AMAN)",
+      "description": "APS - Launch of \"DigiEnR\" project to digitize renewable energy integration, bolster Algerian-German cooperation &nbsp;&nbsp; Alliance of Mediterranean News Agencies (AMAN)",
+      "content": "APS - Launch of \"DigiEnR\" project to digitize renewable energy integration, bolster Algerian-German cooperation &nbsp;&nbsp; Alliance of Mediterranean News Agencies (AMAN)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nZEd1REZZcHN4UUFTOW54S3NGdGh1RUptbmFSNFNON1VORmRqNFZQeGhyQzNVZEpCUGhDWkpmblVWYzlJd002ZDkwMndwWXBwUHJNTHlOVEowTGlfV0ZQM0VhWmxhQQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-06-18T08:14:00.000Z",
+      "source": {
+        "name": "Alliance of Mediterranean News Agencies (AMAN)",
         "url": "https://www.aman-alliance.org"
       },
       "provider": "Scheduled Google News index",
@@ -6738,7 +6946,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "asharqbusiness.com"
     },
     {
       "title": "WATCH: Ranking Member Pingree Blasts Burgum for Sabotaging Renewable Energy as Gas Prices Soar - Representative Chellie Pingree (.gov)",
