@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-09-20T16:11:09.057Z",
+  "generatedAt": "2026-09-20T20:52:22.606Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "خاص ..ترقيات جديدة بكهرباء جنوب القاهرة..” النمر” رئيسًا لقطاع وسط و” حنفي “رئيسًا لقطاع الدقي و ” صدقي” مديرًا عامًا لإيرادات حلوان",
+      "description": "مخلص عبد الحي اعتمد مجلس إدارة شركة جنوب القاهرة لتوزيع الكهرباء اليوم برئاسة المهندس طارق عبد الشافي، عدة قرارات بترقية …",
+      "content": "مخلص عبد الحي اعتمد مجلس إدارة شركة جنوب القاهرة لتوزيع الكهرباء اليوم برئاسة المهندس طارق عبد الشافي، عدة قرارات بترقية …",
+      "url": "https://www.egelectricgate.com/?p=10534",
+      "image": "",
+      "publishedAt": "2026-09-20T17:38:54.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
     {
       "title": "«صيف استثنائي» في مصر يختبر وعوداً حكومية بعدم قطع الكهرباء - الشرق الأوسط",
       "description": "«صيف استثنائي» في مصر يختبر وعوداً حكومية بعدم قطع الكهرباء &nbsp;&nbsp; الشرق الأوسط",
@@ -53,9 +68,9 @@
       "title": "أكبر قفزة شتوية لأسعار الكهرباء في أوروبا منذ أزمة الطاقة - الشرق بلومبرغ",
       "description": "أكبر قفزة شتوية لأسعار الكهرباء في أوروبا منذ أزمة الطاقة &nbsp;&nbsp; الشرق بلومبرغ",
       "content": "أكبر قفزة شتوية لأسعار الكهرباء في أوروبا منذ أزمة الطاقة &nbsp;&nbsp; الشرق بلومبرغ",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPOGJXVUI3LWxkcnMwNHZ3WHVwaEJfVGlDOWJEUGpxZmR5bGRUVkNPOEQ2OXZiR1Uwc0tTbUtHNnhLRVZidU9LTUFVZWNreFpKZDd1bmtHdVl4Z0tnMkhKUEZ5Nk5zV3Rnd2JOamZYRENLS0Y3ZldXaWNHX3V6Z1BnS2VPOXptNjVxMHROQ0s0Zm5xUGtpZDdITmdsa04xTDVTZzBXanRTeWJsbGVQUGJlQUpFaW9zdWFfTDdibkoyYTRab081NXIwYnBzcWxlaTJXZDdZVDUta0pxMm5jd0hKNUN2dkI3WWI5d3lLc3V6aDNlQlZkdFRQSlA3Sk5IRHA2eTlEX2d6dkxaU0JEcTl5NS1fU1Yxd0JuOThGek9xNkhOaS0xN0YtV1FkbFZBbmpQdmJYcUxBM2l3UkE1b3RpWXNFQUVtU0E0R2llYjBuMXA2aVpoSzBfdUI1NDA2UHRwNGhfa0g2Wm04NWdfdkp5ZzdOZ0ptTkltdmtnbUVmVjJoRVFWalllZDU0MnBFTVo5R1hMNVZUeE1icmJQTllpUWxhdkxpZHJkbEEyc1JPaGhieFJhRTN6Qi10cG1IUU9kTVRybU92ck1WMlNjOW1xdDM2NTlKelczMVBORmpPTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOMFd1VXd3NWk0NGp5UkNQNl9KX29WMzNrQ2lEdDlsajk1ekx6ekU0akxwZnZyTmtnOEUzT2ZLeWhqZGpCckRSb1lxTUt6RU1GdU0yY0kyNkxyV1RlSTNpM3NFcWl5anVRTWgyTHlhaUdHUHpXWmZxVjdIaE94bVpDSnliUGI0WGM1VGJKM1JVbWNCTzl5TklUY0VnMU5tVFpnUTQxM1dnZDBibW9CdXFwaDRvR29TNXJfMUZuUWxWbEZrYVdOeWdtVVR4XzFSRTl4dzE5Wko5Q0dDV2M2S0NhakJkMVhkQ2pmdGg4Tm40VkVGeWZ4N1BJc2hNNGpMMzdrSVNGM0NIWVNZSngtWjRvOERaYVM1YjA1TTRxWUhwem1PQlpqU3ZjTm5hUzREbjR2SjBnaHVjbmozeV9qLVVoSFpybVVfY1RsODA0NXhCZHFYWjZ4WTE5U0lKVzBtY2xSX0Jmc2VONTQyYnlWRmRRZUx1d0VqZnYxc1k0WDRlYmN3aXRNaVp3MnIxQU5YUl9wQkE4X1d5aU5ZaGNFLWJRc0ZMMU52SkFNM0pIQTFfbVNxajZKV29OSlVkejFNSDU3RF9mQ0ZhUGJOZWt5SWpsMU84UGFlZU95NUFxUUhkaGFfanpf?oc=5",
       "image": "",
-      "publishedAt": "2026-09-19T19:04:16.000Z",
+      "publishedAt": "2026-09-19T18:52:34.000Z",
       "source": {
         "name": "الشرق بلومبرغ",
         "url": "https://asharqbusiness.com"
@@ -233,12 +248,12 @@
       "title": "Louise Minchin's advice on smart meters smart meter compensation - BBC",
       "description": "Louise Minchin's advice on smart meters smart meter compensation &nbsp;&nbsp; BBC",
       "content": "Louise Minchin's advice on smart meters smart meter compensation &nbsp;&nbsp; BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqcFFCVGM1RTVMTEVReTktSGRWT084SjBsOW9HUk1aR2VDX1ZNbGtJeklmZjlGV2w4MGlHU0lSM3VHWnU0azRZRFdQRFZ2UlY1TW5HTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ULWZpR21fVnRhdG5yZjJ6V3ZucmxYbFRBLXZDUXJHWVpsUDhZUk9OY1c3WHBWXzdSZ1dWUktYd0R4MkxUem02RHFOS2FJOTJ6LXNWdzFuUQ?oc=5",
       "image": "",
       "publishedAt": "2026-09-18T08:34:28.000Z",
       "source": {
         "name": "BBC",
-        "url": "https://www.bbc.com"
+        "url": "https://www.bbc.co.uk"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -2156,7 +2171,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "almalnews.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Saudi Arabia Announces Its \"East-West\" Oil Pipeline Was Targeted - الخبر اليمني",
@@ -2516,7 +2531,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Kinder Morgan Targets $1.4B in New Gas Projects as LNG, Power Demand Fuel Growth - es.tradingview.com",
@@ -2809,14 +2824,14 @@
       "content": "Satellite Images Show Jizan Oil Refinery Being Targeted &nbsp;&nbsp; alkhabaralyemeni.net",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XMDNyeXJCVndVOWkwdld1N2ZKb0U4SGliaHcxZHhNNWtWdmJicXd0Vmd6TkJONnNCVjNmaXVQYVBHV2tEY2h6UDUyYmZWZHRHamljWm5fNkpXREE?oc=5",
       "image": "",
-      "publishedAt": "2026-09-07T22:20:34.000Z",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
       "source": {
         "name": "alkhabaralyemeni.net",
         "url": "https://alkhabaralyemeni.net"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "almalnews.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "مستشفى كهرباء ألماظة .. تطلق تطبيقًا إلكترونيآ جديدًا لتسهيل حصول المرضى على الخدمات الطبية",
@@ -3029,21 +3044,6 @@
       "preferredSite": ""
     },
     {
-      "title": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ - الشرق الأوسط",
-      "description": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
-      "content": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNaVZDQXNpSVZvd3gzY2dhdnhvc1oyQkowMjcxems3bHdWLUlrM3lZa3Y3eUE2MlJrNURldnAwTXk2RkZPUkQ2cDVrcDdsVWpCa1NCZTR1RW5ycWJrNTc2Z2VGaThINkE5a1BXMTlkLWVOeHVPVmZHeDQ4VXEyLVdKT0VIT3dpMFZLTG56bEdZdFNTYzhfekJlSTRHMURpd0ZXZmI0NFhTM3FOeVlPc01OSW1sLUw2ZjBHYks1OGl4SWhmVGVXTkQ4MkRXTGRJNW9iakZKUFpDTDlTVnRlVEpaR056bHhWWmRSUXpkOVlLeDkzZ3NHOHZaVnZCN0t5OEdZam96Z3VSYnZNUGxRVDFnRnZHbEV0WklFZjVMcTdvYTh0cldScXhnaWNkeDBUVnYxdWtqZG9pbTYzajBYZG9QNDhZcV9xQ1J3V3RvMzR0MWxOUFptWEtLM0dOOF9UY3dIT0Z3YXQ0d1hrclF5c05UaVFtTG41YUtMY09mdm92TVlQTTJ1VmhYMnNGeDBtXzVLUVFqYjNsbGJTYUdZZENRVGNvQ2tHYVg1SFI3Y1liX1l1NFRvMkZmcWdyMGJIWk54cGVsZG45T2F5V0ZDODlCT0RaZDVBeXhBWFJWbm5waU1weUQzLWRCQjVsdV8zLW9TVHc3bHhicm1UX2FiT3FLUzN5bUtJQVB3eDlMcC1VLXk3Y0N6NDlWcWRoMjhQWUNlUEpWZWdqVWx2bkFfRTkxcHFURW42VEZZd3JhaEVmZw?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-03T10:18:48.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "وزير شؤون الكهرباء والماء يزور أجنحة الشركات البحرينية والدولية في معرض الشرق الأوسط للطاقة 2026 بدبي - الأيام البحرينية",
       "description": "وزير شؤون الكهرباء والماء يزور أجنحة الشركات البحرينية والدولية في معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; الأيام البحرينية",
       "content": "وزير شؤون الكهرباء والماء يزور أجنحة الشركات البحرينية والدولية في معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; الأيام البحرينية",
@@ -3068,6 +3068,21 @@
       "source": {
         "name": "alayam.com",
         "url": "https://www.alayam.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ - الشرق الأوسط",
+      "description": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
+      "content": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNaVZDQXNpSVZvd3gzY2dhdnhvc1oyQkowMjcxems3bHdWLUlrM3lZa3Y3eUE2MlJrNURldnAwTXk2RkZPUkQ2cDVrcDdsVWpCa1NCZTR1RW5ycWJrNTc2Z2VGaThINkE5a1BXMTlkLWVOeHVPVmZHeDQ4VXEyLVdKT0VIT3dpMFZLTG56bEdZdFNTYzhfekJlSTRHMURpd0ZXZmI0NFhTM3FOeVlPc01OSW1sLUw2ZjBHYks1OGl4SWhmVGVXTkQ4MkRXTGRJNW9iakZKUFpDTDlTVnRlVEpaR056bHhWWmRSUXpkOVlLeDkzZ3NHOHZaVnZCN0t5OEdZam96Z3VSYnZNUGxRVDFnRnZHbEV0WklFZjVMcTdvYTh0cldScXhnaWNkeDBUVnYxdWtqZG9pbTYzajBYZG9QNDhZcV9xQ1J3V3RvMzR0MWxOUFptWEtLM0dOOF9UY3dIT0Z3YXQ0d1hrclF5c05UaVFtTG41YUtMY09mdm92TVlQTTJ1VmhYMnNGeDBtXzVLUVFqYjNsbGJTYUdZZENRVGNvQ2tHYVg1SFI3Y1liX1l1NFRvMkZmcWdyMGJIWk54cGVsZG45T2F5V0ZDODlCT0RaZDVBeXhBWFJWbm5waU1weUQzLWRCQjVsdV8zLW9TVHc3bHhicm1UX2FiT3FLUzN5bUtJQVB3eDlMcC1VLXk3Y0N6NDlWcWRoMjhQWUNlUEpWZWdqVWx2bkFfRTkxcHFURW42VEZZd3JhaEVmZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -3409,7 +3424,7 @@
       "content": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPajJkem95eGd1RGtvdmpwMXMxenAtUHhkNlNpNG4wRXYtUTBWVmxpOW5MZmpSZkxDT2NqN29FZkhNUjBCeDF0NTVPNDlkY0VhRjFBclVuVUpVSllXaEFIQmZGY0RtaXBLSEFQYUYtUjRwdGNQalNiczl5MDQzNDBNMUxFNU5ucVZhT2YtWWNmSTVHeWFheC0wSGZHSVMwNGoxM3NWdE9hM1ZBSWNLNWpWblBTdTIwQk1TNDJRcVF6OURYUUZMRmlaSDd5UURuU1hMSTNHazdGbGVrZnZkOGRGUEdNR3V4bjdOcVRuRjRwaDFyRzdwczhGaWxWZzlvQkZGRndDSW9yLWxLdldQQ2R2SDgzWG9xb0swUW5nM01RaHcyWnYzMEllLVYwdzJFX2F6dXRrQnRRaXFvMm5qbUV4SE5MNm1DQzlUbjNwWWlWek5Pci16ZFAyQV9ab3BGcVBNc3lEU2cwaXRTeFZYMHRHTU5PMkhxUTQ4cmxfQkVBUUZrQnJrM3JTVVRhWXY4NUgzdTUwaVNGWlp6Vmh5WVM0OXRxV0FpM2c1VEYtVGNWQVJQcktHbnJVeWZaVFRuZUpfZW5SVENDSHIzZl9FUWFZYS1vY19hemlyTUxSRWNiUDVnNGYtbXgwSE8tNGJfVU5icXlLV0JIekllUUdZeWNJYlRBajZoQXF3WjFGMXhveldxRVIwZlZHTjgtSURrYl9UR2lRcFc2UlBPLXlfMUFNTTlEMnQ2SGJheV9IMWliMTRybWplQlppWDA5SjNYVkdTS05FWmJUUy0xUUhzbndwcElyZjBZS0lKckE2My05eDdVSHZOVjJQUGpzaVFJTUN3Tlg1QWwtSW05YnQ0Z3htd3hCd2hoVFRZTUh5VV83VlF0dw?oc=5",
       "image": "",
-      "publishedAt": "2026-08-31T14:52:58.000Z",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -4238,6 +4253,36 @@
       "source": {
         "name": "Utility Dive",
         "url": "https://www.utilitydive.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "DTE Considers Milan Township for Natural Gas Power Plant - thesuntimesnews.com",
+      "description": "DTE Considers Milan Township for Natural Gas Power Plant &nbsp;&nbsp; thesuntimesnews.com",
+      "content": "DTE Considers Milan Township for Natural Gas Power Plant &nbsp;&nbsp; thesuntimesnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHQxUlRKa0VfQmNfTFZpNHd4cXJJU0pTODJYamFyYmIwUWE0UjhGcHNTWF9XLWhIUHRlMTF5SWlURzU2RW9wTmoyZTdYN3RQOWN1V1Q3Z2ZQTUFnVnJzN19QbjI4eUZ2TFozTHdWbU82Umc4RDF0cHJzZjV3eWxMLVo2S0FyN0xDdEIzclJB?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-14T07:00:00.000Z",
+      "source": {
+        "name": "thesuntimesnews.com",
+        "url": "https://thesuntimesnews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Natural Gas Power Generation Market Size to Reach $122.49 billion at a CAGR of 4.8% by 2030 | MarketsandMarkets™ - Yahoo Finance",
+      "description": "Natural Gas Power Generation Market Size to Reach $122.49 billion at a CAGR of 4.8% by 2030 | MarketsandMarkets™ &nbsp;&nbsp; Yahoo Finance",
+      "content": "Natural Gas Power Generation Market Size to Reach $122.49 billion at a CAGR of 4.8% by 2030 | MarketsandMarkets™ &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenBVc3h6MVRyMTVOLXhZZVJnVTVLdnZ4bDZTYzFOS2xidDZ2TVJTZlk5OFFibUo3RHh5bERYaG1fU1JvdGdNc2xGV3ZOcC1qWUtFMkV2TTNBb3NWbnV5T3VTaGdjT3ppQVUxRElqSTFUb0Ria2VLUTJfVk9lODRxMW1JVzJQV09fbFZMb25vYzl0UTZmdXIw?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-14T07:00:00.000Z",
+      "source": {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -5584,7 +5629,7 @@
       "content": "كيف دعمت مصر استعادة الكهرباء في ليبيا؟ &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQV09hM1Nlc0lFUDB1MS0zRi0zZUFESDFjRjJsLXVWbjZPZl9QMmc0aHU1bXRodzMzZzVIY3BBbmQxTzVoX1pxM29VcWVUMDZtTWM5OGtVUFk0N1VGM1BfNUx3LUs3ZWplTjcxSTJFWkZmS1JFQmZVWWp4RGpyMHJQUmNUVHpiV3g3X19UWlFaclM2RS1JUWx3emhSejQ3V1JXVm1ZVUhwNVJKVDdlcUpGSXdIQmpoT3YwRGI4bTFycy03RXpBY1A0SnFPQTRqMXdQb1dJY1BpNzk0WTBYWV9lQTFDMHJremJsOHNieFhTZlpPc0t6WlkwWnNOQUJSdU9lRjhQOEZRcTh1cXplWnRkX3FBWTRlaW9WWkRvTXRzTlFsNklmajY1THpOaFNCcl9pTTFvQ3VXZEpWV0F3TFN5RW1qRDBWOWRPbTRzNGVvUUVVNEl0MF9lcGpfdXFPU1E2MDhINkZPMV9TTHAwTlNUYWZKMGlVd3owd0lmSHZYWHJuMjdZVDVtdUJrTEt5N3hvMmxGR0JCaWRILTFURHVPckZVWk5Hc21QTUZTMUxwRHVVRWdDQklVT2twWTdla1VSUjBPUlZ5QlVCTG13VjF4OEJHSFpCb0FiZGtyeTJFMmJqRVJVRzF2TG9jaUtWS0JqemRIRnpsRXBVWlUyNDZLTlF6SEc3d05xUG0wajNR?oc=5",
       "image": "",
-      "publishedAt": "2026-07-21T13:23:15.000Z",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
