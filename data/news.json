@@ -1,16 +1,76 @@
 {
-  "generatedAt": "2026-09-21T22:00:32.688Z",
+  "generatedAt": "2026-09-22T05:01:40.010Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Texas Gas Power Plant Chosen as First U.S. Investment; Nuclear and Alaska Projects Under Further Review - news.sbs.co.kr",
+      "description": "Texas Gas Power Plant Chosen as First U.S. Investment; Nuclear and Alaska Projects Under Further Review &nbsp;&nbsp; news.sbs.co.kr",
+      "content": "Texas Gas Power Plant Chosen as First U.S. Investment; Nuclear and Alaska Projects Under Further Review &nbsp;&nbsp; news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xXzYzalZUUUVhM1hmbXZqamdFOFF0dHpiTzJ4aUpRVHNSaXA5blo3RjN6Q1NhWElUV0l3RXFIbHdPMGlFcTh4UXhodkl6SGVLS3l0TEVvWGFwQ1NXa0JEeTFJLUFoTXlSSDNMZUln?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-22T03:41:00.000Z",
+      "source": {
+        "name": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Constructing the world’s first commercial scale gas power plant with integrated carbon capture - New Civil Engineer",
+      "description": "Constructing the world’s first commercial scale gas power plant with integrated carbon capture &nbsp;&nbsp; New Civil Engineer",
+      "content": "Constructing the world’s first commercial scale gas power plant with integrated carbon capture &nbsp;&nbsp; New Civil Engineer",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNekY5czdmenBIQnEzaUQyQjBHSE5fVEpSOTFxRFJzbm8ybl9kRlJnNFJZbUlHSlNnUEJ1OHFYSG1aUFowUlVtdHF3U3ozT3RCN2s3Y0d5YVpjZkFzZ2ZMd1BzaU9rUjRSaUkwQThDazBEYjNkU1VoY2NrMmUtOWNOUnNTYUFKYTRkclB1Q2lfOHUxVFpUYU5TMnZiTmtuOVRXQmdaVkdMSU0xcExRNVM3QmozZDJNN2Nta2FNUG4xRFlVb21lN0NfVTdPMWZUQjhYVjB3M1ctejhvek0wQUNFMA?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-22T03:33:45.000Z",
+      "source": {
+        "name": "New Civil Engineer",
+        "url": "https://www.newcivilengineer.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "South Korea Confirms Texas Power Plant as First US Investment Project - chosun.com",
+      "description": "South Korea Confirms Texas Power Plant as First US Investment Project &nbsp;&nbsp; chosun.com",
+      "content": "South Korea Confirms Texas Power Plant as First US Investment Project &nbsp;&nbsp; chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2xPam41QzlJMkNqY0FTVzd6bG90Tld0TlNTWVE5aFRMazhDelVoQzRUS2psWWs3UWRzcmVOenNTMkstaExZcDB4Y2NPWUIyN1lscjVCNU5QbC1BY1dZcjZKRWxwTGNiN2RIMjJwOGR0TThxU1ZtVFFUc0NQMGdyNVFmR1laTUFj?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-22T03:25:26.000Z",
+      "source": {
+        "name": "chosun.com",
+        "url": "https://www.chosun.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Texas Gas Power Plant Confirmed as First U.S. Investment Project; Remittance Timeline Set Within 45 Days - finance.biggo.com",
+      "description": "Texas Gas Power Plant Confirmed as First U.S. Investment Project; Remittance Timeline Set Within 45 Days &nbsp;&nbsp; finance.biggo.com",
+      "content": "Texas Gas Power Plant Confirmed as First U.S. Investment Project; Remittance Timeline Set Within 45 Days &nbsp;&nbsp; finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05QmxPSEVabWNDaXJPaFJiWVJXNnFZYi1uemc5Qy11dkNhdk1IRWZlcXpUMlBPNWFRaDJnU0ZvYUFyMWc4S1NIVmFaX3JvYXAyZU1lZ3l0SmltTjJmeE9hZ3k2ZVlySldRVU5xelNyQU5fWlhxOEE?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-22T03:05:00.000Z",
+      "source": {
+        "name": "finance.biggo.com",
+        "url": "https://finance.biggo.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "IMI to supply valves for 1.5-GW Louisiana gas power plant - Pipeline and Gas Journal",
       "description": "IMI to supply valves for 1.5-GW Louisiana gas power plant &nbsp;&nbsp; Pipeline and Gas Journal",
       "content": "IMI to supply valves for 1.5-GW Louisiana gas power plant &nbsp;&nbsp; Pipeline and Gas Journal",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbUEwWC16V0lhaHl6a2tYcl9BOWVqTFB0enZRYXpkTG42U3JhdFVGVzliNl9BM3FfdXFnXzJ1b1N5YXNULXBRcTZ3REhKNWxzMFBfVFZZM0xKdFdTRGVOLTNXV0diaWtNWnJYeWQxQThpLUZsYXcxZnhMTjVDT3VicmdWVGhBbnVlYzExRU1GRzVUd2RKR2UxcF9xMGRlbGc?oc=5",
       "image": "",
-      "publishedAt": "2026-09-21T21:49:24.000Z",
+      "publishedAt": "2026-09-22T00:24:32.000Z",
       "source": {
         "name": "Pipeline and Gas Journal",
         "url": "https://pgjonline.com"
@@ -25,7 +85,7 @@
       "content": "Laneway garage — with no water, electricity or gas — just sold for $260K &nbsp;&nbsp; OrilliaMatters.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZjNfUFhmd1RjaER4UXQtMXRTR0R0cHVSalZCNUlkWWdPR0h2cDNsekdOdGluVkotX0pGSTNCVUZxUlNHS193NllkTTh1MWtOb2ZRTVpkczBvSFBtdV9hWjBsMUZFakN1SmtBbm0zbWljdlBGRGx3NkNsUmhhQkp6Qw?oc=5",
       "image": "",
-      "publishedAt": "2026-09-21T20:06:31.000Z",
+      "publishedAt": "2026-09-21T20:06:49.000Z",
       "source": {
         "name": "OrilliaMatters.com",
         "url": "https://www.orilliamatters.com"
@@ -130,7 +190,7 @@
       "content": "أكبر قفزة شتوية لأسعار الكهرباء في أوروبا منذ أزمة الطاقة &nbsp;&nbsp; asharqbusiness.com",
       "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPOGJXVUI3LWxkcnMwNHZ3WHVwaEJfVGlDOWJEUGpxZmR5bGRUVkNPOEQ2OXZiR1Uwc0tTbUtHNnhLRVZidU9LTUFVZWNreFpKZDd1bmtHdVl4Z0tnMkhKUEZ5Nk5zV3Rnd2JOamZYRENLS0Y3ZldXaWNHX3V6Z1BnS2VPOXptNjVxMHROQ0s0Zm5xUGtpZDdITmdsa04xTDVTZzBXanRTeWJsbGVQUGJlQUpFaW9zdWFfTDdibkoyYTRab081NXIwYnBzcWxlaTJXZDdZVDUta0pxMm5jd0hKNUN2dkI3WWI5d3lLc3V6aDNlQlZkdFRQSlA3Sk5IRHA2eTlEX2d6dkxaU0JEcTl5NS1fU1Yxd0JuOThGek9xNkhOaS0xN0YtV1FkbFZBbmpQdmJYcUxBM2l3UkE1b3RpWXNFQUVtU0E0R2llYjBuMXA2aVpoSzBfdUI1NDA2UHRwNGhfa0g2Wm04NWdfdkp5ZzdOZ0ptTkltdmtnbUVmVjJoRVFWalllZDU0MnBFTVo5R1hMNVZUeE1icmJQTllpUWxhdkxpZHJkbEEyc1JPaGhieFJhRTN6Qi10cG1IUU9kTVRybU92ck1WMlNjOW1xdDM2NTlKelczMVBORmpPTQ?oc=5",
       "image": "",
-      "publishedAt": "2026-09-19T18:52:33.000Z",
+      "publishedAt": "2026-09-19T19:04:16.000Z",
       "source": {
         "name": "asharqbusiness.com",
         "url": "https://asharqbusiness.com"
@@ -1354,7 +1414,7 @@
       "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns - The Hindu",
       "description": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns &nbsp;&nbsp; The Hindu",
       "content": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns &nbsp;&nbsp; The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEl4OHZxN01ST3I4WThXeFdKU1V1MXZObUxhWEVLYlk1WmlqVjk1MnVrQ1NiTldwNkQtZTBSTTFFcFYxN2x5T3NSTkVCeW04azdVeGQ2eUtCMldBQ0sxZU4zUTVIUkgybE96eHRwNzgwa3NnbEJpRnFoT3Frdm5jTUIwZVhRU2M0d0hYQXBiOEdBcks1VFdJSXc4dlJocV9xR0VhSmlBSmgteTZNanh3VVVIT3M3SDNSNzVuZWVhUEFteFJYMVJEVzlQa0hkV0JrVmfSAdgBQVVfeXFMTTdCdlFPV0VTQXh0RUlkbngxSTBkTnFvLVVaMFItSnQ0a2x5ZS1xYnhDLW1Xd0t2VldrSE15OVk4OWZtaERLeHdtVFpsU0RSOFVmS0F0SkpXdjdhaFJxTWFONGtDUHVJUkNzVUdMblNOSW5fX1FLaUx2LVJDSUhYR0JwNDlFMDByZ1B3aEs2Qjd1bEhaem5hYzg5SGF2Wmp6VDlfeWdZR0pyX2E0dThsLWtTZmJqcXVQUFBqYm9VR2VrbmR5WlgyQzQwNndwdVBqR1lLY0Q4U1lF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEl4OHZxN01ST3I4WThXeFdKU1V1MXZObUxhWEVLYlk1WmlqVjk1MnVrQ1NiTldwNkQtZTBSTTFFcFYxN2x5T3NSTkVCeW04azdVeGQ2eUtCMldBQ0sxZU4zUTVIUkgybE96eHRwNzgwa3NnbEJpRnFoT3Frdm5jTUIwZVhRU2M0d0hYQXBiOEdBcks1VFdJSXc4dlJocV9xR0VhSmlBSmgteTZNanh3VVVIT3M3SDNSNzVuZWVhUEFteFJYMVJEVzlQa0hkV0JrVmc?oc=5",
       "image": "",
       "publishedAt": "2026-09-15T06:34:13.000Z",
       "source": {
@@ -2369,21 +2429,6 @@
       "preferredSite": ""
     },
     {
-      "title": "وزير: تركيا وأذربيجان تسعيان لاتفاق بشأن خط ينقل الكهرباء إلى أوروبا - Reuters",
-      "description": "وزير: تركيا وأذربيجان تسعيان لاتفاق بشأن خط ينقل الكهرباء إلى أوروبا &nbsp;&nbsp; Reuters",
-      "content": "وزير: تركيا وأذربيجان تسعيان لاتفاق بشأن خط ينقل الكهرباء إلى أوروبا &nbsp;&nbsp; Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vNThzWUd0d0ZkV243MlBsaFZEbHhQT1Jhc1lpV3pyZC1OaE8zeWhRQzNWa3RiU1RWLXNiUG5OSlpjODVCdEJqT1FGNXRaZWhweER6bDNwTjd0NHRpQmJ3UmRyN21TR0VReHVVM0d1MU1JVVRQbzBCRHM1enYwcjQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-11T12:20:19.000Z",
-      "source": {
-        "name": "Reuters",
-        "url": "https://www.reuters.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Malaysia may need 9 GW of gas-fired power plant by 2032 - enerdata.net",
       "description": "Malaysia may need 9 GW of gas-fired power plant by 2032 &nbsp;&nbsp; enerdata.net",
       "content": "Malaysia may need 9 GW of gas-fired power plant by 2032 &nbsp;&nbsp; enerdata.net",
@@ -2438,6 +2483,21 @@
       "source": {
         "name": "Shell Global",
         "url": "https://www.shell.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "وزير: تركيا وأذربيجان تسعيان لاتفاق بشأن خط ينقل الكهرباء إلى أوروبا - Reuters",
+      "description": "وزير: تركيا وأذربيجان تسعيان لاتفاق بشأن خط ينقل الكهرباء إلى أوروبا &nbsp;&nbsp; Reuters",
+      "content": "وزير: تركيا وأذربيجان تسعيان لاتفاق بشأن خط ينقل الكهرباء إلى أوروبا &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vNThzWUd0d0ZkV243MlBsaFZEbHhQT1Jhc1lpV3pyZC1OaE8zeWhRQzNWa3RiU1RWLXNiUG5OSlpjODVCdEJqT1FGNXRaZWhweER6bDNwTjd0NHRpQmJ3UmRyN21TR0VReHVVM0d1MU1JVVRQbzBCRHM1enYwcjQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-11T07:00:00.000Z",
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -3284,21 +3344,6 @@
       "preferredSite": ""
     },
     {
-      "title": "وزير شؤون الكهرباء والماء يشارك في الدورة الخمسين من معرض الشرق الأوسط للطاقة 2026 بدبي - الأيام البحرينية",
-      "description": "وزير شؤون الكهرباء والماء يشارك في الدورة الخمسين من معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; الأيام البحرينية",
-      "content": "وزير شؤون الكهرباء والماء يشارك في الدورة الخمسين من معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; الأيام البحرينية",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kOW4zcnhvVVQyX2NJdExabERjMEVPQlU2eTZhVVJ2b2lWSnNpZHo1ejhpdWkwY0ZfdTkwVlhtVTZybFBiQ3pkV3FaNkFqZ2pGSk80MjZMUmhuRmdaMjlLM3lJWQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-02T08:34:26.000Z",
-      "source": {
-        "name": "الأيام البحرينية",
-        "url": "https://www.alayam.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "وزير شؤون الكهرباء والماء يشارك في الدورة الخمسين من معرض الشرق الأوسط للطاقة 2026 بدبي - alayam.com",
       "description": "وزير شؤون الكهرباء والماء يشارك في الدورة الخمسين من معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; alayam.com",
       "content": "وزير شؤون الكهرباء والماء يشارك في الدورة الخمسين من معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; alayam.com",
@@ -3307,6 +3352,21 @@
       "publishedAt": "2026-09-02T08:34:26.000Z",
       "source": {
         "name": "alayam.com",
+        "url": "https://www.alayam.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "وزير شؤون الكهرباء والماء يشارك في الدورة الخمسين من معرض الشرق الأوسط للطاقة 2026 بدبي - الأيام البحرينية",
+      "description": "وزير شؤون الكهرباء والماء يشارك في الدورة الخمسين من معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; الأيام البحرينية",
+      "content": "وزير شؤون الكهرباء والماء يشارك في الدورة الخمسين من معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; الأيام البحرينية",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kOW4zcnhvVVQyX2NJdExabERjMEVPQlU2eTZhVVJ2b2lWSnNpZHo1ejhpdWkwY0ZfdTkwVlhtVTZybFBiQ3pkV3FaNkFqZ2pGSk80MjZMUmhuRmdaMjlLM3lJWQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-02T07:00:00.000Z",
+      "source": {
+        "name": "الأيام البحرينية",
         "url": "https://www.alayam.com"
       },
       "provider": "Scheduled Google News index",
@@ -3419,6 +3479,21 @@
       "preferredSite": ""
     },
     {
+      "title": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً - الشرق الأوسط",
+      "description": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً &nbsp;&nbsp; الشرق الأوسط",
+      "content": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQSGIzWXhqb19uem9uTkNpVWlqdGVLQ2hlNDVOZExzZkVWeURTM1lIdVowd2ZZdFdOWkY1S0lKQlBKZkN0MmEySUpya3RpUWg4V1BrOUNfODd4bi15RUxnTTlGb0ItVXV1akd1R3k2NUU3RjRzRF94T2tQUG1zdDRpQUVvSnQ2N1FDRVMwZzljSEtrUkp0VGN6b2NJdzN1VGFPWnFXSkZBazRMbTNtR29MUF9tTy00cC11Zm4zX1d5RDdmTFBDZEQwYmYxb09fMWF3czhMSGdCSmw0OC1SbllIby1PWGM1cXhtb1J4aEg4MlFCTmtGRTBMOURqR1pNUm9wa2dkN2JNdDhfN0lUV1VLYjNRdmdCaWpfMTZQRnBRVnZEZDRHVzNkTmdrUkJNZktkWHUwZjIwNXhIU2JPaFFwVXZJdTZsUHQtV21BVzdUQmdndDZxeTFnekhYYTFRbl9EWWVSb1Nsa1FQRmhMWTVodENMSU9LYnlVclFXQjFJRzBNTS1RTnd6YVZaUUtSakl5c0RlYzlwaVVhMVFkSzViaTdraUswa1YwcF9HeDBrMHlRX3Q2OEpoYjZheEM1Q3EySDVrTkxFTHZmODhKSFAtOUMzMWlSVXQ5WV9vNUc4UGVWeWo1ZmVHRUZJRmFFaF9BXzVrcnF5QlBFaWF2MlgzNg?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-01T13:57:48.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Private gas plants to power data centers would skirt state’s renewable energy law - Nevada Current",
       "description": "Private gas plants to power data centers would skirt state’s renewable energy law &nbsp;&nbsp; Nevada Current",
       "content": "Private gas plants to power data centers would skirt state’s renewable energy law &nbsp;&nbsp; Nevada Current",
@@ -3458,21 +3533,6 @@
       "source": {
         "name": "nevadacurrent.com",
         "url": "https://nevadacurrent.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً - الشرق الأوسط",
-      "description": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً &nbsp;&nbsp; الشرق الأوسط",
-      "content": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQSGIzWXhqb19uem9uTkNpVWlqdGVLQ2hlNDVOZExzZkVWeURTM1lIdVowd2ZZdFdOWkY1S0lKQlBKZkN0MmEySUpya3RpUWg4V1BrOUNfODd4bi15RUxnTTlGb0ItVXV1akd1R3k2NUU3RjRzRF94T2tQUG1zdDRpQUVvSnQ2N1FDRVMwZzljSEtrUkp0VGN6b2NJdzN1VGFPWnFXSkZBazRMbTNtR29MUF9tTy00cC11Zm4zX1d5RDdmTFBDZEQwYmYxb09fMWF3czhMSGdCSmw0OC1SbllIby1PWGM1cXhtb1J4aEg4MlFCTmtGRTBMOURqR1pNUm9wa2dkN2JNdDhfN0lUV1VLYjNRdmdCaWpfMTZQRnBRVnZEZDRHVzNkTmdrUkJNZktkWHUwZjIwNXhIU2JPaFFwVXZJdTZsUHQtV21BVzdUQmdndDZxeTFnekhYYTFRbl9EWWVSb1Nsa1FQRmhMWTVodENMSU9LYnlVclFXQjFJRzBNTS1RTnd6YVZaUUtSakl5c0RlYzlwaVVhMVFkSzViaTdraUswa1YwcF9HeDBrMHlRX3Q2OEpoYjZheEM1Q3EySDVrTkxFTHZmODhKSFAtOUMzMWlSVXQ5WV9vNUc4UGVWeWo1ZmVHRUZJRmFFaF9BXzVrcnF5QlBFaWF2MlgzNg?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -4469,6 +4529,21 @@
       "preferredSite": ""
     },
     {
+      "title": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals - utilitydive.com",
+      "description": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals &nbsp;&nbsp; utilitydive.com",
+      "content": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals &nbsp;&nbsp; utilitydive.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXpCam9xQnVTRlcyaVN3R0loUkphRkNOcmNFWW9sUjh6Z05vQzhPQnJoWlE3cUsxcVJaOHFHN2hxMDVDQUNtVWNPZWVwLTV1QS1LTnFfelJkcmtYc3lkV0puMGVCWVR5ZG9OVi1jNWQwNTNuYkhwbDhsaXNVWlhKLTNncTFuZ2pOYUJmaHpmcEtHR0dSSzIyZWRhQ0x0SklKeFE?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-14T07:00:00.000Z",
+      "source": {
+        "name": "utilitydive.com",
+        "url": "https://www.utilitydive.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "طاقة عربية وتطوير البترول التنزانية وAfrica50 توقع اتفاقية بيع الغاز لصالح مشروع East Africa LNG - جريدة حابي",
       "description": "طاقة عربية وتطوير البترول التنزانية وAfrica50 توقع اتفاقية بيع الغاز لصالح مشروع East Africa LNG &nbsp;&nbsp; جريدة حابي",
       "content": "طاقة عربية وتطوير البترول التنزانية وAfrica50 توقع اتفاقية بيع الغاز لصالح مشروع East Africa LNG &nbsp;&nbsp; جريدة حابي",
@@ -4979,21 +5054,6 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "مصر تبدأ إنتاج الغاز من حقل \"خوفو\" في 2027 بـ45 مليون قدم مكعبة يومياً - asharqbusiness.com",
-      "description": "مصر تبدأ إنتاج الغاز من حقل \"خوفو\" في 2027 بـ45 مليون قدم مكعبة يومياً &nbsp;&nbsp; asharqbusiness.com",
-      "content": "مصر تبدأ إنتاج الغاز من حقل \"خوفو\" في 2027 بـ45 مليون قدم مكعبة يومياً &nbsp;&nbsp; asharqbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPZllHUC1JX0ZYUmhwdjVaNXBQQmRNZTE4blpOQkstNGFwVnM2SjdjX1poc1plZVg3bmdwN21YVDJJQU84S1dqeVA0LW5KTzlxUDh2WXV4R3NZVE9icmtFQm9JR1ZVTlA3ZmxJaGIzSUNraGY2X1BRVHBxdlhudHljaGcwaGFnY2ZDa1dOWXpXUEgyMDR6WVlKeWlUZVZ6MGxhNWxrdm51cU5CMTNaVVJWVnp0d0oxOXZVcG5yeGp4MF9MYy1zQW5iUDJsaFpGMG50Nlg3b3A2MERBem1QQzlUdlV2M1VteVVBdDJ0T2NfVkhIS1JGWTdKcXd3ZXlBZmdhczM4MVF5TFNIeWkwbF9HTXJnLXg2eDEzYUJSMzZnOWI2Y1dSLXJUQ0FlT3BQcWdUd081cURJR0FTMUEzNy1LQkpPVGtwOW15TzlsaGNHYlJ3ZmZ0TW92MG5SNDE?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-03T07:00:00.000Z",
-      "source": {
-        "name": "asharqbusiness.com",
-        "url": "https://asharqbusiness.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "تحركات برلمانية مصرية ضد رفع أسعار الكهرباء... فهل تتراجع الحكومة؟ - الشرق الأوسط",
       "description": "تحركات برلمانية مصرية ضد رفع أسعار الكهرباء... فهل تتراجع الحكومة؟ &nbsp;&nbsp; الشرق الأوسط",
       "content": "تحركات برلمانية مصرية ضد رفع أسعار الكهرباء... فهل تتراجع الحكومة؟ &nbsp;&nbsp; الشرق الأوسط",
@@ -5003,6 +5063,21 @@
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "مصر تبدأ إنتاج الغاز من حقل \"خوفو\" في 2027 بـ45 مليون قدم مكعبة يومياً - asharqbusiness.com",
+      "description": "مصر تبدأ إنتاج الغاز من حقل \"خوفو\" في 2027 بـ45 مليون قدم مكعبة يومياً &nbsp;&nbsp; asharqbusiness.com",
+      "content": "مصر تبدأ إنتاج الغاز من حقل \"خوفو\" في 2027 بـ45 مليون قدم مكعبة يومياً &nbsp;&nbsp; asharqbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPZllHUC1JX0ZYUmhwdjVaNXBQQmRNZTE4blpOQkstNGFwVnM2SjdjX1poc1plZVg3bmdwN21YVDJJQU84S1dqeVA0LW5KTzlxUDh2WXV4R3NZVE9icmtFQm9JR1ZVTlA3ZmxJaGIzSUNraGY2X1BRVHBxdlhudHljaGcwaGFnY2ZDa1dOWXpXUEgyMDR6WVlKeWlUZVZ6MGxhNWxrdm51cU5CMTNaVVJWVnp0d0oxOXZVcG5yeGp4MF9MYy1zQW5iUDJsaFpGMG50Nlg3b3A2MERBem1QQzlUdlV2M1VteVVBdDJ0T2NfVkhIS1JGWTdKcXd3ZXlBZmdhczM4MVF5TFNIeWkwbF9HTXJnLXg2eDEzYUJSMzZnOWI2Y1dSLXJUQ0FlT3BQcWdUd081cURJR0FTMUEzNy1LQkpPVGtwOW15TzlsaGNHYlJ3ZmZ0TW92MG5SNDE?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-02T07:00:00.000Z",
+      "source": {
+        "name": "asharqbusiness.com",
+        "url": "https://asharqbusiness.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -7189,6 +7264,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Dominion Energy, Santee Cooper receive state approval for $5B gas project - utilitydive.com",
+      "description": "Dominion Energy, Santee Cooper receive state approval for $5B gas project &nbsp;&nbsp; utilitydive.com",
+      "content": "Dominion Energy, Santee Cooper receive state approval for $5B gas project &nbsp;&nbsp; utilitydive.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnh0SE8wV0twWE5mVGJkY0tYQ01OMnJJaUtscEs5NlFRTjRxQXhMM2NmQXItWjk1WGh2amg1WVFvUDhnbnVWVXNKamY4czlRR1RZanA0a3U3WFo0X1h3NmdfMlNOeVA1dU9Ta0I5WTZuRUNGOTI4QWpzQWQzZXlUNmtIaUFMZmZPYnB6Y2dHVQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-06-16T07:00:00.000Z",
+      "source": {
+        "name": "utilitydive.com",
+        "url": "https://www.utilitydive.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "نظرة فاحصة-عودة إنتاج النفط والغاز بالشرق الأوسط إلى مستوياته تستغرق شهورا | رويترز - Reuters",
       "description": "نظرة فاحصة-عودة إنتاج النفط والغاز بالشرق الأوسط إلى مستوياته تستغرق شهورا | رويترز &nbsp;&nbsp; Reuters",
       "content": "نظرة فاحصة-عودة إنتاج النفط والغاز بالشرق الأوسط إلى مستوياته تستغرق شهورا | رويترز &nbsp;&nbsp; Reuters",
@@ -7231,7 +7321,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "«صيف استثنائي» في مصر يختبر وعوداً حكومية بعدم قطع الكهرباء - الشرق الأوسط",
@@ -7239,7 +7329,7 @@
       "content": "«صيف استثنائي» في مصر يختبر وعوداً حكومية بعدم قطع الكهرباء &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxNUmk0d1FVSlVtZms2Rm5UTFdCam9USng3WXE0OTYxSUdhNnJhMXg0S0dSeUt0aDQ2ZllXRHBRUEpkRVZyRE4xV2ozbk9ialdzZjBPT0JIRnd0Tk5oMmNBOGNNZ1JnektWOFdycFkxdTFFZmt3LWRJRWRXWWxfU3FKSTJOR01HeVliNEY1RlZSVjlSQjhMWjVxRDFnYUZCQ0U0SnRvdjNORHhmRGZIamtBd0dWN3RKRUxOWGtHOTBtTlFYY01BV3kxbFUyeWJtMDVWcUw2NDZEOFdmLVNGX1VjWTE1UUNxT0pQeVlqSXNkLWZEQnI2OTJvMzRmTWFLLXNVYXNWR3VfdC1SR0hhQVVXUFo1SUpaY0dIMTJ2dnF0c3d1N2o1cHdObzlfdlJUVzl5MzByVUtGZmo5R19OVUFKRXhKXzlheUdKYmNURXZqdTlMZ2tfSDRUczJzZkxKdDBhSDVPcmRoOHhqRXNwM2tzblYxekhFU2lXSVljaE11R0lMUXFjLTlrOU4ycS04cnhWNG5jTDk1NEthZ253SXJESUtNaG1JQ1VkcXFXZ1pLdC0wZF9iNTFXSFpZa19VQ284RzBEUlp2RVVhUWJSOXFGWTM0emJqVTdPUHVralBXU3FyQUJyR25iSzBaSUNRRkZNdnJ0WXJCMHJSYk1RYzhfUm1wOVAxaUd6SThFN2lpU3lpTU5HV29DRVBnR0FLZnJqd3hzVFdEb2tUSENfVnFyZ3ZJRzRXLThXRE9KaFRmOTVOSmtmMVlCS1hYMEJ1Q2JxcWdRclNSbktqdkFzUlEzUE1wYl9BckVDMEVEY0FKME5qWVRtUEtLdWZTR05XRngtRnh2R2tnTG1QZw?oc=5",
       "image": "",
-      "publishedAt": "2026-06-10T15:30:09.000Z",
+      "publishedAt": "2026-06-10T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
