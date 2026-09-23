@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-09-22T21:22:38.439Z",
+  "generatedAt": "2026-09-23T04:49:14.274Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "CKW CEO: About 200 wind turbines could replace a gas-fired power plant - blue News",
+      "description": "CKW CEO: About 200 wind turbines could replace a gas-fired power plant &nbsp;&nbsp; blue News",
+      "content": "CKW CEO: About 200 wind turbines could replace a gas-fired power plant &nbsp;&nbsp; blue News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEJKVVVmX1QxbHo0OHBtQlI0b05QS1BrdFBLbWFKUUkxN1pwLWNQZUU2d2V6NUlKalN5N2RzVFdBQnJKdVhBNkVobkVfM3ItbEdFS1h1dklnb1JNM0dMQk1weUh3U0ZueUVWVzZfNFQwczhYT0ppNXY0R0VONElWWG1zQk90YWM1eGxvWWNuMFdjX05icXJOZkV6Q1RfRFlRVE5uall0b0dPamVrTVNWTQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-23T03:09:52.000Z",
+      "source": {
+        "name": "blue News",
+        "url": "https://www.bluewin.ch"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro - EnergyNow.com",
+      "description": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro &nbsp;&nbsp; EnergyNow.com",
+      "content": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdVJYLTVsYzNudVh6UzN2TUNKcTNrWlpDSHZCanMxLXFXTTY3aHQ5enBwZVF4WGk0WFFOLVc2bUd4eGk3ZEVBWHlndC16WUhmLVVpeHRwTTNjdTE1cUFkMlp4a0RjcTVPM2dUYW8xTlJnVHZKMWNNU05qTzA1R0EtTzBCY2JlS2pzSHEzdUxIVEJ6VXc3aVdwd1NlMS1VNUVJUTRaTTA3ZGxuTGM5ZEJHNklJVnhuLWNTSjhzanFBTkVubmhfRlZuSVdvaEc0WHJ0aFBmUmRR?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-22T22:29:43.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان - الشرق الأوسط",
+      "description": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان &nbsp;&nbsp; الشرق الأوسط",
+      "content": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNS0tNUE9Gd0N3Yk1WbU1LSk43Xzl1MjNlLTNDZlY3RVF4eXpHVUNTUkhsWUZ3SUYyM2NSU3pjdmtlVEkzb1E0UlZqUFU3elcxTHpVeG9YdVBjQ09JSTNZZ1c5ZFpIaXdxYjNvR3RZQUxRRzZQVHhFODE1bW5BUTNjUS1mZTNTZVhwU3ZzblQ1Q0NPRGVHcnBoN1pPdU5BODBQT2hjZzVwVDk3MVkzSkVJcGc3S0didTlTYUV1Mmk5b29yNF9GWTBha0ctU0cxRUNjNmlZUC1jMmVKcDNhaWdrM3BZUHVYLWhvZUZnb3l0SzBjWVc3TkpvRVdlTDZYemh3VjJWcS02bk96Rms1M2FUNW90bTEyUDFTNjNqSGlKYU91SUpDMDNhWnVQaGc0NFlQamE5dFdSaGpMeVEzYnprUXJLYXVYYkdNb3dLblBSUDk2QTJfNUhfbm9kRVNzcWlja0tYc2NRR2JCdTRqZHlSZjV6TS1VVmR0M0h4d2xyTlV3ZUZUZldkZXFwWldwZEN5S21XVXp4Vmw2TzRicU5UOGtZdC1Vb3FITHA4WVNCTWhOR1NJQUMta1BDTGNGMmVMTU92SXNyMTgwUzlVUldfRENDdEFQZkhCa29xRmNQR0phRDUyR3RmSU9NdnFja1lnaW1OWUExakNhSzNFOERhSnVqdWFpU01UcEVVUXFJY3hPQ2I5Y2c?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-22T19:59:21.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "Iraq expands gas supply for power generation - Agência de Notícias Brasil-Árabe - ANBA",
       "description": "Iraq expands gas supply for power generation &nbsp;&nbsp; Agência de Notícias Brasil-Árabe - ANBA",
@@ -35,6 +80,21 @@
       "preferredSite": ""
     },
     {
+      "title": "$5bn Teesside Gas Power Plant: World’s First Commercial-Scale Project with Integrated Carbon Capture - Construction Review",
+      "description": "$5bn Teesside Gas Power Plant: World’s First Commercial-Scale Project with Integrated Carbon Capture &nbsp;&nbsp; Construction Review",
+      "content": "$5bn Teesside Gas Power Plant: World’s First Commercial-Scale Project with Integrated Carbon Capture &nbsp;&nbsp; Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYXFZcEFLemNMVjlEOThlN2JLYmJKUnJhYnRuV2xUQnIzOGJOdmdNVGFtT0NkTTFzT3dsVjdyUFB3NGRpNUR5cFY5cUdvMXJndmk3TTlOYlVnRk5EZFgyNWFIX3dQTXFlS1BTR1l6Ykw4bTY4SEtqNzNMZ0c4T0w3WllSSVppMzEtS0k5SFUwMEVhTnR3b21zMzVMajl5VE5qM1hVOWpYQ21DX3ItTkJGRzFiQUVHdE1kZVNoM0w2Yl8tY3ZsSjd2aUVaa2Q2aXY5?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-22T17:01:25.000Z",
+      "source": {
+        "name": "Construction Review",
+        "url": "https://constructionreviewonline.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "EU could require electricity, gas controls under energy security overhaul - MLex",
       "description": "EU could require electricity, gas controls under energy security overhaul &nbsp;&nbsp; MLex",
       "content": "EU could require electricity, gas controls under energy security overhaul &nbsp;&nbsp; MLex",
@@ -48,21 +108,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
-    },
-    {
-      "title": "$5bn Teesside Gas Power Plant: World’s First Commercial-Scale Project with Integrated Carbon Capture - Construction Review",
-      "description": "$5bn Teesside Gas Power Plant: World’s First Commercial-Scale Project with Integrated Carbon Capture &nbsp;&nbsp; Construction Review",
-      "content": "$5bn Teesside Gas Power Plant: World’s First Commercial-Scale Project with Integrated Carbon Capture &nbsp;&nbsp; Construction Review",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYXFZcEFLemNMVjlEOThlN2JLYmJKUnJhYnRuV2xUQnIzOGJOdmdNVGFtT0NkTTFzT3dsVjdyUFB3NGRpNUR5cFY5cUdvMXJndmk3TTlOYlVnRk5EZFgyNWFIX3dQTXFlS1BTR1l6Ykw4bTY4SEtqNzNMZ0c4T0w3WllSSVppMzEtS0k5SFUwMEVhTnR3b21zMzVMajl5VE5qM1hVOWpYQ21DX3ItTkJGRzFiQUVHdE1kZVNoM0w2Yl8tY3ZsSjd2aUVaa2Q2aXY5?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-22T15:47:09.000Z",
-      "source": {
-        "name": "Construction Review",
-        "url": "https://constructionreviewonline.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     },
     {
       "title": "\"First U.S. Investment in Texas Gas Power Plant\"... Nuclear and Alaska Also Planned - news.sbs.co.kr",
@@ -149,6 +194,21 @@
       "source": {
         "name": "The New Indian Express",
         "url": "https://www.newindianexpress.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Oil Minister Opens Gas Processing Unit at East Baghdad Field to Add 30 MMscf/d for Bismayah Power Plant - وكالة الانباء العراقية (واع)",
+      "description": "Oil Minister Opens Gas Processing Unit at East Baghdad Field to Add 30 MMscf/d for Bismayah Power Plant &nbsp;&nbsp; وكالة الانباء العراقية (واع)",
+      "content": "Oil Minister Opens Gas Processing Unit at East Baghdad Field to Add 30 MMscf/d for Bismayah Power Plant &nbsp;&nbsp; وكالة الانباء العراقية (واع)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQjZxeDZGNVluNGgyVmF5dXY5STQyVUlHNWFwOFcybHlUbzlzby1IVnd6MmJTa2VzY3lPMGF4QmptU3F3US1zY1J3aG51TE9LbnhIblBRWWJXbzlFald6ZHZvSW1VSlpxdEVkcEJnUW01LTV2dk5UZDhPOXJxY0JvbVdKQXdOYUE1WWtmR2pUMUx1Z1NRdDVNd0cxNmktaVZnZTJteWdmYVVfRE1FUlgzSmtrZGhUOUc3b0ZZd3FsMmliWnZLcDl5bnRZemdWUDFoQkFFNXR3?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-22T10:36:23.000Z",
+      "source": {
+        "name": "وكالة الانباء العراقية (واع)",
+        "url": "https://ina.iq"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -380,6 +440,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "Laneway garage — with no water, electricity or gas — just sold for $260K - OrilliaMatters.com",
+      "description": "Laneway garage — with no water, electricity or gas — just sold for $260K &nbsp;&nbsp; OrilliaMatters.com",
+      "content": "Laneway garage — with no water, electricity or gas — just sold for $260K &nbsp;&nbsp; OrilliaMatters.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZjNfUFhmd1RjaER4UXQtMXRTR0R0cHVSalZCNUlkWWdPR0h2cDNsekdOdGluVkotX0pGSTNCVUZxUlNHS193NllkTTh1MWtOb2ZRTVpkczBvSFBtdV9hWjBsMUZFakN1SmtBbm0zbWljdlBGRGx3NkNsUmhhQkp6Qw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-21T20:06:49.000Z",
+      "source": {
+        "name": "OrilliaMatters.com",
+        "url": "https://www.orilliamatters.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
       "title": "هيئة المحطات النووية تشهد أداء يمين الولاء لدفعة جديدة من العاملين",
       "description": "محمد إبراهيم شهد الدكتور شريف حلمي، رئيس مجلس إدارة هيئة المحطات النووية لتوليد الكهرباء اليوم بمبنى الهيئة بالقاهرة، مراسم أداء …",
       "content": "محمد إبراهيم شهد الدكتور شريف حلمي، رئيس مجلس إدارة هيئة المحطات النووية لتوليد الكهرباء اليوم بمبنى الهيئة بالقاهرة، مراسم أداء …",
@@ -468,21 +543,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "egelectricgate.com"
-    },
-    {
-      "title": "Laneway garage — with no water, electricity or gas — just sold for $260K - OrilliaMatters.com",
-      "description": "Laneway garage — with no water, electricity or gas — just sold for $260K &nbsp;&nbsp; OrilliaMatters.com",
-      "content": "Laneway garage — with no water, electricity or gas — just sold for $260K &nbsp;&nbsp; OrilliaMatters.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZjNfUFhmd1RjaER4UXQtMXRTR0R0cHVSalZCNUlkWWdPR0h2cDNsekdOdGluVkotX0pGSTNCVUZxUlNHS193NllkTTh1MWtOb2ZRTVpkczBvSFBtdV9hWjBsMUZFakN1SmtBbm0zbWljdlBGRGx3NkNsUmhhQkp6Qw?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-20T15:00:00.000Z",
-      "source": {
-        "name": "OrilliaMatters.com",
-        "url": "https://www.orilliamatters.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
     },
     {
       "title": "أكبر قفزة شتوية لأسعار الكهرباء في أوروبا منذ أزمة الطاقة - الشرق بلومبرغ",
@@ -1714,7 +1774,7 @@
       "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns - The Hindu",
       "description": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns &nbsp;&nbsp; The Hindu",
       "content": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns &nbsp;&nbsp; The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEl4OHZxN01ST3I4WThXeFdKU1V1MXZObUxhWEVLYlk1WmlqVjk1MnVrQ1NiTldwNkQtZTBSTTFFcFYxN2x5T3NSTkVCeW04azdVeGQ2eUtCMldBQ0sxZU4zUTVIUkgybE96eHRwNzgwa3NnbEJpRnFoT3Frdm5jTUIwZVhRU2M0d0hYQXBiOEdBcks1VFdJSXc4dlJocV9xR0VhSmlBSmgteTZNanh3VVVIT3M3SDNSNzVuZWVhUEFteFJYMVJEVzlQa0hkV0JrVmc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEl4OHZxN01ST3I4WThXeFdKU1V1MXZObUxhWEVLYlk1WmlqVjk1MnVrQ1NiTldwNkQtZTBSTTFFcFYxN2x5T3NSTkVCeW04azdVeGQ2eUtCMldBQ0sxZU4zUTVIUkgybE96eHRwNzgwa3NnbEJpRnFoT3Frdm5jTUIwZVhRU2M0d0hYQXBiOEdBcks1VFdJSXc4dlJocV9xR0VhSmlBSmgteTZNanh3VVVIT3M3SDNSNzVuZWVhUEFteFJYMVJEVzlQa0hkV0JrVmfSAdgBQVVfeXFMTTdCdlFPV0VTQXh0RUlkbngxSTBkTnFvLVVaMFItSnQ0a2x5ZS1xYnhDLW1Xd0t2VldrSE15OVk4OWZtaERLeHdtVFpsU0RSOFVmS0F0SkpXdjdhaFJxTWFONGtDUHVJUkNzVUdMblNOSW5fX1FLaUx2LVJDSUhYR0JwNDlFMDByZ1B3aEs2Qjd1bEhaem5hYzg5SGF2Wmp6VDlfeWdZR0pyX2E0dThsLWtTZmJqcXVQUFBqYm9VR2VrbmR5WlgyQzQwNndwdVBqR1lLY0Q4U1lF?oc=5",
       "image": "",
       "publishedAt": "2026-09-15T06:34:13.000Z",
       "source": {
@@ -2714,21 +2774,6 @@
       "preferredSite": ""
     },
     {
-      "title": "Solar Power Beats Coal And Gas With BOTH Hands Tied Behind Its Back - CleanTechnica",
-      "description": "Solar Power Beats Coal And Gas With BOTH Hands Tied Behind Its Back &nbsp;&nbsp; CleanTechnica",
-      "content": "Solar Power Beats Coal And Gas With BOTH Hands Tied Behind Its Back &nbsp;&nbsp; CleanTechnica",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlhFUnRmSDBEMFVxZzdsVURwekZlWnRPdVE3V0NpeGc4aXNVQ2VGVDRyTG1rZDRkd3A4bmhRMUtHZV9Gd0FBeE1wOHlkTVBZMUpFQ2FVbFp6YTkwX3p1VTBmdlZIZmdmZEhIa0dUZE9fbGtMRW5jRkhVbTg3aXlyazg2UkwxeUYxRUxJdWJfZw?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-11T15:26:43.000Z",
-      "source": {
-        "name": "CleanTechnica",
-        "url": "https://cleantechnica.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Malaysia may need 9 GW of gas-fired power plant by 2032 - enerdata.net",
       "description": "Malaysia may need 9 GW of gas-fired power plant by 2032 &nbsp;&nbsp; enerdata.net",
       "content": "Malaysia may need 9 GW of gas-fired power plant by 2032 &nbsp;&nbsp; enerdata.net",
@@ -2783,6 +2828,21 @@
       "source": {
         "name": "Shell Global",
         "url": "https://www.shell.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Solar Power Beats Coal And Gas With BOTH Hands Tied Behind Its Back - CleanTechnica",
+      "description": "Solar Power Beats Coal And Gas With BOTH Hands Tied Behind Its Back &nbsp;&nbsp; CleanTechnica",
+      "content": "Solar Power Beats Coal And Gas With BOTH Hands Tied Behind Its Back &nbsp;&nbsp; CleanTechnica",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlhFUnRmSDBEMFVxZzdsVURwekZlWnRPdVE3V0NpeGc4aXNVQ2VGVDRyTG1rZDRkd3A4bmhRMUtHZV9Gd0FBeE1wOHlkTVBZMUpFQ2FVbFp6YTkwX3p1VTBmdlZIZmdmZEhIa0dUZE9fbGtMRW5jRkhVbTg3aXlyazg2UkwxeUYxRUxJdWJfZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-11T07:00:00.000Z",
+      "source": {
+        "name": "CleanTechnica",
+        "url": "https://cleantechnica.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -3074,6 +3134,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "‘BNP in power without gas, electricity or fertiliser crises?’: Rumeen’s remarks spark uproar in parliament - thedailystar.net",
+      "description": "‘BNP in power without gas, electricity or fertiliser crises?’: Rumeen’s remarks spark uproar in parliament &nbsp;&nbsp; thedailystar.net",
+      "content": "‘BNP in power without gas, electricity or fertiliser crises?’: Rumeen’s remarks spark uproar in parliament &nbsp;&nbsp; thedailystar.net",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRXFKRXFrZXpWQUdHeWJuMVluLU9STXhLOUpLQnFTYmhJWVFEc21pVks4NzlrTzdEOGd4Vnlydy1pdkxoVUtzcktWZUJvTS12aVRZVl94VFJ3VDFORjdIWFpIYkxHTlFjNVFZSUpQTGFxaGF4VWI5b1NKazVjRWNwVTZvcnVTdzNyZkpON3pmY1NMMzJUWU8tN21fXzNCRmJKcnhSSG5jU2tYWjJuQVhLY2gwemdEckMyZTRpTV9VdVZZV1pONW83d05uZmxaUTlOUE03OG54X196QlNPOHBOREo1R3cwNjVlWEJ4WUJCYU8wbzdTdlE?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-09T15:43:40.000Z",
+      "source": {
+        "name": "thedailystar.net",
+        "url": "https://www.thedailystar.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
       "title": "بطاريات تخزين الطاقة في الشرق الأوسط: ثلاث أسواق مختلفة تدفعها حاجة واحدة - سولارابيك",
       "description": "بطاريات تخزين الطاقة في الشرق الأوسط: ثلاث أسواق مختلفة تدفعها حاجة واحدة &nbsp;&nbsp; سولارابيك",
       "content": "بطاريات تخزين الطاقة في الشرق الأوسط: ثلاث أسواق مختلفة تدفعها حاجة واحدة &nbsp;&nbsp; سولارابيك",
@@ -3184,7 +3259,7 @@
       "content": "88 % ارتفاعاً في سعة مشروعات الطاقة المتجددة بالسعودية خلال 2025 &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNVlZvNTZuaE1hSWpNaDZDNXZjQVNLM1RWZFNaZDFGYVkxX1gyMUxHUGNMRUctazR0VjdUc3d3d3BBVlJveklKM2xUMnNGNUVCR1BSYzZibHJEOGRMZkZndzlhempmM3cyVTYza2JBMHlMSEJDRGNlMzhpVWM4d3hGQ0ludFhTcG1LTzVmWFlyUHdGYzExdWdiU1RWZXlSZ1JqeUx3ZDFtMXVSajBjYmZwU3dtOVlwOGQwUUlWd0xHakwzbXhCWFYyY1UxeF9Cb1d3V2txMWQwOTVWSkJwY2hsSnpoZGtNcXRncXJfLXlVdTBiWnlmempYVDJjZEFBY3VFeWcyNVdxVzlabDZnR01YekNnczZwQVRvVHdzSzR1LUlBcUM3NC15bjlFbFRzLXV3U0VRQnIzVGRfbEZUaTQyeDl0UllKRksyVHZ6VkJiWXFlZmQxZGlTUklnbzNHRS1ySF94RHByN1VwaWRhSUd4RkM0MDJkbnpPU3JTUm5EOURIMUZJdndrX1ZhR19rM1dRUW9xenIxcGlLd2I0U29kZ3JNcllkTXpLUG5uOWdnQWthdEhnR1pVSXpCaS1uRFF1YmRWRWZzN3ZmTzExR2hwVHdsVXYzbW9DWjRBbmZaeElfbzhDQzZNRko1OUpsdDc1T1ozVFNEQm12dWktM1VVNnZPZXM0RXN2aUw4Snh3?oc=5",
       "image": "",
-      "publishedAt": "2026-09-08T09:22:20.000Z",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -3532,6 +3607,21 @@
       "publishedAt": "2026-09-04T07:00:00.000Z",
       "source": {
         "name": "البيان",
+        "url": "https://www.albayan.ae"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "اتفاقية لإنشاء محطة شمسية بقدرة 1.9 ميغاواط في «كيزاد» - albayan.ae",
+      "description": "اتفاقية لإنشاء محطة شمسية بقدرة 1.9 ميغاواط في «كيزاد» &nbsp;&nbsp; albayan.ae",
+      "content": "اتفاقية لإنشاء محطة شمسية بقدرة 1.9 ميغاواط في «كيزاد» &nbsp;&nbsp; albayan.ae",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IbmJKUk1wQ1cxUWdfMC1ScHU0ZEFZR1FFRzhqWWhPU0RlX3dveUJkLTBZWFdienNITzZOOWxEVS1adWJrRkVsdnlUaWJiMVFFaDVpQU5Qcm10Q1pvdzNkcVFxblhvMmdXMFpzMtIBckFVX3lxTE1WOXlCMDkyUzQ4RHNIS1MzUjZKSmhTcmxEVEZrdFlqb0htRWplQ2hZRVJ0NWVreDZyYktuRzl0dnZCbW5aYmZGbDdVWWVvQ2hoOTBXVHJaZG5FbHkzZlROTWR1MWExSk1qSWtnNXVjeFBIUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "source": {
+        "name": "albayan.ae",
         "url": "https://www.albayan.ae"
       },
       "provider": "Scheduled Google News index",
@@ -3929,6 +4019,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Private gas plants to power data centers would skirt state’s renewable energy law - newsfromthestates.com",
+      "description": "Private gas plants to power data centers would skirt state’s renewable energy law &nbsp;&nbsp; newsfromthestates.com",
+      "content": "Private gas plants to power data centers would skirt state’s renewable energy law &nbsp;&nbsp; newsfromthestates.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNjdPX2NHNExOM2tOZ3p3QVlrdnprLUVIelJjUUdPUlJCWkpoQ1lCQWs1Q1JvMUVodmhtYXQ3YVBOZTlrZjVvbGlZM3FYUVZMTG9NcVVuVXVUUWZWNVJ5ZGJJMFdtREpNN0ZBeEk3V0liNlh6d3lYZ3MtYTNVZXJHRzFTRkdiZlJHNWRSU2UxXzlXbTR5TGlQY0dTS1NHU0o0NjBjZFBnLV9jeTV0Nmg5T0JtMWNHWnFFc3Vr?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "source": {
+        "name": "newsfromthestates.com",
+        "url": "https://www.newsfromthestates.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة - الشرق الأوسط",
       "description": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة &nbsp;&nbsp; الشرق الأوسط",
       "content": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة &nbsp;&nbsp; الشرق الأوسط",
@@ -4298,6 +4403,21 @@
       "source": {
         "name": "attaqa.net",
         "url": "https://attaqa.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "السعودية تقود تحول الشرق الأوسط لإنتاج 530 جيجاوات من الكهرباء المولدة بالغاز - alyaum",
+      "description": "السعودية تقود تحول الشرق الأوسط لإنتاج 530 جيجاوات من الكهرباء المولدة بالغاز &nbsp;&nbsp; alyaum",
+      "content": "السعودية تقود تحول الشرق الأوسط لإنتاج 530 جيجاوات من الكهرباء المولدة بالغاز &nbsp;&nbsp; alyaum",
+      "url": "https://news.google.com/rss/articles/CBMizwVBVV95cUxPZHR4bnFRTGJlcko1SnNqdUwxcUNoRjdZa0hXRzVBTk9aN3JIaEFXRWVMQ08tV21BakJzUlQ5SUtNZ0FscnlDam9UQmFMSndvci1EUGphU3pqM1JlRmQ2S2NLTy0zTXJ0TUl0T0ROWll2azZlNVN5aEtYNmZaSmlQTVB2WFM5OUd5eG1CNTAySlNLWW8xaEtYRWRLdXNkYlB3UmpCU19laGNIMG84VUlTU3dRb3psdE9UNUlJUXktaUtyQ0xkdUtORlpOUGNGVnhHSGQySVZPeVBYMzFQa3NzVjNncmdVR3BSbkNyVXBzdENIbVlVTjcwYVo4X1c2VXVMR2s4VC1nNmotclNmcjczZ0M0VEhOcFMwWTVwREJLd0NxXzJWbnhrWkZCa2dlbUJfQTQ3ckdyWF94QzM2VzZrTmQwYXZsbFdZNi1kTjNPVXBIdHRBc3I0QzNLUF91MW4zWjNiNGp5anIwYUlnZ20xM0RMZW55SDAydXZlTEV4SHFIQ2thZXlKUjQxSjBxV2Q4RmE4Y3B2eTRPZ0RnaGoyLW9jYUVrVEI3YlBLU1k0LW1TdU1kWWNLTnNMdmctdFZNbUxIcFpSRU91SjhEQUdUWXpRcTFfa0dMQloyeW83LVNSX0tEeUJnbTUydHEwdjBqeHpNZmdHbnhqSnNCSG5XUExMTExQOVY4RnNPZnEwOHFSTWVuYkVKVFR2Sjl2Z0o1NFU3SWVpZWh0SDVvUVB3dWxMaVNTM0NiSWdmTFRxcXAxeGNzWjg0dHMxY2JUUWpkcFFQRUNiVnQyZ0k1X29rVG10QW1BWk5ESjl2d3l6czVZZzNUVzY4NlZyRGYtemRyZEt1X3k0bGlqd3hZT0t3VTItTlJQdmdEQ1lHTFJOVnpHMTZBbjFsNnRoRE1EYmxRenNsekZDdEJwSWZ2RGQxTWgyaDR5Z285MjM3RU1IZ9IBU0FVX3lxTFBmeWs3Nm94a2Y2bUlhWWt5XzFuMVVWOXVqTjZiZmdFejdIWVNKelpQMVJvSmxuUUJVYjdyczA1ZTZsQTRKRlN5VUdkR1psYi04U3FV?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "source": {
+        "name": "alyaum",
+        "url": "https://www.alyaum.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -5804,14 +5924,14 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "Their Floating Hotel Had No Electricity or AC. How They Slept in the Complete Darkness of the Jungle (Exclusive) - AOL.com",
-      "description": "Their Floating Hotel Had No Electricity or AC. How They Slept in the Complete Darkness of the Jungle (Exclusive) &nbsp;&nbsp; AOL.com",
-      "content": "Their Floating Hotel Had No Electricity or AC. How They Slept in the Complete Darkness of the Jungle (Exclusive) &nbsp;&nbsp; AOL.com",
+      "title": "Their Floating Hotel Had No Electricity or AC. How They Slept in the Complete Darkness of the Jungle (Exclusive) - aol.com",
+      "description": "Their Floating Hotel Had No Electricity or AC. How They Slept in the Complete Darkness of the Jungle (Exclusive) &nbsp;&nbsp; aol.com",
+      "content": "Their Floating Hotel Had No Electricity or AC. How They Slept in the Complete Darkness of the Jungle (Exclusive) &nbsp;&nbsp; aol.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUtnTlhzSDNqamlLT1NQRk00UEFTSlJaaUYyTWttQW1EWmJFb3Rna2lLRHpLNHZaMi15TURSbzBzbHhBc3lyV1FySDlkZThVb19paWRWQlZjei1oZnRyR212Q1B1WXpNaVo2U1BtYThWb2gtTldvd0RWdlBpR3dhUHJSaw?oc=5",
       "image": "",
       "publishedAt": "2026-07-30T07:00:00.000Z",
       "source": {
-        "name": "AOL.com",
+        "name": "aol.com",
         "url": "https://www.aol.com"
       },
       "provider": "Scheduled Google News index",
@@ -6749,6 +6869,34 @@
       "preferredSite": ""
     },
     {
+      "title": "UAE strengthens power grid resilience with national monitoring centre - ARN News Centre",
+      "description": "UAE strengthens power grid resilience with national monitoring centre &nbsp;&nbsp; ARN News Centre",
+      "content": "UAE strengthens power grid resilience with national monitoring centre &nbsp;&nbsp; ARN News Centre",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmJQWHI0VWg2ZFJDTXNhRk9walVQbFpfMmtZVWZ2MGNIdEI5ZFlKY0IzM25zVXRBSTVITWUzaDNXZ1NMLWx2ZWhfN0tnSGRXMlB6ZUE1OE51bkc2T0Q1WVRtdWsyRllrTFFIZTRveXpnX0kzNC1VOW4ySXhDQm5WTUQtS0tZRUdGSDVnWXRDdlFVTkY0WE5oVE01eDBEZ0hTUk1uZ3VfZ1BzTVZsNnQ0VQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-10T07:00:00.000Z",
+      "source": {
+        "name": "ARN News Centre",
+        "url": "https://www.arnnewscentre.ae"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [
+        "egypt",
+        "saudi arabia",
+        "UAE",
+        "iraq",
+        "iran",
+        "libya",
+        "algeria",
+        "morocco",
+        "jordan",
+        "kuwait",
+        "qatar",
+        "turkey"
+      ],
+      "preferredSite": ""
+    },
+    {
       "title": "\"جولدمان ساكس\": التصعيد في هرمز يهدد خطط زيادة إنتاج النفط بالشرق الأوسط - جريدة البورصة",
       "description": "\"جولدمان ساكس\": التصعيد في هرمز يهدد خطط زيادة إنتاج النفط بالشرق الأوسط &nbsp;&nbsp; جريدة البورصة",
       "content": "\"جولدمان ساكس\": التصعيد في هرمز يهدد خطط زيادة إنتاج النفط بالشرق الأوسط &nbsp;&nbsp; جريدة البورصة",
@@ -7039,7 +7187,7 @@
       "content": "انقطاع الكهرباء يفاقم معاناة الليبيين في صيف ساخن &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxPTkJQY0Y2aUFGblFnekdHOUN6R2xLQWlscG10WDJKaVVxVzFlZzBXVjFnSER2Nnh3VGRmcjRyVTN5aGVycWNpSVBmUXBzMVJKMmtTdUZPZFdhVVVRTWttOGVzcTlzZWlLc2diT01GdUxFTmJ5WHV0cUt3cDBZb0pxU0xxZmJ4YTFjYWJBODA3cGFjX3BqYnJDZG9VazBnNW1WUk04bERNaUllT0ExTTlQWEdyUlNtVEJhQUk3SDVCZWRONl9RcFZhalB3aDF4cERSdUJYMFV0dDZoci12eGk0bWlEeENEN1dNUEE3QlFKRWNOb3hkdjdGVU5kcGx0d0t6Z0VtMmxsMFJNdHZYalFzQUpURFNFcmpvOHd6cFdlaTdiMy1GNWJSejdZSWM0ejBwV3I2b0ZaTFRfVlc2YzZOMnRmdjU5NWtBdEM2VGpfenBROTFsWW5sbFBQS3Jncm1ZV3JZSDlqczFDQ0thZ1dXUGZ4TW56ZngzVDV1bFhDUm9UTWxJeUQ4UVRxOHZnT25laEt4Zzhud1pKNFdldjZIUmR5ZDNILVpfdkVkdjc4b0hhVmNlaGYwYmZXcmZKa29KRDFXWWlNWGlnNzJnQXNweURxZlRzRlBUQ0F0RWpVdXR6cjFRNUw1NlJqdG1vRUlLbW9oX2NPRm01Tll3Z1BJcWItRjdQcks0YXRoRXV4V3JPVEhwY1ZGWkRRVnp5N1MtYTJucDNzbUN0cEVROEtVTXhCbFFHQ2JVNVJIb2dob2lVdUhlZmVMZGxoZWNtNXNSdFVqdHFiRQ?oc=5",
       "image": "",
-      "publishedAt": "2026-07-02T16:01:06.000Z",
+      "publishedAt": "2026-07-02T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -7348,7 +7496,7 @@
       "content": "مصر لاستغلال «صحاري سيناء» في مشروعات توليد الكهرباء &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOMEFXd2Jua1o5bGpqLUZETWZRaUFMVnEtRjM3d3hFZ2NkdHhzSnZGWjh6aUZtSThSM2s2RG8zVE9LTHdrRVVOQ0g3QTlWQk1ERWVXMWowT0syZEFaQUMxWm9tN1BKQlZTQWRxUXBfN0N3LTREeUI2TFpyZVBILV95Nlg0ejR1SVRyOXV0eGZ1V0NxektKU3h0NC1VbU9EUHhld3NzVjNQdmhEWjZVTXhURWhPWVFrd2FEVUdXc1FzZ0x3M0pKVHAxdnJDamh4ZWNacm9qN0UybEpjTHlKTUJPRk1NQjZQXzRhakh6dW1vUTB5YVNpNGNyVFU3b3V5WTM4dk5IaGFqNVNCVkhHZ3BDTDN2Smt2QWI2MjVJYm1YcHZKMTdwVFpZU1BEaGJEUHlsV3dBajZqN25mRWZLMHRTdjBIZnd2RVktME9vODJ6MlVxTU1mWkVWWVBiellib1RESHZLc0hPeUtocWNDeFphbzJvWlZKQlVRdWtsd09rSi1CYkRJLWFpSGxnRG1mLWFsOThPSkdUanphakhDQmotYng5Q0p6Q3hPVG1hV1ZzNmpHU1loZlAtQ2FoZU1rak13X0xPT3d1Q0dNVmc5RVV3WDE1ZVVfWEJ3ZkhaSk1jWnhvOEI3bGtCZDhrdks0VG05UjZzZnJCc3RuUk5IRW1lYXdSeUR4MXlfWGxWUDNUQm9mbGdoMy1DTzJ5ZDAyRnFUU3I3WnpxemJ3UTA1LVp6a2ZnOFhuMERxZkxpRWJDMDNheEtFSk5ycjUwaWRsakZrZ1BWU3J1ZVJQaVZhVHA0?oc=5",
       "image": "",
-      "publishedAt": "2026-06-19T15:48:26.000Z",
+      "publishedAt": "2026-06-19T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
