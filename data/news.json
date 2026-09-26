@@ -1,18 +1,63 @@
 {
-  "generatedAt": "2026-09-26T16:27:08.271Z",
+  "generatedAt": "2026-09-26T21:13:49.326Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
     {
-      "title": "North Carolina regulators reject Duke Energy gas power plant — OilPrice - ua.news",
-      "description": "North Carolina regulators reject Duke Energy gas power plant — OilPrice &nbsp;&nbsp; ua.news",
-      "content": "North Carolina regulators reject Duke Energy gas power plant — OilPrice &nbsp;&nbsp; ua.news",
+      "title": "Energy Transfer vs. MPLX: Which Pipeline Giant's High-Yield Dividend Is Actually Safer? - The Motley Fool",
+      "description": "Energy Transfer vs. MPLX: Which Pipeline Giant's High-Yield Dividend Is Actually Safer? &nbsp;&nbsp; The Motley Fool",
+      "content": "Energy Transfer vs. MPLX: Which Pipeline Giant's High-Yield Dividend Is Actually Safer? &nbsp;&nbsp; The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTc0NzRlMlR1ZERoR0xwV2FrSFlEaW1YRFFWOHJqQWphQkNNUE9kWDNNOWFqMkpJNFk3Q0JTQzM2czFsQnlKU01JMlJGYTVISXpDaTBCREE1TzZDWWkyYlR3OHA1SzZTeGpQQXJJTGw3eWJkTVJSRktjeUdTYmZ3NGFBcDI2VWhfTmZzSDJ6NzVsOGFaZVJpaw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-26T20:52:44.000Z",
+      "source": {
+        "name": "The Motley Fool",
+        "url": "https://www.fool.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "عاصفة قوية تضرب شمال شرق أمريكا وتتسبب في انقطاع الكهرباء وإلغاء رحلات - صوت الإمارات",
+      "description": "عاصفة قوية تضرب شمال شرق أمريكا وتتسبب في انقطاع الكهرباء وإلغاء رحلات &nbsp;&nbsp; صوت الإمارات",
+      "content": "عاصفة قوية تضرب شمال شرق أمريكا وتتسبب في انقطاع الكهرباء وإلغاء رحلات &nbsp;&nbsp; صوت الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQV3J5aTR2cWxsMzVFS0dGZ1JJN0NoVmxPTDBmVmViQ0pxX3Byd2k0VG13alFDTmZzR2paV1locC1INVI3ajNjUzZiMEdSd0poWUREVWxiRmlKa1V3YmluLVJCMG15SEJMTmZXTVgwMGlaNjBUOEstQmhFaF9kdXZLcFp0UThrRFFGWTBRYlAwOUpWUi1saEp2TjhlOEZXazRKZlNXVGg5NzQzaEVoTUxHMy1JWEpWckt4VjdTTUVCdFNVN1NhSVhDNFFaMDJBd1pYT1pHNnBwVEQtbkJwZzY5c2IwT3lfbktwMHZGaVFWVFF6c1N0cHQ3NmZ4Z1FwSlp3bmI5UXhfLUxad3RpaV9FUWFZYTJsU0podGF1aGo1a1hkYS1RT3VjeWRDRzhvUElDMkZXd1R6Qk9TNGZyQmU4SU9RblJ0aXZIVGc0OWNId2Ric0xTXzlaQlltaUhfeWZQVzhjTkRn?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-26T19:45:44.000Z",
+      "source": {
+        "name": "صوت الإمارات",
+        "url": "https://www.voiceofemirates.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "انقطاع الكهرباء عن 60 ألف شخص شمال شرق الولايات المتحدة - صحيفة المواطن",
+      "description": "انقطاع الكهرباء عن 60 ألف شخص شمال شرق الولايات المتحدة &nbsp;&nbsp; صحيفة المواطن",
+      "content": "انقطاع الكهرباء عن 60 ألف شخص شمال شرق الولايات المتحدة &nbsp;&nbsp; صحيفة المواطن",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOQk1ncFhBUjVIblE1akRCX3dkOVhjMGZDWl9kcTZISVBwV1J0RDhmNjk0cnFLUWd5bmFNSHF5Z1Z5RTgxcnJkYVFNcldfVllMQUhtZWpmMDgwaHR0WEdhc3QtdHV0MWdkaEJjMTJZRnNsMVd1RUVia3pGY09ZUVhwSWJfbzNiZy00Y0FYZmpMUDkzYzVHOFRJOUQxcW0wTnVMa0h3TjhKcm9sb2Y2alkzeHBsS29BbHBCVE9lSGU5cHB1MHNPVWYtaDJadGo0SUJ3c25UTU1rek8tb1NJNDkxN1doejFKQ3JvSzJpOFpOcG1ISTJZbnl1b3N1SGJweU5tc3BnNXdKV01McEt3Vi1tc0VwTVBKcS1xYk9udmVnTTBDTjFRQllobGJDc0t3MG10emh1THhLNndINHhRVUVv?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-26T15:16:39.000Z",
+      "source": {
+        "name": "صحيفة المواطن",
+        "url": "https://www.almowaten.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "North Carolina regulators reject Duke Energy gas power plant — OilPrice - UA.NEWS",
+      "description": "North Carolina regulators reject Duke Energy gas power plant — OilPrice &nbsp;&nbsp; UA.NEWS",
+      "content": "North Carolina regulators reject Duke Energy gas power plant — OilPrice &nbsp;&nbsp; UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHB1d2g2WFRWTmJ5c1l6MW1Yd19aZEtaT0h6NDh3bE1jLXpCdmM5ODB5UmRwREtPa1RGd0VTV1VUbHhjOWpZN3NTZmNUU2wzZXJERTNsV3ZpYlZDc0t0cjRudkJXYzVXUXZMSEtmdEtNZ1dPVzJnb1UwWDVZSThnQXlIUEFYS3lFcENucUwtMWhrc282QU1jQklldERDU0piQklnMFRFZWh3SkJVeGwzZzZMQXlRN211TUE?oc=5",
       "image": "",
       "publishedAt": "2026-09-26T15:14:52.000Z",
       "source": {
-        "name": "ua.news",
+        "name": "UA.NEWS",
         "url": "https://ua.news"
       },
       "provider": "Scheduled Google News index",
@@ -29,6 +74,36 @@
       "source": {
         "name": "Crude Oil Prices Today | OilPrice.com",
         "url": "https://oilprice.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "North Carolina Regulators Reject Duke Energy Gas Power Plant - oilprice.com",
+      "description": "North Carolina Regulators Reject Duke Energy Gas Power Plant &nbsp;&nbsp; oilprice.com",
+      "content": "North Carolina Regulators Reject Duke Energy Gas Power Plant &nbsp;&nbsp; oilprice.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYTg1SC1XWE1IUTV2WC1aVElIVmhtTWZuMWtNNFc3YTIyQ3NobmdZQzBWYXFrY3ZsbkFVdlhzOEVFMlA3enBFTjd4RXBEY0VudndWa3pTR2RIWVRGWjJDQ0hEa0dNRS1yNmhoNFpRMi12M0J0YjJyai1MbTBPRVFKWWZhLTBuaUpNWXpUemJ2Z3J2ZTV6SHk4Y0pOYXpmc1Y4M0JHV0pjNEt4aXlT0gGyAUFVX3lxTE9fbG80d0F0RWdiUzNpeDN4NXBkNVllTjI3MXFSRldBVGpuYnFGLU9ibHNFbS0zRm9lN0xTbTNrbkFGMUxVUm9SMnN6R05KaEtiOTJYeWhpeUtOMDFFY213Z0tZWGZVQkY5NzEtZzdUbWd0Q1gxdTN1SzNnZXFKcHQ0OTFHZVdIbTc5UVlRZWRkVUs0cjJybllUcl90azVjT2tVTXBmWWdSRkpCVlJNOTNyeWc?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-26T15:00:00.000Z",
+      "source": {
+        "name": "oilprice.com",
+        "url": "https://oilprice.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "North Carolina Regulators Reject Duke Energy Gas Power Plant - Yahoo Finance",
+      "description": "North Carolina Regulators Reject Duke Energy Gas Power Plant &nbsp;&nbsp; Yahoo Finance",
+      "content": "North Carolina Regulators Reject Duke Energy Gas Power Plant &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWdlUVI0ZzVPQ1U5ZkRJa2JpUkUyWWN1RmxxQzFNQnlNQldZRF8ySTAwWVhFeW9OazhqdmE5QVJqbW1iZXI2dFBMZWNmR1JveG40UV9kTU15M05YelQzRjdfVjJsb0FlMGx4YkhGdDBBZWMzUkhVNzNtM2Q5SHVwWVRtTlN1ODN2eVREaE1WeGVOV2xEOTkzM2J3?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-26T15:00:00.000Z",
+      "source": {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -140,14 +215,14 @@
       "preferredSite": ""
     },
     {
-      "title": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro - energynow.com",
-      "description": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro &nbsp;&nbsp; energynow.com",
-      "content": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro &nbsp;&nbsp; energynow.com",
+      "title": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro - EnergyNow.com",
+      "description": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro &nbsp;&nbsp; EnergyNow.com",
+      "content": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro &nbsp;&nbsp; EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdVJYLTVsYzNudVh6UzN2TUNKcTNrWlpDSHZCanMxLXFXTTY3aHQ5enBwZVF4WGk0WFFOLVc2bUd4eGk3ZEVBWHlndC16WUhmLVVpeHRwTTNjdTE1cUFkMlp4a0RjcTVPM2dUYW8xTlJnVHZKMWNNU05qTzA1R0EtTzBCY2JlS2pzSHEzdUxIVEJ6VXc3aVdwd1NlMS1VNUVJUTRaTTA3ZGxuTGM5ZEJHNklJVnhuLWNTSjhzanFBTkVubmhfRlZuSVdvaEc0WHJ0aFBmUmRR?oc=5",
       "image": "",
       "publishedAt": "2026-09-25T22:17:49.000Z",
       "source": {
-        "name": "energynow.com",
+        "name": "EnergyNow.com",
         "url": "https://energynow.com"
       },
       "provider": "Scheduled Google News index",
@@ -335,6 +410,21 @@
       "preferredSite": "alghad.com"
     },
     {
+      "title": "Egypt and Libya Sign MoU to Cooperate in Electricity and Renewable Energy - yaffaps.com",
+      "description": "Egypt and Libya Sign MoU to Cooperate in Electricity and Renewable Energy &nbsp;&nbsp; yaffaps.com",
+      "content": "Egypt and Libya Sign MoU to Cooperate in Electricity and Renewable Energy &nbsp;&nbsp; yaffaps.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zYWI4Y0djdnF1bVN3M0VpeWNMM3ZremZHQVVlVlFmaGhqbldMTDJwa2tDWHRGZllXTS1vdzYtWVZXN2doVG1sQWQzUGhxX2lK?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-25T12:47:02.000Z",
+      "source": {
+        "name": "yaffaps.com",
+        "url": "https://yaffaps.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
+    {
       "title": "12 ماكينة طوارئ و3 مولدات.. «شمال القاهرة للكهرباء» جاهزة لمباراة مصر وأنجولا - الوطن",
       "description": "12 ماكينة طوارئ و3 مولدات.. «شمال القاهرة للكهرباء» جاهزة لمباراة مصر وأنجولا &nbsp;&nbsp; الوطن",
       "content": "12 ماكينة طوارئ و3 مولدات.. «شمال القاهرة للكهرباء» جاهزة لمباراة مصر وأنجولا &nbsp;&nbsp; الوطن",
@@ -485,14 +575,14 @@
       "preferredSite": ""
     },
     {
-      "title": "Ukrenergo has urged Ukrainians to conserve electricity until 10:00 p.m. - ua.news",
-      "description": "Ukrenergo has urged Ukrainians to conserve electricity until 10:00 p.m. &nbsp;&nbsp; ua.news",
-      "content": "Ukrenergo has urged Ukrainians to conserve electricity until 10:00 p.m. &nbsp;&nbsp; ua.news",
+      "title": "Ukrenergo has urged Ukrainians to conserve electricity until 10:00 p.m. - UA.NEWS",
+      "description": "Ukrenergo has urged Ukrainians to conserve electricity until 10:00 p.m. &nbsp;&nbsp; UA.NEWS",
+      "content": "Ukrenergo has urged Ukrainians to conserve electricity until 10:00 p.m. &nbsp;&nbsp; UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRm42MEdDcS1XWDBWa1FJMGtFcVpVUGd1UV84YjdCbnVXY2dYUkIwUV82ZnV0UHZ5VVVCTlJpajRYWU1ISlZTenU1Vm0yNTY3SV8xNmJWckMzTnJBYUNMVlBReWNibWVldVlPZU03SW5kVTdral9GeFp1bV9NSU1td0E0bFU1TFlUV2FMRkRHNkFqeHdlMlNLVw?oc=5",
       "image": "",
       "publishedAt": "2026-09-24T11:26:52.000Z",
       "source": {
-        "name": "ua.news",
+        "name": "UA.NEWS",
         "url": "https://ua.news"
       },
       "provider": "Scheduled Google News index",
@@ -7990,6 +8080,21 @@
       "preferredSite": "alghad.com"
     },
     {
+      "title": "Kuwait Urges Electricity Conservation After Power Plant Damaged in Iranian Attack - yaffaps.com",
+      "description": "Kuwait Urges Electricity Conservation After Power Plant Damaged in Iranian Attack &nbsp;&nbsp; yaffaps.com",
+      "content": "Kuwait Urges Electricity Conservation After Power Plant Damaged in Iranian Attack &nbsp;&nbsp; yaffaps.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ndEJJVUgxR0VJZng5NGVqQ0FPSkVrZ3NacnIyOTZNdnl1R09TX1Q0bk96V0Q4RnhmRHdaVERHSld1eVRyaHRBRWpCWnl5WEZ3?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-17T07:00:00.000Z",
+      "source": {
+        "name": "yaffaps.com",
+        "url": "https://yaffaps.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
+    {
       "title": "Arlington Says Community Electricity Customers Will Save On Electric Bills - Patch",
       "description": "Arlington Says Community Electricity Customers Will Save On Electric Bills &nbsp;&nbsp; Patch",
       "content": "Arlington Says Community Electricity Customers Will Save On Electric Bills &nbsp;&nbsp; Patch",
@@ -8488,7 +8593,7 @@
       "content": "The Basra-Aqaba Pipeline: Iraq Seeks an Oil Outlet to the Red Sea &nbsp;&nbsp; خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUw5MFhtVjJIc3ZoQkpoRUhvLW9JOUxRc1lNMG5uMWlVWTZiLU1lQVRRX3NMZ3VKekVSSHNPYXAyZHlmS2NEM090bm9jU1ZFR0Jna2VoUUE1aXN0OVdlaHB3Tjc4MUQ0QndEY1Q1N2NBOUREZFZuRmdyejB1am5aTXpLVzJDNnRfbmtYalc4b3E5ZnVENHJSZ3dvdExEdEV3NVhR?oc=5",
       "image": "",
-      "publishedAt": "2026-07-06T22:09:08.000Z",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
       "source": {
         "name": "خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
         "url": "https://www.khaberni.com"
