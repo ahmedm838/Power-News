@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-09-27T17:00:36.460Z",
+  "generatedAt": "2026-09-27T21:23:50.746Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "الكهرباء تعلن اكتمال الجانب المصري من الربط مع السعودية.. 3000 ميجاوات تستعد لعبور البحر الأحمر",
+      "description": "أعلن الدكتور محمود عصمت، وزير الكهرباء والطاقة المتجددة، الانتهاء الكامل من جميع الأعمال الخاصة بالجانب المصري في مشروع الربط الكهربائي …",
+      "content": "أعلن الدكتور محمود عصمت، وزير الكهرباء والطاقة المتجددة، الانتهاء الكامل من جميع الأعمال الخاصة بالجانب المصري في مشروع الربط الكهربائي …",
+      "url": "https://www.egelectricgate.com/?p=10559",
+      "image": "",
+      "publishedAt": "2026-09-27T21:18:15.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "فيضانات وانقطاع الكهرباء عن الآلاف.. عاصفة تضرب شمال شرق أميركا خارج الموسم المعتاد - جريدة الأنباء الكويتية",
+      "description": "فيضانات وانقطاع الكهرباء عن الآلاف.. عاصفة تضرب شمال شرق أميركا خارج الموسم المعتاد &nbsp;&nbsp; جريدة الأنباء الكويتية",
+      "content": "فيضانات وانقطاع الكهرباء عن الآلاف.. عاصفة تضرب شمال شرق أميركا خارج الموسم المعتاد &nbsp;&nbsp; جريدة الأنباء الكويتية",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yMGN4Nkx0dUFqaFc2ajhaVFVybWhjOXFSNDd3SlhidDBwd3kwckhudjhUU21yZjVybFpOcnJ5WWlmZEhZS3lUUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-27T19:35:52.000Z",
+      "source": {
+        "name": "جريدة الأنباء الكويتية",
+        "url": "https://www.alanba.com.kw"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "إعصار قوى يضرب شمال شرق أمريكا ويؤدى لقطع الكهرباء وغمر المناطق الساحلية - بوابة الشروق",
+      "description": "إعصار قوى يضرب شمال شرق أمريكا ويؤدى لقطع الكهرباء وغمر المناطق الساحلية &nbsp;&nbsp; بوابة الشروق",
+      "content": "إعصار قوى يضرب شمال شرق أمريكا ويؤدى لقطع الكهرباء وغمر المناطق الساحلية &nbsp;&nbsp; بوابة الشروق",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdGQtWDJGZFpGZ0oxVGx2dFdEdlRHYkFFYmFhVlZMUXVCalZQWEljZUJMWmpoNUNiR284a2lNdEZ5TVBYeW1YVnowZlJxN0FvR0F6bXVmNDlxd1NHVWZJcENTckhPQldwYm80LTZUMkZCN1BFb2JoYTRxNUFzdEJackhid0hNbHNJTVd3NTBKMG5INDZpWWtvYmV4SkhwNjk1V1pFUmtxaw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-27T17:22:43.000Z",
+      "source": {
+        "name": "بوابة الشروق",
+        "url": "https://www.shorouknews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ - الشرق الأوسط",
       "description": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
@@ -14,6 +59,36 @@
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro - energynow.com",
+      "description": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro &nbsp;&nbsp; energynow.com",
+      "content": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro &nbsp;&nbsp; energynow.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdVJYLTVsYzNudVh6UzN2TUNKcTNrWlpDSHZCanMxLXFXTTY3aHQ5enBwZVF4WGk0WFFOLVc2bUd4eGk3ZEVBWHlndC16WUhmLVVpeHRwTTNjdTE1cUFkMlp4a0RjcTVPM2dUYW8xTlJnVHZKMWNNU05qTzA1R0EtTzBCY2JlS2pzSHEzdUxIVEJ6VXc3aVdwd1NlMS1VNUVJUTRaTTA3ZGxuTGM5ZEJHNklJVnhuLWNTSjhzanFBTkVubmhfRlZuSVdvaEc0WHJ0aFBmUmRR?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-27T15:08:04.000Z",
+      "source": {
+        "name": "energynow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "EPA Power Plant Rollback To Add 123 Million More Tons of CO2 - Crude Oil Prices Today | OilPrice.com",
+      "description": "EPA Power Plant Rollback To Add 123 Million More Tons of CO2 &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
+      "content": "EPA Power Plant Rollback To Add 123 Million More Tons of CO2 &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmd0emZKVHRkVDRiaTdBa3VYMkZ4YVdJQmVjODNIeGI2a1dwOFg2N082Vk1QdS1hVFNsejNRck1uSnpKY004cTRCR1RydERFWmk0NWk2dHNVTy1OZzh2Q3VjZVdBWktVYjlfcWdSekUwYl9wNktpWFltaHVrd2dVZHlmcVRqNGZCWW5aTmRCVDhwX3ZXZmhtaS1GRUFTLVgxdlZwR3dFRE5TZUgz0gGyAUFVX3lxTE10ZXRGZXh2MnJZUzNsQUhwcHNGQkpFdndoNFA2N2JJb3MzREtWT0FpaG5JeXVXWlBBT0l1Y2ZWZU42NTJKZDdTb1VCVUJQbVI5aXdUUWxhUEp0V3YyUS1QTDZYd0NJRFBSQ21SV2tKOUVjWWRfRUFNUGhxX25qMVlUM2hDYXIzYy1Kc00xODRNS1hVS04yeGZqR2FhQWtNN0RTUFVQX0UxMk9INTdaUlZaTUE?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-27T15:00:00.000Z",
+      "source": {
+        "name": "Crude Oil Prices Today | OilPrice.com",
+        "url": "https://oilprice.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -513,21 +588,6 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro - EnergyNow.com",
-      "description": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro &nbsp;&nbsp; EnergyNow.com",
-      "content": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdVJYLTVsYzNudVh6UzN2TUNKcTNrWlpDSHZCanMxLXFXTTY3aHQ5enBwZVF4WGk0WFFOLVc2bUd4eGk3ZEVBWHlndC16WUhmLVVpeHRwTTNjdTE1cUFkMlp4a0RjcTVPM2dUYW8xTlJnVHZKMWNNU05qTzA1R0EtTzBCY2JlS2pzSHEzdUxIVEJ6VXc3aVdwd1NlMS1VNUVJUTRaTTA3ZGxuTGM5ZEJHNklJVnhuLWNTSjhzanFBTkVubmhfRlZuSVdvaEc0WHJ0aFBmUmRR?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-25T22:17:49.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Malampaya resumes natural gas supply to 1,200-MW Ilijan Power Plant - Philippine News Agency",
       "description": "Malampaya resumes natural gas supply to 1,200-MW Ilijan Power Plant &nbsp;&nbsp; Philippine News Agency",
       "content": "Malampaya resumes natural gas supply to 1,200-MW Ilijan Power Plant &nbsp;&nbsp; Philippine News Agency",
@@ -552,21 +612,6 @@
       "source": {
         "name": "pna.gov.ph",
         "url": "https://www.pna.gov.ph"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا - الشرق الأوسط",
-      "description": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا &nbsp;&nbsp; الشرق الأوسط",
-      "content": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxQMTVqcWljTlByZFpyQUM4TlJ1el9IUjRJSGFIdjBTOHA1RmRpODJuVXc0TUNqd0FxcHZvYlpzYTczRDJ3MTZJU3ZkMFZnOUJhSE8zUlVLYkJtUGFUb2Jrb19aTTI0azMtSzhSTnd0ME1Da3VubUo0VlVpaEo2RjQxRjF5MFJDYXMzNWdWUDYyUTlTR1BNZ0Y1SE1uRVlYbmVGUzVYSW1zbU1wMVR0eXhaanFwWVZVN0ttZWFrYi11X3pjWm04Y1ByS1dpSDkzUXBudGczZUhVcWRsZWROZGN5cExjYW9uWkhieDJGQmxjWndrSnRDNDNwMXUtX3FZLXZoV0FlOVdXUmN3bGRicE55TjBGUzFDazh6NmM3V1Y3SFdNaEVQcTBOMk5ZQm54WGRrS0lEOWxka2dmTTQzN3p6QnhNTzJxRDNnZ19QcWpXMl9nNHdvRWJicmVPQjZZLUUzNm5pUHFlSWd1dXM0SGNPc0tkdTBCVnFlY0JEUEhzT004X1hMR01EOFVXZE42QWt6S3Z2MVFjN3g0RlBPbkRSS1hMOWsyYW9WbTY3bk14SG9QQnlUYmhNa3JBTEFhZm5Ic0p1V2NfUGg1ckxTWTNrVWQtOV9pNFZWOG44eHMxZzFOdllPZ1RXblI2Ym90TDJTQXE1YllnOTVpTW1ESDJrN1Bsa1NKQWxiY3NRT1IzQzhSMHpCclR4VE91MlZ6QTJCejFFVHE3dWVoQnNYZWVYRXpkSFgyd2xSU3pFODUwWkxlQkJkTWNBRUR6SkNOVUJhZEJjV0FHMHMybV9LdzhETEFqSW4xMmZ4T2RObkJvTXdWVTVVbDB6ZHRzVlJHZmFTWnlFTkwyYTFXcEp0WG4yNy10M3hYTml2cGV6OGRKdDVKR1MyLWFsNg?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-25T19:29:48.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -933,6 +978,21 @@
       "preferredSite": ""
     },
     {
+      "title": "A push for solar at KCI instead of Buchanan County gas-fired power plant | Opinion - kansascity.com",
+      "description": "A push for solar at KCI instead of Buchanan County gas-fired power plant | Opinion &nbsp;&nbsp; kansascity.com",
+      "content": "A push for solar at KCI instead of Buchanan County gas-fired power plant | Opinion &nbsp;&nbsp; kansascity.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4aDRGQTVGakt2RFpsTkdxcWN1X2ZxWDRZVmduNzlfRGpLaDc5NkY3QmRkUGNFaDhtODlzVmlwME5BZTlpSnJFWjY5T0hNOUpEbGd0eHZIYVU2RjA0M2lSSkt1cUVMSm_SAWdBVV95cUxNWHFQS0UtckRBVkhDU2NhemhwRjMtTU1nalg1ZnhIaU83bzFhNDJZZlBwQllVcWpzYUV1NGRZZTBoYTFPSXBOVzlYbS1oOTRlRWFVQkJFY3BZUHpwb3Y2NHFuTHZYVnVZ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-24T10:03:00.000Z",
+      "source": {
+        "name": "kansascity.com",
+        "url": "https://www.kansascity.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "PURC keeps electricity, water tariffs unchanged for fourth quarter - Modern Ghana",
       "description": "PURC keeps electricity, water tariffs unchanged for fourth quarter &nbsp;&nbsp; Modern Ghana",
       "content": "PURC keeps electricity, water tariffs unchanged for fourth quarter &nbsp;&nbsp; Modern Ghana",
@@ -971,6 +1031,21 @@
       "publishedAt": "2026-09-24T07:28:47.000Z",
       "source": {
         "name": "Il Sole 24 ORE",
+        "url": "https://en.ilsole24ore.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Electricity, gas and telecoms: from today, a single energy provider – increasingly Enel - en.ilsole24ore.com",
+      "description": "Electricity, gas and telecoms: from today, a single energy provider – increasingly Enel &nbsp;&nbsp; en.ilsole24ore.com",
+      "content": "Electricity, gas and telecoms: from today, a single energy provider – increasingly Enel &nbsp;&nbsp; en.ilsole24ore.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlRkSGY1UEN3NGkxNVZILVpUU0tadTljUnA5eG9vVzBWWVVXSWpBUjJWay0yU3QyLUpRTS01ajktamMyMzdyMmR4TVR6WHQ2aDhqa2lXZTlWaU9zcUJDcGdxY0JicWE1N1pHRDlWR3B5SFFVWDJaWEFTU3NoU3NqdlRqVG9qXy1mT3pPTXp4Q3JrenhSSlpMZTdCdVhDUWJuczJWRVZVQkhUb1FERHZHQW9JVVZoZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-24T07:28:47.000Z",
+      "source": {
+        "name": "en.ilsole24ore.com",
         "url": "https://en.ilsole24ore.com"
       },
       "provider": "Scheduled Google News index",
@@ -1137,6 +1212,21 @@
       "source": {
         "name": "25h.app",
         "url": "https://25h.app"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا - الشرق الأوسط",
+      "description": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا &nbsp;&nbsp; الشرق الأوسط",
+      "content": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxQMTVqcWljTlByZFpyQUM4TlJ1el9IUjRJSGFIdjBTOHA1RmRpODJuVXc0TUNqd0FxcHZvYlpzYTczRDJ3MTZJU3ZkMFZnOUJhSE8zUlVLYkJtUGFUb2Jrb19aTTI0azMtSzhSTnd0ME1Da3VubUo0VlVpaEo2RjQxRjF5MFJDYXMzNWdWUDYyUTlTR1BNZ0Y1SE1uRVlYbmVGUzVYSW1zbU1wMVR0eXhaanFwWVZVN0ttZWFrYi11X3pjWm04Y1ByS1dpSDkzUXBudGczZUhVcWRsZWROZGN5cExjYW9uWkhieDJGQmxjWndrSnRDNDNwMXUtX3FZLXZoV0FlOVdXUmN3bGRicE55TjBGUzFDazh6NmM3V1Y3SFdNaEVQcTBOMk5ZQm54WGRrS0lEOWxka2dmTTQzN3p6QnhNTzJxRDNnZ19QcWpXMl9nNHdvRWJicmVPQjZZLUUzNm5pUHFlSWd1dXM0SGNPc0tkdTBCVnFlY0JEUEhzT004X1hMR01EOFVXZE42QWt6S3Z2MVFjN3g0RlBPbkRSS1hMOWsyYW9WbTY3bk14SG9QQnlUYmhNa3JBTEFhZm5Ic0p1V2NfUGg1ckxTWTNrVWQtOV9pNFZWOG44eHMxZzFOdllPZ1RXblI2Ym90TDJTQXE1YllnOTVpTW1ESDJrN1Bsa1NKQWxiY3NRT1IzQzhSMHpCclR4VE91MlZ6QTJCejFFVHE3dWVoQnNYZWVYRXpkSFgyd2xSU3pFODUwWkxlQkJkTWNBRUR6SkNOVUJhZEJjV0FHMHMybV9LdzhETEFqSW4xMmZ4T2RObkJvTXdWVTVVbDB6ZHRzVlJHZmFTWnlFTkwyYTFXcEp0WG4yNy10M3hYTml2cGV6OGRKdDVKR1MyLWFsNg?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-23T07:00:00.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
