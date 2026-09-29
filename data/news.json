@@ -1,9 +1,84 @@
 {
-  "generatedAt": "2026-09-29T12:58:07.466Z",
+  "generatedAt": "2026-09-29T22:19:19.289Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "المهندس أحمد نجم.. حكاية مهندس قادته الكهرباء إلى قلب التسويق - جريدة باور نيوز الاخبارية",
+      "description": "المهندس أحمد نجم.. حكاية مهندس قادته الكهرباء إلى قلب التسويق &nbsp;&nbsp; جريدة باور نيوز الاخبارية",
+      "content": "المهندس أحمد نجم.. حكاية مهندس قادته الكهرباء إلى قلب التسويق &nbsp;&nbsp; جريدة باور نيوز الاخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1xNC1jQmRFT0VvNEhMd3BmcUhfeG9Fck9wZkl5bHRxQ0ZyUEs0bXY0M0N0TFNTMUFlM0pFSG1lRTBFRVk3?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-29T19:41:10.000Z",
+      "source": {
+        "name": "جريدة باور نيوز الاخبارية",
+        "url": "https://powernews.cc"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "\"شل\" تقود توسعة \"LNG Canada\" لمضاعفة طاقة تصدير الغاز - شبكة تواصل الإخبارية",
+      "description": "\"شل\" تقود توسعة \"LNG Canada\" لمضاعفة طاقة تصدير الغاز &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "content": "\"شل\" تقود توسعة \"LNG Canada\" لمضاعفة طاقة تصدير الغاز &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13Qk14TXgyTWZqZGhhQ0VHOVZRU1VuSlNma0RrQ3R2Y095RDIxTjRDLTc5MXFuUlBDZk8tdU5qQVpPeVh2NGlyTUhDd2pTVGpEQVZz?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-29T16:18:57.000Z",
+      "source": {
+        "name": "شبكة تواصل الإخبارية",
+        "url": "https://twaslnews1.twaslnews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
+    {
+      "title": "Shanghai Electric to supply equipment for gas-fired power plant in Malaysia — ECNS - UA.NEWS",
+      "description": "Shanghai Electric to supply equipment for gas-fired power plant in Malaysia — ECNS &nbsp;&nbsp; UA.NEWS",
+      "content": "Shanghai Electric to supply equipment for gas-fired power plant in Malaysia — ECNS &nbsp;&nbsp; UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSV8wUm44OEdfMkd3SEkwNVdrTGZ0NnhZZy1UX2tINE5CZUk4RFMzS2laWlVqU3J2cVR5NUlsTjNYV3Y0NFFUR1lVQjN6U1c4QnBSZjhOdmExU0c5T2NQT0JNUGxFMjQ3akRhX2dnUjFLZW9ISWFaZDY1WU83R1NBMk5ZZndzMTY2SWhOY2gtV3JUWVl4em1KeVNsWHRENTBTQ1RfMEJ5bm9QeWM?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-29T15:53:49.000Z",
+      "source": {
+        "name": "UA.NEWS",
+        "url": "https://ua.news"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Singapore builds first gas-fired power plant integrated with battery storage - Vietnam+ (VietnamPlus)",
+      "description": "Singapore builds first gas-fired power plant integrated with battery storage &nbsp;&nbsp; Vietnam+ (VietnamPlus)",
+      "content": "Singapore builds first gas-fired power plant integrated with battery storage &nbsp;&nbsp; Vietnam+ (VietnamPlus)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEc4QVNQYmZDRjYxZlFfLU9EcXFibjMyOWpwc0NuV1gzOXpjWEoxNDNKSVlmaHpwS2RfMDBiWF9TTVM2YV96N21pWUNsMXFnNWhuWmVXcl84X25qTnJjWFcwaGtkb3ZCblB4VmlSNFdKMXUxZTc2Q09MZkt2OGV3ZUtyX0ZXZUY4ZzBQMTZybjZQYTBzYU5nTmZyRlctZTRsbzUzT2FyWUtFS2xSQmhUSmhwVzUydWta?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-29T15:00:14.000Z",
+      "source": {
+        "name": "Vietnam+ (VietnamPlus)",
+        "url": "https://en.vietnamplus.vn"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Saudi Energy Minister and Australian Counterpart Discuss Climate Action and Renewable Energy Initiatives - صحيفة مال",
+      "description": "Saudi Energy Minister and Australian Counterpart Discuss Climate Action and Renewable Energy Initiatives &nbsp;&nbsp; صحيفة مال",
+      "content": "Saudi Energy Minister and Australian Counterpart Discuss Climate Action and Renewable Energy Initiatives &nbsp;&nbsp; صحيفة مال",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sRXA3RjE2VHYxM2dYVXM0NFJYQnZXRnd5dW9tSlBxdGRwVVQ1U2RZVi1nME5zWm14UWxYSTVtalhuOU80ZVdtanZ0U0M5RmJOSXpld3pWUmxEWFRLdmJqMUN6SE1zS3dFY0U5dDY4bw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-29T12:34:30.000Z",
+      "source": {
+        "name": "صحيفة مال",
+        "url": "https://maaal.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
     {
       "title": "PLN plans 81 MW of gas and solar power in East Sumba - Petromindo",
       "description": "PLN plans 81 MW of gas and solar power in East Sumba &nbsp;&nbsp; Petromindo",
@@ -93,6 +168,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "Uzbekistan lowers electricity and gas prepayments to 15% for businesses - Daryo",
+      "description": "Uzbekistan lowers electricity and gas prepayments to 15% for businesses &nbsp;&nbsp; Daryo",
+      "content": "Uzbekistan lowers electricity and gas prepayments to 15% for businesses &nbsp;&nbsp; Daryo",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPem16UE0wbW9jZGw0U3FBZHhJTnZ5eTB6S2lRS0xrYUYzclFLSXZMdV9SYnVfQ1FIa1laLTFvVElPTGh0dlhqNnEybW5KSUI4cGFUX2xNV1kwR05xX0Qxem9vMEVVRVNfa0ZZdWkxS2xrRDMwTkRuRUJBcTk2QVNrSHRkLUlJa2FDZjhCR2xkMmhrdXVRUW5WQllHWWJWWFE0SElQMA?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-28T14:59:28.000Z",
+      "source": {
+        "name": "Daryo",
+        "url": "https://daryo.uz"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Azerbaijan to boost gas supplies to Serbia as joint power plant project advances - SeeNews",
@@ -230,6 +320,21 @@
       "preferredSite": ""
     },
     {
+      "title": "TU Wien: A.I. Data Centers Must Adapt to the Power Grid - trendingtopics.eu",
+      "description": "TU Wien: A.I. Data Centers Must Adapt to the Power Grid &nbsp;&nbsp; trendingtopics.eu",
+      "content": "TU Wien: A.I. Data Centers Must Adapt to the Power Grid &nbsp;&nbsp; trendingtopics.eu",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRVFJUEZQa1Z1cElTbDdhbmpnbkdxaWl5dVRkRVBaamVjOWtpS1lpU0p3X2l4V0pORFJJaTNZVllfRTVBU0NrSTBRby1ybVJXek5tcjNQNGZoNXZSWVhvUTZrLWtOd3JVQURpYmFSYnM4eUdMd2dOUjR4TTIyek41dA?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-28T07:24:32.000Z",
+      "source": {
+        "name": "trendingtopics.eu",
+        "url": "https://www.trendingtopics.eu"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Kazakhstan Plans to Use Associated Gas for Power Generation - Intellectia AI",
       "description": "Kazakhstan Plans to Use Associated Gas for Power Generation &nbsp;&nbsp; Intellectia AI",
       "content": "Kazakhstan Plans to Use Associated Gas for Power Generation &nbsp;&nbsp; Intellectia AI",
@@ -288,6 +393,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "ما تأثير صراع الشرق الأوسط في قطاع الكهرباء العالمي؟.. 5 تحولات رئيسة - شبكة النبأ المعلوماتية",
+      "description": "ما تأثير صراع الشرق الأوسط في قطاع الكهرباء العالمي؟.. 5 تحولات رئيسة &nbsp;&nbsp; شبكة النبأ المعلوماتية",
+      "content": "ما تأثير صراع الشرق الأوسط في قطاع الكهرباء العالمي؟.. 5 تحولات رئيسة &nbsp;&nbsp; شبكة النبأ المعلوماتية",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16dkJSS0N3c3ZqbzB0UW1zYm44enBVUmZOSmxEbERMR2k2QXRBVS1WVS1pbUk1bDhhQzJEWDVHWm5qbldhRFRmNldPZm50OHlEV2plSDdmUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-28T05:00:23.000Z",
+      "source": {
+        "name": "شبكة النبأ المعلوماتية",
+        "url": "https://annabaa.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "PacificLight to pair new gas power plant with giant batteries in Singapore first - The Business Times",
