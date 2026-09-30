@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-09-30T05:37:10.130Z",
+  "generatedAt": "2026-09-30T12:40:02.200Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "«قراءات مخالفة وتدوير للعدادات».. تحقيقات مع رئيس هندسة كهرباء مغاغة وسط تساؤلات عن غياب رئيس القطاع",
+      "description": "مخلص عبد الحي يجري القطاع القانوني بشركة مصر الوسطى لتوزيع الكهرباء تحقيقاً مع رئيس هندسة كهرباء مغاغة التابعه لقطاع توزيع …",
+      "content": "مخلص عبد الحي يجري القطاع القانوني بشركة مصر الوسطى لتوزيع الكهرباء تحقيقاً مع رئيس هندسة كهرباء مغاغة التابعه لقطاع توزيع …",
+      "url": "https://www.egelectricgate.com/?p=10572",
+      "image": "",
+      "publishedAt": "2026-09-30T09:37:37.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "Natural Gas, Nuclear Drive U.S. Fourth-Quarter Power Plant Mainte... - Industrial Info Resources",
+      "description": "Natural Gas, Nuclear Drive U.S. Fourth-Quarter Power Plant Mainte... &nbsp;&nbsp; Industrial Info Resources",
+      "content": "Natural Gas, Nuclear Drive U.S. Fourth-Quarter Power Plant Mainte... &nbsp;&nbsp; Industrial Info Resources",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUM0QWpjN2s0ZHRTMFZ0ZEhRbFJSeVdDVUg0ZFNHMFpkeXhqYldIamh0OFhRNFBKOVVzeDBtMHZHdVVlV3V1R2RoTmFYMjRtSnhaWk9KVmtSVEg5U29IazdLSVFDcmU2bW5ZM0NpMlpLb09zNGdFTlhmQmxNM3RHUDM3ZHZfLVRHY3UzQ1pxV3dJOHlHaC05ZXlDWDZaU1M2ZGFic25LQlZyZm83Y0Q2X2M5Ui1TLWhEamlJ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-30T08:50:28.000Z",
+      "source": {
+        "name": "Industrial Info Resources",
+        "url": "https://www.industrialinfo.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "From solar and wind power to energy storage: How to earn passive income from renewable energy. - quasa.io",
+      "description": "From solar and wind power to energy storage: How to earn passive income from renewable energy. &nbsp;&nbsp; quasa.io",
+      "content": "From solar and wind power to energy storage: How to earn passive income from renewable energy. &nbsp;&nbsp; quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFpHVnJGQ2JBYndsdjRKQ3FQRnZmQkN1ck5NYXhSZDFFRkJOSUJxNThKZXk3LUtRSk9Zakh1eXpaYkRhMWFzdlhnWDZNMTNUNEtHX2hsTjlNTGtvaTE1djZrZTlTUkt4bUkyenUxcTZQeDUxM2U4QzB1cWQwYVBVS3I0RHc3MnZYRzB1d0lzWk9YRUpiV0NNbmw2dER2NUdnalNqcVgtMHp2TzE1bFduazZ5RW9UakduU2c?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-30T06:30:41.000Z",
+      "source": {
+        "name": "quasa.io",
+        "url": "https://quasa.io"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
     {
       "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
       "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
@@ -28,6 +73,21 @@
       "publishedAt": "2026-09-29T20:57:14.000Z",
       "source": {
         "name": "Oil & Gas 360",
+        "url": "https://www.oilandgas360.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Three EU nations call for new 2040 renewable energy goal - oilandgas360.com",
+      "description": "Three EU nations call for new 2040 renewable energy goal &nbsp;&nbsp; oilandgas360.com",
+      "content": "Three EU nations call for new 2040 renewable energy goal &nbsp;&nbsp; oilandgas360.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaG5oY0xiTTZjdHAzTjdkRkw3d3Y5bHhnSVBucnpWR3Rtb2h5ejRnZ1FMZ1E3bk4xVzh3R0FRaExUR2htMmJpZ1VOU3U2bERNRzFkR2I4QUoxMkFYVUFDQkgtR1hqUEJPUFBwWFQxRlF5ZnpSZVA0dWpWZ2JlcjVpcTU0SG94Y19RdkpWWnlmQQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-29T20:57:14.000Z",
+      "source": {
+        "name": "oilandgas360.com",
         "url": "https://www.oilandgas360.com"
       },
       "provider": "Scheduled Google News index",
@@ -178,6 +238,21 @@
       "publishedAt": "2026-09-28T18:44:51.000Z",
       "source": {
         "name": "مجلس النواب العراقي",
+        "url": "https://iq.parliament.iq"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Parliamentary Electricity and Energy Committee Holds Workshop to Discuss Renewable Energy Draft Law - iq.parliament.iq",
+      "description": "Parliamentary Electricity and Energy Committee Holds Workshop to Discuss Renewable Energy Draft Law &nbsp;&nbsp; iq.parliament.iq",
+      "content": "Parliamentary Electricity and Energy Committee Holds Workshop to Discuss Renewable Energy Draft Law &nbsp;&nbsp; iq.parliament.iq",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUmFsRW10Y3NOTGozYzdtbU5IMk9VSzJLUmk0clloUW55WW04VkhlTnRNcmxGanNfTXI4V3M3Z0Vka2V1N1hIbVRydjRQSnA2aDRFTXJVanZMV2Iwc2FQWW1ldEZIWEZJZlFPcmtpMEdfek5FVmF5NnVORHp6RFRTSklGdzIzeWswWUtBbnppQ0huWF8xa1BBWV80Yk9hTmVpNENCZW4yWGVDZkRwZHAtWmNEb3hsMnpLNHJGZk9EZU9UVmdqVlU0R0VnazNmOXZGaFlTcWtR?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-28T18:44:51.000Z",
+      "source": {
+        "name": "iq.parliament.iq",
         "url": "https://iq.parliament.iq"
       },
       "provider": "Scheduled Google News index",
@@ -440,6 +515,21 @@
       "preferredSite": ""
     },
     {
+      "title": "ما تأثير صراع الشرق الأوسط في قطاع الكهرباء العالمي؟.. 5 تحولات رئيسة - annabaa.org",
+      "description": "ما تأثير صراع الشرق الأوسط في قطاع الكهرباء العالمي؟.. 5 تحولات رئيسة &nbsp;&nbsp; annabaa.org",
+      "content": "ما تأثير صراع الشرق الأوسط في قطاع الكهرباء العالمي؟.. 5 تحولات رئيسة &nbsp;&nbsp; annabaa.org",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16dkJSS0N3c3ZqbzB0UW1zYm44enBVUmZOSmxEbERMR2k2QXRBVS1WVS1pbUk1bDhhQzJEWDVHWm5qbldhRFRmNldPZm50OHlEV2plSDdmUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-28T05:00:23.000Z",
+      "source": {
+        "name": "annabaa.org",
+        "url": "https://annabaa.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "PacificLight to pair new gas power plant with giant batteries in Singapore first - The Business Times",
       "description": "PacificLight to pair new gas power plant with giant batteries in Singapore first &nbsp;&nbsp; The Business Times",
       "content": "PacificLight to pair new gas power plant with giant batteries in Singapore first &nbsp;&nbsp; The Business Times",
@@ -640,7 +730,7 @@
       "content": "العاصفة نور إيستر تضرب شمال شرق أمريكا.. فيضانات وانقطاع الكهرباء &nbsp;&nbsp; اليوم السابع",
       "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQVXZpcnk3Q3N6WmszX1hDWk5HN0Y1cTF4bkJsc08zamluaW15ckdxc3NHN01KWHJIWk0zYk1qV1dYNjE0bFl5YmJCa1lESkdnRDlqZWFQQnZUUFdpWjBibktMem1oNk5NRVpuUFNRTHE3bnNTcVU2RmxUeTg5MVdvM0VrQll3UDRJWlJURjZwcTBlXy1lbmQ3cjI1M1Q5cHBEUzhtUGJLQ1RPZXhya0VUTHAyQnpEbnk5aXVnb3NzOHk0ZmlBdnRYcmhhbjBfT1M5NlZlTVRIZlNkNi1WZUo2Wl9Xa3pqVlJOWERwYjVZVWdRWGNCWjN2RWlsM2pXYkFtM2NfSGFUZnRFZXZKVnhDSGJxZ3UyRFJmUnNlMmh6N2ptZnFnOEo2R1AzbEYyYVFGTmRTdEl3bVZEN00yTHJJaTU3cm5xcW8xSFFHZjVHTkJpM2RIYUVqaWEyZ254VU03Tk02bS1IbjlOc3MycUpkdDhrdzBmaDYxVno3VlM5Z1J0R2cyaXJwYXZBcC1JSWNmNDV5ZnFIaG9BWWFPbWhiSGt6NDhUZVh6MzFGVk9fTDFtVTlLRWlBcnlFa1JUM24yTEpkVWxVU1BfdDBMZFNHYmlRYi1BbUtVM2tUNndnZE83UVlkLTB1Q01HaTd2aGo3WEliNVNfR2c2WC1kYXFnVm1NNEJ6OHBUQXc3N1hHVzAtUmhBUHfSAZAEQVVfeXFMTUtFemxoZ0RpQzFwNGpJZm1oQ2RPMGdCZl91SHNJZmIxT043b2ZlX0FDR3h0NnItNkdmcjVaaGFSSUwzbzRXRENxRGQ3ci01czZSR1NWQ1ktQVJOcExQV0ljMnRqdnhwbmlOZTFqVUpIRmNpd21QYnl6RFJ6ck11eWFVbVJ5UWxRQzlEV29CanJWZzMxMHFRd0pIbDFRemRSNEdoREhaWGZNbV9YOHNlNGFGcURIbWwyUkNfQlZFTllRMXN5Q2ZWOTFHVUlKRHVNeUtobnZCOGVwTGJnaGdKaW85Q1Bnc2VLYUhJSEdBUldOUy1DUUUzRW90U3RYTGYtMUs5cFdBejMtWU8ybGF5cWtxWU1tbGI1QTdHY2VwbXAxdzNXU1kwWFRnY0NkSlpYQkNaTzFIX0JNdnF1Q3Bnd29TSHJaVFpHajhaOWdjVWpXWFctYUVWd2VGNDRZdnFNYlBvdDZfeHBkWlpGZzJTLU92YnJaeFdiMHVrUkpFTE1KU1BBS0ljTU5LdmVHaEFtUmdnMHRBNVYwU3Y1bUxWYW95WlJ1c2c2ZTZLR3Z4bGctcmsteEtxUFBHMk1hc25SdDVZdEpvU1Rqb01MSkItOHhIZkNJM3pRQ2xITjRRN2pzSjhMWGc4UFljT3dZYmVrN1VlUnBZcU9KVU52c0JsNXFSbTNoWTVTSmlWbTlCeW1j?oc=5",
       "image": "",
-      "publishedAt": "2026-09-27T09:11:53.000Z",
+      "publishedAt": "2026-09-27T09:09:00.000Z",
       "source": {
         "name": "اليوم السابع",
         "url": "https://www.youm7.com"
@@ -2433,6 +2523,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Constructing the world’s first commercial scale gas power plant with integrated carbon capture - New Civil Engineer",
+      "description": "Constructing the world’s first commercial scale gas power plant with integrated carbon capture &nbsp;&nbsp; New Civil Engineer",
+      "content": "Constructing the world’s first commercial scale gas power plant with integrated carbon capture &nbsp;&nbsp; New Civil Engineer",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNekY5czdmenBIQnEzaUQyQjBHSE5fVEpSOTFxRFJzbm8ybl9kRlJnNFJZbUlHSlNnUEJ1OHFYSG1aUFowUlVtdHF3U3ozT3RCN2s3Y0d5YVpjZkFzZ2ZMd1BzaU9rUjRSaUkwQThDazBEYjNkU1VoY2NrMmUtOWNOUnNTYUFKYTRkclB1Q2lfOHUxVFpUYU5TMnZiTmtuOVRXQmdaVkdMSU0xcExRNVM3QmozZDJNN2Nta2FNUG4xRFlVb21lN0NfVTdPMWZUQjhYVjB3M1ctejhvek0wQUNFMA?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "source": {
+        "name": "New Civil Engineer",
+        "url": "https://www.newcivilengineer.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "South Korea Selects Texas Gas-Fired Power Plant as First U.S. Investment Project, Total Cost $22.3 Billion - finance.biggo.com",
       "description": "South Korea Selects Texas Gas-Fired Power Plant as First U.S. Investment Project, Total Cost $22.3 Billion &nbsp;&nbsp; finance.biggo.com",
       "content": "South Korea Selects Texas Gas-Fired Power Plant as First U.S. Investment Project, Total Cost $22.3 Billion &nbsp;&nbsp; finance.biggo.com",
@@ -2457,21 +2562,6 @@
       "source": {
         "name": "news.sbs.co.kr",
         "url": "https://news.sbs.co.kr"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Constructing the world’s first commercial scale gas power plant with integrated carbon capture - New Civil Engineer",
-      "description": "Constructing the world’s first commercial scale gas power plant with integrated carbon capture &nbsp;&nbsp; New Civil Engineer",
-      "content": "Constructing the world’s first commercial scale gas power plant with integrated carbon capture &nbsp;&nbsp; New Civil Engineer",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNekY5czdmenBIQnEzaUQyQjBHSE5fVEpSOTFxRFJzbm8ybl9kRlJnNFJZbUlHSlNnUEJ1OHFYSG1aUFowUlVtdHF3U3ozT3RCN2s3Y0d5YVpjZkFzZ2ZMd1BzaU9rUjRSaUkwQThDazBEYjNkU1VoY2NrMmUtOWNOUnNTYUFKYTRkclB1Q2lfOHUxVFpUYU5TMnZiTmtuOVRXQmdaVkdMSU0xcExRNVM3QmozZDJNN2Nta2FNUG4xRFlVb21lN0NfVTdPMWZUQjhYVjB3M1ctejhvek0wQUNFMA?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-22T03:35:02.000Z",
-      "source": {
-        "name": "New Civil Engineer",
-        "url": "https://www.newcivilengineer.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -6825,7 +6915,7 @@
       "content": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxOdGVyY0QtWVpUckRCNnk0ZHNJMXZDcldGS2pHYWNKRTQtdFVVQUh5NjVLTGxYSE04LW9rcU9BV0p6Z0RSZHFmdEc5MGpBSkt2MVVjTVRlVkRvVTVQT1AxeTZidmtCQXJjTGQ4VE10T3BsRVBrdnRIT1FWTl80bExjWGZpNVozZVZkOFhma0pLSm5pNzR4N1JwdS1KcnlfNDRCNUtIcGFCNjFQYVg1R0JXY0pndWJpNkxaNmZra2NlRG1CVnlYUHoxQi1SdWVTUVJWNE9JNXVkTVNncHNDOFZmb2NLNHNPYXJ3eGNqUkc3T0hOMVAwMkdDei1EX1N2b3IyNWlielNEclp6S0RiVm1ydm5NMUV3Q3FXUHpTZGUtWUpjWWZNZjVyVS16TE9FMkdDb2hMUWRiUFhXOVZ1YWljUE1ZVW15d3NxSDVvcVBjNHFFc0VaRFc4ck5JdFJfdjJvLXpuS05FWDcyREtHa2xocmk1c2x2T29HWEo4ekxMNlp2LVNocTlLdW5uSHBVd0V2cl9kLWZaaDBXYzY4OTFhaGhJTUo5Q2dkOGk4UFoxWVRvRzkyNXNIZjYxYjN3eVZZZi1IVlBpbkthNk95bVJySmhwVXJJeE9xVVFITmE2WVROTHBsRDFiNUtFenpLWDdaNko4cml6dEhUb3NMSUFraW5ScVhaQVdjUnZld2pkZ2JGNnFEV1JEVTdWYks?oc=5",
       "image": "",
-      "publishedAt": "2026-08-22T15:18:31.000Z",
+      "publishedAt": "2026-08-22T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -8038,7 +8128,7 @@
       "content": "مصر: زيادة أسعار الكهرباء تعمق أعباء الغلاء وتثير انتقادات &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNbTdoTzhyOFg0aXZnVENMYWJ0NXg1M3R0YnNSb1NrTk82NERGWXp0d1Rvb1BQVVd6WlFicW5EQ204ekVad3hLdHQzUG5xak5wR1lmWjlhRS1UZ3FqZUNpWVdmamRFTUducDg1YmNvTW1OdlFNSlpMa29wMXNCVG42amR1SHo4bHdWQTRFekRHZmlJZ1U1Wm1fOGlZMVlIV3plYVd3VDRpYm9fTld3RHJkOFI5TjBVSWxzaWlJanZyMmtLQUpST3dDWkVrQjlEZk5GRkJQWFlwWDZESDh3YWIwcGZfamJZeGtwLWlma1BFZG5jQzhJMDB4MTNLODBHRld2LUNpWGhwYS12aG5za2MwY0xOVFZMX29XbTd3WXhYUlNPWWd5MGtVaGRNdzdnWVVzX3ZyMXo4WkNCZHQ1dWJKZ3lfWkZja19JcUN5eU9WbXNpWUhsQzVSb055WDFrSTdscEtsTzRVLWV5THktLWtxZi1HNHNrQlpQLVpNR0l1bzhyd2U1RnZhWWdhbTNNc2JNVVczVTJlTnI1bE1TeW15SXNLaUJ2a1NybDRpdXZKWXZPYjF0d01xUllYSkFoMkwxLUJhUU16RGRzS0thWWdZRG5RVmxzNVdfZG81eWNnalRTUjB2dFZHYURQTG42ZFZ6TFp2d1owY00zTm10MXIyWThsd3Mya1hmMFg5ZlRUUnJ5R1RBX1M2LTQ3a2plbTN5bXhnX0dlQ1l5V1ZpQnR1ajJSdlNqQy1fdmtSWm1sZEM0TWdDdV9EVk5rSXZSLVo0RWRpckstWEJmZl9MU3FlY0Z2WDNPYXRNNzlUOTY5Y3JOcmRYNmRadHFkZVM0alpzM2NEaGo0d3ZHcE9POU5LMg?oc=5",
       "image": "",
-      "publishedAt": "2026-08-01T14:53:16.000Z",
+      "publishedAt": "2026-08-01T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -8918,14 +9008,14 @@
       "preferredSite": ""
     },
     {
-      "title": "Smart metering is responding to changing electricity demand patterns - esi-africa.com",
-      "description": "Smart metering is responding to changing electricity demand patterns &nbsp;&nbsp; esi-africa.com",
-      "content": "Smart metering is responding to changing electricity demand patterns &nbsp;&nbsp; esi-africa.com",
+      "title": "Smart metering is responding to changing electricity demand patterns - ESI-Africa.com",
+      "description": "Smart metering is responding to changing electricity demand patterns &nbsp;&nbsp; ESI-Africa.com",
+      "content": "Smart metering is responding to changing electricity demand patterns &nbsp;&nbsp; ESI-Africa.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmVod1BLMThhQWZFQ0hlT0tkMktXSG5WNnQ0a25KT1FHYzc3bUQtcE00Z3J3TzlNbVNlTmpvVEtHdk54dE1Bci1OVnFwQ093N0FxTmw1ZTlkZFFHOEZFZ2R3V25ONDdwRlctb0VwTGREWERRY2VhMzdKakZOa3NPMDVVWTRUZERTem1UQVJJdENwRE1lZXFySU94RjB5VGlSYzgxMDdqdmhWOWhzSFgwV0dFcF9uN2vSAb8BQVVfeXFMTmNyZ052MF9HWUo4NTFILTl4eTVSWDFsRU5ocmZrNDFWWlliZVdvYTMtM05kM3VIcFBJSUJsVUcwU2tCNlgzYlMwNUd3VXR3cDR2X1h4R0NvaW1Ed2JDc1JlQzVoM0JJSklkR3dRaVBidG05dlU2LWg3RmZRbDU0WDRhaHRUU3FldHhYRng3eGxmcXNtcFo3Zk52QkRUYWppUWEtR0VYTVdXZXlOMkljTXJNdEtnRzhqUXRvcmRNRmc?oc=5",
       "image": "",
       "publishedAt": "2026-07-21T07:00:00.000Z",
       "source": {
-        "name": "esi-africa.com",
+        "name": "ESI-Africa.com",
         "url": "https://www.esi-africa.com"
       },
       "provider": "Scheduled Google News index",
@@ -11455,51 +11545,6 @@
       "source": {
         "name": "itif.org",
         "url": "https://itif.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "What’s at Stake Is Our Existence, Not Whether AI Uses Too Much Electricity or Water - Colorado Times Recorder",
-      "description": "What’s at Stake Is Our Existence, Not Whether AI Uses Too Much Electricity or Water &nbsp;&nbsp; Colorado Times Recorder",
-      "content": "What’s at Stake Is Our Existence, Not Whether AI Uses Too Much Electricity or Water &nbsp;&nbsp; Colorado Times Recorder",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1hacVNfWGtrSURVcGllWVlKdGE1VF9KU3pDN0ZIV3lrRmx0YWQxMENYaWpmV2tOQTdrNUNkU3JpcmJ6UmRtSEt4aU9GMlp3Zzhxb1g0SHVCN05zZ21HNkJ1VkNEeXBmbFl5V3U3NFRFdldOc1ZMVFBBR09maEUxSkt6cnJmekI4dGZVU2IxV29pajlScWFPLWdJVUNRdDl1YlA0NWxhUGR3U0FOTDdvQTJobHNIWlhaelYteWFLbzZpTkhVbFd2QnR3?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-03T07:00:00.000Z",
-      "source": {
-        "name": "Colorado Times Recorder",
-        "url": "https://coloradotimesrecorder.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "الأزمة في الشرق الأوسط - الاعتماد على الوقود الأحفوري نقطة ضعف، والطاقة المتجددة حصن ضد التقلبات - UN News",
-      "description": "الأزمة في الشرق الأوسط - الاعتماد على الوقود الأحفوري نقطة ضعف، والطاقة المتجددة حصن ضد التقلبات &nbsp;&nbsp; UN News",
-      "content": "الأزمة في الشرق الأوسط - الاعتماد على الوقود الأحفوري نقطة ضعف، والطاقة المتجددة حصن ضد التقلبات &nbsp;&nbsp; UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WNVVDLU9RTzdzUWR2ZVJwWS1LSDByTFpSNWh6Y2Y2Z002TEhldGRYT2RhamlnSmpaWUtJb3V0UHpMMkR0cHE0dlBYNzFZWjYyNlJwekdpMA?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-03T07:00:00.000Z",
-      "source": {
-        "name": "UN News",
-        "url": "https://news.un.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "What’s at Stake Is Our Existence, Not Whether AI Uses Too Much Electricity or Water - coloradotimesrecorder.com",
-      "description": "What’s at Stake Is Our Existence, Not Whether AI Uses Too Much Electricity or Water &nbsp;&nbsp; coloradotimesrecorder.com",
-      "content": "What’s at Stake Is Our Existence, Not Whether AI Uses Too Much Electricity or Water &nbsp;&nbsp; coloradotimesrecorder.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1hacVNfWGtrSURVcGllWVlKdGE1VF9KU3pDN0ZIV3lrRmx0YWQxMENYaWpmV2tOQTdrNUNkU3JpcmJ6UmRtSEt4aU9GMlp3Zzhxb1g0SHVCN05zZ21HNkJ1VkNEeXBmbFl5V3U3NFRFdldOc1ZMVFBBR09maEUxSkt6cnJmekI4dGZVU2IxV29pajlScWFPLWdJVUNRdDl1YlA0NWxhUGR3U0FOTDdvQTJobHNIWlhaelYteWFLbzZpTkhVbFd2QnR3?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-03T07:00:00.000Z",
-      "source": {
-        "name": "coloradotimesrecorder.com",
-        "url": "https://coloradotimesrecorder.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
