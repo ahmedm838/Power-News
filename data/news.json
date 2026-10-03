@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-03T05:22:41.713Z",
+  "generatedAt": "2026-10-03T11:43:27.795Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
+      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-02T22:54:55.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "Tuesday hearing about a gas-fired power plant in Licking County is among 6 proposed or under construction - The Reporting Project",
       "description": "Tuesday hearing about a gas-fired power plant in Licking County is among 6 proposed or under construction &nbsp;&nbsp; The Reporting Project",
@@ -101,21 +116,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdVJYLTVsYzNudVh6UzN2TUNKcTNrWlpDSHZCanMxLXFXTTY3aHQ5enBwZVF4WGk0WFFOLVc2bUd4eGk3ZEVBWHlndC16WUhmLVVpeHRwTTNjdTE1cUFkMlp4a0RjcTVPM2dUYW8xTlJnVHZKMWNNU05qTzA1R0EtTzBCY2JlS2pzSHEzdUxIVEJ6VXc3aVdwd1NlMS1VNUVJUTRaTTA3ZGxuTGM5ZEJHNklJVnhuLWNTSjhzanFBTkVubmhfRlZuSVdvaEc0WHJ0aFBmUmRR?oc=5",
       "image": "",
       "publishedAt": "2026-10-02T14:54:40.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
-      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-02T13:55:59.000Z",
       "source": {
         "name": "EnergyNow.com",
         "url": "https://energynow.com"
@@ -299,6 +299,21 @@
       "source": {
         "name": "thetimes-tribune.com",
         "url": "https://www.thetimes-tribune.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء - BBC",
+      "description": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء &nbsp;&nbsp; BBC",
+      "content": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء &nbsp;&nbsp; BBC",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTdjQ4XzQwSXJreFk3eWhveDA4RTFpVjZfRnN4R21iS0ZkUmpzbjZMMnFLd3dNZkV6N1hLUGozZFh4NXJNZG9teGlWTjJ2SG13SjVfWEZ5bG1LLXFuemZWcjRmSU9lZG1TZjNtWg?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-01T19:19:11.000Z",
+      "source": {
+        "name": "BBC",
+        "url": "https://www.bbc.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -985,21 +1000,6 @@
       "source": {
         "name": "Industrial Info Resources",
         "url": "https://www.industrialinfo.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء - BBC",
-      "description": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء &nbsp;&nbsp; BBC",
-      "content": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء &nbsp;&nbsp; BBC",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTdjQ4XzQwSXJreFk3eWhveDA4RTFpVjZfRnN4R21iS0ZkUmpzbjZMMnFLd3dNZkV6N1hLUGozZFh4NXJNZG9teGlWTjJ2SG13SjVfWEZ5bG1LLXFuemZWcjRmSU9lZG1TZjNtWg?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-30T07:00:00.000Z",
-      "source": {
-        "name": "BBC",
-        "url": "https://www.bbc.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -2344,7 +2344,7 @@
       "content": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNR1lhMWdEZTUtY3V0ajRqcW9ZLUM4ZE9IcW94ejJGaTRxdU83U0hQSXA2XzhQOF9ncG04NFVtbTlXS2NydUlUUTlmUmxEUzNiUVZJSXFlMGh5WEc5czNIeFFVMjNhRnFYX2NvVFdJdjRxYzdqcmpiRXpyVnpGSnYxQkE2QlRXeEkyeGtVVEhVcXZaWnJsZGNXaHUzVUROemhfTlE2akc1MGk4Q1ZQcHFFSHM4NHZPSWViamZBZ0RjbU03UUZoSDdUNG5pUGsySGFhMjNkazljOG5tMnJBc0p4Z0tTaWs5aUNBbk5uMDk1M21zZWpmbFVTeHlFSnZsUlFQU3d2NDFxa1h0X2FZWkRfemtUMEtNT1h5SExVSDcyWW1rT2ZQNTNWLWVrR1dneV9zZWlCWDVPQjRzeFB0WU9qcTAtN3BmUUxjM0xFUE1mOFB4R0ZrMG13Tk1kd2hPeDBra3o4LWtZdHNOaGhIWFZVV2pXLVBwZVNjcG0wbmdaQlI3Y3lKRGpDMVFjMmVVLUZEQ2VQSzdGdFNHUUZRY25CNnlnOE9vM2dhNHlSZ1NadlRtLVJ1YkZjdmlUOHI0VE5ZMVpXc0dTV0JObkFxdDYtdXhFWFVsUThmN1k3Zl8ySVJ0UGFSNTVBb05Cb3l0b1NSZlFWQjRjZ056SVJqVjFNZ1J6THJUR1JkWWpYbE5QYWhRT004UVdHX0lUUnJORWRaSV9nSHVQZm5nemxrM1BtQjRMRmF3TWo1WEJ3QUozTUNaUkRISjFvekgwbEhJcXUzdWJmTFJiclAtMGVQeXlJVXJNT2E5TTRpMXhlR1Zid1VuWXBqa3piMkJoQnZXSG9TdkhSOVVmNTNYZGM0RU1lNVJ6YVF6U0pMQXItUXNhYkZHUWI5QzdwbTMzdmcybFRud0xEeTB1UnVfS1k?oc=5",
       "image": "",
-      "publishedAt": "2026-09-25T15:57:12.000Z",
+      "publishedAt": "2026-09-25T15:57:41.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -2669,6 +2669,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا - الشرق الأوسط",
+      "description": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا &nbsp;&nbsp; الشرق الأوسط",
+      "content": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxQMTVqcWljTlByZFpyQUM4TlJ1el9IUjRJSGFIdjBTOHA1RmRpODJuVXc0TUNqd0FxcHZvYlpzYTczRDJ3MTZJU3ZkMFZnOUJhSE8zUlVLYkJtUGFUb2Jrb19aTTI0azMtSzhSTnd0ME1Da3VubUo0VlVpaEo2RjQxRjF5MFJDYXMzNWdWUDYyUTlTR1BNZ0Y1SE1uRVlYbmVGUzVYSW1zbU1wMVR0eXhaanFwWVZVN0ttZWFrYi11X3pjWm04Y1ByS1dpSDkzUXBudGczZUhVcWRsZWROZGN5cExjYW9uWkhieDJGQmxjWndrSnRDNDNwMXUtX3FZLXZoV0FlOVdXUmN3bGRicE55TjBGUzFDazh6NmM3V1Y3SFdNaEVQcTBOMk5ZQm54WGRrS0lEOWxka2dmTTQzN3p6QnhNTzJxRDNnZ19QcWpXMl9nNHdvRWJicmVPQjZZLUUzNm5pUHFlSWd1dXM0SGNPc0tkdTBCVnFlY0JEUEhzT004X1hMR01EOFVXZE42QWt6S3Z2MVFjN3g0RlBPbkRSS1hMOWsyYW9WbTY3bk14SG9QQnlUYmhNa3JBTEFhZm5Ic0p1V2NfUGg1ckxTWTNrVWQtOV9pNFZWOG44eHMxZzFOdllPZ1RXblI2Ym90TDJTQXE1YllnOTVpTW1ESDJrN1Bsa1NKQWxiY3NRT1IzQzhSMHpCclR4VE91MlZ6QTJCejFFVHE3dWVoQnNYZWVYRXpkSFgyd2xSU3pFODUwWkxlQkJkTWNBRUR6SkNOVUJhZEJjV0FHMHMybV9LdzhETEFqSW4xMmZ4T2RObkJvTXdWVTVVbDB6ZHRzVlJHZmFTWnlFTkwyYTFXcEp0WG4yNy10M3hYTml2cGV6OGRKdDVKR1MyLWFsNg?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-24T15:18:45.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا - aawsat.com",
       "description": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا &nbsp;&nbsp; aawsat.com",
       "content": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا &nbsp;&nbsp; aawsat.com",
@@ -2963,21 +2978,6 @@
       "source": {
         "name": "25h.app",
         "url": "https://25h.app"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا - الشرق الأوسط",
-      "description": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا &nbsp;&nbsp; الشرق الأوسط",
-      "content": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxQMTVqcWljTlByZFpyQUM4TlJ1el9IUjRJSGFIdjBTOHA1RmRpODJuVXc0TUNqd0FxcHZvYlpzYTczRDJ3MTZJU3ZkMFZnOUJhSE8zUlVLYkJtUGFUb2Jrb19aTTI0azMtSzhSTnd0ME1Da3VubUo0VlVpaEo2RjQxRjF5MFJDYXMzNWdWUDYyUTlTR1BNZ0Y1SE1uRVlYbmVGUzVYSW1zbU1wMVR0eXhaanFwWVZVN0ttZWFrYi11X3pjWm04Y1ByS1dpSDkzUXBudGczZUhVcWRsZWROZGN5cExjYW9uWkhieDJGQmxjWndrSnRDNDNwMXUtX3FZLXZoV0FlOVdXUmN3bGRicE55TjBGUzFDazh6NmM3V1Y3SFdNaEVQcTBOMk5ZQm54WGRrS0lEOWxka2dmTTQzN3p6QnhNTzJxRDNnZ19QcWpXMl9nNHdvRWJicmVPQjZZLUUzNm5pUHFlSWd1dXM0SGNPc0tkdTBCVnFlY0JEUEhzT004X1hMR01EOFVXZE42QWt6S3Z2MVFjN3g0RlBPbkRSS1hMOWsyYW9WbTY3bk14SG9QQnlUYmhNa3JBTEFhZm5Ic0p1V2NfUGg1ckxTWTNrVWQtOV9pNFZWOG44eHMxZzFOdllPZ1RXblI2Ym90TDJTQXE1YllnOTVpTW1ESDJrN1Bsa1NKQWxiY3NRT1IzQzhSMHpCclR4VE91MlZ6QTJCejFFVHE3dWVoQnNYZWVYRXpkSFgyd2xSU3pFODUwWkxlQkJkTWNBRUR6SkNOVUJhZEJjV0FHMHMybV9LdzhETEFqSW4xMmZ4T2RObkJvTXdWVTVVbDB6ZHRzVlJHZmFTWnlFTkwyYTFXcEp0WG4yNy10M3hYTml2cGV6OGRKdDVKR1MyLWFsNg?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-23T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -6558,7 +6558,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "Energean signs $1.4 billion gas deal with new Sorek power plant - calcalistech.com",
@@ -9616,7 +9616,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "$100B data center, gas-fired power plant to be developed around Paducah DOE site - WKMS",
