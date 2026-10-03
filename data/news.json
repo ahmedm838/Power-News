@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T22:17:23.442Z",
+  "generatedAt": "2026-10-03T05:22:41.713Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
@@ -14,6 +14,36 @@
       "source": {
         "name": "The Reporting Project",
         "url": "https://www.thereportingproject.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "We Energies plans new natural gas plant as data centers drive demand - Milwaukee Journal Sentinel",
+      "description": "We Energies plans new natural gas plant as data centers drive demand &nbsp;&nbsp; Milwaukee Journal Sentinel",
+      "content": "We Energies plans new natural gas plant as data centers drive demand &nbsp;&nbsp; Milwaukee Journal Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNak5EWl9nbXB6OGJndzM5Q0ZrdmV0VnRCYmVyd1lUc1lmaG9iWl9UQmlqbWdjdUhOLW9mZGtPLTdGWG4yam5CWi1uSzc3ZjhpUFU1czJ2cHRlRmF2ZjlQNDdFdGpYOEZZWEhBZXhlbS1pS3VqMFBoOGRCdjRlaktXajVyZDloZDNvbXR5V3FzWU1BTnloYlVSa0VFUGF4SzNRYlZtUnFjS1VSUGttZnVNcVpKTTRadE9iakI1VGRXaEdDa3FIVUs0QVZ3?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-02T20:48:00.000Z",
+      "source": {
+        "name": "Milwaukee Journal Sentinel",
+        "url": "https://www.jsonline.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Natural gas prices down as solar power generation jumps 22% - American Press",
+      "description": "Natural gas prices down as solar power generation jumps 22% &nbsp;&nbsp; American Press",
+      "content": "Natural gas prices down as solar power generation jumps 22% &nbsp;&nbsp; American Press",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUs0S3QyazZhaG1NSUUzWVhNNHo3RmVYYnhQdG1ZbEU5WU1sREhfR0ZlUEltWFc5Z2V6eXdMVDAtWVJPd09OVDVkcUtFUE02YzJmdkg5Nk5xMnhrRzZKVkpzYlJCU2JyUmpSVUVqdUJDSmJXUV9MaGdiRUh0Ymk3YVNWMnlrQy1TbzBwMTVRMFp4SjRHZUdyTGR2OWs?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-02T19:27:41.000Z",
+      "source": {
+        "name": "American Press",
+        "url": "https://americanpress.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -95,6 +125,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Glenfarne Welcomes More Than $50 Billion in South Korean Investment for Alaska LNG - energynews.pro",
+      "description": "Glenfarne Welcomes More Than $50 Billion in South Korean Investment for Alaska LNG &nbsp;&nbsp; energynews.pro",
+      "content": "Glenfarne Welcomes More Than $50 Billion in South Korean Investment for Alaska LNG &nbsp;&nbsp; energynews.pro",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdC1oWE1UcmdWbnlYc0xDbWZBX2Z4NUxVZUFmb3ZRdVZtUVdkTnhDTnRMQm9ETkNoY180eGQ4QUVFMUs2OHI2UVFRZEUxaFl0UC1waUViSENHelpwd3lna2NnX3cza1A4RFhwdW9COXVZamZRdmtHMmpxQWpuZGFVYlVGNG1CMDZkZjhnY2RGZzlXdmxVV1NSLXc3Vm1FcFpac0p6bnZpOTk3S1k?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-02T13:54:57.000Z",
+      "source": {
+        "name": "energynews.pro",
+        "url": "https://energynews.pro"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
       "title": "روسيا تستهدف إمدادات الكهرباء في كييف مع اقتراب الشتاء - الشرق الأوسط",
       "description": "روسيا تستهدف إمدادات الكهرباء في كييف مع اقتراب الشتاء &nbsp;&nbsp; الشرق الأوسط",
       "content": "روسيا تستهدف إمدادات الكهرباء في كييف مع اقتراب الشتاء &nbsp;&nbsp; الشرق الأوسط",
@@ -118,6 +163,21 @@
       "publishedAt": "2026-10-02T12:44:23.000Z",
       "source": {
         "name": "blackchronicle.com",
+        "url": "https://blackchronicle.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Natural gas prices down as solar power generation jumps 22% - The Black Chronicle",
+      "description": "Natural gas prices down as solar power generation jumps 22% &nbsp;&nbsp; The Black Chronicle",
+      "content": "Natural gas prices down as solar power generation jumps 22% &nbsp;&nbsp; The Black Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmlxSDlPSTZpdGhkNExtOXQ1aFZFZmYtZ1lDV18xNUFsa2hUY0NIajlSdzg2ZHJOaTBSVzZNWVQ4Z0U0Z1hoa1hCSFJqRWY1ZVByZ0tBaGVNR0w2blJBenloNnpWeEI0dHJOWl9yLWNwUFdCYUVZUnppX3pVNTAxVWlMS01TT1EwVW5GRlUteExvUm96RUNBTQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-02T12:44:23.000Z",
+      "source": {
+        "name": "The Black Chronicle",
         "url": "https://blackchronicle.com"
       },
       "provider": "Scheduled Google News index",
@@ -223,6 +283,21 @@
       "publishedAt": "2026-10-01T20:57:02.000Z",
       "source": {
         "name": "Scranton Times-Tribune",
+        "url": "https://www.thetimes-tribune.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Invitium Energy power plant venture to fuel data centers lands in Fell Twp. - thetimes-tribune.com",
+      "description": "Invitium Energy power plant venture to fuel data centers lands in Fell Twp. &nbsp;&nbsp; thetimes-tribune.com",
+      "content": "Invitium Energy power plant venture to fuel data centers lands in Fell Twp. &nbsp;&nbsp; thetimes-tribune.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGtqeFJERGNCVi15NG1LaXBLQ05tQzZwM1IzRnVZTUI3dEo2WmdKZU5MbnVxWEZ0Rk54cDRxMUN4eERLMVl6cXBCbExPTmxjYnJkMWdyV3RiYlJsNDVIUkFsak52c3ZnaWYwRTcwUEo3TVNNRnJHdDFsSl81LWRtTEFSRUx2NE43Q1FwdmR6THVMVVVRNUNLb25ZN0xheVNOTUVyVnI0SG13N0puSEVTOVZOY0FnNnNJTnNJ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-01T20:57:02.000Z",
+      "source": {
+        "name": "thetimes-tribune.com",
         "url": "https://www.thetimes-tribune.com"
       },
       "provider": "Scheduled Google News index",
@@ -611,6 +686,21 @@
       "publishedAt": "2026-10-01T07:01:06.000Z",
       "source": {
         "name": "The Korea Times",
+        "url": "https://www.koreatimes.co.kr"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Korea protests US' unilateral announcement on Alaska LNG project - koreatimes.co.kr",
+      "description": "Korea protests US' unilateral announcement on Alaska LNG project &nbsp;&nbsp; koreatimes.co.kr",
+      "content": "Korea protests US' unilateral announcement on Alaska LNG project &nbsp;&nbsp; koreatimes.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVZ0MHhrVUxWMlZvX2ZUR09Qa2JZaF9aa1FvNHhMdDZ1TW0zQUpFT3RNSW5GLU1aT2RVNVZYMkQ0dUMwZlNQSWdFV05qUHh1R1pzdlc2d2stUkx3dTZ2RzdrZGphTV9fRXVHOXBCOExpY2tfY0xGeDEzVlVQeUJEUG1JemxLbVgwbW1BWlF2RURBNWwyRzVwclU1djRKTDNVaEZYWllVMWthVXZDYzhsUUNZdTVOQXBQZFZZ0gHAAUFVX3lxTE9VRkdpS2tfZjZWRUlRbHV5OTZjYVY2TFVmN0MzVGI3SWFWMXV1Tmo3UWFBTUl2ckNZT044UWJwam9yS003UzFfUEdfYzQ0THNlQ0FxcThEN0JpVUpJTWRoOUlGVmJaVjBHNDFpYTlDMW8yX3pTNTJpNzhqS3JHT2g2Qks5UHZOMldXb2pZX240MVlOaEF5bnNpdUxVQXhtTkFBdkNxSUJyZ2lFUmpUeDFZeFB0Wk1qNUd5dGkxajFiRQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-01T07:01:06.000Z",
+      "source": {
+        "name": "koreatimes.co.kr",
         "url": "https://www.koreatimes.co.kr"
       },
       "provider": "Scheduled Google News index",
@@ -2999,21 +3089,6 @@
       "preferredSite": ""
     },
     {
-      "title": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان - الشرق الأوسط",
-      "description": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان &nbsp;&nbsp; الشرق الأوسط",
-      "content": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNS0tNUE9Gd0N3Yk1WbU1LSk43Xzl1MjNlLTNDZlY3RVF4eXpHVUNTUkhsWUZ3SUYyM2NSU3pjdmtlVEkzb1E0UlZqUFU3elcxTHpVeG9YdVBjQ09JSTNZZ1c5ZFpIaXdxYjNvR3RZQUxRRzZQVHhFODE1bW5BUTNjUS1mZTNTZVhwU3ZzblQ1Q0NPRGVHcnBoN1pPdU5BODBQT2hjZzVwVDk3MVkzSkVJcGc3S0didTlTYUV1Mmk5b29yNF9GWTBha0ctU0cxRUNjNmlZUC1jMmVKcDNhaWdrM3BZUHVYLWhvZUZnb3l0SzBjWVc3TkpvRVdlTDZYemh3VjJWcS02bk96Rms1M2FUNW90bTEyUDFTNjNqSGlKYU91SUpDMDNhWnVQaGc0NFlQamE5dFdSaGpMeVEzYnprUXJLYXVYYkdNb3dLblBSUDk2QTJfNUhfbm9kRVNzcWlja0tYc2NRR2JCdTRqZHlSZjV6TS1VVmR0M0h4d2xyTlV3ZUZUZldkZXFwWldwZEN5S21XVXp4Vmw2TzRicU5UOGtZdC1Vb3FITHA4WVNCTWhOR1NJQUMta1BDTGNGMmVMTU92SXNyMTgwUzlVUldfRENDdEFQZkhCa29xRmNQR0phRDUyR3RmSU9NdnFja1lnaW1OWUExakNhSzNFOERhSnVqdWFpU01UcEVVUXFJY3hPQ2I5Y2c?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-22T19:58:59.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان - aawsat.com",
       "description": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان &nbsp;&nbsp; aawsat.com",
       "content": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان &nbsp;&nbsp; aawsat.com",
@@ -3419,6 +3494,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان - الشرق الأوسط",
+      "description": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان &nbsp;&nbsp; الشرق الأوسط",
+      "content": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNS0tNUE9Gd0N3Yk1WbU1LSk43Xzl1MjNlLTNDZlY3RVF4eXpHVUNTUkhsWUZ3SUYyM2NSU3pjdmtlVEkzb1E0UlZqUFU3elcxTHpVeG9YdVBjQ09JSTNZZ1c5ZFpIaXdxYjNvR3RZQUxRRzZQVHhFODE1bW5BUTNjUS1mZTNTZVhwU3ZzblQ1Q0NPRGVHcnBoN1pPdU5BODBQT2hjZzVwVDk3MVkzSkVJcGc3S0didTlTYUV1Mmk5b29yNF9GWTBha0ctU0cxRUNjNmlZUC1jMmVKcDNhaWdrM3BZUHVYLWhvZUZnb3l0SzBjWVc3TkpvRVdlTDZYemh3VjJWcS02bk96Rms1M2FUNW90bTEyUDFTNjNqSGlKYU91SUpDMDNhWnVQaGc0NFlQamE5dFdSaGpMeVEzYnprUXJLYXVYYkdNb3dLblBSUDk2QTJfNUhfbm9kRVNzcWlja0tYc2NRR2JCdTRqZHlSZjV6TS1VVmR0M0h4d2xyTlV3ZUZUZldkZXFwWldwZEN5S21XVXp4Vmw2TzRicU5UOGtZdC1Vb3FITHA4WVNCTWhOR1NJQUMta1BDTGNGMmVMTU92SXNyMTgwUzlVUldfRENDdEFQZkhCa29xRmNQR0phRDUyR3RmSU9NdnFja1lnaW1OWUExakNhSzNFOERhSnVqdWFpU01UcEVVUXFJY3hPQ2I5Y2c?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "قدرة بطاريات تخزين الكهرباء في الشرق الأوسط.. قائمة بـ8 دول تتصدرها السعودية - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
       "description": "قدرة بطاريات تخزين الكهرباء في الشرق الأوسط.. قائمة بـ8 دول تتصدرها السعودية &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
       "content": "قدرة بطاريات تخزين الكهرباء في الشرق الأوسط.. قائمة بـ8 دول تتصدرها السعودية &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -3629,14 +3719,14 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "Laneway garage — with no water, electricity or gas — just sold for $260K - orilliamatters.com",
-      "description": "Laneway garage — with no water, electricity or gas — just sold for $260K &nbsp;&nbsp; orilliamatters.com",
-      "content": "Laneway garage — with no water, electricity or gas — just sold for $260K &nbsp;&nbsp; orilliamatters.com",
+      "title": "Laneway garage — with no water, electricity or gas — just sold for $260K - OrilliaMatters.com",
+      "description": "Laneway garage — with no water, electricity or gas — just sold for $260K &nbsp;&nbsp; OrilliaMatters.com",
+      "content": "Laneway garage — with no water, electricity or gas — just sold for $260K &nbsp;&nbsp; OrilliaMatters.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZjNfUFhmd1RjaER4UXQtMXRTR0R0cHVSalZCNUlkWWdPR0h2cDNsekdOdGluVkotX0pGSTNCVUZxUlNHS193NllkTTh1MWtOb2ZRTVpkczBvSFBtdV9hWjBsMUZFakN1SmtBbm0zbWljdlBGRGx3NkNsUmhhQkp6Qw?oc=5",
       "image": "",
       "publishedAt": "2026-09-21T20:00:00.000Z",
       "source": {
-        "name": "orilliamatters.com",
+        "name": "OrilliaMatters.com",
         "url": "https://www.orilliamatters.com"
       },
       "provider": "Scheduled Google News index",
@@ -7221,12 +7311,12 @@
       "preferredSite": ""
     },
     {
-      "title": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً - الشرق الأوسط",
-      "description": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً &nbsp;&nbsp; الشرق الأوسط",
-      "content": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQSGIzWXhqb19uem9uTkNpVWlqdGVLQ2hlNDVOZExzZkVWeURTM1lIdVowd2ZZdFdOWkY1S0lKQlBKZkN0MmEySUpya3RpUWg4V1BrOUNfODd4bi15RUxnTTlGb0ItVXV1akd1R3k2NUU3RjRzRF94T2tQUG1zdDRpQUVvSnQ2N1FDRVMwZzljSEtrUkp0VGN6b2NJdzN1VGFPWnFXSkZBazRMbTNtR29MUF9tTy00cC11Zm4zX1d5RDdmTFBDZEQwYmYxb09fMWF3czhMSGdCSmw0OC1SbllIby1PWGM1cXhtb1J4aEg4MlFCTmtGRTBMOURqR1pNUm9wa2dkN2JNdDhfN0lUV1VLYjNRdmdCaWpfMTZQRnBRVnZEZDRHVzNkTmdrUkJNZktkWHUwZjIwNXhIU2JPaFFwVXZJdTZsUHQtV21BVzdUQmdndDZxeTFnekhYYTFRbl9EWWVSb1Nsa1FQRmhMWTVodENMSU9LYnlVclFXQjFJRzBNTS1RTnd6YVZaUUtSakl5c0RlYzlwaVVhMVFkSzViaTdraUswa1YwcF9HeDBrMHlRX3Q2OEpoYjZheEM1Q3EySDVrTkxFTHZmODhKSFAtOUMzMWlSVXQ5WV9vNUc4UGVWeWo1ZmVHRUZJRmFFaF9BXzVrcnF5QlBFaWF2MlgzNg?oc=5",
+      "title": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى - الشرق الأوسط",
+      "description": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى &nbsp;&nbsp; الشرق الأوسط",
+      "content": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxQM2xDdWJ3TjFjVElnTVB3cU1KWEpNQ0piX2R6Tm1uUDdYdTZZeW9KTEp5QWlUZ3h5VE84Z2NnbEUyako3YlFWRlZpQXZGdlhIbTVoa2J5VUFLV0lJaWNYTVlydlNRZ3BjT1dMY0NCclNheUpfSzRWOWJ1VEJ0SmUxSE1JcjZlSEx1alRWcU9Mbk96eTFwbnR3eUVYMnRSMjNjMmFLazJqVTdpclotTjVTVGQ2N3R1ZVF1Z0tzZ3JBcmNab0ZMcGk3N2d3cnNkQm5BR0tpZ2JuRTZ5UUtGX2VUYVJlSDZuWGhPcHRyeGlJRjJGVnFUUVpqLW5GTUJ5X1A1Z2tRcUEyRThDZ1FaUGgtNjJTRFpYTFNSSUEzamdzdEgwU2ZtWHc1OUluS1R5SFBSOU1kQ0phU3lJcXllY1FodG90TFF0dnpfVVgyN1JTT3VBRDBXZWthbUxmM0tiLXh6YTJPcXFKSko0TFJ3S2xTZ2V2SlFUN1BucVF2c1hNVlpHRGNZXzlQYndFSlRwQmR1OEFVNmxJa1d6X2x5RVNXV1RldDFzX0tWZU1veXBIS0dlSHFtWnl4ZUo1ZGtVNVRFWVotcUlGbDY3M3hyM3pPTlVxLWNRdm1YWGQzU2FXMzAyUFJTOTVlaHBNckpraW5YWnUxbW4xRFlFdGtCUEpFaERncXV4YnNxbjBZTm83Z1dYZ2p1VXNDY1RwQTZmUEhteVZ2QWp6U0dCeTJXRDc5cFNoM0s2QlBmcTdFN1dJa1BDSWx5dkotT1NicjktQ1dmbER1N1VlSC1RdXNMZkk4VkJQVDdMX1U3Z1lDV0dtSQ?oc=5",
       "image": "",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "publishedAt": "2026-09-01T10:45:27.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -7236,10 +7326,10 @@
       "preferredSite": ""
     },
     {
-      "title": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى - الشرق الأوسط",
-      "description": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى &nbsp;&nbsp; الشرق الأوسط",
-      "content": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxQM2xDdWJ3TjFjVElnTVB3cU1KWEpNQ0piX2R6Tm1uUDdYdTZZeW9KTEp5QWlUZ3h5VE84Z2NnbEUyako3YlFWRlZpQXZGdlhIbTVoa2J5VUFLV0lJaWNYTVlydlNRZ3BjT1dMY0NCclNheUpfSzRWOWJ1VEJ0SmUxSE1JcjZlSEx1alRWcU9Mbk96eTFwbnR3eUVYMnRSMjNjMmFLazJqVTdpclotTjVTVGQ2N3R1ZVF1Z0tzZ3JBcmNab0ZMcGk3N2d3cnNkQm5BR0tpZ2JuRTZ5UUtGX2VUYVJlSDZuWGhPcHRyeGlJRjJGVnFUUVpqLW5GTUJ5X1A1Z2tRcUEyRThDZ1FaUGgtNjJTRFpYTFNSSUEzamdzdEgwU2ZtWHc1OUluS1R5SFBSOU1kQ0phU3lJcXllY1FodG90TFF0dnpfVVgyN1JTT3VBRDBXZWthbUxmM0tiLXh6YTJPcXFKSko0TFJ3S2xTZ2V2SlFUN1BucVF2c1hNVlpHRGNZXzlQYndFSlRwQmR1OEFVNmxJa1d6X2x5RVNXV1RldDFzX0tWZU1veXBIS0dlSHFtWnl4ZUo1ZGtVNVRFWVotcUlGbDY3M3hyM3pPTlVxLWNRdm1YWGQzU2FXMzAyUFJTOTVlaHBNckpraW5YWnUxbW4xRFlFdGtCUEpFaERncXV4YnNxbjBZTm83Z1dYZ2p1VXNDY1RwQTZmUEhteVZ2QWp6U0dCeTJXRDc5cFNoM0s2QlBmcTdFN1dJa1BDSWx5dkotT1NicjktQ1dmbER1N1VlSC1RdXNMZkk4VkJQVDdMX1U3Z1lDV0dtSQ?oc=5",
+      "title": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً - الشرق الأوسط",
+      "description": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً &nbsp;&nbsp; الشرق الأوسط",
+      "content": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQSGIzWXhqb19uem9uTkNpVWlqdGVLQ2hlNDVOZExzZkVWeURTM1lIdVowd2ZZdFdOWkY1S0lKQlBKZkN0MmEySUpya3RpUWg4V1BrOUNfODd4bi15RUxnTTlGb0ItVXV1akd1R3k2NUU3RjRzRF94T2tQUG1zdDRpQUVvSnQ2N1FDRVMwZzljSEtrUkp0VGN6b2NJdzN1VGFPWnFXSkZBazRMbTNtR29MUF9tTy00cC11Zm4zX1d5RDdmTFBDZEQwYmYxb09fMWF3czhMSGdCSmw0OC1SbllIby1PWGM1cXhtb1J4aEg4MlFCTmtGRTBMOURqR1pNUm9wa2dkN2JNdDhfN0lUV1VLYjNRdmdCaWpfMTZQRnBRVnZEZDRHVzNkTmdrUkJNZktkWHUwZjIwNXhIU2JPaFFwVXZJdTZsUHQtV21BVzdUQmdndDZxeTFnekhYYTFRbl9EWWVSb1Nsa1FQRmhMWTVodENMSU9LYnlVclFXQjFJRzBNTS1RTnd6YVZaUUtSakl5c0RlYzlwaVVhMVFkSzViaTdraUswa1YwcF9HeDBrMHlRX3Q2OEpoYjZheEM1Q3EySDVrTkxFTHZmODhKSFAtOUMzMWlSVXQ5WV9vNUc4UGVWeWo1ZmVHRUZJRmFFaF9BXzVrcnF5QlBFaWF2MlgzNg?oc=5",
       "image": "",
       "publishedAt": "2026-09-01T07:00:00.000Z",
       "source": {
@@ -7904,6 +7994,21 @@
       "publishedAt": "2026-08-20T07:00:00.000Z",
       "source": {
         "name": "electric.coop",
+        "url": "https://www.electric.coop"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "NRECA, Co-ops Push EPA for Full Repeal of ‘Untenable’ Power Plant Rule - America's Electric Cooperatives",
+      "description": "NRECA, Co-ops Push EPA for Full Repeal of ‘Untenable’ Power Plant Rule &nbsp;&nbsp; America's Electric Cooperatives",
+      "content": "NRECA, Co-ops Push EPA for Full Repeal of ‘Untenable’ Power Plant Rule &nbsp;&nbsp; America's Electric Cooperatives",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0tCbDJPOTVZMnhDTHFNOXBDUFFwRzZPeEp6NXpsVEtyMGpMU3M0SkJmS0ZVZFZTc1NPWXFlZVB4bHBRRzFiaGI5QjRXbUhlcTFkdnZoaDhxdXdBS18ybHM3MGpMXzk4YnpGZjk4eklRWVd3bE5JX3hFSUE1Wm5GSGk0bm96dkdhWllMMkFITlRpNklsckZCRw?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "source": {
+        "name": "America's Electric Cooperatives",
         "url": "https://www.electric.coop"
       },
       "provider": "Scheduled Google News index",
@@ -10231,7 +10336,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "powernews.cc"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Kuwait Urges Electricity Conservation After Power Plant Damaged in Iranian Attack - شبكة يافا الإخبارية",
