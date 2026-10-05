@@ -1,16 +1,91 @@
 {
-  "generatedAt": "2026-10-05T05:46:47.846Z",
+  "generatedAt": "2026-10-05T14:47:05.666Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Boron-Powered Propellant Lets Solid Rockets Switch On and Off With Electricity or Laser Light - Bioengineer.org",
+      "description": "Boron-Powered Propellant Lets Solid Rockets Switch On and Off With Electricity or Laser Light &nbsp;&nbsp; Bioengineer.org",
+      "content": "Boron-Powered Propellant Lets Solid Rockets Switch On and Off With Electricity or Laser Light &nbsp;&nbsp; Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHBXZnB5TFE1RmtjX0ZXNmZDYjdDOC1xRVRhS0N1Zi1DT0d6bGE0cTRBNUd5a2ZTdDZaZVd3VzVRTllLcTNzSzNSM3dNU3Z2Y3FXTUpLbmRURmo1S19zaUlXa1pRTnVXMzdRSHhhVGNuUnhXekxod3hva3VpbWZjSEJGNlVMUDZQbWQtbGlxeDdsQ0RUZ3pxeTltM05YU1p3ZTNkQjBpVDhsakFwU0p5SjVaUlZleU1VSkE?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-05T13:54:51.000Z",
+      "source": {
+        "name": "Bioengineer.org",
+        "url": "https://bioengineer.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Amper: Growth in Czech electricity consumption slowed in the third quarter - oenergetice.cz",
+      "description": "Amper: Growth in Czech electricity consumption slowed in the third quarter &nbsp;&nbsp; oenergetice.cz",
+      "content": "Amper: Growth in Czech electricity consumption slowed in the third quarter &nbsp;&nbsp; oenergetice.cz",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUHVEaGZyT0lGckZCbkp6S3FLUV9DN1lvS2l0Ymh4TXJPSWNzYUI1LU1MR3Jpb3FOWTV1ZGRzWndkTGpyV0JmcXJqYTkta21XWVBPdnk2czJtUnR3QnRWSjlEYW45cHAtMVUtZ2pyZ2VJX01QeExENEVieExub1VpN0psTHh5THdwelpHNGhqUnR5R2U2ZnkxOFRkTHd4Y0tFVUFDNkMwb2hoMDdBSXUtWA?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-05T13:34:00.000Z",
+      "source": {
+        "name": "oenergetice.cz",
+        "url": "https://oenergetice.cz"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "وزير الكهرباء يتفقد إدارة شبكات الشروق، ويتابع خطة التشغيل وتأمين التغذية وتنفيذ معايير الامن والسلامة",
+      "description": "الدكتور محمود عصمت: نحرص على المتابعة الميدانية والتواصل المباشر مع العاملين ونعمل على تقديم خدمة كهربائية تليق وحجم الإنفاق الذى …",
+      "content": "الدكتور محمود عصمت: نحرص على المتابعة الميدانية والتواصل المباشر مع العاملين ونعمل على تقديم خدمة كهربائية تليق وحجم الإنفاق الذى …",
+      "url": "https://www.egelectricgate.com/?p=10625",
+      "image": "",
+      "publishedAt": "2026-10-05T11:38:56.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "«التحصيل أولا».. رئيس مصر الوسطى للكهرباء يكافئ المراكز المتطورة التي تجاوزت 12 مليون جنيه",
+      "description": "محمد إبراهيم في إطار دعم جهود التحصيل وتشجيع المراكز التكنولوجية المتطورة على تحقيق معدلات تحصيل مرتفعة قرر المهندس رأفت شمعة …",
+      "content": "محمد إبراهيم في إطار دعم جهود التحصيل وتشجيع المراكز التكنولوجية المتطورة على تحقيق معدلات تحصيل مرتفعة قرر المهندس رأفت شمعة …",
+      "url": "https://www.egelectricgate.com/?p=10620",
+      "image": "",
+      "publishedAt": "2026-10-05T09:13:01.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "أزمة ” تحصيل ” في «كهرباء شمال القاهرة».. 3 أشهر دون تحقيق المستهدف !!",
+      "description": "إدارتان فقط من 38 ادارة حققوا “النسبة المطلوبة” في ” سبتمبر ” و ” 11 إدارة” في اغسطس و4 ادارات …",
+      "content": "إدارتان فقط من 38 ادارة حققوا “النسبة المطلوبة” في ” سبتمبر ” و ” 11 إدارة” في اغسطس و4 ادارات …",
+      "url": "https://www.egelectricgate.com/?p=10608",
+      "image": "",
+      "publishedAt": "2026-10-05T06:21:27.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
     {
       "title": "تحول الطاقة المتجددة في الشرق الأوسط - السياسة",
       "description": "تحول الطاقة المتجددة في الشرق الأوسط &nbsp;&nbsp; السياسة",
       "content": "تحول الطاقة المتجددة في الشرق الأوسط &nbsp;&nbsp; السياسة",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNRUVFTlB0el9rcnQ4MmJKWk50Z1BnaHo4T0I0NnV6V2pDVF9XNWtyRGxxUHpkV0YtMGdFWnUzU2dLYk0zemxjNmdtSVRTRDljZkJSN2stRkNybWNsM1hlc3RuUHFNNHJJTzhURkVOS3dNaDQwWmVvQ0Z4VjkzSVVQeWt1TXlZdHZya1ZhejhFQThITk1kMVpsbDR3eERqMjhhaDlnOXN5ZFU3Wi1RZTdNc3JPc29VTXliSXhRcUZBMERGdkZLeFNSTGh3eGtBWDlrYVpQNHpBNzV2RWpua1JQbWFNZS1DdVZhX19PT0FYUDhjS2xud3h0aWJrWVZfaENNcktXWXFoYnAxeFZFQ1BseVdzQ081dllKRjUtYUhaS3RnLXJqV0NtaTRBOFJRc3dIU2x0TmtzUHp3UVZXUW9UTmR4RDVYSjRQejdvcmpESQ?oc=5",
       "image": "",
-      "publishedAt": "2026-10-05T02:06:31.000Z",
+      "publishedAt": "2026-10-05T03:59:46.000Z",
       "source": {
         "name": "السياسة",
         "url": "https://alseyassah.com"
@@ -35,14 +110,29 @@
       "preferredSite": ""
     },
     {
-      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
-      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "title": "Why Is APA Group (ASX:APA) Building a Queensland Gas Power Plant? - Kalkine Media",
+      "description": "Why Is APA Group (ASX:APA) Building a Queensland Gas Power Plant? &nbsp;&nbsp; Kalkine Media",
+      "content": "Why Is APA Group (ASX:APA) Building a Queensland Gas Power Plant? &nbsp;&nbsp; Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTURtTElxUnVoa1p5OWNqNnFQcHR6bW13VTFCYnUwSmFFeHpCaFh4RG5ZVkktYTdDZnNhd3ZkVlBsb0lJUFJyckNqOEcwUWZNb2YyLVhYZ1pFc1hoZVl0RVNYM1AwaHhYQ3JkZTFpLW9Oa2U5VTdTZFJVVm9MZGVncUd0ZVJXUGQ5YTFSeGR0eXN3VEFPakdvWW9LN3hqQW9hRTE0c1o3ZEs?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-05T01:30:00.000Z",
+      "source": {
+        "name": "Kalkine Media",
+        "url": "https://kalkinemedia.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - energynow.com",
+      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; energynow.com",
+      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; energynow.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
       "image": "",
       "publishedAt": "2026-10-04T17:08:10.000Z",
       "source": {
-        "name": "EnergyNow.com",
+        "name": "energynow.com",
         "url": "https://energynow.com"
       },
       "provider": "Scheduled Google News index",
@@ -133,6 +223,21 @@
       "publishedAt": "2026-10-02T20:56:27.000Z",
       "source": {
         "name": "Utility Dive",
+        "url": "https://www.utilitydive.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Cities, states sue EPA over power plant emissions rollback - utilitydive.com",
+      "description": "Cities, states sue EPA over power plant emissions rollback &nbsp;&nbsp; utilitydive.com",
+      "content": "Cities, states sue EPA over power plant emissions rollback &nbsp;&nbsp; utilitydive.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcEtTOW5Eck42bHAzQzY4ckRBak92U2tyTXp2RC1hbG1iZDJvTTNMQzRhWnlRVTEyeVNBUkx2X05pTG90T29oT1QxdjNBWFVObjkxS2ZTT2MwSVlESDNKSUluWHg1YkVKZ1FBVmloT1QtVHBXSUF2dTJCT0E4ZTFVSlREUzZfcTl1RHZJQzhRN09EUWtKMERMTDJnUDdVaWM?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-02T20:56:27.000Z",
+      "source": {
+        "name": "utilitydive.com",
         "url": "https://www.utilitydive.com"
       },
       "provider": "Scheduled Google News index",
@@ -572,7 +677,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "utilities-me.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Statement: Fast-tracking the New Oil Pipeline Is a Reckless Waste of Canadians’ Money - Environmental Defence",
@@ -1073,6 +1178,21 @@
       "source": {
         "name": "Oil & Gas 360",
         "url": "https://www.oilandgas360.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "سوريا: خروج 3 محطات توليد كهرباء عن الخدمة إثر انفجار خط أنابيب غاز - aawsat.com",
+      "description": "سوريا: خروج 3 محطات توليد كهرباء عن الخدمة إثر انفجار خط أنابيب غاز &nbsp;&nbsp; aawsat.com",
+      "content": "سوريا: خروج 3 محطات توليد كهرباء عن الخدمة إثر انفجار خط أنابيب غاز &nbsp;&nbsp; aawsat.com",
+      "url": "https://news.google.com/rss/articles/CBMipgVBVV95cUxQOUtfZFp2THIweVVWRHRTMWRoejY5TUFVeDNPYVBKdTlEYnJmaVAwYnMwa1VnTVlaV1owWFM2UHByandSWmZvekFxNmhMa2lOX3BvUUozellWaDh3dktQYlF2eHpCUEdqamtydUtMYVpUZVNwSkdPbW50NGltbXo4Q1R4RGQ5Q3p6b1JobXBEclk4WFdxUm9ELVltd2Jud3lVQ0c3OEx0aUZ5N0Z6RXpoTWlEM29pQmNOSnEtTFZ0S0xUXzdCOGZqZUpoWXZmMGtNZlhqMldNOEcxWjNaS25Nc3hlNS1DMVN6UTZQUXJCeHhqbEFFRjVqM0FwU1I3anRhckRrV3dZX3phT0U1Nm5rX1pDZ01mcVhqdjBfTXNtN0szMjA3S3NBNlM0N2tRYnJONXc0dl9PVW5HOWkwdy1oMGhJTVhmWXR4eFhidmFXbWdZTDZUTDEzREx2VlAyZTlraFFvVkw3VjlmMy1vOXZScnEySnZGN3hPWS1fWW5Fcmw4YVpoN1UyeC02aEFhbTZqZkNyOVRIVXVFczdtTVVYYXkwc3V0WE5rc213NUJvbjRkRC05Z2NfaDhJV1NXd1F3S180ZUJLT19lWDM3UTBvRHR3UXJwSGNwWlRPTTN4ajhMdkVQUkdEa2J5YUp4M0loaS1HRE05M3lvMFV3d3BtMFZEUW5OMVBWOVFac3B2R2N4NWJ3RzJMU2tYaFVlbURXendsbjdZdml4bm5XX1RyN0FRVFlhS1lCMFpCdGRRcS1XVE1Sd2lHakRDYWllRkh4T3JXdzRnVDd1ZHBXQU1CSG1yNlFwUlBUN09oWkhrZF9oUVp5ZG1KcmRFWURwNkZLeWdsdElMbXhEMTNzdkNYSjZBbm9mamdZQi1MQlZBWHVkME16c3c?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-30T19:10:31.000Z",
+      "source": {
+        "name": "aawsat.com",
+        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -1964,21 +2084,6 @@
       "preferredSite": ""
     },
     {
-      "title": "العاصفة نور إيستر تضرب شمال شرق أمريكا.. فيضانات وانقطاع الكهرباء - اليوم السابع",
-      "description": "العاصفة نور إيستر تضرب شمال شرق أمريكا.. فيضانات وانقطاع الكهرباء &nbsp;&nbsp; اليوم السابع",
-      "content": "العاصفة نور إيستر تضرب شمال شرق أمريكا.. فيضانات وانقطاع الكهرباء &nbsp;&nbsp; اليوم السابع",
-      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQVXZpcnk3Q3N6WmszX1hDWk5HN0Y1cTF4bkJsc08zamluaW15ckdxc3NHN01KWHJIWk0zYk1qV1dYNjE0bFl5YmJCa1lESkdnRDlqZWFQQnZUUFdpWjBibktMem1oNk5NRVpuUFNRTHE3bnNTcVU2RmxUeTg5MVdvM0VrQll3UDRJWlJURjZwcTBlXy1lbmQ3cjI1M1Q5cHBEUzhtUGJLQ1RPZXhya0VUTHAyQnpEbnk5aXVnb3NzOHk0ZmlBdnRYcmhhbjBfT1M5NlZlTVRIZlNkNi1WZUo2Wl9Xa3pqVlJOWERwYjVZVWdRWGNCWjN2RWlsM2pXYkFtM2NfSGFUZnRFZXZKVnhDSGJxZ3UyRFJmUnNlMmh6N2ptZnFnOEo2R1AzbEYyYVFGTmRTdEl3bVZEN00yTHJJaTU3cm5xcW8xSFFHZjVHTkJpM2RIYUVqaWEyZ254VU03Tk02bS1IbjlOc3MycUpkdDhrdzBmaDYxVno3VlM5Z1J0R2cyaXJwYXZBcC1JSWNmNDV5ZnFIaG9BWWFPbWhiSGt6NDhUZVh6MzFGVk9fTDFtVTlLRWlBcnlFa1JUM24yTEpkVWxVU1BfdDBMZFNHYmlRYi1BbUtVM2tUNndnZE83UVlkLTB1Q01HaTd2aGo3WEliNVNfR2c2WC1kYXFnVm1NNEJ6OHBUQXc3N1hHVzAtUmhBUHfSAZAEQVVfeXFMTUtFemxoZ0RpQzFwNGpJZm1oQ2RPMGdCZl91SHNJZmIxT043b2ZlX0FDR3h0NnItNkdmcjVaaGFSSUwzbzRXRENxRGQ3ci01czZSR1NWQ1ktQVJOcExQV0ljMnRqdnhwbmlOZTFqVUpIRmNpd21QYnl6RFJ6ck11eWFVbVJ5UWxRQzlEV29CanJWZzMxMHFRd0pIbDFRemRSNEdoREhaWGZNbV9YOHNlNGFGcURIbWwyUkNfQlZFTllRMXN5Q2ZWOTFHVUlKRHVNeUtobnZCOGVwTGJnaGdKaW85Q1Bnc2VLYUhJSEdBUldOUy1DUUUzRW90U3RYTGYtMUs5cFdBejMtWU8ybGF5cWtxWU1tbGI1QTdHY2VwbXAxdzNXU1kwWFRnY0NkSlpYQkNaTzFIX0JNdnF1Q3Bnd29TSHJaVFpHajhaOWdjVWpXWFctYUVWd2VGNDRZdnFNYlBvdDZfeHBkWlpGZzJTLU92YnJaeFdiMHVrUkpFTE1KU1BBS0ljTU5LdmVHaEFtUmdnMHRBNVYwU3Y1bUxWYW95WlJ1c2c2ZTZLR3Z4bGctcmsteEtxUFBHMk1hc25SdDVZdEpvU1Rqb01MSkItOHhIZkNJM3pRQ2xITjRRN2pzSjhMWGc4UFljT3dZYmVrN1VlUnBZcU9KVU52c0JsNXFSbTNoWTVTSmlWbTlCeW1j?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-27T09:09:00.000Z",
-      "source": {
-        "name": "اليوم السابع",
-        "url": "https://www.youm7.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "العاصفة نور إيستر تضرب شمال شرق أمريكا.. فيضانات وانقطاع الكهرباء - youm7.com",
       "description": "العاصفة نور إيستر تضرب شمال شرق أمريكا.. فيضانات وانقطاع الكهرباء &nbsp;&nbsp; youm7.com",
       "content": "العاصفة نور إيستر تضرب شمال شرق أمريكا.. فيضانات وانقطاع الكهرباء &nbsp;&nbsp; youm7.com",
@@ -2091,6 +2196,21 @@
       "source": {
         "name": "attaqa.net",
         "url": "https://attaqa.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "العاصفة نور إيستر تضرب شمال شرق أمريكا.. فيضانات وانقطاع الكهرباء - اليوم السابع",
+      "description": "العاصفة نور إيستر تضرب شمال شرق أمريكا.. فيضانات وانقطاع الكهرباء &nbsp;&nbsp; اليوم السابع",
+      "content": "العاصفة نور إيستر تضرب شمال شرق أمريكا.. فيضانات وانقطاع الكهرباء &nbsp;&nbsp; اليوم السابع",
+      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQVXZpcnk3Q3N6WmszX1hDWk5HN0Y1cTF4bkJsc08zamluaW15ckdxc3NHN01KWHJIWk0zYk1qV1dYNjE0bFl5YmJCa1lESkdnRDlqZWFQQnZUUFdpWjBibktMem1oNk5NRVpuUFNRTHE3bnNTcVU2RmxUeTg5MVdvM0VrQll3UDRJWlJURjZwcTBlXy1lbmQ3cjI1M1Q5cHBEUzhtUGJLQ1RPZXhya0VUTHAyQnpEbnk5aXVnb3NzOHk0ZmlBdnRYcmhhbjBfT1M5NlZlTVRIZlNkNi1WZUo2Wl9Xa3pqVlJOWERwYjVZVWdRWGNCWjN2RWlsM2pXYkFtM2NfSGFUZnRFZXZKVnhDSGJxZ3UyRFJmUnNlMmh6N2ptZnFnOEo2R1AzbEYyYVFGTmRTdEl3bVZEN00yTHJJaTU3cm5xcW8xSFFHZjVHTkJpM2RIYUVqaWEyZ254VU03Tk02bS1IbjlOc3MycUpkdDhrdzBmaDYxVno3VlM5Z1J0R2cyaXJwYXZBcC1JSWNmNDV5ZnFIaG9BWWFPbWhiSGt6NDhUZVh6MzFGVk9fTDFtVTlLRWlBcnlFa1JUM24yTEpkVWxVU1BfdDBMZFNHYmlRYi1BbUtVM2tUNndnZE83UVlkLTB1Q01HaTd2aGo3WEliNVNfR2c2WC1kYXFnVm1NNEJ6OHBUQXc3N1hHVzAtUmhBUHfSAZAEQVVfeXFMTUtFemxoZ0RpQzFwNGpJZm1oQ2RPMGdCZl91SHNJZmIxT043b2ZlX0FDR3h0NnItNkdmcjVaaGFSSUwzbzRXRENxRGQ3ci01czZSR1NWQ1ktQVJOcExQV0ljMnRqdnhwbmlOZTFqVUpIRmNpd21QYnl6RFJ6ck11eWFVbVJ5UWxRQzlEV29CanJWZzMxMHFRd0pIbDFRemRSNEdoREhaWGZNbV9YOHNlNGFGcURIbWwyUkNfQlZFTllRMXN5Q2ZWOTFHVUlKRHVNeUtobnZCOGVwTGJnaGdKaW85Q1Bnc2VLYUhJSEdBUldOUy1DUUUzRW90U3RYTGYtMUs5cFdBejMtWU8ybGF5cWtxWU1tbGI1QTdHY2VwbXAxdzNXU1kwWFRnY0NkSlpYQkNaTzFIX0JNdnF1Q3Bnd29TSHJaVFpHajhaOWdjVWpXWFctYUVWd2VGNDRZdnFNYlBvdDZfeHBkWlpGZzJTLU92YnJaeFdiMHVrUkpFTE1KU1BBS0ljTU5LdmVHaEFtUmdnMHRBNVYwU3Y1bUxWYW95WlJ1c2c2ZTZLR3Z4bGctcmsteEtxUFBHMk1hc25SdDVZdEpvU1Rqb01MSkItOHhIZkNJM3pRQ2xITjRRN2pzSjhMWGc4UFljT3dZYmVrN1VlUnBZcU9KVU52c0JsNXFSbTNoWTVTSmlWbTlCeW1j?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-27T07:00:00.000Z",
+      "source": {
+        "name": "اليوم السابع",
+        "url": "https://www.youm7.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -2562,21 +2682,6 @@
       "preferredSite": ""
     },
     {
-      "title": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ - aawsat.com",
-      "description": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; aawsat.com",
-      "content": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; aawsat.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNR1lhMWdEZTUtY3V0ajRqcW9ZLUM4ZE9IcW94ejJGaTRxdU83U0hQSXA2XzhQOF9ncG04NFVtbTlXS2NydUlUUTlmUmxEUzNiUVZJSXFlMGh5WEc5czNIeFFVMjNhRnFYX2NvVFdJdjRxYzdqcmpiRXpyVnpGSnYxQkE2QlRXeEkyeGtVVEhVcXZaWnJsZGNXaHUzVUROemhfTlE2akc1MGk4Q1ZQcHFFSHM4NHZPSWViamZBZ0RjbU03UUZoSDdUNG5pUGsySGFhMjNkazljOG5tMnJBc0p4Z0tTaWs5aUNBbk5uMDk1M21zZWpmbFVTeHlFSnZsUlFQU3d2NDFxa1h0X2FZWkRfemtUMEtNT1h5SExVSDcyWW1rT2ZQNTNWLWVrR1dneV9zZWlCWDVPQjRzeFB0WU9qcTAtN3BmUUxjM0xFUE1mOFB4R0ZrMG13Tk1kd2hPeDBra3o4LWtZdHNOaGhIWFZVV2pXLVBwZVNjcG0wbmdaQlI3Y3lKRGpDMVFjMmVVLUZEQ2VQSzdGdFNHUUZRY25CNnlnOE9vM2dhNHlSZ1NadlRtLVJ1YkZjdmlUOHI0VE5ZMVpXc0dTV0JObkFxdDYtdXhFWFVsUThmN1k3Zl8ySVJ0UGFSNTVBb05Cb3l0b1NSZlFWQjRjZ056SVJqVjFNZ1J6THJUR1JkWWpYbE5QYWhRT004UVdHX0lUUnJORWRaSV9nSHVQZm5nemxrM1BtQjRMRmF3TWo1WEJ3QUozTUNaUkRISjFvekgwbEhJcXUzdWJmTFJiclAtMGVQeXlJVXJNT2E5TTRpMXhlR1Zid1VuWXBqa3piMkJoQnZXSG9TdkhSOVVmNTNYZGM0RU1lNVJ6YVF6U0pMQXItUXNhYkZHUWI5QzdwbTMzdmcybFRud0xEeTB1UnVfS1k?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-25T15:57:12.000Z",
-      "source": {
-        "name": "aawsat.com",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Azerbaijan rich in renewable energy resources alongside oil and gas — ACWA Power - trend.az",
       "description": "Azerbaijan rich in renewable energy resources alongside oil and gas — ACWA Power &nbsp;&nbsp; trend.az",
       "content": "Azerbaijan rich in renewable energy resources alongside oil and gas — ACWA Power &nbsp;&nbsp; trend.az",
@@ -2757,6 +2862,21 @@
       "preferredSite": ""
     },
     {
+      "title": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ - aawsat.com",
+      "description": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; aawsat.com",
+      "content": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; aawsat.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNR1lhMWdEZTUtY3V0ajRqcW9ZLUM4ZE9IcW94ejJGaTRxdU83U0hQSXA2XzhQOF9ncG04NFVtbTlXS2NydUlUUTlmUmxEUzNiUVZJSXFlMGh5WEc5czNIeFFVMjNhRnFYX2NvVFdJdjRxYzdqcmpiRXpyVnpGSnYxQkE2QlRXeEkyeGtVVEhVcXZaWnJsZGNXaHUzVUROemhfTlE2akc1MGk4Q1ZQcHFFSHM4NHZPSWViamZBZ0RjbU03UUZoSDdUNG5pUGsySGFhMjNkazljOG5tMnJBc0p4Z0tTaWs5aUNBbk5uMDk1M21zZWpmbFVTeHlFSnZsUlFQU3d2NDFxa1h0X2FZWkRfemtUMEtNT1h5SExVSDcyWW1rT2ZQNTNWLWVrR1dneV9zZWlCWDVPQjRzeFB0WU9qcTAtN3BmUUxjM0xFUE1mOFB4R0ZrMG13Tk1kd2hPeDBra3o4LWtZdHNOaGhIWFZVV2pXLVBwZVNjcG0wbmdaQlI3Y3lKRGpDMVFjMmVVLUZEQ2VQSzdGdFNHUUZRY25CNnlnOE9vM2dhNHlSZ1NadlRtLVJ1YkZjdmlUOHI0VE5ZMVpXc0dTV0JObkFxdDYtdXhFWFVsUThmN1k3Zl8ySVJ0UGFSNTVBb05Cb3l0b1NSZlFWQjRjZ056SVJqVjFNZ1J6THJUR1JkWWpYbE5QYWhRT004UVdHX0lUUnJORWRaSV9nSHVQZm5nemxrM1BtQjRMRmF3TWo1WEJ3QUozTUNaUkRISjFvekgwbEhJcXUzdWJmTFJiclAtMGVQeXlJVXJNT2E5TTRpMXhlR1Zid1VuWXBqa3piMkJoQnZXSG9TdkhSOVVmNTNYZGM0RU1lNVJ6YVF6U0pMQXItUXNhYkZHUWI5QzdwbTMzdmcybFRud0xEeTB1UnVfS1k?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-25T07:00:00.000Z",
+      "source": {
+        "name": "aawsat.com",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ - الشرق الأوسط",
       "description": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
       "content": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
@@ -2897,7 +3017,7 @@
       "content": "بالقاسم حفتر يستعين بالخبرات المصرية لإنهاء أزمة الكهرباء في ليبيا &nbsp;&nbsp; aawsat.com",
       "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxQMTVqcWljTlByZFpyQUM4TlJ1el9IUjRJSGFIdjBTOHA1RmRpODJuVXc0TUNqd0FxcHZvYlpzYTczRDJ3MTZJU3ZkMFZnOUJhSE8zUlVLYkJtUGFUb2Jrb19aTTI0azMtSzhSTnd0ME1Da3VubUo0VlVpaEo2RjQxRjF5MFJDYXMzNWdWUDYyUTlTR1BNZ0Y1SE1uRVlYbmVGUzVYSW1zbU1wMVR0eXhaanFwWVZVN0ttZWFrYi11X3pjWm04Y1ByS1dpSDkzUXBudGczZUhVcWRsZWROZGN5cExjYW9uWkhieDJGQmxjWndrSnRDNDNwMXUtX3FZLXZoV0FlOVdXUmN3bGRicE55TjBGUzFDazh6NmM3V1Y3SFdNaEVQcTBOMk5ZQm54WGRrS0lEOWxka2dmTTQzN3p6QnhNTzJxRDNnZ19QcWpXMl9nNHdvRWJicmVPQjZZLUUzNm5pUHFlSWd1dXM0SGNPc0tkdTBCVnFlY0JEUEhzT004X1hMR01EOFVXZE42QWt6S3Z2MVFjN3g0RlBPbkRSS1hMOWsyYW9WbTY3bk14SG9QQnlUYmhNa3JBTEFhZm5Ic0p1V2NfUGg1ckxTWTNrVWQtOV9pNFZWOG44eHMxZzFOdllPZ1RXblI2Ym90TDJTQXE1YllnOTVpTW1ESDJrN1Bsa1NKQWxiY3NRT1IzQzhSMHpCclR4VE91MlZ6QTJCejFFVHE3dWVoQnNYZWVYRXpkSFgyd2xSU3pFODUwWkxlQkJkTWNBRUR6SkNOVUJhZEJjV0FHMHMybV9LdzhETEFqSW4xMmZ4T2RObkJvTXdWVTVVbDB6ZHRzVlJHZmFTWnlFTkwyYTFXcEp0WG4yNy10M3hYTml2cGV6OGRKdDVKR1MyLWFsNg?oc=5",
       "image": "",
-      "publishedAt": "2026-09-24T15:18:10.000Z",
+      "publishedAt": "2026-09-24T15:18:45.000Z",
       "source": {
         "name": "aawsat.com",
         "url": "https://aawsat.com"
@@ -7324,6 +7444,21 @@
       "preferredSite": ""
     },
     {
+      "title": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ - aawsat.com",
+      "description": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; aawsat.com",
+      "content": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; aawsat.com",
+      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNaVZDQXNpSVZvd3gzY2dhdnhvc1oyQkowMjcxems3bHdWLUlrM3lZa3Y3eUE2MlJrNURldnAwTXk2RkZPUkQ2cDVrcDdsVWpCa1NCZTR1RW5ycWJrNTc2Z2VGaThINkE5a1BXMTlkLWVOeHVPVmZHeDQ4VXEyLVdKT0VIT3dpMFZLTG56bEdZdFNTYzhfekJlSTRHMURpd0ZXZmI0NFhTM3FOeVlPc01OSW1sLUw2ZjBHYks1OGl4SWhmVGVXTkQ4MkRXTGRJNW9iakZKUFpDTDlTVnRlVEpaR056bHhWWmRSUXpkOVlLeDkzZ3NHOHZaVnZCN0t5OEdZam96Z3VSYnZNUGxRVDFnRnZHbEV0WklFZjVMcTdvYTh0cldScXhnaWNkeDBUVnYxdWtqZG9pbTYzajBYZG9QNDhZcV9xQ1J3V3RvMzR0MWxOUFptWEtLM0dOOF9UY3dIT0Z3YXQ0d1hrclF5c05UaVFtTG41YUtMY09mdm92TVlQTTJ1VmhYMnNGeDBtXzVLUVFqYjNsbGJTYUdZZENRVGNvQ2tHYVg1SFI3Y1liX1l1NFRvMkZmcWdyMGJIWk54cGVsZG45T2F5V0ZDODlCT0RaZDVBeXhBWFJWbm5waU1weUQzLWRCQjVsdV8zLW9TVHc3bHhicm1UX2FiT3FLUzN5bUtJQVB3eDlMcC1VLXk3Y0N6NDlWcWRoMjhQWUNlUEpWZWdqVWx2bkFfRTkxcHFURW42VEZZd3JhaEVmZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-03T10:18:48.000Z",
+      "source": {
+        "name": "aawsat.com",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "وزير شؤون الكهرباء والماء يزور أجنحة الشركات البحرينية والدولية في معرض الشرق الأوسط للطاقة 2026 بدبي - الأيام البحرينية",
       "description": "وزير شؤون الكهرباء والماء يزور أجنحة الشركات البحرينية والدولية في معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; الأيام البحرينية",
       "content": "وزير شؤون الكهرباء والماء يزور أجنحة الشركات البحرينية والدولية في معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; الأيام البحرينية",
@@ -7397,21 +7532,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "alghad.com"
-    },
-    {
-      "title": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ - aawsat.com",
-      "description": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; aawsat.com",
-      "content": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; aawsat.com",
-      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNaVZDQXNpSVZvd3gzY2dhdnhvc1oyQkowMjcxems3bHdWLUlrM3lZa3Y3eUE2MlJrNURldnAwTXk2RkZPUkQ2cDVrcDdsVWpCa1NCZTR1RW5ycWJrNTc2Z2VGaThINkE5a1BXMTlkLWVOeHVPVmZHeDQ4VXEyLVdKT0VIT3dpMFZLTG56bEdZdFNTYzhfekJlSTRHMURpd0ZXZmI0NFhTM3FOeVlPc01OSW1sLUw2ZjBHYks1OGl4SWhmVGVXTkQ4MkRXTGRJNW9iakZKUFpDTDlTVnRlVEpaR056bHhWWmRSUXpkOVlLeDkzZ3NHOHZaVnZCN0t5OEdZam96Z3VSYnZNUGxRVDFnRnZHbEV0WklFZjVMcTdvYTh0cldScXhnaWNkeDBUVnYxdWtqZG9pbTYzajBYZG9QNDhZcV9xQ1J3V3RvMzR0MWxOUFptWEtLM0dOOF9UY3dIT0Z3YXQ0d1hrclF5c05UaVFtTG41YUtMY09mdm92TVlQTTJ1VmhYMnNGeDBtXzVLUVFqYjNsbGJTYUdZZENRVGNvQ2tHYVg1SFI3Y1liX1l1NFRvMkZmcWdyMGJIWk54cGVsZG45T2F5V0ZDODlCT0RaZDVBeXhBWFJWbm5waU1weUQzLWRCQjVsdV8zLW9TVHc3bHhicm1UX2FiT3FLUzN5bUtJQVB3eDlMcC1VLXk3Y0N6NDlWcWRoMjhQWUNlUEpWZWdqVWx2bkFfRTkxcHFURW42VEZZd3JhaEVmZw?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-03T07:00:00.000Z",
-      "source": {
-        "name": "aawsat.com",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     },
     {
       "title": "إضافات الطاقة المتجددة في الدول العربية قد تنمو 37%.. بقيادة السعودية ومصر - attaqa.net",
@@ -8184,7 +8304,7 @@
       "content": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; aawsat.com",
       "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxOdGVyY0QtWVpUckRCNnk0ZHNJMXZDcldGS2pHYWNKRTQtdFVVQUh5NjVLTGxYSE04LW9rcU9BV0p6Z0RSZHFmdEc5MGpBSkt2MVVjTVRlVkRvVTVQT1AxeTZidmtCQXJjTGQ4VE10T3BsRVBrdnRIT1FWTl80bExjWGZpNVozZVZkOFhma0pLSm5pNzR4N1JwdS1KcnlfNDRCNUtIcGFCNjFQYVg1R0JXY0pndWJpNkxaNmZra2NlRG1CVnlYUHoxQi1SdWVTUVJWNE9JNXVkTVNncHNDOFZmb2NLNHNPYXJ3eGNqUkc3T0hOMVAwMkdDei1EX1N2b3IyNWlielNEclp6S0RiVm1ydm5NMUV3Q3FXUHpTZGUtWUpjWWZNZjVyVS16TE9FMkdDb2hMUWRiUFhXOVZ1YWljUE1ZVW15d3NxSDVvcVBjNHFFc0VaRFc4ck5JdFJfdjJvLXpuS05FWDcyREtHa2xocmk1c2x2T29HWEo4ekxMNlp2LVNocTlLdW5uSHBVd0V2cl9kLWZaaDBXYzY4OTFhaGhJTUo5Q2dkOGk4UFoxWVRvRzkyNXNIZjYxYjN3eVZZZi1IVlBpbkthNk95bVJySmhwVXJJeE9xVVFITmE2WVROTHBsRDFiNUtFenpLWDdaNko4cml6dEhUb3NMSUFraW5ScVhaQVdjUnZld2pkZ2JGNnFEV1JEVTdWYks?oc=5",
       "image": "",
-      "publishedAt": "2026-08-22T15:18:31.000Z",
+      "publishedAt": "2026-08-22T07:00:00.000Z",
       "source": {
         "name": "aawsat.com",
         "url": "https://aawsat.com"
@@ -8293,6 +8413,21 @@
       "source": {
         "name": "GE Vernova",
         "url": "https://www.gevernova.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "الاحتجاجات تتواصل بالعاصمة الليبية بعد أزمة الكهرباء... و«الوحدة» تعد بحل - aawsat.com",
+      "description": "الاحتجاجات تتواصل بالعاصمة الليبية بعد أزمة الكهرباء... و«الوحدة» تعد بحل &nbsp;&nbsp; aawsat.com",
+      "content": "الاحتجاجات تتواصل بالعاصمة الليبية بعد أزمة الكهرباء... و«الوحدة» تعد بحل &nbsp;&nbsp; aawsat.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAVBVV95cUxNbk1XaXFuMnRNdHM0dkUwOXdBVG5hOXBQMS1ZbXROckF4N3p0Ul9ZcS1HQWJseThMZDM1bkVRdXhfbmdFS3hoNEYxT08tRHBFRkl5Y3ZoWHZ3dmdZdXcyZHgwLU4zdzQ5NGswWko1OUJ1T2hEdjJIVWsxSHEybzI1N3U4cDVfYWNReE1vQnBrV0tKcDRIVTdwTF9lcTB2WWlKUFZjVVduY0c0ZTNndVNROTU4MzlLRE1aYzhnMEZwQ19Rd25wbDlkbGwxd2YxbmNNVHZoYnVqU2FvRnQwZXJVYTk5OU1KZVl6b1Ixa09pdTVDcnIzdDV3YllVa2dDQ0R4aFhNN3kzb1lvM1JlN2pQOS1GdkJJLXZpcnVvUGNiMFRuRHoxMGtLbWh6amNPQzNnNFBCRnMwVGhrdkFPMzdwdU5FOGJzNmk4ZzVvRG5hZ2w5M1ZTYkltaEdOSURCUmFlOEJYLWpnNHJjRGM3Z3VOUmljRkgwVmw1YnByRllINGc3UUVxR1gtM2pZaU51ZHBaOUZEdl9ZdllVaFMwdjNCbzd1STdHMGZXd2RaaXBXLTY5a2xZdDBGdnBvaUZxaG9SbDBlWGdBNVM5T2sxXzdKQmx0SHNZbGZvZ24yWkpRbU12dk5KcHNLTjlWVXYyRklPaVdHbjcxQ1A4NmNyaDFHMG9oSWRvTFQ3cGJNWUl2dzV4SEN2dHdya3EyX2RqTnRCbFc2T1lOOUtlRzVsVUdWYzAwMm5wcm9taVo0UmtRNm90UWtGTE4zZWdrRmZNblJHWm1ibmw3ZFlCdVJhRHNQWV9wVG5zYzBZbnBFNjNZeS1HaURkMzl4cVVIQjUwN2g3ZXo1VGxteDBJV3hfN29oR3R5WHdvd3JVOEwtWFRDMU42SkRKVURGTGN4Q3d0eXZjb01xa2ROWmNrMDJ5c3NlX0Vuek1BbDNB?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-18T15:26:12.000Z",
+      "source": {
+        "name": "aawsat.com",
+        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -9382,7 +9517,7 @@
       "content": "«أوبك بلس» يتفق على زيادة إنتاج النفط 188 ألف برميل يومياً لشهر سبتمبر &nbsp;&nbsp; aawsat.com",
       "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOcDZEZEdpSEJESEtodnJrZHFYRFRWM3d3WExPR2J6R1NwU3ExTUY3cjdtZ2p5ZEo0WDZjS1Y1YkExR2tVSVNRczcwYmRhLUpycFlzNWgzQ2g2RWVMaHJHZHFmR0ltM3FScUU1Tnp2a082SXhSbmt5eVpJN3owb2VnakxNUzVBc25ZVTdoNUhZNkFlSlJuNHZXcGt0R0NPRjVkVW55V3cyM2ZyaEJpZGJINVdpeFE1dkhlaDFMbkhvakRaVlpVaWg5Qk1zZU5vSnZOZ2FtaC1iZ09DNDBYV3JqUlgxNlZ0d2o5Mm1sNlBGZHpuWGU5bFRJNFFiZ0wtVVFwM2JhOFhMc29pdjIyVlIzNVkzckE2R2psb3M2MFBydGZXMGxWLXlseEhERFlnWS1kVmZRTG5qUkh1eVFQN2JPd1NZRkdKdDRwU0g3T0p1REE4ZTRlZXhnanhtSHRNWFhBRXBlX1RXSFpVVno2b0dhT00zWHk5LUJGVmJmODR0T1ZYLWowZS1MTDF3UnJ2X1dNQXl1VnhodUNpQU1YejNkMXFoR3AzRmFuOFpGbUpRVUZrQjdvX2hsYjNCZUhZZmxNSG40NUZGbURON0N6SzlSQW1QU2o1d2M5WWRkcFFrZjBZT3JTZkw1dkRuOVRtVVE5RmNLdE5IajBOQ3pzbVBQUk9fUGFDN21fVG5xTGpxRDEyTnRhZ3dqWEFTNXpmRkwxWTA4cU9zd01NTDZxYVAtcHZlY0lhMGpZWXlHdXhB?oc=5",
       "image": "",
-      "publishedAt": "2026-08-02T12:16:35.000Z",
+      "publishedAt": "2026-08-02T07:00:00.000Z",
       "source": {
         "name": "aawsat.com",
         "url": "https://aawsat.com"
@@ -9592,7 +9727,7 @@
       "content": "مصر: احتواء تداعيات «حادث دمياط» لا يُبدّد مخاوف تأمين احتياجات الكهرباء &nbsp;&nbsp; aawsat.com",
       "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPV25mTkNETi1yTXdyRkhTUjI3aWtNYUU4bzBwZUJLQUtIWjBYQXdQMzlGNGZNeUMzclJNTXZDeFQ5YnNYb2ZGcjdOb3ZoR3JRdTc5M1d0MHVPZ010TmRNMHNaYXRGQzBJVnNsSDlGZmhWbzA5U0ljLVJXenQ2U3Nudkd1UzlhRjk2T2FXTzVhSzFVYUhFb1pvMTZ5RmNMZkx0TEp4MXJaRnQ1Zloxa0lndjF6VUliUGpKUm1GMkFFdzItWVBTd2owZk80bU92X1lKZnpxb25yd2w4eWd3dHk2aF9lc3p2RmJjQy1oeUEwN3hOQUNxWWhSbE1XaGV0S18zMDFGVzgyUWVCUEt6dl9MNVppVFdvbE1vTnFBSXp5R3YyV0VwcVYyTDh4MlhQYS1hVXJvSkc4NW1DYVVpWC1Ua09tY2NxWjZnQ0M0SWtVaVowdjRveUFBTFdHYzgxTnhpTUhlQ21kYmhuQ0hDbzd5OFdkZndKcUFpUG5SVTZKVEh2NGo3bmxZajlGWHI1aUstcFRYWHRiRjBUbGpRSXVic2VXWjlIZ3ZrN1JOWGY4bXFSVzUydGJzT1llSVdISUxuTTJQX2tsTlVURUxWdEhRUGJNZDlkbkNSaU5POXRHY3MzR0JFaHlfNWNVdDdUeG9XcUFoS3BoeE1vX0x0aGt0dkJXZFdjbDVHSThINENrQVJaWFJ1Wjc1MTVJNGxpTzc4TmlyOGZDRThrS1JjRUVzNmpXUEJHaU43VFRSLXBOVUl3bmlzRzR3VTU2a2FfQjdHcmt2RUdNc2R0YXc4dEJrVk1fbUV5Y05IOGlrd0dnTDlqVWUyMFRMMHF3RHI3MHVNUTlLdVRvR09NVU43WDRFTmt0M2VkNmlpUVI3cDMyLUZXUQ?oc=5",
       "image": "",
-      "publishedAt": "2026-07-31T17:45:47.000Z",
+      "publishedAt": "2026-07-31T07:00:00.000Z",
       "source": {
         "name": "aawsat.com",
         "url": "https://aawsat.com"
@@ -10132,7 +10267,7 @@
       "content": "انتقادات لتراجع إنتاج الغاز في مصر رغم تسوية مستحقات الشركات الأجنبية &nbsp;&nbsp; aawsat.com",
       "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPa2NNdFJMSUpyNlB0MmI5U2xsQWstLWNTY2dzQVV2elBjUnVhdXlnQUxEaWhZUjJvbTRrVE5LcFJRbWxNYWVoeVdXVVUwSnRGU3hvRlgxNmlzd09Hb3pfSng4TTctUEc2X2RVdF9DSDQxZ2tZMXVsdkt5RUdReGt3MEdkUDQwVXZoWTZEbEY2TFRFWmY5TzlfTWd6Y3VRS0p6Y3JFNkFObDdweHVYTzZFd3h2UExMMUt1eFkwMHVoQ25MSDc3dW9scDJNcXViWkh0S0F0VDRVN0pWT09TUVdHQkVlNmpoYUdZdVVjNXZfM1Q1enVOMzJxa2lxZ0ZXSkZsOFRtdnVUeVI5RnAyZnlSOHhuV183TFVqWGd6bm9heklHUEwzTldEUzZUdjE5M1BwUFNGSjFka1ltckZKcTRjTUNMTUQtSGZfdFZHTHUwRzk1WWhGVW9TSTlaYzRrbTIwbVNkR0gtQmFQOXJ1MEZuUjE0ZllzUU45NVFCVUN1bnh0YUtFQnpXNWx2ZUdGRmd2U0ZHR05LUnRXQ0VLWk1Ia2lERFdNVS1ZV2dsS2VYd2Y4ZUlnRXFic1pXUmVsazB0UGMxQktWYVkxcWh4TjdQQ3ZHcU04MnZicFV6MUN2U01COWpWUHZpVVFLVS1BaFZQeXVnVUVpUXhkMlBkQTJzREoyUTlHVXNiZzZ1bEVJTjF4OUxtNDVqM2s2cUpHNkFxYlBXWldLUGZBZzl1dHJUOEV4VXRFLUFzN1ZERHA2UENkU2JzWEdsZmtSb055c09nQkc2aEZCUDF5aEt2cTRkOTkyLXhCbWoyUFhPc2l2dWRoRHRhTU9TSGc1NTk4TGFyZDI5TkljcFozX1MwaThtRjFDZVNHVWtYdHluaG9RN2ZyQQ?oc=5",
       "image": "",
-      "publishedAt": "2026-07-24T14:57:21.000Z",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
       "source": {
         "name": "aawsat.com",
         "url": "https://aawsat.com"
@@ -10240,6 +10375,21 @@
       "publishedAt": "2026-07-23T18:26:09.000Z",
       "source": {
         "name": "moeveglobal.com",
+        "url": "https://www.moeveglobal.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Renewable energy: The unstoppable rise of green power worldwide - Moeve Global",
+      "description": "Renewable energy: The unstoppable rise of green power worldwide &nbsp;&nbsp; Moeve Global",
+      "content": "Renewable energy: The unstoppable rise of green power worldwide &nbsp;&nbsp; Moeve Global",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZnliRFFsdFQzUDZLVFJkcnF3OXE1WW9XX0hsZU50ZG11bVBtZlowaGxoZklkSzJVRHJSMHRneXdNci1EeXprendhZGpJTEJMN05UUzQwR3A2Rk5VRlF2NzdUUzQ4UlVWbG42bjZ4SDNYck9reTdSN3hiVjdNM1pFTFpqaWVjUUY5V01rajBId1VkQUNsTFoweEZZcw?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-23T18:26:09.000Z",
+      "source": {
+        "name": "Moeve Global",
         "url": "https://www.moeveglobal.com"
       },
       "provider": "Scheduled Google News index",
@@ -10687,7 +10837,7 @@
       "content": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو &nbsp;&nbsp; aawsat.com",
       "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxQejdETzBoS01aekFUTGxTOHZiUFA5dEZEdjd0U1pBVmVtLV95QTUtRFczbkJBcVRleUN2OWYtR1g2MGVYYV96eWhaSVZLc0dCVVpUNjYtajNya2NwNHplM2pIWmVmMmM4RWdlNTI2X3JqOEFEZGdYVkc2SmgxU1loYmd5Sms1cEZlRnhqcWxPX19sd1dHVnJJZDFkbU5oVEFEN3pIU2VKVWd3YW5SeDJXVXF6eHQzVC1GdlhMR1dzQjlrcHA0WHdpYVRMVUpCOHBBbk5TRWhVbEUtMlhjVUhfSFRDUVIxWFdCNDIydWFvSjFQUU9hc1NoaW5Ja2d0Tno1QWFjeEpxU3ZWb1A5S3FEZmVZaUNoWkZpc3ZKT2pEbXBibmJpd005ck5uNTNPUFhoOWVIT1ZndmkzWlp4ekJVVkNPbXZ5bk5IaU1QLXQtNldQejhFb3JXZV9WMjdmMGVJaVJyZndGZy05THpzV2lSTXVIeC11cHdjR1FLMHJBcmRWcEJpWlJGamNZc1d3Rk1VLVlKcHQ3TW9WRVh0UFVZMTg2TkVoQVdtaWtyLXIzQ0FnTHBEVUpIX28wTDlxbE1MVnlsWEpkeHRWQ05zY2JiZWY5VXhJZUJBTUFlSFVCeHZ6Yk9scVo3N0FvUW1VVTllMEl0MlBDWjY0Y25GZ1lnNnM0MjZHZWotSUlybmFkR25OOUJ3LXdEQmtBLThmenlPVTFIZ09UWi1zWEYzOTVQZGN3SjlGY3hnUTBwakdZNHNWRWI3UlEtTnk5SHNId1paLUxDZTZrN1FJYzlfak5nWW9ZdzFaZkU?oc=5",
       "image": "",
-      "publishedAt": "2026-07-14T10:27:15.000Z",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
       "source": {
         "name": "aawsat.com",
         "url": "https://aawsat.com"
@@ -11021,6 +11171,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "thepeninsulaqatar.com"
+    },
+    {
+      "title": "Commentary: Nevadans voted for more renewable energy, not more natural gas - Nevada Current",
+      "description": "Commentary: Nevadans voted for more renewable energy, not more natural gas &nbsp;&nbsp; Nevada Current",
+      "content": "Commentary: Nevadans voted for more renewable energy, not more natural gas &nbsp;&nbsp; Nevada Current",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVFGWk5HVU5PbVppYWJ1NC1BNWgwZ3hZaDFxX2lqMExfQnRHeXVsMGNoemhUaFRrZ2FINWxVYXBVMHAteWlkdVlIeXp2N05GWVJqdWltNTV4b2c0dWtkeC1PQWk4ZW1SMWoya3hhTkpxNG5VMDE5S19nSmNuQW1LMGtDTnRxTWY3eXY2dFZxb1g2eE9WWWViVDU5WEtGemln?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-10T07:00:00.000Z",
+      "source": {
+        "name": "Nevada Current",
+        "url": "https://nevadacurrent.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "\"جولدمان ساكس\": التصعيد في هرمز يهدد خطط زيادة إنتاج النفط بالشرق الأوسط - جريدة البورصة",
@@ -11486,6 +11651,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "alghad.com"
+    },
+    {
+      "title": "Oil production, 2025 | Fossil fuels - Our World in Data",
+      "description": "Oil production, 2025 | Fossil fuels &nbsp;&nbsp; Our World in Data",
+      "content": "Oil production, 2025 | Fossil fuels &nbsp;&nbsp; Our World in Data",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVzJFTlVNV1RIVE9uRnRidm9kT2YzWGF4dFc5RGxaSGN2aVpIRE5OQnhPVFU5RUg5TG9wQ1Uyd0dpcUpLdklKd1dORHJjaUdkUHE5MUVrR1N6UXNqcks3QzgyaEhCR0JybmZvM1VJaFZKUWZ1RnVlcDU5cUdhT0xndnZ5VW04QU9FYzhUNHBvRllpZ0tLb1E?oc=5",
+      "image": "",
+      "publishedAt": "2026-06-30T07:00:00.000Z",
+      "source": {
+        "name": "Our World in Data",
+        "url": "https://ourworldindata.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "Renewable energy and natural gas supply up in 2025 - European Commission",
@@ -12671,7 +12851,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Americans’ electricity was shut off 13 million times in a year, data shows - washingtonpost.com",
@@ -12968,6 +13148,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "More households face gas, electricity shutoffs despite new protections - OregonLive.com",
+      "description": "More households face gas, electricity shutoffs despite new protections &nbsp;&nbsp; OregonLive.com",
+      "content": "More households face gas, electricity shutoffs despite new protections &nbsp;&nbsp; OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREFhMTZhaTlJX2dQZEFLQjdWcXRkbUoyOVNuSEV1THNleDhhX2pQdDRRU2huajZ4bm1JamhuMVRnMHFVOFVZc0wtdXlyd1F5VXVyQU9JV3FMSFlmcTdyd3JiZ2EwYmJQVGkxMzNQQXlRcldwRzBralJPZjVQUUpVZzBVc1E5VVJWM29vN3A5Y2ZFV0FrQlFUa3F6UFc5cXlDbVZ1S3FLMFFQNldrZWc?oc=5",
+      "image": "",
+      "publishedAt": "2026-04-09T07:00:00.000Z",
+      "source": {
+        "name": "OregonLive.com",
+        "url": "https://www.oregonlive.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     }
   ]
 }
