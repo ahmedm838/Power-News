@@ -1,9 +1,99 @@
 {
-  "generatedAt": "2026-10-06T06:27:18.057Z",
+  "generatedAt": "2026-10-06T18:25:08.870Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Google orders 3.59 GW of electricity from Constellation — The Express Tribune - UA.NEWS",
+      "description": "Google orders 3.59 GW of electricity from Constellation — The Express Tribune &nbsp;&nbsp; UA.NEWS",
+      "content": "Google orders 3.59 GW of electricity from Constellation — The Express Tribune &nbsp;&nbsp; UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVlRvell2aEFyYWxNUkRnazYyVE9oODBBZGVWaGx6WUI4NldKSHJCbUl3SDZQNE5jVXlBQnJtZDlJY1pvaHlPcmthZ19MODl6OGUwRjlSSllOYUtZX1FwU1U5R3Brb0c5SmoycTgzYlZUVDVKUkZxWGZTM2ZJbjFtcmNITjBfWGsxMFBqeFlkM0Z1SmpxSEVOMlhySkpZSjVzamozRzQ0VFliUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-06T15:51:16.000Z",
+      "source": {
+        "name": "UA.NEWS",
+        "url": "https://ua.news"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Oman Oil Production Up 11.9% by End-August 2026 | Exports, Gas & Crude Prices - News and Statistics - IndexBox",
+      "description": "Oman Oil Production Up 11.9% by End-August 2026 | Exports, Gas & Crude Prices - News and Statistics &nbsp;&nbsp; IndexBox",
+      "content": "Oman Oil Production Up 11.9% by End-August 2026 | Exports, Gas & Crude Prices - News and Statistics &nbsp;&nbsp; IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONDZHeGg3eEptTnVoY2NSRVJKNnpMS3VMOU96T0tQVEpLWC1rX2JFSjR1LWZ3Um13VGp1OUVBTDFfN2I1dDFESjlabHkyeDBPcG1kTGNZMEVrR001SWk3Z0E3dG8xRkZKcW45QU5DWk8tOUhHSFQyOHBCMElOc0FRZGpYVm5EVVk?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-06T15:50:33.000Z",
+      "source": {
+        "name": "IndexBox",
+        "url": "https://www.indexbox.io"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
+      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-06T14:48:34.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "رئيس «جنوب الدلتا» يوجّه بتوسعة لوحة كهرباء السنطة وتطوير فرع سمنود",
+      "description": "وجّه المهندس خالد مسعود غمري، رئيس مجلس الإدارة والعضو المنتدب لشركة جنوب الدلتا لتوزيع الكهرباء، بدراسة توسعة لوحة توزيع كهرباء …",
+      "content": "وجّه المهندس خالد مسعود غمري، رئيس مجلس الإدارة والعضو المنتدب لشركة جنوب الدلتا لتوزيع الكهرباء، بدراسة توسعة لوحة توزيع كهرباء …",
+      "url": "https://www.egelectricgate.com/?p=10628",
+      "image": "",
+      "publishedAt": "2026-10-06T14:41:17.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "\"الكهرباء\": استثمار 57 مليار جنيه لتطوير شبكات الكهرباء في شمال وجنوب سيناء - الهيئة الوطنية للإعلام",
+      "description": "\"الكهرباء\": استثمار 57 مليار جنيه لتطوير شبكات الكهرباء في شمال وجنوب سيناء &nbsp;&nbsp; الهيئة الوطنية للإعلام",
+      "content": "\"الكهرباء\": استثمار 57 مليار جنيه لتطوير شبكات الكهرباء في شمال وجنوب سيناء &nbsp;&nbsp; الهيئة الوطنية للإعلام",
+      "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxPU0U1N0JCX0NJTldzRmV0dUlqZGdwdGRlUVhYX0Fudzk5aXd0TEZVMlhKbFpvSmlBR1pmYkJ1TDgzWl9kaWFZdGstM212dzZoNXJEOXFZOXY0Y3NFMGR4Zm1CSk85SkNrYm9TcTJPRTBKci1YMlRXR3dCQ2xCUUFwX2F3OS1iZlhXUnU1MGF0YjY0Q011WFlsUTl2VXZSQk1MZ2N2d0hzbm1fSlhpWGJMSGs3YU1VNlF5SUVTZjNBb09hWXRUWWpFa08xbUNWcS1uQWJtUUpoanFOSjBKYnZLRV9idFZEMGNIRGRRVUhSUkVMNFlpS2R1a2pUWlByMWxtODFjMFI4dlJyOGVvSDk0bWFDWU1CQWFTdjVlWWZQMUl2S29LbHgyMmh4VmhRYm9wS0kta2hGbGlJa051cnVGRXFjU2NQWFZZQTFRcmExc3ZyVzhCbi1KWVVFUGdETUI4Mk02ZDBPZUFWRUhUNDQ3dEktX1pUcTdmdno4Y3FoMlBFeS1XMFpwYzltTVhlbUFocW9DSENyQVFqZU91b0ZkelN0R3Bzdk55YTgtOVRPa1BSWDBBSE5TejZSc2VHUnlSeTJDYUV6eGpQWllWQ1FvSnR4aHdzQ1o0R3lQOHVIYTdPTXJlbDltYWtPQXYwa29OMk5rdmZXMm5OUnhNWXk5LXB4UDJGX1NvQU1mdm1YNmZQZ0JiMW9uNFVqTFI0Sy15ZGM3NE1VWnNTQ19xelA4YnFHakJTV0p4d3dvcm1McjNkNzd0QThN?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-06T10:35:00.000Z",
+      "source": {
+        "name": "الهيئة الوطنية للإعلام",
+        "url": "https://www.maspero.eg"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "State’s only coal power plant shifting to natural gas, will serve as backup power for region - Washington State Department of Ecology (.gov)",
+      "description": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Washington State Department of Ecology (.gov)",
+      "content": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Washington State Department of Ecology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTjRjcE9hVVY2Sm5JZlowc3lXZW9PaXZYbWlVSzdXVXBQVU9idmd4bXpBLW80VDF0Z2xCRmRDZV9lMHpsNE81ZURFd0dRN3Z5OE4yTHF2NldNZUtiZDVHSTRjcC1PZ09VTi1adkJfVzFzVjhMeTdLUDRRRXVvck5mT0JJNk9SajhudE5vQXk1cU9UOWRRYWFXamhKN0NYYUVwVHN4eDJGMXItUGJ1Wi16SDIyNUtMRHdkLWxOcWljbzFQSHQ5cGdOa1ptRmFnY3ozbDZWckpEcmtST3BncnBTQTNhZmQtcXBOcjRBaDVCT01HRUc3STYtSzNR?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-06T03:28:42.000Z",
+      "source": {
+        "name": "Washington State Department of Ecology (.gov)",
+        "url": "https://ecology.wa.gov"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "Cooled by 18.2 Degrees Without Electricity or Coolant... Film Developed to Cool Electronic Devices [Reading Science] - 아시아경제",
       "description": "Cooled by 18.2 Degrees Without Electricity or Coolant... Film Developed to Cool Electronic Devices [Reading Science] &nbsp;&nbsp; 아시아경제",
@@ -35,6 +125,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "Records reveal sprawling data center and power plant plans for Elizabeth Township - Pittsburgh's Public Source",
+      "description": "Records reveal sprawling data center and power plant plans for Elizabeth Township &nbsp;&nbsp; Pittsburgh's Public Source",
+      "content": "Records reveal sprawling data center and power plant plans for Elizabeth Township &nbsp;&nbsp; Pittsburgh's Public Source",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10WXMzdXg3RzhVeGlrVTRDYlhvanBwbnFpdmJRNF9CZm9yU2hGcUVlWWlEZEgtRF9YYVhfT056QTJIQlk4S2QxOEhuRkhHaEdJTFRodVhSaVc4TVpscmVHUS1fSV84NkVCLWc1djl2R085MFN6Skd3UGxR?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-05T17:56:32.000Z",
+      "source": {
+        "name": "Pittsburgh's Public Source",
+        "url": "https://www.publicsource.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Boron-Powered Propellant Lets Solid Rockets Switch On and Off With Electricity or Laser Light - Bioengineer.org",
       "description": "Boron-Powered Propellant Lets Solid Rockets Switch On and Off With Electricity or Laser Light &nbsp;&nbsp; Bioengineer.org",
       "content": "Boron-Powered Propellant Lets Solid Rockets Switch On and Off With Electricity or Laser Light &nbsp;&nbsp; Bioengineer.org",
@@ -48,21 +153,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
-    },
-    {
-      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
-      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-05T13:44:23.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     },
     {
       "title": "Amper: Growth in Czech electricity consumption slowed in the third quarter - oenergetice.cz",
@@ -593,7 +683,7 @@
       "title": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية - اليوم السابع",
       "description": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية &nbsp;&nbsp; اليوم السابع",
       "content": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية &nbsp;&nbsp; اليوم السابع",
-      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNb0ZDV3NWZXlrbFJBajFHT1IxLTloVXVDYjY5MUNIY0FEb1QxdGtzTnpyUkNiZTk4RjBuVTZyakFrUFJwekFSaG5HMWlwcUwwX25VR2V1OTB2Zkt6ZUg5UWI1SG1rLVVFdUI1LUlxWEk0QjFEWl9hUVRwWmZOc0xTNmJjVGttQnJOUkd6eDMwRjNTX25ZX21Ic29RcXNGUGU2QVAtRVk2UnpvczJGTlFoWWZOR3Z1c1VCWVBGQzI5VXhjUUdCd2YtZEdxZHRaTHZfQVFLN0pPYVBNdHJxSW1HUkRoVXJuamkwRHNtN05QTDFUTG44TGVQZXdOZ2x3OE9jckxnWllROXFDQy1PZWxWQWxuaDZTTmtiSE93RFRUaG9XZHNVNmlGdm1HTmVnZ19zOHE5c2ozaGdONnlzcXc4Y0lIdDVXcVJrODFQY04tak9OSWdIRU5lT0owSDloOTN5clNXeGxOem00NzdMekJ3X0d0YVJSVF9abWZQMVo3enFnMVRabXBMMy1tdVJ3Y2xUODV5ZzFiRWdoc012RlRTZ2EyRGhXZ3ZzQldIR21Uc1k0NVJNOXd1VFpsZmtUc3NSWERZT1FaNEtmVXh2aHYzQkFTakp6X3lDNW1rUks0Tm5CS2xjd1RpVHZ1RGRybDJwR1F0QnNMYV9WeF9BblhNNHUySUdjSUtrR0RlZmR30gGIBEFVX3lxTE1FTThha0RJRFJrLVd3cUJnU0R4VldObzFoZXJuanpqUV9obWVwZERjRDdKQzRBMExiVi1fNW5RYWROZEhlT2xvcC1tZDhoZHpJN19VVGhNc3BnTUhEVnZOWXVxZVVEOU50V0hHMmFFeVkySDQzb2g3UnpmUWR4Y0lYV0otcFBVN0JMelJGODQwM2FpVGFSNVRKZVpWZEhha29pTE1LVUlDU1g5MFJOam8xMEN5clUyNS15X1ctUUxYUWZUeFF1Sjd3WXA3bWtnOHdnazVBSy1JX3RBb3FLN0R1VFFleWZpMVVMSkJsZjIyeENSMHlaenNjWUdZQVB6cVlwMWNDUEw1WERXTzZvQlNnSUhQbTdIRFBtc3VyZ3ZkR0lVR1VJMDJ0TEpWWmxPUzN0dVdkRWkzYTE5R3RueVVGRUx0NmZaTmZwY3lMaHM2NWp6N0JHdmRKRkx5ZVZhYXpGSDBhYU51TFlBWWRiRm1RdjRrVmhfUVl0Y1lhSHlvcmFyS0ZWTlEzTm5vdUdlUVpOYTVJaGppZFpfcmVXeFJHc2tudUFnUWhqVjhvYWdPeDVTRVNRZkk2R19kdWlzWENhd3BqV1FHZ01ZcWI1QWFuVHg5TTZ2UTlDWkZYSG1aMklwYV9ZRTctUnFiNXFIaDBweWszNXZWQ1MtUXVmLVdGSEJZdUxNRzE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MTVZyWWdVQ1pLbW0wSXN1TDFmNDRmR2Jrc0VFdEljSXRrQlVoT2ZPbE9ENTlJNHVLRUZTRkdzams0WTTSAYgEQVVfeXFMTUVNOGFrRElEUmstV3dxQmdTRHhWV05vMWhlcm5qempRX2htZXBkRGNEN0pDNEEwTGJWLV81blFhZE5kSGVPbG9wLW1kOGhkekk3X1VUaE1zcGdNSERWdk5ZdXFlVUQ5TnRXSEcyYUV5WTJINDNvaDdSemZRZHhjSVhXSi1wUFU3Qkx6UkY4NDAzYWlUYVI1VEplWlZkSGFrb2lMTUtVSUNTWDkwUk5qbzEwQ3lyVTI1LXlfVy1RTFhRZlR4UXVKN3dZcDdta2c4d2drNUFLLUlfdEFvcUs3RHVUUWV5ZmkxVUxKQmxmMjJ4Q1IweVp6c2NZR1lBUHpxWXAxY0NQTDVYRFdPNm9CU2dJSFBtN0hEUG1zdXJndmRHSVVHVUkwMnRMSlZabE9TM3R1V2RFaTNhMTlHdG55VUZFTHQ2ZlpOZnBjeUxoczY1ano3Qkd2ZEpGTHllVmFhekZIMGFhTnVMWUFZZGJGbVF2NGtWaF9RWXRjWWFIeW9yYXJLRlZOUTNObm91R2VRWk5hNUloamlkWl9yZVd4Ukdza251QWdRaGpWOG9hZ094NVNFU1FmSTZHX2R1aXNYQ2F3cGpXUUdnTVlxYjVBYW5UeDlNNnZROUNaRlhIbVoySXBhX1lFNy1ScWI1cUhoMHB5azM1dlZDUy1RdWYtV0ZIQll1TE1HMQ?oc=5",
       "image": "",
       "publishedAt": "2026-10-01T19:00:00.000Z",
       "source": {
@@ -1249,7 +1339,7 @@
       "content": "سوريا: خروج 3 محطات توليد كهرباء عن الخدمة إثر انفجار خط أنابيب غاز &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMipgVBVV95cUxQOUtfZFp2THIweVVWRHRTMWRoejY5TUFVeDNPYVBKdTlEYnJmaVAwYnMwa1VnTVlaV1owWFM2UHByandSWmZvekFxNmhMa2lOX3BvUUozellWaDh3dktQYlF2eHpCUEdqamtydUtMYVpUZVNwSkdPbW50NGltbXo4Q1R4RGQ5Q3p6b1JobXBEclk4WFdxUm9ELVltd2Jud3lVQ0c3OEx0aUZ5N0Z6RXpoTWlEM29pQmNOSnEtTFZ0S0xUXzdCOGZqZUpoWXZmMGtNZlhqMldNOEcxWjNaS25Nc3hlNS1DMVN6UTZQUXJCeHhqbEFFRjVqM0FwU1I3anRhckRrV3dZX3phT0U1Nm5rX1pDZ01mcVhqdjBfTXNtN0szMjA3S3NBNlM0N2tRYnJONXc0dl9PVW5HOWkwdy1oMGhJTVhmWXR4eFhidmFXbWdZTDZUTDEzREx2VlAyZTlraFFvVkw3VjlmMy1vOXZScnEySnZGN3hPWS1fWW5Fcmw4YVpoN1UyeC02aEFhbTZqZkNyOVRIVXVFczdtTVVYYXkwc3V0WE5rc213NUJvbjRkRC05Z2NfaDhJV1NXd1F3S180ZUJLT19lWDM3UTBvRHR3UXJwSGNwWlRPTTN4ajhMdkVQUkdEa2J5YUp4M0loaS1HRE05M3lvMFV3d3BtMFZEUW5OMVBWOVFac3B2R2N4NWJ3RzJMU2tYaFVlbURXendsbjdZdml4bm5XX1RyN0FRVFlhS1lCMFpCdGRRcS1XVE1Sd2lHakRDYWllRkh4T3JXdzRnVDd1ZHBXQU1CSG1yNlFwUlBUN09oWkhrZF9oUVp5ZG1KcmRFWURwNkZLeWdsdElMbXhEMTNzdkNYSjZBbm9mamdZQi1MQlZBWHVkME16c3c?oc=5",
       "image": "",
-      "publishedAt": "2026-09-30T19:10:31.000Z",
+      "publishedAt": "2026-09-30T19:11:11.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -1282,6 +1372,21 @@
       "publishedAt": "2026-09-30T18:22:50.000Z",
       "source": {
         "name": "najah.edu",
+        "url": "https://www.najah.edu"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
+    {
+      "title": "جامعة النجاح الوطنية : An-Najah Takes Its 100% Renewable Energy Message to Local Schools - An-Najah National University",
+      "description": "جامعة النجاح الوطنية : An-Najah Takes Its 100% Renewable Energy Message to Local Schools &nbsp;&nbsp; An-Najah National University",
+      "content": "جامعة النجاح الوطنية : An-Najah Takes Its 100% Renewable Energy Message to Local Schools &nbsp;&nbsp; An-Najah National University",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2FFTTd0alhPLW1UT2ZGcHhYWE5hY1hIb2FYcXc4NXAyaVlFdjJuTTNmRU8zckd6TFpLTGI4c3JoU2F4OE5MczBGY1JpeGdoMXA1aHZoRXhfZC1XWVZ1VVg0NjViUjFNT3V6SnhSNjF2MUpjcEd4Q0lHYnRReEVES0w3RXpLMm9SdEpOVVFoTGljLV9VNC04?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-30T18:22:50.000Z",
+      "source": {
+        "name": "An-Najah National University",
         "url": "https://www.najah.edu"
       },
       "provider": "Scheduled Google News index",
@@ -1334,6 +1439,21 @@
       "preferredSite": "alghad.com"
     },
     {
+      "title": "جامعة النجاح الوطنية : An-Najah Trains Youth Ambassadors to Promote Renewable Energy Beyond Campus - An-Najah National University",
+      "description": "جامعة النجاح الوطنية : An-Najah Trains Youth Ambassadors to Promote Renewable Energy Beyond Campus &nbsp;&nbsp; An-Najah National University",
+      "content": "جامعة النجاح الوطنية : An-Najah Trains Youth Ambassadors to Promote Renewable Energy Beyond Campus &nbsp;&nbsp; An-Najah National University",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGFmaEZoMHI3QmlBeGNfYzd0X1IyNEZVVDYzM0dLNTJtZ2lfMUk5ZGZ5U1BOejZNSDBkdzA5Q1ZPWmFqaGxHLVBSejB5LUQtdW9xS2EtaWxLcTUyb0pfN3JLRVhsNnZ1Q3RlVi1mNGlPZFhPeHJwQmZiaTlxMktmTDZlUEdiWE1abTlhQVlmUkg1WFJQcmNKRlRmd2gzUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-30T15:18:03.000Z",
+      "source": {
+        "name": "An-Najah National University",
+        "url": "https://www.najah.edu"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
+    {
       "title": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future - najah.edu",
       "description": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future &nbsp;&nbsp; najah.edu",
       "content": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future &nbsp;&nbsp; najah.edu",
@@ -1342,6 +1462,21 @@
       "publishedAt": "2026-09-30T14:47:10.000Z",
       "source": {
         "name": "najah.edu",
+        "url": "https://www.najah.edu"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
+    {
+      "title": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future - An-Najah National University",
+      "description": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future &nbsp;&nbsp; An-Najah National University",
+      "content": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future &nbsp;&nbsp; An-Najah National University",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVVEYTZmWEFud0dGTVBoWEV2VHZhY3FNenNIejZjbjB1VzRSaFdITWxDNldzd0RVM0ttRW9QTWxxT2lZWXQ1aVF5RE12U2dkV1VGYW9IbG9kWlZndjVfY01iY0VScUZSbzh6R09FZTRsclZnalNudE5fN1loblRnSnowTFRNS3lrV0hqLVBybG85eDR6akpxOTNGNA?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-30T14:47:10.000Z",
+      "source": {
+        "name": "An-Najah National University",
         "url": "https://www.najah.edu"
       },
       "provider": "Scheduled Google News index",
@@ -1864,7 +1999,7 @@
       "content": "عاصفة نور إيستر تضرب شمال شرق أمريكا.. فيضانات وانقطاع الكهرباء وتعطل الرحلات &nbsp;&nbsp; صدى البلد",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0yU2lMNERrQTB0OGU0MlY4UjVpNENiSm5KMVhhWkczQjNhQlcwOHRtYWhYY0V4bk5renBDcWpFYzloOXZPOHpn?oc=5",
       "image": "",
-      "publishedAt": "2026-09-28T08:00:00.000Z",
+      "publishedAt": "2026-09-28T08:00:33.000Z",
       "source": {
         "name": "صدى البلد",
         "url": "https://www.elbalad.news"
@@ -1887,6 +2022,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "What happens when you can’t pay an electricity or gas bill? - The Irish Times",
+      "description": "What happens when you can’t pay an electricity or gas bill? &nbsp;&nbsp; The Irish Times",
+      "content": "What happens when you can’t pay an electricity or gas bill? &nbsp;&nbsp; The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUE9yYXFmYUdweFRvMmdrQzJJa2dhd0hKeUtySTlrRWMxTU05TGJkSnBnbm9nTUlaVFo4d3NfcklvQUNxQ3RDS2JPMndSd2VvQ2tfdGZmVTNua0ItTXF2Rl9WSXllLUMyTURUbV9ZSVlkZWVBcl9jMWhrUHpDMGF0c3RUZnlfVGZjeHo1aFFGWkZfNEpmcVVjaDh2UlA1WTdJWVpHbXBtUDA5NG9LbnBfTkFVOGNIOGUwS1pEYWp6cWNUa0hCXy0yZjlENmY5b0NPS3JCbldaYl9aNkJiUXc?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "source": {
+        "name": "The Irish Times",
+        "url": "https://www.irishtimes.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Kazakhstan Plans to Use Associated Gas for Power Generation - Intellectia AI",
@@ -1927,21 +2077,6 @@
       "publishedAt": "2026-09-28T05:02:13.000Z",
       "source": {
         "name": "irishtimes.com",
-        "url": "https://www.irishtimes.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "What happens when you can’t pay an electricity or gas bill? - The Irish Times",
-      "description": "What happens when you can’t pay an electricity or gas bill? &nbsp;&nbsp; The Irish Times",
-      "content": "What happens when you can’t pay an electricity or gas bill? &nbsp;&nbsp; The Irish Times",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUE9yYXFmYUdweFRvMmdrQzJJa2dhd0hKeUtySTlrRWMxTU05TGJkSnBnbm9nTUlaVFo4d3NfcklvQUNxQ3RDS2JPMndSd2VvQ2tfdGZmVTNua0ItTXF2Rl9WSXllLUMyTURUbV9ZSVlkZWVBcl9jMWhrUHpDMGF0c3RUZnlfVGZjeHo1aFFGWkZfNEpmcVVjaDh2UlA1WTdJWVpHbXBtUDA5NG9LbnBfTkFVOGNIOGUwS1pEYWp6cWNUa0hCXy0yZjlENmY5b0NPS3JCbldaYl9aNkJiUXc?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-28T05:02:13.000Z",
-      "source": {
-        "name": "The Irish Times",
         "url": "https://www.irishtimes.com"
       },
       "provider": "Scheduled Google News index",
@@ -6691,7 +6826,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "ognnews.com"
     },
     {
       "title": "Saudi oil pipeline may be hit as Houthi attacks escalate: report - gulfnews.com",
@@ -7804,12 +7939,12 @@
       "preferredSite": ""
     },
     {
-      "title": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى - الشرق الأوسط",
-      "description": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى &nbsp;&nbsp; الشرق الأوسط",
-      "content": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxQM2xDdWJ3TjFjVElnTVB3cU1KWEpNQ0piX2R6Tm1uUDdYdTZZeW9KTEp5QWlUZ3h5VE84Z2NnbEUyako3YlFWRlZpQXZGdlhIbTVoa2J5VUFLV0lJaWNYTVlydlNRZ3BjT1dMY0NCclNheUpfSzRWOWJ1VEJ0SmUxSE1JcjZlSEx1alRWcU9Mbk96eTFwbnR3eUVYMnRSMjNjMmFLazJqVTdpclotTjVTVGQ2N3R1ZVF1Z0tzZ3JBcmNab0ZMcGk3N2d3cnNkQm5BR0tpZ2JuRTZ5UUtGX2VUYVJlSDZuWGhPcHRyeGlJRjJGVnFUUVpqLW5GTUJ5X1A1Z2tRcUEyRThDZ1FaUGgtNjJTRFpYTFNSSUEzamdzdEgwU2ZtWHc1OUluS1R5SFBSOU1kQ0phU3lJcXllY1FodG90TFF0dnpfVVgyN1JTT3VBRDBXZWthbUxmM0tiLXh6YTJPcXFKSko0TFJ3S2xTZ2V2SlFUN1BucVF2c1hNVlpHRGNZXzlQYndFSlRwQmR1OEFVNmxJa1d6X2x5RVNXV1RldDFzX0tWZU1veXBIS0dlSHFtWnl4ZUo1ZGtVNVRFWVotcUlGbDY3M3hyM3pPTlVxLWNRdm1YWGQzU2FXMzAyUFJTOTVlaHBNckpraW5YWnUxbW4xRFlFdGtCUEpFaERncXV4YnNxbjBZTm83Z1dYZ2p1VXNDY1RwQTZmUEhteVZ2QWp6U0dCeTJXRDc5cFNoM0s2QlBmcTdFN1dJa1BDSWx5dkotT1NicjktQ1dmbER1N1VlSC1RdXNMZkk4VkJQVDdMX1U3Z1lDV0dtSQ?oc=5",
+      "title": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً - الشرق الأوسط",
+      "description": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً &nbsp;&nbsp; الشرق الأوسط",
+      "content": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQSGIzWXhqb19uem9uTkNpVWlqdGVLQ2hlNDVOZExzZkVWeURTM1lIdVowd2ZZdFdOWkY1S0lKQlBKZkN0MmEySUpya3RpUWg4V1BrOUNfODd4bi15RUxnTTlGb0ItVXV1akd1R3k2NUU3RjRzRF94T2tQUG1zdDRpQUVvSnQ2N1FDRVMwZzljSEtrUkp0VGN6b2NJdzN1VGFPWnFXSkZBazRMbTNtR29MUF9tTy00cC11Zm4zX1d5RDdmTFBDZEQwYmYxb09fMWF3czhMSGdCSmw0OC1SbllIby1PWGM1cXhtb1J4aEg4MlFCTmtGRTBMOURqR1pNUm9wa2dkN2JNdDhfN0lUV1VLYjNRdmdCaWpfMTZQRnBRVnZEZDRHVzNkTmdrUkJNZktkWHUwZjIwNXhIU2JPaFFwVXZJdTZsUHQtV21BVzdUQmdndDZxeTFnekhYYTFRbl9EWWVSb1Nsa1FQRmhMWTVodENMSU9LYnlVclFXQjFJRzBNTS1RTnd6YVZaUUtSakl5c0RlYzlwaVVhMVFkSzViaTdraUswa1YwcF9HeDBrMHlRX3Q2OEpoYjZheEM1Q3EySDVrTkxFTHZmODhKSFAtOUMzMWlSVXQ5WV9vNUc4UGVWeWo1ZmVHRUZJRmFFaF9BXzVrcnF5QlBFaWF2MlgzNg?oc=5",
       "image": "",
-      "publishedAt": "2026-09-01T10:45:27.000Z",
+      "publishedAt": "2026-09-01T13:57:48.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -7819,12 +7954,12 @@
       "preferredSite": ""
     },
     {
-      "title": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً - الشرق الأوسط",
-      "description": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً &nbsp;&nbsp; الشرق الأوسط",
-      "content": "روسيا تخفض توقعات إنتاج النفط في 2026 لأدنى مستوى منذ 17 عاماً &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQSGIzWXhqb19uem9uTkNpVWlqdGVLQ2hlNDVOZExzZkVWeURTM1lIdVowd2ZZdFdOWkY1S0lKQlBKZkN0MmEySUpya3RpUWg4V1BrOUNfODd4bi15RUxnTTlGb0ItVXV1akd1R3k2NUU3RjRzRF94T2tQUG1zdDRpQUVvSnQ2N1FDRVMwZzljSEtrUkp0VGN6b2NJdzN1VGFPWnFXSkZBazRMbTNtR29MUF9tTy00cC11Zm4zX1d5RDdmTFBDZEQwYmYxb09fMWF3czhMSGdCSmw0OC1SbllIby1PWGM1cXhtb1J4aEg4MlFCTmtGRTBMOURqR1pNUm9wa2dkN2JNdDhfN0lUV1VLYjNRdmdCaWpfMTZQRnBRVnZEZDRHVzNkTmdrUkJNZktkWHUwZjIwNXhIU2JPaFFwVXZJdTZsUHQtV21BVzdUQmdndDZxeTFnekhYYTFRbl9EWWVSb1Nsa1FQRmhMWTVodENMSU9LYnlVclFXQjFJRzBNTS1RTnd6YVZaUUtSakl5c0RlYzlwaVVhMVFkSzViaTdraUswa1YwcF9HeDBrMHlRX3Q2OEpoYjZheEM1Q3EySDVrTkxFTHZmODhKSFAtOUMzMWlSVXQ5WV9vNUc4UGVWeWo1ZmVHRUZJRmFFaF9BXzVrcnF5QlBFaWF2MlgzNg?oc=5",
+      "title": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى - الشرق الأوسط",
+      "description": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى &nbsp;&nbsp; الشرق الأوسط",
+      "content": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxQM2xDdWJ3TjFjVElnTVB3cU1KWEpNQ0piX2R6Tm1uUDdYdTZZeW9KTEp5QWlUZ3h5VE84Z2NnbEUyako3YlFWRlZpQXZGdlhIbTVoa2J5VUFLV0lJaWNYTVlydlNRZ3BjT1dMY0NCclNheUpfSzRWOWJ1VEJ0SmUxSE1JcjZlSEx1alRWcU9Mbk96eTFwbnR3eUVYMnRSMjNjMmFLazJqVTdpclotTjVTVGQ2N3R1ZVF1Z0tzZ3JBcmNab0ZMcGk3N2d3cnNkQm5BR0tpZ2JuRTZ5UUtGX2VUYVJlSDZuWGhPcHRyeGlJRjJGVnFUUVpqLW5GTUJ5X1A1Z2tRcUEyRThDZ1FaUGgtNjJTRFpYTFNSSUEzamdzdEgwU2ZtWHc1OUluS1R5SFBSOU1kQ0phU3lJcXllY1FodG90TFF0dnpfVVgyN1JTT3VBRDBXZWthbUxmM0tiLXh6YTJPcXFKSko0TFJ3S2xTZ2V2SlFUN1BucVF2c1hNVlpHRGNZXzlQYndFSlRwQmR1OEFVNmxJa1d6X2x5RVNXV1RldDFzX0tWZU1veXBIS0dlSHFtWnl4ZUo1ZGtVNVRFWVotcUlGbDY3M3hyM3pPTlVxLWNRdm1YWGQzU2FXMzAyUFJTOTVlaHBNckpraW5YWnUxbW4xRFlFdGtCUEpFaERncXV4YnNxbjBZTm83Z1dYZ2p1VXNDY1RwQTZmUEhteVZ2QWp6U0dCeTJXRDc5cFNoM0s2QlBmcTdFN1dJa1BDSWx5dkotT1NicjktQ1dmbER1N1VlSC1RdXNMZkk4VkJQVDdMX1U3Z1lDV0dtSQ?oc=5",
       "image": "",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "publishedAt": "2026-09-01T10:45:27.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -8443,6 +8578,21 @@
       "source": {
         "name": "aawsat.com",
         "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "لماذا يتراجع إنتاج الغاز في مصر رغم زيادة الاكتشافات والتعاقدات؟ - Masrawy",
+      "description": "لماذا يتراجع إنتاج الغاز في مصر رغم زيادة الاكتشافات والتعاقدات؟ &nbsp;&nbsp; Masrawy",
+      "content": "لماذا يتراجع إنتاج الغاز في مصر رغم زيادة الاكتشافات والتعاقدات؟ &nbsp;&nbsp; Masrawy",
+      "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxPUUFUWTVCTFZicnFFV0JWV19TWDJEcnAtTU9mQktEZjRUQjk1MC12am13bV9zcUlTcWlLTEd1TzM4aDkwZ3Y4SkFCOXpId1F6RTdrVmQzRTRONkEzcHN1aU9fQl9RNkJyektsWS1HeEJuTGIwSUJaMzhhZk1nR1BqWTA0T0R5ZV9hQUJNeTRoVmlVUE9pMmsxYjQzZ3NVX3pnY3VOdTBJUFNuem9OWW5mMVR3VWIwbGs1clN6MkU0XzRjbl96NHpmNW1RUUdMQUQ0SEZnZXlSc0VIWGFqM2Y1emxFWHc4YXVteW9hY3JvOUlNLW44OTNNYVhFbzllak5TWWRDaXBmOGZDcWloLXlIZnUyUnBYRjktYUlrOVNxSDA0Vmg5aFB2RDRuN1lLME5TRk8tV3FFU0htVFVsazVNRDlBUkJ0VlVrS01KTzMzdjdMbWx6bGk5Z1RtYzRRNXhyb0UzTUxabFpmc1g4aFhnTERCR2M5TDdGZy1KZmotMGZWSjQ1MHo5aVpZWm1nRVZTb3ZFbVZDME10NGtJR1lVMUt6cUlYcW14MGZxNDljeFB3ZGIwZUVoeFhuaUlhZENQdElVUXJUd3NzVWxLdkRzV25kdWhWdWJSMGR3LTRRcEVYVXZRSjU5X3JJSWRjelA1cWdFSU9nZ0JzbGhzaTYwTThLSHNxM2h6endzNHdQaXU3aGJ1TzBGNkFoTmVYNjdTb3Q1d0FXRHpVWF96VzBNQ1VHcljSAboEQVVfeXFMTlFPYWp0SFZsWTZnTU91elFVeU9EQ0pYTlRHQzI4ZE5Qc3FhQ3BxZU1jLW9zSTFVMDJJM3kxWC1tRlRqTGVfX2xiZWhJZVkwNnVvZjcxc3JUTXJRMlRGbXZXTzBVS2I4VUJ1VlZEcnhyeTd3WG00Y3MxRFRhQmNld0JxT2ppZEVsWWI4TFh2Sm9BY1V4SUJmV25wRUVkRVFuQnNzaWpmMS12aWdid2FVMVZrUDdJaDdabXFSUUhhZm84UWdid0MwQXBtaG9aRkd0LWNvSm0tWTlUMUZaa1N2OWlFVXlvM0pGejBORGVCYkU3SklpLS1JazgwdUFUdldwa2FzbG53NzBfbmZQWGFxejZtY191dnRuNktkdUdGS1ZkMzQ1LVFoYjAwQWhSUnFnZVY3djByUWxGSEg0bHRzRGl3aDJlVmNRTG9lX1Y1UzZLTzVMMFQ3T1F3WFBmbzhETk8xU2ZUTEdyRDRfTEZpSmswQVFFY3duZzFyQWlZMHhTbDhKUzFCOHVmbmlhZzRmVWZHalNnZkdSMExlQ0wwVEtsUVhBMTVVeUVSS2lpdmtLNjVOZUR0a3hZQ19SazhLR1VYYTJBby1OR2hjcUNyeHBFRWYzbmRLTGhUUVlob2JQVkphdXlsd0NqcHlOSm4yNVMwcDBvbDNWZ0FGd2l1UUV3R1pydXVIMHQtZEdBUnVGYTJqVmRoQXhoWUJDajVuMHh3WkI5VWNzMlg0XzMxN29Ld1VZV19jSzZ3?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-24T07:00:00.000Z",
+      "source": {
+        "name": "Masrawy",
+        "url": "https://www.masrawy.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -10067,21 +10217,6 @@
       "preferredSite": ""
     },
     {
-      "title": "State’s only coal power plant shifting to natural gas, will serve as backup power for region - Washington State Department of Ecology (.gov)",
-      "description": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Washington State Department of Ecology (.gov)",
-      "content": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Washington State Department of Ecology (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUXFZeUpFdURnUVpfUEZ3UDUxVmoxTHhpMEUxVE9JQVpPQ0FGdlNDSVVCbzJTVEJYZXczb2xuekdkU2F6NVBmM3hiVHg3alZOUXpHeXl3WTg5cEFSZjZ1NXNZUXZVUHRhbE8tSEFWVUNwUUh4ajF1TXR1YTEwQ1pDNTVBRFBXcE5kSm5vejFuLXZiRkRrQS16anB4VDM4TDh4ZDU0cWFaeGlQTnY3TE5rczN3RUthdGZqYnp5ZHFXYTAxWFBRZjRFSE9vSEFpRkx5WkFxYTA3U2J6QlBCcFZQcQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-31T07:00:00.000Z",
-      "source": {
-        "name": "Washington State Department of Ecology (.gov)",
-        "url": "https://ecology.wa.gov"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Dominion Energy proposes new natural gas power plant in West Virginia - dailyenergyinsider.com",
       "description": "Dominion Energy proposes new natural gas power plant in West Virginia &nbsp;&nbsp; dailyenergyinsider.com",
       "content": "Dominion Energy proposes new natural gas power plant in West Virginia &nbsp;&nbsp; dailyenergyinsider.com",
@@ -10375,6 +10510,21 @@
       "publishedAt": "2026-07-28T07:00:00.000Z",
       "source": {
         "name": "facebook.com",
+        "url": "https://www.facebook.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "بيان صادر عن وزارة الكهرباء والطاقة المتجددة: وزير الكهرباء والطاقة المتجددة يشهد افتتاح مصنع \"سيمنس\" لإنتاج المكونات الكهربائية وحلول الأتمتة للصناعات والبنية التحتية الدكتور محمود عصمت: توطين الصناعة ونقل التكنولوجيا الحديثة .. \"سيمنس\" شريك نجاح والمصنع ي - Facebook",
+      "description": "بيان صادر عن وزارة الكهرباء والطاقة المتجددة: وزير الكهرباء والطاقة المتجددة يشهد افتتاح مصنع \"سيمنس\" لإنتاج المكونات الكهربائية وحلول الأتمتة للصناعات والبنية التحتية الدكتور محمود عصمت: توطين الصناعة ونقل التكنولوجيا الحديثة .. \"سيمنس\" شريك نجاح والمصنع ي &nbsp;&nbsp; Facebook",
+      "content": "بيان صادر عن وزارة الكهرباء والطاقة المتجددة: وزير الكهرباء والطاقة المتجددة يشهد افتتاح مصنع \"سيمنس\" لإنتاج المكونات الكهربائية وحلول الأتمتة للصناعات والبنية التحتية الدكتور محمود عصمت: توطين الصناعة ونقل التكنولوجيا الحديثة .. \"سيمنس\" شريك نجاح والمصنع ي &nbsp;&nbsp; Facebook",
+      "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxNX2JKNVdKd19GVXh2U0wwZVUyamdrckJySFZYUlJXU25FMmpoRExSclF0aVB0dWUzRmV3dDdzWl9HYW5zSkF6Z2JsdzBiLTlaeHVYNGhmQVJHNkRMeVRlREtnX1JkMlVITnp1NzBYOGlnWjR6Mm1aVE1CNE5KOFZBNFgtaG9KV3V0a1lfZTRpRjhHWDRySFllY19PNVBHdkFOWm85N0pVektGTVFQR3Y3bFdZcDM0TEV4MHVHVnZzSVBLVjFJV19fT2NPRG9wT3hxTXRmbFdYN2x5dDJoNlAtWTJLc2ZGdzdHOEVXSVo4Rm5Fc1JMV3VScjluWElRY0FMU0ZGcmdZaVowX1dfVmY4dE5kRW01RkZQclFvdFZxa0hwckptTF9Ta19ldHlJVDM2Sk5zWjJyT3pyM1dCam1iNllNaW9MZGx4UjNRTGk5X2xaVGRFSHF4dGZSeE84ZWhYRXB0X3BZVzh0WG9SQXV2S1ZlVkdieExyelcwclpZc2NSMC0xWk1zRkVoZnM1alh3WWRhWnJ6amp3SFhGTk1mckYwZU5yMV8zSGxOdTUzT0dLTkxnemw5YUF3VE02amtQUUpVdWJPZzMtNzZOcTBrRHBfcEdxMHhncEd1cUcxOFdjV0FUTW4yWmVUQTJ2NXpNUWJvNVhKNF8zRGhpMEdHeUhIbm1OUThjeHN3MDdSTnlVU1BUdjFIQ0RUTko4dVFXWTRXeTNPc3kyRUFNWGRtQ0FGVmFESEFhekFFX2wzQ0FIY2pEX3loajE2VU4yN01LaUdjRV9VRkx2cERzRHE1NXY4MWtkbHhiREFUendCeFQ0NVJxWFE4bVdwY1JEcXUtbWJLalg2blJ2TzlESG5WLXJ0Uno2N2NQdExTS2Fta2JCZ1ZkNk9UZ05B?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-28T07:00:00.000Z",
+      "source": {
+        "name": "Facebook",
         "url": "https://www.facebook.com"
       },
       "provider": "Scheduled Google News index",
@@ -10934,7 +11084,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alborsaanews.com"
+      "preferredSite": "albayan.ae"
     },
     {
       "title": "Kuwait Urges Electricity Conservation After Power Plant Damaged in Iranian Attack - شبكة يافا الإخبارية",
@@ -10965,6 +11115,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "alghad.com"
+    },
+    {
+      "title": "Chevron signs Iraq oil field deals, eyes Hormuz bypass pipeline - Quartz",
+      "description": "Chevron signs Iraq oil field deals, eyes Hormuz bypass pipeline &nbsp;&nbsp; Quartz",
+      "content": "Chevron signs Iraq oil field deals, eyes Hormuz bypass pipeline &nbsp;&nbsp; Quartz",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tX3lfLWNNV09QVk9GUHJJaFliLXNWRjN6dEFjeEYxek9YbW40alhhU3Q1S3hsNlZUWlZmQ2JxRFVxVHJnVTREc2V0cFlxaDd6WUg3OGlKc1I1OTdCVFo2OUF4OFlUdDJjalhWS1FzTWIxM0xCUGpN?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-17T07:00:00.000Z",
+      "source": {
+        "name": "Quartz",
+        "url": "https://qz.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Arlington Says Community Electricity Customers Will Save On Electric Bills - Patch",
@@ -12596,7 +12761,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "albayan.ae"
     },
     {
       "title": "Africa Is Embracing Renewable Energy - Yale E360",
@@ -12757,6 +12922,21 @@
       "publishedAt": "2026-05-23T07:00:00.000Z",
       "source": {
         "name": "ictnews.org",
+        "url": "https://ictnews.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK - ICT News",
+      "description": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK &nbsp;&nbsp; ICT News",
+      "content": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK &nbsp;&nbsp; ICT News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT25JOURZTFl0R2pKOWpJeDVLYkhIMXdvYUdGUVFkYmNPS3V6dThYWVNjOThHRTZlcG9aeEZwekxzZjh2dlVOVzJPQzlmTW5JZ2NHQ1RwS2IxckljSmlIVHNRM3lDQTVEMUt3QzN2b3JLWGhlZHRDdWRsVXRVWXN1M0ZJRXg2M2kyNUpXY2pDSU1FSFlDMnhmU2t6WHJJTzJyYi1qdTFtVUk2d3NiYTlFZUVZR2lyUjBtRHZyRUhR?oc=5",
+      "image": "",
+      "publishedAt": "2026-05-23T07:00:00.000Z",
+      "source": {
+        "name": "ICT News",
         "url": "https://ictnews.org"
       },
       "provider": "Scheduled Google News index",
@@ -13330,6 +13510,21 @@
       "preferredSite": ""
     },
     {
+      "title": "xAI built an illegal power plant to power its data center - Southern Environmental Law Center",
+      "description": "xAI built an illegal power plant to power its data center &nbsp;&nbsp; Southern Environmental Law Center",
+      "content": "xAI built an illegal power plant to power its data center &nbsp;&nbsp; Southern Environmental Law Center",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0xQNU1yalAzYXhRdjgtbVhjQXhxd1lSTnZfS3ZTWU4xTE5oX21yT2d1elpqMW9pMjhZVjNBUF9QUTcwM1c0aXdzakhmdDlrbEo3VjliUWhZRHpLbkU4Tjl6OUdkenBJYTBsZ20wTXU5ZVJYUlF2TlJGczFlbEpfd3hzOTlxRjdMZy12cw?oc=5",
+      "image": "",
+      "publishedAt": "2026-04-14T07:00:00.000Z",
+      "source": {
+        "name": "Southern Environmental Law Center",
+        "url": "https://www.selc.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "From springs and bolts, St. Olaf researchers built a computer that doesn’t require electricity - St. Olaf College",
       "description": "From springs and bolts, St. Olaf researchers built a computer that doesn’t require electricity &nbsp;&nbsp; St. Olaf College",
       "content": "From springs and bolts, St. Olaf researchers built a computer that doesn’t require electricity &nbsp;&nbsp; St. Olaf College",
@@ -13373,21 +13568,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
-    },
-    {
-      "title": "More households face gas, electricity shutoffs despite new protections - OregonLive.com",
-      "description": "More households face gas, electricity shutoffs despite new protections &nbsp;&nbsp; OregonLive.com",
-      "content": "More households face gas, electricity shutoffs despite new protections &nbsp;&nbsp; OregonLive.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREFhMTZhaTlJX2dQZEFLQjdWcXRkbUoyOVNuSEV1THNleDhhX2pQdDRRU2huajZ4bm1JamhuMVRnMHFVOFVZc0wtdXlyd1F5VXVyQU9JV3FMSFlmcTdyd3JiZ2EwYmJQVGkxMzNQQXlRcldwRzBralJPZjVQUUpVZzBVc1E5VVJWM29vN3A5Y2ZFV0FrQlFUa3F6UFc5cXlDbVZ1S3FLMFFQNldrZWc?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-09T07:00:00.000Z",
-      "source": {
-        "name": "OregonLive.com",
-        "url": "https://www.oregonlive.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
     }
   ]
 }
