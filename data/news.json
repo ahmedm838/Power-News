@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-10-07T06:05:10.877Z",
+  "generatedAt": "2026-10-07T13:29:51.291Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost - gCaptain",
+      "description": "Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost &nbsp;&nbsp; gCaptain",
+      "content": "Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost &nbsp;&nbsp; gCaptain",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGNUdm1jRkFydm5pUE02NzYtSE1PRF9vS3UyWTB4RHFIcDRvWE1Oc0FKYldkeGJkUlNEOGFkbDRhM25lWHpENzRnRUEtYVFVVy15YXdNVFBmU3BLRVQzSjFPQW9KR2ZPd3FiSDZPNGpjdjBGeV9aR1hCQW83QWgtb3FlQ1RTbkNxNkk0NFNHTQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-07T10:01:07.000Z",
+      "source": {
+        "name": "gCaptain",
+        "url": "https://gcaptain.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "من الكهرباء إلى المنازل... الحوثيون يحولون غرب اليمن إلى غنيمة - الشرق الأوسط",
+      "description": "من الكهرباء إلى المنازل... الحوثيون يحولون غرب اليمن إلى غنيمة &nbsp;&nbsp; الشرق الأوسط",
+      "content": "من الكهرباء إلى المنازل... الحوثيون يحولون غرب اليمن إلى غنيمة &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxPeks0V2ZaSkplNXZraG5XaWFPM2FUNnBfTnVoOUo5RjlRa3BhUmZEdmxtOWt5TkNwMW9xdmZqZ05pMUxVREZKWlZCZzJoMWRaZUNTMU1IQ0VzcXNIWWNtY2U1dUtxY2tEQWs1Xy1GYldDQnBYNkNpRklGZXFMTm9fZlVVVllpRGNtRDkzcF9aNHRkbkdYR0tHRE1tX0ZiaDZSaVNQS1dUTUM3MmRtRElsRkl5TkxjT0NJZ0x2UnNNYTBXSmpsQXRSeXgyZHBqSldqN3RpQjZlSkVaTTIyeTAwejNsVHppX29oOExHSnpQRG9YWng3M0NlRk00WHRqeGtFVWpMaWt5MmtobTRmcXR6RWRjTTlmUnNBRXNkNEdlS21NU0FNMmRJSkgyS0ZDMmUzaVBVMjA3QWdPa3AwN1RDbkZyRjNXV3UzczBfdXFMbUQ2X0lZaWlMY3BLaWxsWG9rbDN0a3NmbHd6Mzl3ZkZwaVl3Z2NSczhDVzVfOU9MRTRzOF8ybnRqT2JsLW41UW9BemR0dDlkbURFLWxuNzNVM1JJRFZ0MXhXVU0wTl9rNXl6bElueTZkcW5TNUJiRXVHdEdJNlgyRUZfY0hLbHcwMmhrb2Zubzd1Q1VQaFFLTkV4d3hlV3RhWnRycFJuN1EtZzdRWFFtYUd3djVhUU4tb1hXdVcwVDc1dXZRNFBXWjF4bEY2QlJQLWwta1pieWxDVWE4cEV3TDVhVWZ4bGZOVjc0UlJUMFoxU0hlRlo1dw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-07T09:21:19.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost - Bloomberg.com",
+      "description": "Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost &nbsp;&nbsp; Bloomberg.com",
+      "content": "Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost &nbsp;&nbsp; Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdV9zdmNjakxDcmQ0V1pjRXNPaUxHUktmZHJmLXc2ekNYbG94SDc3dnNzc196V28xYVJvY3ZTMldYWTlod1hyTWZ3U194ZmxDNVdxUlJsRjdDWjM2dmFIZFVoMHl2V245cTFvc1JnVVczRHJUNURjYWk4VHA4a19XdzVOcXlGdFNuVEwwcC1kdGlabnZFemxzczdVbWc3TmtKMnhodTB4bk5HaTFXSTZ1RE5Makg1UQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-07T08:31:22.000Z",
+      "source": {
+        "name": "Bloomberg.com",
+        "url": "https://www.bloomberg.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
     {
       "title": "النفط فوق 100 دولار.. عاصفة أميركية تهدد الإمدادات وتوترات الشرق الأوسط مستمرة - وكالة موازين نيوز",
       "description": "النفط فوق 100 دولار.. عاصفة أميركية تهدد الإمدادات وتوترات الشرق الأوسط مستمرة &nbsp;&nbsp; وكالة موازين نيوز",
@@ -33,6 +78,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "النفط فوق 100 دولار.. عاصفة أميركية تهدد الإمدادات وتوترات الشرق الأوسط مستمرة - العربية",
+      "description": "النفط فوق 100 دولار.. عاصفة أميركية تهدد الإمدادات وتوترات الشرق الأوسط مستمرة &nbsp;&nbsp; العربية",
+      "content": "النفط فوق 100 دولار.. عاصفة أميركية تهدد الإمدادات وتوترات الشرق الأوسط مستمرة &nbsp;&nbsp; العربية",
+      "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxNbC1nN05pREdpanFBMV8tb3VLQ2duMkhTbk11U3dDX1MwU3VMa2Z5b2NsV216N1pVSTF2MkZWWHRqdDZfSGJqTlZnLVJldkxhNG5yVXZrZWszSW9BLThZak5UZkNtRGRtSHdVejVkdmlCRkRHckVYRjRXbmVOVGFCR0E1Nl8taGs1U2VyUGpUYjh5bmRoSjFqdFVwZ1RodHZQV1BsUkdLa0oyVXdGUDVMNG9wNFZHVi14ckptcElSWU1OclhIZHB6OEo1bnJhSDk4RDd0SWFDb2pCUmxKQUk5Z1VqTEo4YkNHanFSZExueTNkTVFkbGVVYXpjYlNrNTg3emtwUGRfVzYxTUhGSFBHWXFtUEZFS0hQYzAtOWRQc3ozTmIxV0NtM2taR0QyRTVNdWhxeVhWcWRxQVZ3cWNKNGJDejMzNGNVVE1aa2ItTHIwcnhRUWtaWDFiV3VtLXUzd0Qzenl3VVpQRldURGZsQ3Q3emkteVBlalJmb1UtLUdfbk5WdWxIdWFxT1kyTUFrTXUxbDFwN2FuUUk0dFdiMGxVMlVpZzVkWHpwVE81MDBkeXhyWmUzTmZNdlcxUHBWRzZHQl91Y2g3TVVPamd6cWJWTnFfaHUxOVRLOEpldXJMbkhhM2NlNWE1SXlTc2dTSFZxZW1aV1pfcDh0ZUptUW5NVXlaZnZWalFCS2M0elJHV2ZKdWtwQ1d2bW1jbFJKMzVCaWY3eXlieGU1bGtiXzljY05ZTHk5LTZGajNta0NUMXNkZi1ZQi15MGxmSHZPRFNuN3VvZTc3U3JJS3dYM2w0VnVNWVR4NEZ2eHNn0gHuBEFVX3lxTE1sLWc3TmlER2lqcUExXy1vdUtDZ24ySFNuTXVTd0NfUzBTdUxrZnlvY2xXbXo3WlVJMXYyRlZYdGp0Nl9IYmpOVmctUmV2TGE0bnJVdmtlazNJb0EtOFlqTlRmQ21EZG1Id1V6NWR2aUJGREdyRVhGNFduZU5UYUJHQTU2Xy1oazVTZXJQalRiOHluZGhKMWp0VXBnVGh0dlBXUGxSR0trSjJVd0ZQNUw0b3A0VkdWLXhySm1wSVJZTU5yWEhkcHo4SjVucmFIOThEN3RJYUNvakJSbEpBSTlnVWpMSjhiQ0dqcVJkTG55M2RNUWRsZVVhemNiU2s1ODd6a3BQZF9XNjFNSEZIUEdZcW1QRkVLSFBjMC05ZFBzejNOYjFXQ20za1pHRDJFNU11aHF5WFZxZHFBVndxY0o0YkN6MzM0Y1VUTVprYi1McjByeFFRa1pYMWJXdW0tdTN3RDN6eXdVWlBGV1REZmxDdDd6aS15UGVqUmZvVS0tR19uTlZ1bEh1YXFPWTJNQWtNdTFsMXA3YW5RSTR0V2IwbFUyVWlnNWRYenBUTzUwMGR5eHJaZTNOZk12VzFQcFZHNkdCX3VjaDdNVU9qZ3pxYlZOcV9odTE5VEs4SmV1ckxuSGEzY2U1YTVJeVNzZ1NIVnFlbVpXWl9wOHRlSm1Rbk1VeVpmdlZqUUJLYzR6UkdXZkp1a3BDV3ZtbWNsUkozNUJpZjd5eWJ4ZTVsa2JfOWNjTllMeTktNkZqM21rQ1Qxc2RmLVlCLXkwbGZIdk9EU243dW9lNzdTcklLd1gzbDRWdU1ZVHg0RnZ4c2c?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-07T04:25:00.000Z",
+      "source": {
+        "name": "العربية",
+        "url": "https://www.alarabiya.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "Utility solar power hits record high in first month of Spring, as gas generation falls to new low - Renew Economy",
@@ -1439,6 +1499,21 @@
       "preferredSite": ""
     },
     {
+      "title": "7 Best Energy Stocks for the AI Power Grid Buildout | Investing - U.S. News - Money",
+      "description": "7 Best Energy Stocks for the AI Power Grid Buildout | Investing &nbsp;&nbsp; U.S. News - Money",
+      "content": "7 Best Energy Stocks for the AI Power Grid Buildout | Investing &nbsp;&nbsp; U.S. News - Money",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXMyRUR3RGpDVGVZUkl3aFZSUWFPXzVEMGZjR1h6YkwyT2ZMUXBxM2hNQTFJcTl1U25ybDhpaWNkVVVqcENMVGp3d1pINjdxTXBmZC1iOXZkZnRGTmo1Rkdid0N4QW5nT2ZwX0MwTDhqVlZ2X254UTNjUXp5LWJzREZuQ1pOSWM5MS1YcDRKblZtSkU?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-30T20:06:00.000Z",
+      "source": {
+        "name": "U.S. News - Money",
+        "url": "https://money.usnews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "OPEC+ expected to keep oil production quotas unchanged - Oil & Gas 360",
       "description": "OPEC+ expected to keep oil production quotas unchanged &nbsp;&nbsp; Oil & Gas 360",
       "content": "OPEC+ expected to keep oil production quotas unchanged &nbsp;&nbsp; Oil & Gas 360",
@@ -2156,7 +2231,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "mees.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Kazakhstan Plans to Use Associated Gas for Power Generation - Intellectia AI",
@@ -3321,6 +3396,21 @@
       "source": {
         "name": "UA.NEWS",
         "url": "https://ua.news"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "EPA Partially Repeals Power Plant Greenhouse Gas Emissions Standards and Proposes Complete Rescission - Clifford Chance",
+      "description": "EPA Partially Repeals Power Plant Greenhouse Gas Emissions Standards and Proposes Complete Rescission &nbsp;&nbsp; Clifford Chance",
+      "content": "EPA Partially Repeals Power Plant Greenhouse Gas Emissions Standards and Proposes Complete Rescission &nbsp;&nbsp; Clifford Chance",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZms0dmtKcE5sVVFaay1sbjVwQ3I4eW11UnV4TW5MRWkyMDhGbmxOeE5NT3JvVERaVUpibXJTaV9aaXlIU1lGWkJfa3BKMmtTYzZyQ0VPcGZ3cjh6a0dSWDQ2WHVQYWV1TDlSNE0yYy1aaTh4ai01ZFB2am0zVEZqVGZ1dC1DVHlGMTRrVzZTclNGQmNIRVU4Q01IUElyMm5uODdDU1BGY211RFl4SThZeVQxUEdGU2psbnAxTFJEOXRUNHp1N05XQS1kc0g2X19LNnFzaDF1MkpSaHduY2RhQ2x4Uk1IT20zTlFj?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-24T18:01:57.000Z",
+      "source": {
+        "name": "Clifford Chance",
+        "url": "https://www.cliffordchance.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -7404,7 +7494,7 @@
       "content": "88 % ارتفاعاً في سعة مشروعات الطاقة المتجددة بالسعودية خلال 2025 &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNVlZvNTZuaE1hSWpNaDZDNXZjQVNLM1RWZFNaZDFGYVkxX1gyMUxHUGNMRUctazR0VjdUc3d3d3BBVlJveklKM2xUMnNGNUVCR1BSYzZibHJEOGRMZkZndzlhempmM3cyVTYza2JBMHlMSEJDRGNlMzhpVWM4d3hGQ0ludFhTcG1LTzVmWFlyUHdGYzExdWdiU1RWZXlSZ1JqeUx3ZDFtMXVSajBjYmZwU3dtOVlwOGQwUUlWd0xHakwzbXhCWFYyY1UxeF9Cb1d3V2txMWQwOTVWSkJwY2hsSnpoZGtNcXRncXJfLXlVdTBiWnlmempYVDJjZEFBY3VFeWcyNVdxVzlabDZnR01YekNnczZwQVRvVHdzSzR1LUlBcUM3NC15bjlFbFRzLXV3U0VRQnIzVGRfbEZUaTQyeDl0UllKRksyVHZ6VkJiWXFlZmQxZGlTUklnbzNHRS1ySF94RHByN1VwaWRhSUd4RkM0MDJkbnpPU3JTUm5EOURIMUZJdndrX1ZhR19rM1dRUW9xenIxcGlLd2I0U29kZ3JNcllkTXpLUG5uOWdnQWthdEhnR1pVSXpCaS1uRFF1YmRWRWZzN3ZmTzExR2hwVHdsVXYzbW9DWjRBbmZaeElfbzhDQzZNRko1OUpsdDc1T1ozVFNEQm12dWktM1VVNnZPZXM0RXN2aUw4Snh3?oc=5",
       "image": "",
-      "publishedAt": "2026-09-08T07:00:00.000Z",
+      "publishedAt": "2026-09-08T09:22:20.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -8079,7 +8169,7 @@
       "content": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxQM2xDdWJ3TjFjVElnTVB3cU1KWEpNQ0piX2R6Tm1uUDdYdTZZeW9KTEp5QWlUZ3h5VE84Z2NnbEUyako3YlFWRlZpQXZGdlhIbTVoa2J5VUFLV0lJaWNYTVlydlNRZ3BjT1dMY0NCclNheUpfSzRWOWJ1VEJ0SmUxSE1JcjZlSEx1alRWcU9Mbk96eTFwbnR3eUVYMnRSMjNjMmFLazJqVTdpclotTjVTVGQ2N3R1ZVF1Z0tzZ3JBcmNab0ZMcGk3N2d3cnNkQm5BR0tpZ2JuRTZ5UUtGX2VUYVJlSDZuWGhPcHRyeGlJRjJGVnFUUVpqLW5GTUJ5X1A1Z2tRcUEyRThDZ1FaUGgtNjJTRFpYTFNSSUEzamdzdEgwU2ZtWHc1OUluS1R5SFBSOU1kQ0phU3lJcXllY1FodG90TFF0dnpfVVgyN1JTT3VBRDBXZWthbUxmM0tiLXh6YTJPcXFKSko0TFJ3S2xTZ2V2SlFUN1BucVF2c1hNVlpHRGNZXzlQYndFSlRwQmR1OEFVNmxJa1d6X2x5RVNXV1RldDFzX0tWZU1veXBIS0dlSHFtWnl4ZUo1ZGtVNVRFWVotcUlGbDY3M3hyM3pPTlVxLWNRdm1YWGQzU2FXMzAyUFJTOTVlaHBNckpraW5YWnUxbW4xRFlFdGtCUEpFaERncXV4YnNxbjBZTm83Z1dYZ2p1VXNDY1RwQTZmUEhteVZ2QWp6U0dCeTJXRDc5cFNoM0s2QlBmcTdFN1dJa1BDSWx5dkotT1NicjktQ1dmbER1N1VlSC1RdXNMZkk4VkJQVDdMX1U3Z1lDV0dtSQ?oc=5",
       "image": "",
-      "publishedAt": "2026-09-01T10:45:27.000Z",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -8327,6 +8417,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "الطلب على الغاز في الشرق الأوسط قد ينخفض 17 مليار متر مكعب (تقرير) - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "description": "الطلب على الغاز في الشرق الأوسط قد ينخفض 17 مليار متر مكعب (تقرير) &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "content": "الطلب على الغاز في الشرق الأوسط قد ينخفض 17 مليار متر مكعب (تقرير) &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxObmpLemZjSlZ0ZXUtMzBYSFVWVTJfZGJIM2lkOVIwU2ZLaV9ackhwSHdSSWJXN0JqRHlPTnVwTGlzMHpySnR3VmFzZl9UdkpreVlWRzRHQXROYnhUN3lfeWFOdzFaMjIyQWdoMWY3Sm1ySUxSeGR5N3VacWtPel9tZm1yeEducXd5RFZubEI2ZWFyWExiRDRxSzE0V3pjWV81N1RrWVZuRExfLU9BTjNSZk4wNXo1b09xeTlkSG8wZmlqNUQ3NjRldHM2MUhLemFicWFPODVVdmptbFA2NGd3cmpvYnR4MlpUZm9VZnltNWhjZE9iUExrZDlHLVJBdk1tNG9jOVlmcE9COFJNSC1oa3JZMHZVZVNFRXFBUUkyRjRFci1XWDFjWE1DQUh2WFJ6T0ZkLVFLVXptM3lRcjZ6cTByaTBMc3dzREhFS0l3SQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-30T07:00:00.000Z",
+      "source": {
+        "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+        "url": "https://attaqa.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "A Silvia Perez Concert in Havana without Electricity or Sound Equipment - havanatimes.org",
