@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-07T23:08:11.540Z",
+  "generatedAt": "2026-10-08T06:10:49.487Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "قطر تتجه لبدء إنتاج الغاز من توسعة حقل الشمال الشرقي - جريدة الشرق",
+      "description": "قطر تتجه لبدء إنتاج الغاز من توسعة حقل الشمال الشرقي &nbsp;&nbsp; جريدة الشرق",
+      "content": "قطر تتجه لبدء إنتاج الغاز من توسعة حقل الشمال الشرقي &nbsp;&nbsp; جريدة الشرق",
+      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNNXhlVFZwcjBBc3JlY1Y1aERtcWZSNkFyeHZQZXV0cXl6d1ZEdUxGS1pjOWQwdmJQRDhaMXhmTl9nYS1LQWRKaW1QRGlkZUlaMDNJUGluRnJrZXowdTA3SVNYYmhXUEdZeEJnNFdEbEtVZEFWR1BxejJDc2NneU56bG5pQTJ4SzlGYld4ZUdkOVU5V2JGc2IzN0gwcjVTMlRFNEIxMHgyVTY4T0hxNnZQdGoyWk10RXhZbl9VZXowY2ZZZnB6dkdIUjNSQVBtcmtlajN2bnlLa29DbnJNMl85aFBNOFdQRFZiUTNuNmhHcnFfeUc3Y1dTanRvTUY5RXE4OUlRMTNIS1lWYWswNXhyX3RhbXpIZC10dmdKak9kclEwYl84Mm1vN3RwUkRkMHV3MGVJMVFTekVDY2lmMXVrdVlMdmRSUkVzdzNucktXTFp2d0RnSWRjR3h2MFBvaFdfc1IyRElydlBBTm94cjRnZmV3NmRjUGRLSUlIMWRsbzR0TDluZkhSUV9PbG5HbjRTQXRwcTlyTGNMTGxnYXRPWnJhM2VjMDJMYVRFdVpwWHdkVkJwSnc?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-08T03:19:21.000Z",
+      "source": {
+        "name": "جريدة الشرق",
+        "url": "https://al-sharq.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "«أركيوس إنرجي» تسرع خطط زيادة إنتاج الغاز في مصر حتى 2030 - البوابة نيوز",
       "description": "«أركيوس إنرجي» تسرع خطط زيادة إنتاج الغاز في مصر حتى 2030 &nbsp;&nbsp; البوابة نيوز",
@@ -44,6 +59,21 @@
       "source": {
         "name": "annahar.com",
         "url": "https://www.annahar.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Ohio board hears concerns over proposed New Albany data center power plant - Spectrum News",
+      "description": "Ohio board hears concerns over proposed New Albany data center power plant &nbsp;&nbsp; Spectrum News",
+      "content": "Ohio board hears concerns over proposed New Albany data center power plant &nbsp;&nbsp; Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdnVYUy1vU19zUFRPVnBSUURwZlJybHIyMXhLaThpWUE1RXhzWDBtWFFIX21PR3ZIMEQ2WGFxSTlsZ2dnaWo5WkJWXzBHci11Sy1mVXZfTkpBc1J6R091QTBLSW5QSmZ0VmwtNG5LN0Y3VlhQVlBVTm16QmllYkV0UXdnME5SdTdaS0Y5a1Q1RndnY2p4T1g1WGdXVl9qb2NEX3BpSW83cGVPODRIc3htSmlGek00N0c5UGNkOGROOUpBOHpnZWZV?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-07T13:00:00.000Z",
+      "source": {
+        "name": "Spectrum News",
+        "url": "https://spectrumnews1.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -7474,6 +7504,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Energean signs $1.4 billion gas deal with new Sorek power plant - CTech",
+      "description": "Energean signs $1.4 billion gas deal with new Sorek power plant &nbsp;&nbsp; CTech",
+      "content": "Energean signs $1.4 billion gas deal with new Sorek power plant &nbsp;&nbsp; CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SVmktLWlWSUd3S2VSUVIwRFljakVwTjFHNWc1Vm1maTBaS3gxQ0xnN3pSeUwyZ2o1WE1hRDdaQVU4OXlJcV9RdG1QbFVFY3lvLVNVZktIOVpWTUxhNnlacWV3Y0kydW8?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-09T07:00:00.000Z",
+      "source": {
+        "name": "CTech",
+        "url": "https://www.calcalistech.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "الطاقة المتجددة والتمويل المستدام.. ميزة الشرق الأوسط التنافسية - twaslnews1.twaslnews.com",
       "description": "الطاقة المتجددة والتمويل المستدام.. ميزة الشرق الأوسط التنافسية &nbsp;&nbsp; twaslnews1.twaslnews.com",
       "content": "الطاقة المتجددة والتمويل المستدام.. ميزة الشرق الأوسط التنافسية &nbsp;&nbsp; twaslnews1.twaslnews.com",
@@ -10217,6 +10262,21 @@
       "preferredSite": ""
     },
     {
+      "title": "مصر ترفع أسعار الكهرباء 12 % - الشرق الأوسط",
+      "description": "مصر ترفع أسعار الكهرباء 12 % &nbsp;&nbsp; الشرق الأوسط",
+      "content": "مصر ترفع أسعار الكهرباء 12 % &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPdHRuUFJxVnJpeGFPX19YYjNZQjV0eGhKT2pmMTlCSy1zSlhWZ3JQaTgxOWpuRkpvQ1dUa3N3NE5UcGpZZFNQRlFheVBUcDZxQ09WWmN1MjN2V3Q2aTlZS1RCOWRPQkRYVnhJenVHNjk3Ym1oakNFd3ZkYVlWREZySlZianc1MlFCYUNNVUp2OHVlb3FjdktmOE1KTjgtYTRjSm5NVGlxRFowS1lrVVdBcEk5Y0liMEozY013RDZOSERaV2FpbkxCQmJyTWpUOTFFMEZTSzFKYm1sNW5tdjdpNnV2VlZGSFpPUXpDcE1MVGxUb3lfWTN6YWsyYi1udTlLVjZTYWVPTTRDNV9CdXNQQ0gzSEZPb1d6MXg3UFBhU091cUJOTEY3MGVn?oc=5",
+      "image": "",
+      "publishedAt": "2026-08-01T11:01:26.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "مصر: زيادة أسعار الكهرباء تعمق أعباء الغلاء وتثير انتقادات - الشرق الأوسط",
       "description": "مصر: زيادة أسعار الكهرباء تعمق أعباء الغلاء وتثير انتقادات &nbsp;&nbsp; الشرق الأوسط",
       "content": "مصر: زيادة أسعار الكهرباء تعمق أعباء الغلاء وتثير انتقادات &nbsp;&nbsp; الشرق الأوسط",
@@ -10240,21 +10300,6 @@
       "publishedAt": "2026-08-01T07:00:00.000Z",
       "source": {
         "name": "aawsat.com",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "مصر ترفع أسعار الكهرباء 12 % - الشرق الأوسط",
-      "description": "مصر ترفع أسعار الكهرباء 12 % &nbsp;&nbsp; الشرق الأوسط",
-      "content": "مصر ترفع أسعار الكهرباء 12 % &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPdHRuUFJxVnJpeGFPX19YYjNZQjV0eGhKT2pmMTlCSy1zSlhWZ3JQaTgxOWpuRkpvQ1dUa3N3NE5UcGpZZFNQRlFheVBUcDZxQ09WWmN1MjN2V3Q2aTlZS1RCOWRPQkRYVnhJenVHNjk3Ym1oakNFd3ZkYVlWREZySlZianc1MlFCYUNNVUp2OHVlb3FjdktmOE1KTjgtYTRjSm5NVGlxRFowS1lrVVdBcEk5Y0liMEozY013RDZOSERaV2FpbkxCQmJyTWpUOTFFMEZTSzFKYm1sNW5tdjdpNnV2VlZGSFpPUXpDcE1MVGxUb3lfWTN6YWsyYi1udTlLVjZTYWVPTTRDNV9CdXNQQ0gzSEZPb1d6MXg3UFBhU091cUJOTEY3MGVn?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-01T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
@@ -12025,7 +12070,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Total power grid failure leaves Cuba in darkness amid growing crisis and protests - Miami Herald",
