@@ -1,16 +1,91 @@
 {
-  "generatedAt": "2026-10-09T06:14:12.335Z",
+  "generatedAt": "2026-10-09T13:28:04.373Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "A Russian oil refinery is hiring workers to protect industrial facilities from Ukrainian drones - UA.NEWS",
+      "description": "A Russian oil refinery is hiring workers to protect industrial facilities from Ukrainian drones &nbsp;&nbsp; UA.NEWS",
+      "content": "A Russian oil refinery is hiring workers to protect industrial facilities from Ukrainian drones &nbsp;&nbsp; UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcE44ajBUQWpNbGppQm10QjhjZlpjTGZZLXU4cVg2QTdjbkhRR0NMR3RvUXZIb0NYYTNBLVVQVVBoWUp1dlFvamp0X1VCNEdPckxERzE2MGlfU3psc3NxMG5uYnNMdGF0YnY3cDlWRV9tUkw3QUpmd2Y2VUlJZHA2M1hzaUVISWxGZEdDQnNpbUNZc0VQWFNHc0ltQzVPT2dpaTc2VzZvOUw3b0JseGRXcWszMXJ5ak5tTkNRV3RIXzNhQnZxU2lCNTBqdw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-09T12:33:05.000Z",
+      "source": {
+        "name": "UA.NEWS",
+        "url": "https://ua.news"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Hurricane Isaias threatens to drive gas prices higher as oil production slows down in the Gulf - News4JAX",
+      "description": "Hurricane Isaias threatens to drive gas prices higher as oil production slows down in the Gulf &nbsp;&nbsp; News4JAX",
+      "content": "Hurricane Isaias threatens to drive gas prices higher as oil production slows down in the Gulf &nbsp;&nbsp; News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYzlzbVlEZkxFbGdkMnduem1qYWRXVURZLXVjN3NiamFuZmlHZU9zaHZhOXI3dFVTRFVlQWlJOVhkMWxLOHlGOGpTTF9hNnF1dG5YLXBXYVhQOGVQSFZyUUJtWERwYUZjVlRSaEdGNXZlek8tRUZrZXdwTy1OZngzTno2d0JmT3A3dnNxc1lpYXJrcHMyYTdHQ3c0cEgtNzlqYzdFczZhYWRTanphNUxDZF81M2g5b21oZXRrTV9kQWxLY01lZFlzdUlrR3dFVE5MbEo4?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-09T12:24:23.000Z",
+      "source": {
+        "name": "News4JAX",
+        "url": "https://www.news4jax.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Minister: Serbia to accelerate permits for gas power plant in Nis - Report.az",
+      "description": "Minister: Serbia to accelerate permits for gas power plant in Nis &nbsp;&nbsp; Report.az",
+      "content": "Minister: Serbia to accelerate permits for gas power plant in Nis &nbsp;&nbsp; Report.az",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDRHQXR2a0steEdvRGdQT2ZHTFo0YndfOFZZMmU0UE4tazJMcVVLSWRRblBOQzg0VVFIQndZSUZNcDRjVkZQQlpORTh0RXFWbTBJNVQxQnEtN2RqdWFJeTdNVGM0bjc3MEJGQTNEZE5QbTB6YjZqa25OUmZjaDc2WThKT1hZbk5VWlUwVTVGSmhXTy1PRjF30gGcAUFVX3lxTE9fZ2pTLXpVQlExbWUwZFR1SGFZdXh0Zk9TNWhIMFpmZHFqM21BNmxiM283T2dmb2M4VTlOSkRlZmV0VmZMSWVIakloRUJ3R0RQa3lpS251WVFmcEQ4UFdLTVVZREUzVVE3MXBSSi1yYjV2bEhYNGQ2YUdZTlNHUFJqckh5QkhrZTFhUW9kLUlrSUJyWXpPQjJLRjdxcA?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-09T11:18:37.000Z",
+      "source": {
+        "name": "Report.az",
+        "url": "https://report.az"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - The Straits Times",
+      "description": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; The Straits Times",
+      "content": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjBwYzNGUHZmbHZJbU9wM1E3UzI0WmNwZ1pCYTdPLWQxTThzNmtQWmRkcDFUd1pkZUJvZWdPd3VRaU9JMFhTbHV3SkxqcFZsOHhjM1d4NFpLcC1GY1lSbkFFMk9YNW1obk1nM3ZnV2lCRTRscDlzQ2tXVW02dzNtOE5HQ1JQSXhCTFI4WmxqUnpDaS1tX2ZPeDJZcVR6SWZJdWxvSXE2U3MzT0J1bVh6RS1Jc0ZvV2xtWXZXOXV2WVNIUnN0SkxISVRyV1JaVDV4d3c?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-09T10:24:00.000Z",
+      "source": {
+        "name": "The Straits Times",
+        "url": "https://www.straitstimes.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "How to get the best power deal and save money on electricity and gas bills - Irish Examiner",
+      "description": "How to get the best power deal and save money on electricity and gas bills &nbsp;&nbsp; Irish Examiner",
+      "content": "How to get the best power deal and save money on electricity and gas bills &nbsp;&nbsp; Irish Examiner",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pZTdrNUZKOFk1V3hkeFFQRmU5bHhFYmt0TXVjZnBJUkdXd0tMRGZhdHRtMnh6bGhIby1nQ3RsNXVfTnc4SzhIazdZb0MxLXoyMVpCY3JmWVR0SVd6clBTUTJnb0xkRlRfUW9NTS1oeXhsTmpLMy1WLTRiUHo?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-09T06:38:00.000Z",
+      "source": {
+        "name": "Irish Examiner",
+        "url": "https://www.irishexaminer.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
     {
       "title": "Controlling fluid jet direction without excess electricity or moving parts - AIP.ORG",
       "description": "Controlling fluid jet direction without excess electricity or moving parts &nbsp;&nbsp; AIP.ORG",
       "content": "Controlling fluid jet direction without excess electricity or moving parts &nbsp;&nbsp; AIP.ORG",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUC1hdUxmVkZZcEZxZkNBV1lXMUlRaHVpMHNjcXFtQmYzenJ3b3lNM2psNl9vY1RhbjhqZkpGcGtZZ0UwdjJaX3A4RGVURG83VkVDVUI1ZTBCUnY0V2JzZHpFdWNNNUpBNTNLaTlDR29aejVlb3JOWkhIOGhzVE1QcTkydnc1UGJlNkV3QTd5cHFQNDFZX2xRUlNTYmtNQXg5QW5QMjZmZw?oc=5",
       "image": "",
-      "publishedAt": "2026-10-09T04:07:58.000Z",
+      "publishedAt": "2026-10-09T04:11:02.000Z",
       "source": {
         "name": "AIP.ORG",
         "url": "https://www.aip.org"
@@ -44,6 +119,21 @@
       "source": {
         "name": "Romania Insider",
         "url": "https://www.romania-insider.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
+      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-08T21:25:26.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -104,21 +194,6 @@
       "source": {
         "name": "NBC News",
         "url": "https://www.nbcnews.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
-      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-08T17:39:23.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -513,6 +588,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - Oil & Gas 360",
+      "description": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases &nbsp;&nbsp; Oil & Gas 360",
+      "content": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases &nbsp;&nbsp; Oil & Gas 360",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDJiNXk2M0RvWnVlM09xeWZUWWx2NkFxbnRfVi1KLUVLVlRneHpjQ0hPS1p0QUZjT1dHQTdXMFYxMldFNGpTa3JEaV8zVHRaeHE0UkVoZGQxajRnRzJvUWJEQTc1NnZpR3ZuVkIya3hhWlFuMmIzU1BFNTFLRHJRV1oxMzBFWHdVOFFRY1I5Y1RELWFldmdkakYwZjgtWFZT?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-06T16:56:39.000Z",
+      "source": {
+        "name": "Oil & Gas 360",
+        "url": "https://www.oilandgas360.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "Google orders 3.59 GW of electricity from Constellation — The Express Tribune - UA.NEWS",
@@ -1250,21 +1340,6 @@
       "preferredSite": ""
     },
     {
-      "title": "\"التحالف\" يعلن وقوع هجوم للحوثيين على محطة توزيع كهرباء بالمدينة المنورة - CNN Arabic",
-      "description": "\"التحالف\" يعلن وقوع هجوم للحوثيين على محطة توزيع كهرباء بالمدينة المنورة &nbsp;&nbsp; CNN Arabic",
-      "content": "\"التحالف\" يعلن وقوع هجوم للحوثيين على محطة توزيع كهرباء بالمدينة المنورة &nbsp;&nbsp; CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEpDemJtSjBRc01HbmdQZWpfcENUdVo2di00ck9ONzlXSy0wNi1Xc1BQM2x0RmJxU1diMjQ3UXc3T2FJajMzb1FXNFREZ0Z1MVJmVVNHaDhsU3AtTDFKSmM5TUFiVTNBLVQzVzQ1YnIwMzlWdXQyRl9IMjJrbXI3U2puQzN1Q1NKQWFYUnZtZEgzZHVUOTVtUWtzZzJteWpDdk5JVkd3ZmJxajZIZXl5aFM1cklGREJNVVNyY204Q2Q2WUJ3?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-01T16:58:26.000Z",
-      "source": {
-        "name": "CNN Arabic",
-        "url": "https://arabic.cnn.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "الحوثيون يستهدفون محطة تزوّد المسجد النبوي بالكهرباء - الشرق الأوسط",
       "description": "الحوثيون يستهدفون محطة تزوّد المسجد النبوي بالكهرباء &nbsp;&nbsp; الشرق الأوسط",
       "content": "الحوثيون يستهدفون محطة تزوّد المسجد النبوي بالكهرباء &nbsp;&nbsp; الشرق الأوسط",
@@ -1653,6 +1728,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "\"التحالف\" يعلن وقوع هجوم للحوثيين على محطة توزيع كهرباء بالمدينة المنورة - CNN Arabic",
+      "description": "\"التحالف\" يعلن وقوع هجوم للحوثيين على محطة توزيع كهرباء بالمدينة المنورة &nbsp;&nbsp; CNN Arabic",
+      "content": "\"التحالف\" يعلن وقوع هجوم للحوثيين على محطة توزيع كهرباء بالمدينة المنورة &nbsp;&nbsp; CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEpDemJtSjBRc01HbmdQZWpfcENUdVo2di00ck9ONzlXSy0wNi1Xc1BQM2x0RmJxU1diMjQ3UXc3T2FJajMzb1FXNFREZ0Z1MVJmVVNHaDhsU3AtTDFKSmM5TUFiVTNBLVQzVzQ1YnIwMzlWdXQyRl9IMjJrbXI3U2puQzN1Q1NKQWFYUnZtZEgzZHVUOTVtUWtzZzJteWpDdk5JVkd3ZmJxajZIZXl5aFM1cklGREJNVVNyY204Q2Q2WUJ3?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "source": {
+        "name": "CNN Arabic",
+        "url": "https://arabic.cnn.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "200 مليار دولار استثمارات كورية في أمريكا.. لماذا تتحفظ سيؤول على مشروع الغاز؟ - شبكة تواصل الإخبارية",
       "description": "200 مليار دولار استثمارات كورية في أمريكا.. لماذا تتحفظ سيؤول على مشروع الغاز؟ &nbsp;&nbsp; شبكة تواصل الإخبارية",
       "content": "200 مليار دولار استثمارات كورية في أمريكا.. لماذا تتحفظ سيؤول على مشروع الغاز؟ &nbsp;&nbsp; شبكة تواصل الإخبارية",
@@ -1901,7 +1991,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "روسيا تستهدف إمدادات الكهرباء في كييف مع اقتراب الشتاء - الشرق الأوسط",
@@ -1961,7 +2051,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future - najah.edu",
@@ -1991,7 +2081,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Serbia, SOCAR Sign Deal to Build Gas Power Plant in Niš - Caspian Post",
@@ -2261,7 +2351,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "PLN plans 81 MW of gas and solar power in East Sumba - Petromindo",
@@ -3267,21 +3357,6 @@
       "preferredSite": ""
     },
     {
-      "title": "انقطاع الكهرباء عن 70 ألف شخص شمال شرق أمريكا بسبب عاصفة - عكاظ",
-      "description": "انقطاع الكهرباء عن 70 ألف شخص شمال شرق أمريكا بسبب عاصفة &nbsp;&nbsp; عكاظ",
-      "content": "انقطاع الكهرباء عن 70 ألف شخص شمال شرق أمريكا بسبب عاصفة &nbsp;&nbsp; عكاظ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MWDVGaHJGT2FaZWFiT1FoLVFwX0VIdEMtblZka3hnOUs0M190WU5sS2dDWVhGRTRfYWZ3TjVZVGMxbFJHYzBqLUllNmtmNjB5Ym9za9IBVEFVX3lxTE0zd045NnZIcEZyTnF1ZGxtM2lHZVM2Skw4NDlPWGdKNTlaNHdGOVNDbkpPOVJyd3VkR3c5SkdaT0s4R0JBczdTZmE5eHZPOWdGR1VoQg?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-26T14:23:00.000Z",
-      "source": {
-        "name": "عكاظ",
-        "url": "https://www.okaz.com.sa"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "عاصفة قوية تقطع الكهرباء عن 60 ألف شخص في شمال شرق أمريكا - صحيفة سبق الإلكترونية",
       "description": "عاصفة قوية تقطع الكهرباء عن 60 ألف شخص في شمال شرق أمريكا &nbsp;&nbsp; صحيفة سبق الإلكترونية",
       "content": "عاصفة قوية تقطع الكهرباء عن 60 ألف شخص في شمال شرق أمريكا &nbsp;&nbsp; صحيفة سبق الإلكترونية",
@@ -3385,6 +3460,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "انقطاع الكهرباء عن 70 ألف شخص شمال شرق أمريكا بسبب عاصفة - عكاظ",
+      "description": "انقطاع الكهرباء عن 70 ألف شخص شمال شرق أمريكا بسبب عاصفة &nbsp;&nbsp; عكاظ",
+      "content": "انقطاع الكهرباء عن 70 ألف شخص شمال شرق أمريكا بسبب عاصفة &nbsp;&nbsp; عكاظ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MWDVGaHJGT2FaZWFiT1FoLVFwX0VIdEMtblZka3hnOUs0M190WU5sS2dDWVhGRTRfYWZ3TjVZVGMxbFJHYzBqLUllNmtmNjB5Ym9za9IBVEFVX3lxTE0zd045NnZIcEZyTnF1ZGxtM2lHZVM2Skw4NDlPWGdKNTlaNHdGOVNDbkpPOVJyd3VkR3c5SkdaT0s4R0JBczdTZmE5eHZPOWdGR1VoQg?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-26T07:00:00.000Z",
+      "source": {
+        "name": "عكاظ",
+        "url": "https://www.okaz.com.sa"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "North Carolina Regulators Reject Duke Energy Gas Power Plant - oilprice.com",
@@ -4179,7 +4269,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Moscow oil refinery shutdown and deaths in Russian attacks o - alquds.com",
@@ -8176,7 +8266,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "POWERCHINA تدفع تطوير طاقة الرياح وتخزين الطاقة لدعم انتقال الطاقة المستدامة في مصر - PR Newswire",
@@ -8371,7 +8461,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Novak: Russia to Slightly Reduce Oil Production This Year - maaal.com",
@@ -9841,7 +9931,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "So Much Solar: Digging Into the List of Every US Power Plant That Went Online This Year - Inside Climate News",
@@ -12355,7 +12445,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Total power grid failure leaves Cuba in darkness amid growing crisis and protests - Miami Herald",
@@ -12610,7 +12700,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Oil production, 2025 | Fossil fuels - Our World in Data",
@@ -13048,7 +13138,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Source: Qatar Energy Ready to Fully Resume LNG Production Within a Month - صحيفة مال",
@@ -13063,7 +13153,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Source: Qatar Energy Ready to Fully Resume LNG Production Within a Month - maaal.com",
@@ -14168,36 +14258,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
-    },
-    {
-      "title": "معلومات الوزراء: توقع بنمو الطلب على الكهرباء فى الشرق الأوسط وشمال أفريقيا بمعدل 3.6% بين 2023 و2035 - اليوم السابع",
-      "description": "معلومات الوزراء: توقع بنمو الطلب على الكهرباء فى الشرق الأوسط وشمال أفريقيا بمعدل 3.6% بين 2023 و2035 &nbsp;&nbsp; اليوم السابع",
-      "content": "معلومات الوزراء: توقع بنمو الطلب على الكهرباء فى الشرق الأوسط وشمال أفريقيا بمعدل 3.6% بين 2023 و2035 &nbsp;&nbsp; اليوم السابع",
-      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQYk9yRm5FSVE4OFZmZ3VxV0ZwZERETWJuT3hnZmZzWXJVTzdaTHpfMmR1QjVpemhXanByRVNVZXZoWktsMm8xdkc4U1pDOW9RUDdrc2tsMzhPQ2w3WGF6U3dwdjQtRVRSdkFXVkxDSDFDSWszWkhVUjRJdHB4WEMyN09WZnVhZmNPM1pxTEdOd3ZxM2FXTXh0a0ZtZGNNejZpdWdrR3JNNDkyUVZFOEhEdWo0S2tMN1NLY19YSkdjc2V5M2Zad2NDdzBiaU5FaUNWeTNZUWJGRF9OQjFpZVZVY3FzYWt5S2ZWTUs2UVpWc2FYM0haejBzTUJPU2JUVzhLcWtnRUpLV3Juc3hhOFI4MmtrMWZocW1TY0dsaUJyNUJNSUpaektYTl9mRG00aXJXVi1XT1QtOWp2cmkyMkxPcXY1d0FrQk84OTRaX0VlY084QnZyS2E4TXFEbUVYWGszX1M4SUpjc3VFSWhETHNhUnpfSkpWTGhwNDZqVjJTUkpCRW40SzA1TUFRbTRweVpBVXFfM2J0UzdER19LdTczNW1ETURzTlowUU55WTUxTS1CSjItdHltYkNRYUtUb01EZ05LVE8zOFRneXBNbTRoWTIwZWdMUURxQUFCTWlkcEdaNi0zNVQ4VU8xWWNEeURfM1ZLWERyLVR2VWJBbnfSAfgDQVVfeXFMT1lWVm9MVDNrYVRHUXIzTElvVFNLVFVKczg0TFhzVHFvZW4yaHZKN2pRc2FmTmJXbzNTLXlRcDBubzVaX25GTmFWM3gyYzZpaUI1dmRGYkI4c21BeXF3ZndfNmFKU2YzeTBLTW43V3Rzd0xlRGVtUHNHVjR6T2p3RXd4M1dONUxxTVNuQ2pCUzNtUUNWNF9aOWdsbUJNQkRiMVhOZnA4emNZcmNHckNxRi1xeFdRV2NQUGg1RzE5MXVnQXFtZ0JkVWZ0UXA3am9YMURBcUR3M3NRNHUyc0hqZnhkc3hfdl93Ym4yVTBrbFZNXzcwVk1YcHFSc2dpQWNNcW9ZREFqeVdqSTlEaFBuVmFQNTJCZlotT2pjNXJ3U3hqRVA3UTBlWXRwSU0zUm16QWlQWUxxQ3ptLUMyRXpVNnZRaDVybnB3X29qQjJnU1JoampEajVuM3dvTUNXZXF6aFNfMGlERWFCR2lZZTRYdnF4YnBaOF9wNFJvbkdpZjlTSDBDUm00bUpwRVhUc05OS25YZldoZ2tTeDE5UEtXalEzX0tFcGsxa19QM3h4bUxuV1ZHbXlOY0VxdHFSY3ZUam5sblM4akp0RUVCTVVzSGdEQThleFBad1hSa2J3UnRNN1gtWndveFNYWi12YVBYcHctTUJtb3cx?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-12T07:00:00.000Z",
-      "source": {
-        "name": "اليوم السابع",
-        "url": "https://www.youm7.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "«معلومات الوزراء» يتناول في عرض بحثي مستقبل الكهرباء في الشرق الأوسط وشمال إفريقيا داخل إصدارته «آفاق الطاقة» - بوابة الأهرام",
-      "description": "«معلومات الوزراء» يتناول في عرض بحثي مستقبل الكهرباء في الشرق الأوسط وشمال إفريقيا داخل إصدارته «آفاق الطاقة» &nbsp;&nbsp; بوابة الأهرام",
-      "content": "«معلومات الوزراء» يتناول في عرض بحثي مستقبل الكهرباء في الشرق الأوسط وشمال إفريقيا داخل إصدارته «آفاق الطاقة» &nbsp;&nbsp; بوابة الأهرام",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ON182V1FiRmYzRTNnWTM4Vy1DRzQtX1lIN0pGQ3lfVUZZakhhclpacjNMaUFMdnBGSzVyaXRJVHBhQVpTV2hsbVlpVzdKVTZKUXNmTExR?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-12T07:00:00.000Z",
-      "source": {
-        "name": "بوابة الأهرام",
-        "url": "https://gate.ahram.org.eg"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     }
   ]
 }
