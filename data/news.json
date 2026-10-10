@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:41:41.630Z",
+  "generatedAt": "2026-10-10T05:57:27.627Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
@@ -14,6 +14,21 @@
       "source": {
         "name": "WNEM",
         "url": "https://www.wnem.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
+      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-09T20:04:02.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -78,6 +93,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "‘The smell of death is everywhere’: Inside the humanitarian catastrophe unfolding in Russian-occupied Oleshky, where hundreds are trapped without food, electricity, or medicine - Meduza",
+      "description": "‘The smell of death is everywhere’: Inside the humanitarian catastrophe unfolding in Russian-occupied Oleshky, where hundreds are trapped without food, electricity, or medicine &nbsp;&nbsp; Meduza",
+      "content": "‘The smell of death is everywhere’: Inside the humanitarian catastrophe unfolding in Russian-occupied Oleshky, where hundreds are trapped without food, electricity, or medicine &nbsp;&nbsp; Meduza",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQQ2xlSHVXYTJ2WDhibGlLNTlYX1hsWjA4RkZUV1pWOXBWRzVMbXhfckdKZVgzRmo3elJuNm1YYVNxX0hfY0hSb1Y5WWMzaHI2MnRXRFdmMVNNTG56d0V0M3ZCX0pTVk1mQ19WSzFjdEl1STVpVHk0cXEyNU5KZkNGVzJReG8wQW5IOXpMS2hKcFpxNDJqQ2QtcVgxSEJWaUx3amM3Q0ZBVDl6d3JIVTRRLXhCWVd3OHlHYkNRdkE5bzhYbEhqU0dteXQ1d2g2blBhbzRhSDJCMTFaenBPaXRVWXNSVDFKb280UV9zUkw3YkgyMWxVYkhXRU1UVDRNLVJuaHRoNW5FR1U1c2xmdXFpc2ZGQnBHb2MzXzdUTXVYdmFXRVBDZE53LW95a1liOVZPV1hfZNIBugJBVV95cUxNcW5OT3k4OXJJalpTSTZtS0NVaEdWUjdReGFZRnl2NGstUjBzcG5qV0J4cDRrbUhqY1pTUmtMbTVnRklPUXI2Qmh3bDB5c0t2b2VDQnp0NHdpMmd1S2Ywa19TRWx4SGdkN1RqOXNNLXZGcS1MdG12ajJwSzNEbU52Nk55QXFRTkV0NF85bWg2dFRWXzJKbWwzTmR5ZlczRk5SYmRBWG8yU3ZUTXBYS0ZudzlNeURwU284QTVCZ3hhc3RaQWloOUp2Tzd1b2RCel9KcmtQZmhQNE5SNHFadEI2NDdwMkFHd1FEWVBNOGZJNjBkRUdsT0p3R05hMFRDUHdNQk9IOTVfLUJYRnQ2MkQ2QkQ1VkxpVWh1ZjBSNUtDZDRXbUtMYlpNUHI1Wl82WTJxRFI5clBDV3QtUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-09T14:44:00.000Z",
+      "source": {
+        "name": "Meduza",
+        "url": "https://meduza.io"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "A Russian oil refinery is hiring workers to protect industrial facilities from Ukrainian drones - UA.NEWS",
@@ -245,21 +275,6 @@
       "preferredSite": ""
     },
     {
-      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
-      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-08T21:25:26.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "أرقام قياسية لذروة الكهرباء في 11 دولة.. مصر والجزائر بالصدارة (فيديو) - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
       "description": "أرقام قياسية لذروة الكهرباء في 11 دولة.. مصر والجزائر بالصدارة (فيديو) &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
       "content": "أرقام قياسية لذروة الكهرباء في 11 دولة.. مصر والجزائر بالصدارة (فيديو) &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -348,6 +363,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Court revokes Taichung Power Plant project review - Taipei Times",
+      "description": "Court revokes Taichung Power Plant project review &nbsp;&nbsp; Taipei Times",
+      "content": "Court revokes Taichung Power Plant project review &nbsp;&nbsp; Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vNFAwemlPR0RER0l4NVA4OUJxbWJPRlUtNWRkYTN3Q3V6SkxPTk9wUHdvbjFhTF91MTNKeDhQY3czRUhmaTdtMDBaZ29ZODZwa1JiSjVJZXY2VU1ncHhETG41ZFNYVmhabU95UEhQZzNOb2RfR3JjYWNB?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "source": {
+        "name": "Taipei Times",
+        "url": "https://www.taipeitimes.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "PURA OKs changes to how utilities purchase electricity - CT Mirror",
@@ -887,7 +917,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "thepeninsulaqatar.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Amper: Growth in Czech electricity consumption slowed in the third quarter - oenergetice.cz",
@@ -4389,7 +4419,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alwatan.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Moscow oil refinery shutdown and deaths in Russian attacks o - alquds.com",
