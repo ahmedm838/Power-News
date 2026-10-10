@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-10T05:57:27.627Z",
+  "generatedAt": "2026-10-10T12:37:09.274Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Kuleba warned of a winter without electricity or heating: what to buy - UkrMedia News",
+      "description": "Kuleba warned of a winter without electricity or heating: what to buy &nbsp;&nbsp; UkrMedia News",
+      "content": "Kuleba warned of a winter without electricity or heating: what to buy &nbsp;&nbsp; UkrMedia News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFpqRVVFU0NibVJLQVBnemI0R0xubTRyVVFNSEFZQTdFdEwyRDNILUFZc2NUbEVSbUJ4eVFuT1F4Zl9TaWszSm5NTGhZeXQxVExwRkdCVk54WkQ1NGd0UXpaWjJMM2Q0UkpUMXhSZW5LRWpHbzVpcENNTXVnODFidVRSR2I?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-10T10:26:07.000Z",
+      "source": {
+        "name": "UkrMedia News",
+        "url": "https://ukrmedia.news"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "mees.com"
+    },
     {
       "title": "Hurricane Isaias could disrupt oil production and raise gas prices, expert says - WNEM",
       "description": "Hurricane Isaias could disrupt oil production and raise gas prices, expert says &nbsp;&nbsp; WNEM",
@@ -78,6 +93,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - The Express Tribune",
+      "description": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; The Express Tribune",
+      "content": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; The Express Tribune",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmg1LUpkcXhpM0dfXzNfOVQzM0FwUDVlV3VZY2pLdHZKRXQzZ1RlMFBNZkNJaDhvRFRuSnktV2hKN1c4U0tmcGF3STlCNDBBZ2ZBbVRCeU50RXZnaGFiSVdUclFHb3lNZnVZYVFFclU3ZU9vazVPQnM2b2tPaThQWjByUWpESGVJTnhpbnZkYUxrbVJfY3F2ZTNuNm5LdndYaFNkNW5kOE5Ja0NlUXhyMjVEQVVELU9RTkVPcEtnVHo5c2Zs0gHMAUFVX3lxTE9qb29EalJ2R2dQTVRTanFTc0ZPRGJWdmpXS05keXVTZFduN1FTVXRSdDJLU2pmSm53Q2JWVEVSRGlFdGoxbllvQ2hOMmd3M01OLWZoUVlScThIbS1YVFdoXzIxYTRud1YtaXpRNldMeUFsS1NsNWMyS3JfYk1tbGNQTTdZWTFZa2k3SkFFQUZjdWlVVWxTcXhwTjdnOGM5TXMzNnhESW1wVmtzOGNZM0JPQ1NyYWZVSUF0ZEJQZWd4NnBNVlc1aEZ3NEp5Zw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-09T15:06:11.000Z",
+      "source": {
+        "name": "The Express Tribune",
+        "url": "https://tribune.com.pk"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "First turbine goes live at Mintia – Europe’s largest gas power plant - Balkan Green Energy News",
@@ -1415,21 +1445,6 @@
       "preferredSite": ""
     },
     {
-      "title": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء - BBC",
-      "description": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء &nbsp;&nbsp; BBC",
-      "content": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء &nbsp;&nbsp; BBC",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTdjQ4XzQwSXJreFk3eWhveDA4RTFpVjZfRnN4R21iS0ZkUmpzbjZMMnFLd3dNZkV6N1hLUGozZFh4NXJNZG9teGlWTjJ2SG13SjVfWEZ5bG1LLXFuemZWcjRmSU9lZG1TZjNtWg?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-01T19:19:11.000Z",
-      "source": {
-        "name": "BBC",
-        "url": "https://www.bbc.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء - bbc.com",
       "description": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء &nbsp;&nbsp; bbc.com",
       "content": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء &nbsp;&nbsp; bbc.com",
@@ -1876,6 +1891,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء - BBC",
+      "description": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء &nbsp;&nbsp; BBC",
+      "content": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء &nbsp;&nbsp; BBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LUGRWUDRGM0dwclRyZXhwY2stc241OG1FbGV6cWkyQnJuNHYxV1drUWVJZVZjWjMxSm91VWVkbzY3Q0R4RTUtLU1QOXFyQkJqcUFwRWdkcFROQ0RpSlM4VEFsazhHSUF5WTZn?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "source": {
+        "name": "BBC",
+        "url": "https://www.bbc.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "\"التحالف\" يعلن وقوع هجوم للحوثيين على محطة توزيع كهرباء بالمدينة المنورة - CNN Arabic",
@@ -10469,7 +10499,7 @@
         "qatar",
         "turkey"
       ],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Energy affordability misery: electricity and natural gas, inflation and volatility - Center of the American Experiment",
@@ -10792,7 +10822,7 @@
       "content": "مصر ترفع أسعار الكهرباء 12 % &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPdHRuUFJxVnJpeGFPX19YYjNZQjV0eGhKT2pmMTlCSy1zSlhWZ3JQaTgxOWpuRkpvQ1dUa3N3NE5UcGpZZFNQRlFheVBUcDZxQ09WWmN1MjN2V3Q2aTlZS1RCOWRPQkRYVnhJenVHNjk3Ym1oakNFd3ZkYVlWREZySlZianc1MlFCYUNNVUp2OHVlb3FjdktmOE1KTjgtYTRjSm5NVGlxRFowS1lrVVdBcEk5Y0liMEozY013RDZOSERaV2FpbkxCQmJyTWpUOTFFMEZTSzFKYm1sNW5tdjdpNnV2VlZGSFpPUXpDcE1MVGxUb3lfWTN6YWsyYi1udTlLVjZTYWVPTTRDNV9CdXNQQ0gzSEZPb1d6MXg3UFBhU091cUJOTEY3MGVn?oc=5",
       "image": "",
-      "publishedAt": "2026-08-01T11:01:26.000Z",
+      "publishedAt": "2026-08-01T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -12187,7 +12217,7 @@
       "content": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxNUXVFSThWT3V2ZXh6LWg3X3VqcTNUcFJId1VIZFBGb1BHQU8yY0M4WXF2dXg0NEtCR0FSTkx3eC1HNUV6SVZ1MmRkWmZuUkd2VEthUy1sTHFQaHJiRTNZLThUd2NGNm04TkVEbWw2UDZfck9zU1BLeEwxN1hBMGhHMDRuRU1Wd3IybDNiVTlnSnBOQUNKU245Q1E0SWRDcVUzandIV1BnRW1jWVh5a3BFQlhORF91Q1k2Ti1LYmhKUnlNZU9zdW5GTlRoQnA2SE4wTnhIXzBxcFJwenRBc2R4b1EtU2pXUjl1TWZRWGF5WTctTjB0WDY3SC1naURZMmRWbWNjZ2JlaWVnVFQ3R3dqMVpsY0ZwT2s0ekNSemlHVno2V1pTX3VST1U3Q3R5NjdoX1dyTG5oSWFLb29WWVJnM3VESktldTlPUDRyaHpjMTRVbjZfalExTTN1eWxFTXdZWmZjSE42bEJwZmJlXzZiSWhhWVJfME9EbHZDdDVKdlBDUUhUdXVsV195YlVwUkpyeEFNMV84b01jT05maU5YNzhtUG5kN193M3RRN0t2MjJtZ3RwdGhaSzFmZjkxVkZJc0V4eURBUVZtanlwOXEwdmFabXNzcnZZeE40TXRCNWJobUlWNEI5WEl0bnBpTno4LVBjNUc3LWM2RmtjSEw1d3VmbG5RRWMzMDRTU1VlcFowaWhKYVVHLWk2REFjNTJMNkcwZUpkZFNFZDlPYTdfUjBDQzdlY0s1Y3h2OGN0ajg1amd1bHpqbXp6Z3lrd0tfVHVkNEZKSFdzbVFaYUpqUzNfTG9ub3p6QVYwQXNBUEZHNGJ3X3JPLTJjV25EVVYtSXV1UWIzVG5CeWlQWnFGd0VGZmppUUl5U0NORDg5ZlJ0SG1WNWZaYmln?oc=5",
       "image": "",
-      "publishedAt": "2026-07-11T07:00:00.000Z",
+      "publishedAt": "2026-07-11T16:28:59.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -12595,7 +12625,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Total power grid failure leaves Cuba in darkness amid growing crisis and protests - Miami Herald",
@@ -14393,21 +14423,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
-    },
-    {
-      "title": "From springs and bolts, St. Olaf researchers built a computer that doesn’t require electricity - St. Olaf College",
-      "description": "From springs and bolts, St. Olaf researchers built a computer that doesn’t require electricity &nbsp;&nbsp; St. Olaf College",
-      "content": "From springs and bolts, St. Olaf researchers built a computer that doesn’t require electricity &nbsp;&nbsp; St. Olaf College",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMllOMGE2YXdpVHl4RDhWdTh5QXVnUlowdVUtTFA2ckJ1UzFZUUhFZGJZMWRCTFBGR3ByY3pmUElHb1R1NTBfN2JLRGptaV9mSEl1OHVUV0xOUGRqMFk3U0dMYXNlalFMZEp5aDd1b1B0NU14SFZDSkxDZFVRazhWUFM0bWRodTZJdG5mcUdUQW9DN3NETlpoUFFLUWtNdFpMWFJpS2d6VGhGVk9fd3NlS2Q4R1NWTDZKR0E?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-13T07:00:00.000Z",
-      "source": {
-        "name": "St. Olaf College",
-        "url": "https://wp.stolaf.edu"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
     }
   ]
 }
