@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T21:48:07.467Z",
+  "generatedAt": "2026-10-11T05:52:24.224Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
@@ -14,6 +14,21 @@
       "source": {
         "name": "Simply Wall Street",
         "url": "https://simplywall.st"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة - الشرق الأوسط",
+      "description": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; الشرق الأوسط",
+      "content": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxOUU9QQ2FhVl85RkN1bWEzMXZ1Wmd3b2ZxSnl0NDl2Nzh3SFJoZ1VlUnBrME5BNFhhOHItQnlxRzVoUTdvdzM2R3Fscm5kU3hNQm8xWnpWUGNqSzVnSkR5eHZCdk5HRjEwTVNjd0VKX0JXNjJqUlFodko1cEZFUnJjLWNzY3BKc1lsTVEwSHlLaEZYd2NRLUExc3Mwc01wSktjb0VaNTJYZjdueGhVandldXJxTHdveEgtVDhxZmVnN1pWcGhhZE1nUTFqanBOQjZrUTQ3d0taUjV5QUhnbExqalA4TWNtZkE3LXpFREFMNDZDNjEwLWtoMHJ6VWd1Wk9mMTZwVmpubWlURHlrcmhCeFU2NnVpWXNST3FEVjVaYnlHYVl5dHQ0QWhDRHdUdGFCUDJ2YWtnQ2xiVVNWRmZ6NlJPbFNsTUpleE9VNmtiTU02NHdBX3FqZzRyM0QxLTJPYld3S0diVVo3RS1pT0FOWm9TZEl5Q091RXRiQWhCdEJfVGVleGNoU0pQUW4wWDdUWjFiUExwaWpfQzBYN0hYWGE4YnY4UVVYSzI3d0FKcmV4VUtiWF9OY2JYQ3lQUjBTVUdLSDhSVm5fTzE3T2FoNi15QWdvZC1ZemJZcEtXdVFvRi05ajdZajBab296cHRtbTg5MGZvTHBNUlRzcDY5TjFvdmh6dmhZRWRMb09FeHFrNVQzU1kyOXJjZC1VNUVWc0JsNjZpX1E5d1B0WmQ3UldvQkdXckJmMXVJVkpicVN3V2tmZFNJaElyUWJtS3V1SXRwejVsR2RNTmlCQThUMWZEUjBEcW9leXhwUTQ3bE5IU0dHeUJ3M2VBMG56bV9NSTJzR2RscmxKR3Y3ZWZfc2lEQTNpNUxGc3EyeE9Ccmg?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-10T15:18:30.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -47,7 +62,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "Hurricane Isaias could disrupt oil production and raise gas prices, expert says - WNEM",
@@ -620,6 +635,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Record Wind Output Can’t Break Britain’s Reliance on Costly Gas - Bloomberg.com",
+      "description": "Record Wind Output Can’t Break Britain’s Reliance on Costly Gas &nbsp;&nbsp; Bloomberg.com",
+      "content": "Record Wind Output Can’t Break Britain’s Reliance on Costly Gas &nbsp;&nbsp; Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFZKUU5VaUtmOU9BWlhsc1RaWXEzTUthT21CSTIzMjdhRl9SM0RtWlVHZXowc1ZCOEM5dExsamo5QlhxWExrbHlaLUVpQUFEelgwV290YlljeURSNDJJMndyTkhUdWI3X3JSemtfS3NHcjZiNkFxR0VxMllDSHNQYkpBQkxZRl91LURLZUdjdWdOOXhVcWdHejV3RFBleTRSOEJhN0ZvNGFtTmFQdWJIeXVHWXk?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-07T12:46:18.000Z",
+      "source": {
+        "name": "Bloomberg.com",
+        "url": "https://www.bloomberg.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "النفط يتجاوز 100 دولار مع مخاوف تعطل الإمدادات من الشرق الأوسط - Economy Plus -",
       "description": "النفط يتجاوز 100 دولار مع مخاوف تعطل الإمدادات من الشرق الأوسط &nbsp;&nbsp; Economy Plus -",
       "content": "النفط يتجاوز 100 دولار مع مخاوف تعطل الإمدادات من الشرق الأوسط &nbsp;&nbsp; Economy Plus -",
@@ -917,7 +947,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "‘Nothing Good About It’: Neighbors Don't Want Rural Power Plant North Of Cheyenne - Cowboy State Daily",
@@ -3312,6 +3342,21 @@
       "preferredSite": ""
     },
     {
+      "title": "قتيل وتعطل للطيران والكهرباء.. عاصفة \"نورإيستر\" تضرب شمال شرق أميركا | التلفزيون العربي - التلفزيون العربي",
+      "description": "قتيل وتعطل للطيران والكهرباء.. عاصفة \"نورإيستر\" تضرب شمال شرق أميركا | التلفزيون العربي &nbsp;&nbsp; التلفزيون العربي",
+      "content": "قتيل وتعطل للطيران والكهرباء.. عاصفة \"نورإيستر\" تضرب شمال شرق أميركا | التلفزيون العربي &nbsp;&nbsp; التلفزيون العربي",
+      "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxOdGNyQ05IOW1iS0twQTdEUDBMT3gtbFg2RnljbnNxN2xjOENvWkZydG0yRHZsQlpqWE8xVWpMZGIyNnROWHQzZERFNDFzeWQ2TTVKVjRZcWJCWWJQVVd0U3FwQk1kWGttYm9uYjZodE0wb01fMmpCY3pEcllzbmp6bjEyaDhUUEgwbHRWQmhicmhmdkR0eWVod3lVOG5MRHA4N0gyZDBQR2J0UUVhZTVVem51bmdKMEVHYWwyaHVzUkxNMk9WOWRfejBqMFJjZmVIZ2hzUE9COGtVU2dvNi1PemFkS2VZbTE0QzdxcWIySF8yazlJOGlWRVpKU0VwdUFjWWtxdVBRdkRSZzFSc19CSzZXZ19rZ2JKdWpuMXRDQUVTci14eThMVk1UZm5VeEdfdGxTWkRjaEdPOUFaUVdPbE4zREgtcEx5SmJsbjZycnZkYlFKR0dqam5fUGEwLXhselNxMy14Tk5oWGZvbTBqemVmZUQ5bm03d0FJa1QyWkF3Q09BbjFrMjJobmdmX2lrS1JfZHl1cnI5VC1QdEFEMV9wSkgzX1REUzZ1Wk1KVjdfaVBNYjQzZWtVX3E4cjlqenBvcFVUY1JSRXAxWUNRTVdjOWh6UGhvc1ZpbS1uYS1mVjVYUTdfTGJmLTIzVEhzaGpxRTJGb01SSzZTUk5XNGRJRFlsTnfSAYwEQVVfeXFMUFdNWHE2ZXdnWUNLekExdGlEbVhiaTlmeEF5d3RIVVRFaTZsU1hScUZMOGlKQkxiLXhJazhwZFAzdzZvMTh5V1FmUEhLdzFyNzJ0OWtWSWtKdGVQWlphX3h4Mk1ObUhpYlNDMVRLT0l4ZFFpMDRRLWp4eGstcS1zLVJTdjZjci1hNW43MlpRY2R3UElUX2JTbXJJUnZ4Q2tvRThYMU9qdDM0eko2QTlIZzlZWkJhTTNucnhIX1RDd2pHcDBBa0U0bTlqOUFkVjRGaEpsZEpHeWY3S0h6SGRjUlJJVjU0T05fWXZ0M1VYM0huQUtpT24yNVhTbV9ZV2R0VU0tSkFDVHZPRW5qTjc3U1htZ19hR2M4cWxjUU1DZ1VRZUVYLTVMTFEtVnNUeDlwTDhRY2Z2b1RWelR5YW9oSEhQdHdXLWZ2WkVDMzhmU0I5aXlyVENhTWVjOFlSX0ZQQnhqWGIwOGhWVUpObWVqNzRseW56SnRPSWlNVzltdDBOZ0R0STF0RnNFNS0tTW1SSWktTmktcGxULXFrVUNGZlhwNVQxVTdyTnFINDRqMzNQc2N0YkU0eTE3aE44R0Q5aEtrUzF5MndCVHVZeXNndThzMUhuU0x0Y1l2TGY2SElfbEhwV0RubG5ITVJkTkpVeG1nZ0JSY1JPakMyTVNPRlF3ODVSMWVidzhick4?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-27T07:00:00.000Z",
+      "source": {
+        "name": "التلفزيون العربي",
+        "url": "https://www.alaraby.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "شريف الخولي لـ CEO LEVEL PODCAST: أكتيس تعتزم ضخ 300 مليون دولار في الطاقة المتجددة بمصر بقدرات 500 ميجاوات فأكثر - جريدة المال",
       "description": "شريف الخولي لـ CEO LEVEL PODCAST: أكتيس تعتزم ضخ 300 مليون دولار في الطاقة المتجددة بمصر بقدرات 500 ميجاوات فأكثر &nbsp;&nbsp; جريدة المال",
       "content": "شريف الخولي لـ CEO LEVEL PODCAST: أكتيس تعتزم ضخ 300 مليون دولار في الطاقة المتجددة بمصر بقدرات 500 ميجاوات فأكثر &nbsp;&nbsp; جريدة المال",
@@ -3321,21 +3366,6 @@
       "source": {
         "name": "جريدة المال",
         "url": "https://almalnews.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "قتيل وتعطل للطيران والكهرباء.. عاصفة \"نورإيستر\" تضرب شمال شرق أميركا | التلفزيون العربي - التلفزيون العربي",
-      "description": "قتيل وتعطل للطيران والكهرباء.. عاصفة \"نورإيستر\" تضرب شمال شرق أميركا | التلفزيون العربي &nbsp;&nbsp; التلفزيون العربي",
-      "content": "قتيل وتعطل للطيران والكهرباء.. عاصفة \"نورإيستر\" تضرب شمال شرق أميركا | التلفزيون العربي &nbsp;&nbsp; التلفزيون العربي",
-      "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxOdGNyQ05IOW1iS0twQTdEUDBMT3gtbFg2RnljbnNxN2xjOENvWkZydG0yRHZsQlpqWE8xVWpMZGIyNnROWHQzZERFNDFzeWQ2TTVKVjRZcWJCWWJQVVd0U3FwQk1kWGttYm9uYjZodE0wb01fMmpCY3pEcllzbmp6bjEyaDhUUEgwbHRWQmhicmhmdkR0eWVod3lVOG5MRHA4N0gyZDBQR2J0UUVhZTVVem51bmdKMEVHYWwyaHVzUkxNMk9WOWRfejBqMFJjZmVIZ2hzUE9COGtVU2dvNi1PemFkS2VZbTE0QzdxcWIySF8yazlJOGlWRVpKU0VwdUFjWWtxdVBRdkRSZzFSc19CSzZXZ19rZ2JKdWpuMXRDQUVTci14eThMVk1UZm5VeEdfdGxTWkRjaEdPOUFaUVdPbE4zREgtcEx5SmJsbjZycnZkYlFKR0dqam5fUGEwLXhselNxMy14Tk5oWGZvbTBqemVmZUQ5bm03d0FJa1QyWkF3Q09BbjFrMjJobmdmX2lrS1JfZHl1cnI5VC1QdEFEMV9wSkgzX1REUzZ1Wk1KVjdfaVBNYjQzZWtVX3E4cjlqenBvcFVUY1JSRXAxWUNRTVdjOWh6UGhvc1ZpbS1uYS1mVjVYUTdfTGJmLTIzVEhzaGpxRTJGb01SSzZTUk5XNGRJRFlsTnfSAYwEQVVfeXFMUFdNWHE2ZXdnWUNLekExdGlEbVhiaTlmeEF5d3RIVVRFaTZsU1hScUZMOGlKQkxiLXhJazhwZFAzdzZvMTh5V1FmUEhLdzFyNzJ0OWtWSWtKdGVQWlphX3h4Mk1ObUhpYlNDMVRLT0l4ZFFpMDRRLWp4eGstcS1zLVJTdjZjci1hNW43MlpRY2R3UElUX2JTbXJJUnZ4Q2tvRThYMU9qdDM0eko2QTlIZzlZWkJhTTNucnhIX1RDd2pHcDBBa0U0bTlqOUFkVjRGaEpsZEpHeWY3S0h6SGRjUlJJVjU0T05fWXZ0M1VYM0huQUtpT24yNVhTbV9ZV2R0VU0tSkFDVHZPRW5qTjc3U1htZ19hR2M4cWxjUU1DZ1VRZUVYLTVMTFEtVnNUeDlwTDhRY2Z2b1RWelR5YW9oSEhQdHdXLWZ2WkVDMzhmU0I5aXlyVENhTWVjOFlSX0ZQQnhqWGIwOGhWVUpObWVqNzRseW56SnRPSWlNVzltdDBOZ0R0STF0RnNFNS0tTW1SSWktTmktcGxULXFrVUNGZlhwNVQxVTdyTnFINDRqMzNQc2N0YkU0eTE3aE44R0Q5aEtrUzF5MndCVHVZeXNndThzMUhuU0x0Y1l2TGY2SElfbEhwV0RubG5ITVJkTkpVeG1nZ0JSY1JPakMyTVNPRlF3ODVSMWVidzhick4?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-27T06:07:22.000Z",
-      "source": {
-        "name": "التلفزيون العربي",
-        "url": "https://www.alaraby.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -3445,21 +3475,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
-    },
-    {
-      "title": "Energy Transfer vs. MPLX: Which Pipeline Giant's High-Yield Dividend Is Actually Safer? - The Motley Fool",
-      "description": "Energy Transfer vs. MPLX: Which Pipeline Giant's High-Yield Dividend Is Actually Safer? &nbsp;&nbsp; The Motley Fool",
-      "content": "Energy Transfer vs. MPLX: Which Pipeline Giant's High-Yield Dividend Is Actually Safer? &nbsp;&nbsp; The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTc0NzRlMlR1ZERoR0xwV2FrSFlEaW1YRFFWOHJqQWphQkNNUE9kWDNNOWFqMkpJNFk3Q0JTQzM2czFsQnlKU01JMlJGYTVISXpDaTBCREE1TzZDWWkyYlR3OHA1SzZTeGpQQXJJTGw3eWJkTVJSRktjeUdTYmZ3NGFBcDI2VWhfTmZzSDJ6NzVsOGFaZVJpaw?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-26T21:05:00.000Z",
-      "source": {
-        "name": "The Motley Fool",
-        "url": "https://www.fool.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
     },
     {
       "title": "Energy Transfer vs. MPLX: Which Pipeline Giant's High-Yield Dividend Is Actually Safer? - fool.com",
@@ -3681,6 +3696,21 @@
       "source": {
         "name": "Cyprus Mail",
         "url": "https://cyprus-mail.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Energy Transfer vs. MPLX: Which Pipeline Giant's High-Yield Dividend Is Actually Safer? - The Motley Fool",
+      "description": "Energy Transfer vs. MPLX: Which Pipeline Giant's High-Yield Dividend Is Actually Safer? &nbsp;&nbsp; The Motley Fool",
+      "content": "Energy Transfer vs. MPLX: Which Pipeline Giant's High-Yield Dividend Is Actually Safer? &nbsp;&nbsp; The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTc0NzRlMlR1ZERoR0xwV2FrSFlEaW1YRFFWOHJqQWphQkNNUE9kWDNNOWFqMkpJNFk3Q0JTQzM2czFsQnlKU01JMlJGYTVISXpDaTBCREE1TzZDWWkyYlR3OHA1SzZTeGpQQXJJTGw3eWJkTVJSRktjeUdTYmZ3NGFBcDI2VWhfTmZzSDJ6NzVsOGFaZVJpaw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-26T07:00:00.000Z",
+      "source": {
+        "name": "The Motley Fool",
+        "url": "https://www.fool.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -4092,21 +4122,6 @@
       "preferredSite": ""
     },
     {
-      "title": "High European gas prices push power producers back to coal - Reuters",
-      "description": "High European gas prices push power producers back to coal &nbsp;&nbsp; Reuters",
-      "content": "High European gas prices push power producers back to coal &nbsp;&nbsp; Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGFWalVPQV9Famp5Q1JDM3JzS25FVlFqQ3RtaTdWRmRFU1FIQ091YlVwMnpoY2k1ejNpUmVDckZnMXBMT2lseXZpXzh4YUNZOFgxTFlSdVhTaXRDZF8zNklWV0tySE8tVUprVUZNVERmaFQwbEhyQXZkMl96anYzR01iRzA4OTBoLW8zWUlxM2hEbUNqOGRQWnRKcU9tWjhzOVBlSHNnMTA5WG8?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-24T16:23:43.000Z",
-      "source": {
-        "name": "Reuters",
-        "url": "https://www.reuters.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "LNG opponents welcome pre-election delay, but project not off cards - thepost.co.nz",
       "description": "LNG opponents welcome pre-election delay, but project not off cards &nbsp;&nbsp; thepost.co.nz",
       "content": "LNG opponents welcome pre-election delay, but project not off cards &nbsp;&nbsp; thepost.co.nz",
@@ -4270,6 +4285,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "High European gas prices push power producers back to coal - Reuters",
+      "description": "High European gas prices push power producers back to coal &nbsp;&nbsp; Reuters",
+      "content": "High European gas prices push power producers back to coal &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGFWalVPQV9Famp5Q1JDM3JzS25FVlFqQ3RtaTdWRmRFU1FIQ091YlVwMnpoY2k1ejNpUmVDckZnMXBMT2lseXZpXzh4YUNZOFgxTFlSdVhTaXRDZF8zNklWV0tySE8tVUprVUZNVERmaFQwbEhyQXZkMl96anYzR01iRzA4OTBoLW8zWUlxM2hEbUNqOGRQWnRKcU9tWjhzOVBlSHNnMTA5WG8?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-24T07:00:00.000Z",
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "Electricity, gas and telecoms: from today, a single energy provider – increasingly Enel - Il Sole 24 ORE",
@@ -9289,21 +9319,6 @@
       "preferredSite": ""
     },
     {
-      "title": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة - الشرق الأوسط",
-      "description": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; الشرق الأوسط",
-      "content": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxOUU9QQ2FhVl85RkN1bWEzMXZ1Wmd3b2ZxSnl0NDl2Nzh3SFJoZ1VlUnBrME5BNFhhOHItQnlxRzVoUTdvdzM2R3Fscm5kU3hNQm8xWnpWUGNqSzVnSkR5eHZCdk5HRjEwTVNjd0VKX0JXNjJqUlFodko1cEZFUnJjLWNzY3BKc1lsTVEwSHlLaEZYd2NRLUExc3Mwc01wSktjb0VaNTJYZjdueGhVandldXJxTHdveEgtVDhxZmVnN1pWcGhhZE1nUTFqanBOQjZrUTQ3d0taUjV5QUhnbExqalA4TWNtZkE3LXpFREFMNDZDNjEwLWtoMHJ6VWd1Wk9mMTZwVmpubWlURHlrcmhCeFU2NnVpWXNST3FEVjVaYnlHYVl5dHQ0QWhDRHdUdGFCUDJ2YWtnQ2xiVVNWRmZ6NlJPbFNsTUpleE9VNmtiTU02NHdBX3FqZzRyM0QxLTJPYld3S0diVVo3RS1pT0FOWm9TZEl5Q091RXRiQWhCdEJfVGVleGNoU0pQUW4wWDdUWjFiUExwaWpfQzBYN0hYWGE4YnY4UVVYSzI3d0FKcmV4VUtiWF9OY2JYQ3lQUjBTVUdLSDhSVm5fTzE3T2FoNi15QWdvZC1ZemJZcEtXdVFvRi05ajdZajBab296cHRtbTg5MGZvTHBNUlRzcDY5TjFvdmh6dmhZRWRMb09FeHFrNVQzU1kyOXJjZC1VNUVWc0JsNjZpX1E5d1B0WmQ3UldvQkdXckJmMXVJVkpicVN3V2tmZFNJaElyUWJtS3V1SXRwejVsR2RNTmlCQThUMWZEUjBEcW9leXhwUTQ3bE5IU0dHeUJ3M2VBMG56bV9NSTJzR2RscmxKR3Y3ZWZfc2lEQTNpNUxGc3EyeE9Ccmg?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-26T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة - aawsat.com",
       "description": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; aawsat.com",
       "content": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة &nbsp;&nbsp; aawsat.com",
@@ -10867,7 +10882,7 @@
       "content": "مصر: زيادة أسعار الكهرباء تعمق أعباء الغلاء وتثير انتقادات &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNbTdoTzhyOFg0aXZnVENMYWJ0NXg1M3R0YnNSb1NrTk82NERGWXp0d1Rvb1BQVVd6WlFicW5EQ204ekVad3hLdHQzUG5xak5wR1lmWjlhRS1UZ3FqZUNpWVdmamRFTUducDg1YmNvTW1OdlFNSlpMa29wMXNCVG42amR1SHo4bHdWQTRFekRHZmlJZ1U1Wm1fOGlZMVlIV3plYVd3VDRpYm9fTld3RHJkOFI5TjBVSWxzaWlJanZyMmtLQUpST3dDWkVrQjlEZk5GRkJQWFlwWDZESDh3YWIwcGZfamJZeGtwLWlma1BFZG5jQzhJMDB4MTNLODBHRld2LUNpWGhwYS12aG5za2MwY0xOVFZMX29XbTd3WXhYUlNPWWd5MGtVaGRNdzdnWVVzX3ZyMXo4WkNCZHQ1dWJKZ3lfWkZja19JcUN5eU9WbXNpWUhsQzVSb055WDFrSTdscEtsTzRVLWV5THktLWtxZi1HNHNrQlpQLVpNR0l1bzhyd2U1RnZhWWdhbTNNc2JNVVczVTJlTnI1bE1TeW15SXNLaUJ2a1NybDRpdXZKWXZPYjF0d01xUllYSkFoMkwxLUJhUU16RGRzS0thWWdZRG5RVmxzNVdfZG81eWNnalRTUjB2dFZHYURQTG42ZFZ6TFp2d1owY00zTm10MXIyWThsd3Mya1hmMFg5ZlRUUnJ5R1RBX1M2LTQ3a2plbTN5bXhnX0dlQ1l5V1ZpQnR1ajJSdlNqQy1fdmtSWm1sZEM0TWdDdV9EVk5rSXZSLVo0RWRpckstWEJmZl9MU3FlY0Z2WDNPYXRNNzlUOTY5Y3JOcmRYNmRadHFkZVM0alpzM2NEaGo0d3ZHcE9POU5LMg?oc=5",
       "image": "",
-      "publishedAt": "2026-08-01T14:53:16.000Z",
+      "publishedAt": "2026-08-01T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -11767,7 +11782,7 @@
       "content": "كيف دعمت مصر استعادة الكهرباء في ليبيا؟ &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQV09hM1Nlc0lFUDB1MS0zRi0zZUFESDFjRjJsLXVWbjZPZl9QMmc0aHU1bXRodzMzZzVIY3BBbmQxTzVoX1pxM29VcWVUMDZtTWM5OGtVUFk0N1VGM1BfNUx3LUs3ZWplTjcxSTJFWkZmS1JFQmZVWWp4RGpyMHJQUmNUVHpiV3g3X19UWlFaclM2RS1JUWx3emhSejQ3V1JXVm1ZVUhwNVJKVDdlcUpGSXdIQmpoT3YwRGI4bTFycy03RXpBY1A0SnFPQTRqMXdQb1dJY1BpNzk0WTBYWV9lQTFDMHJremJsOHNieFhTZlpPc0t6WlkwWnNOQUJSdU9lRjhQOEZRcTh1cXplWnRkX3FBWTRlaW9WWkRvTXRzTlFsNklmajY1THpOaFNCcl9pTTFvQ3VXZEpWV0F3TFN5RW1qRDBWOWRPbTRzNGVvUUVVNEl0MF9lcGpfdXFPU1E2MDhINkZPMV9TTHAwTlNUYWZKMGlVd3owd0lmSHZYWHJuMjdZVDVtdUJrTEt5N3hvMmxGR0JCaWRILTFURHVPckZVWk5Hc21QTUZTMUxwRHVVRWdDQklVT2twWTdla1VSUjBPUlZ5QlVCTG13VjF4OEJHSFpCb0FiZGtyeTJFMmJqRVJVRzF2TG9jaUtWS0JqemRIRnpsRXBVWlUyNDZLTlF6SEc3d05xUG0wajNR?oc=5",
       "image": "",
-      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "publishedAt": "2026-07-21T13:23:15.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -11932,7 +11947,7 @@
       "content": "خطة للحكومة الألمانية تقلص التوسع في استخدام الطاقة الشمسية &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxPX1RvOWF3Um42RVFUQ3R4ODRhOXBIMHFNQ1JuWHkzNTBUSDNDdHpMVzlDaDhNZG9ZWnYyd3JZSjlTVVp4dnJCSWs4bGJsd0tWR2tPTGNHU2FGVm5RTzA4MFZxQksxRjRXNFZFZi1VZHlockpCMTd2eEJwU015OU41T1U5OWZsNG5tczRaVFJkZnptSzA3Y3RZZnZ0MVZ2RkZ4NzRucEVfOFNXSVBwc2lsWUd4c1o4V0NpSzMyNkZIdGo5SkYwR2dUZWUwQzdRalVNR3hudmcyTUpYcmFzWGxNaWtZRkl1WFBfblF5SG9mZjlRMFI2ZDlfUmtEVUZCdGFLS2d6UTJlMEJ1a0RZaHFzSVRwVl9GUWI2NVNXSjJELWIwRlNfeWt3cVNIbEZnZExqSHpNTW5zamlGMjFFN1ROUTFCa0h6OGZESUgxSkFkVFFTdzdDVXIwTGt2dy0tcjd6ZW9WZmwwdm95NWNqS1JGXzFScXBIN2pHRVgzOHlCMjFpMkd2RnNxWGg2Tk1sbE9IUEZfZ0w4UDdrRWJGZkQ4VUhIREl0Ny1uMWQ3UDBLTzNiTHpsVkp6cFpYVjRkYy1NS2MzUnpYeVgtemhCclFfdm12RTZ4WTdwVFBfZ2tjSmIyN1BZc0NEcUxrZEtNMGptUHpWamZYUlFkQ2Q2V1doY3prLTQ4UHRGb1UtRTFsYTFsVVBLdnVKMWZZZXpFLUZjWGY2RA?oc=5",
       "image": "",
-      "publishedAt": "2026-07-18T14:56:37.000Z",
+      "publishedAt": "2026-07-18T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -12029,7 +12044,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "asharqbusiness.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Kuwait Urges Electricity Conservation After Power Plant Damaged in Iranian Attack - شبكة يافا الإخبارية",
@@ -12685,7 +12700,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "Cuba suffers nationwide blackout after total power grid failure - Honolulu Star-Advertiser",
@@ -13633,7 +13648,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "Data centers raise concerns about power grid strain in Shreveport - ksla.com",
