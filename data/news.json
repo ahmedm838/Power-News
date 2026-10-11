@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-11T05:52:24.224Z",
+  "generatedAt": "2026-10-11T12:56:05.092Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
+      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-10T23:19:45.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "3 Renewable Energy Stocks For Investors Rethinking Oil And Gas Exposure - Simply Wall Street",
       "description": "3 Renewable Energy Stocks For Investors Rethinking Oil And Gas Exposure &nbsp;&nbsp; Simply Wall Street",
@@ -35,21 +50,6 @@
       "preferredSite": ""
     },
     {
-      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
-      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-10T12:28:02.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Kuleba warned of a winter without electricity or heating: what to buy - UkrMedia News",
       "description": "Kuleba warned of a winter without electricity or heating: what to buy &nbsp;&nbsp; UkrMedia News",
       "content": "Kuleba warned of a winter without electricity or heating: what to buy &nbsp;&nbsp; UkrMedia News",
@@ -62,7 +62,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Hurricane Isaias could disrupt oil production and raise gas prices, expert says - WNEM",
@@ -194,6 +194,21 @@
       "source": {
         "name": "News4JAX",
         "url": "https://www.news4jax.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Romania's new Mintia combined cycle power plant fires up first turbine - PM - SeeNews",
+      "description": "Romania's new Mintia combined cycle power plant fires up first turbine - PM &nbsp;&nbsp; SeeNews",
+      "content": "Romania's new Mintia combined cycle power plant fires up first turbine - PM &nbsp;&nbsp; SeeNews",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkVqWUZqQm9yeTk1Q0RURC1zTnBvalliNjFwWE9WWUdlTXhZS1l5UU85YVd3Z2dhb1JpZ292cHFBNWlIMnhfRTNzMGVsVlg1TWMyQkRiZF82U01MTG43VFk4MzBiYU1aWkdvUFZRTjNpTmJGWjZjWERobEdEZzhaXzRERUo5bTI5c3MyakZBSG43bDJZWUl0RVNSd1c1Vmt0ZDVsaUNoYTA?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-09T11:50:40.000Z",
+      "source": {
+        "name": "SeeNews",
+        "url": "https://seenews.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -947,7 +962,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "‘Nothing Good About It’: Neighbors Don't Want Rural Power Plant North Of Cheyenne - Cowboy State Daily",
@@ -1685,21 +1700,6 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "Statement: Fast-tracking the New Oil Pipeline Is a Reckless Waste of Canadians’ Money - Environmental Defence",
-      "description": "Statement: Fast-tracking the New Oil Pipeline Is a Reckless Waste of Canadians’ Money &nbsp;&nbsp; Environmental Defence",
-      "content": "Statement: Fast-tracking the New Oil Pipeline Is a Reckless Waste of Canadians’ Money &nbsp;&nbsp; Environmental Defence",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNamZocVhsVWtaRnRUNE8yT1d4V1FVWWY1Y0pKa3NjNFpQWWhBbjB4U0N4SkFOc1h3blZWRmlFU1BpU1J1U1diMTlZUUNoTFpGS2YyTk5lc2RIUC1iSHpscXZPV1ZoY01QQjVtbWtaWl9GS01DejVrMGdNM0QzMlRiNElZY2x4dFIxTUlYUThaZ05qaTRFMHhsTThraXhhaEh1TVVOckNNSk5qTjY3SmxVT0ZHM0FOY2d5Rnd5dEdPQW05R2ZjN3c?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-01T15:47:20.000Z",
-      "source": {
-        "name": "Environmental Defence",
-        "url": "https://environmentaldefence.ca"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
       "title": "Amogy and 2G Energy Successfully Demonstrate Integrated Ammonia-to-Power Generation with Natural Gas Multi-Fuel Capability - Hydrogen Central",
       "description": "Amogy and 2G Energy Successfully Demonstrate Integrated Ammonia-to-Power Generation with Natural Gas Multi-Fuel Capability &nbsp;&nbsp; Hydrogen Central",
       "content": "Amogy and 2G Energy Successfully Demonstrate Integrated Ammonia-to-Power Generation with Natural Gas Multi-Fuel Capability &nbsp;&nbsp; Hydrogen Central",
@@ -1962,6 +1962,21 @@
       "source": {
         "name": "koreatimes.co.kr",
         "url": "https://www.koreatimes.co.kr"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Statement: Fast-tracking the New Oil Pipeline Is a Reckless Waste of Canadians’ Money - Environmental Defence",
+      "description": "Statement: Fast-tracking the New Oil Pipeline Is a Reckless Waste of Canadians’ Money &nbsp;&nbsp; Environmental Defence",
+      "content": "Statement: Fast-tracking the New Oil Pipeline Is a Reckless Waste of Canadians’ Money &nbsp;&nbsp; Environmental Defence",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNamZocVhsVWtaRnRUNE8yT1d4V1FVWWY1Y0pKa3NjNFpQWWhBbjB4U0N4SkFOc1h3blZWRmlFU1BpU1J1U1diMTlZUUNoTFpGS2YyTk5lc2RIUC1iSHpscXZPV1ZoY01QQjVtbWtaWl9GS01DejVrMGdNM0QzMlRiNElZY2x4dFIxTUlYUThaZ05qaTRFMHhsTThraXhhaEh1TVVOckNNSk5qTjY3SmxVT0ZHM0FOY2d5Rnd5dEdPQW05R2ZjN3c?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "source": {
+        "name": "Environmental Defence",
+        "url": "https://environmentaldefence.ca"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -3837,6 +3852,21 @@
       "preferredSite": ""
     },
     {
+      "title": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ - الشرق الأوسط",
+      "description": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
+      "content": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNR1lhMWdEZTUtY3V0ajRqcW9ZLUM4ZE9IcW94ejJGaTRxdU83U0hQSXA2XzhQOF9ncG04NFVtbTlXS2NydUlUUTlmUmxEUzNiUVZJSXFlMGh5WEc5czNIeFFVMjNhRnFYX2NvVFdJdjRxYzdqcmpiRXpyVnpGSnYxQkE2QlRXeEkyeGtVVEhVcXZaWnJsZGNXaHUzVUROemhfTlE2akc1MGk4Q1ZQcHFFSHM4NHZPSWViamZBZ0RjbU03UUZoSDdUNG5pUGsySGFhMjNkazljOG5tMnJBc0p4Z0tTaWs5aUNBbk5uMDk1M21zZWpmbFVTeHlFSnZsUlFQU3d2NDFxa1h0X2FZWkRfemtUMEtNT1h5SExVSDcyWW1rT2ZQNTNWLWVrR1dneV9zZWlCWDVPQjRzeFB0WU9qcTAtN3BmUUxjM0xFUE1mOFB4R0ZrMG13Tk1kd2hPeDBra3o4LWtZdHNOaGhIWFZVV2pXLVBwZVNjcG0wbmdaQlI3Y3lKRGpDMVFjMmVVLUZEQ2VQSzdGdFNHUUZRY25CNnlnOE9vM2dhNHlSZ1NadlRtLVJ1YkZjdmlUOHI0VE5ZMVpXc0dTV0JObkFxdDYtdXhFWFVsUThmN1k3Zl8ySVJ0UGFSNTVBb05Cb3l0b1NSZlFWQjRjZ056SVJqVjFNZ1J6THJUR1JkWWpYbE5QYWhRT004UVdHX0lUUnJORWRaSV9nSHVQZm5nemxrM1BtQjRMRmF3TWo1WEJ3QUozTUNaUkRISjFvekgwbEhJcXUzdWJmTFJiclAtMGVQeXlJVXJNT2E5TTRpMXhlR1Zid1VuWXBqa3piMkJoQnZXSG9TdkhSOVVmNTNYZGM0RU1lNVJ6YVF6U0pMQXItUXNhYkZHUWI5QzdwbTMzdmcybFRud0xEeTB1UnVfS1k?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-25T15:57:41.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Azerbaijan rich in renewable energy resources alongside oil and gas — ACWA Power - trend.az",
       "description": "Azerbaijan rich in renewable energy resources alongside oil and gas — ACWA Power &nbsp;&nbsp; trend.az",
       "content": "Azerbaijan rich in renewable energy resources alongside oil and gas — ACWA Power &nbsp;&nbsp; trend.az",
@@ -4025,21 +4055,6 @@
       "publishedAt": "2026-09-25T07:00:00.000Z",
       "source": {
         "name": "aawsat.com",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ - الشرق الأوسط",
-      "description": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
-      "content": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNR1lhMWdEZTUtY3V0ajRqcW9ZLUM4ZE9IcW94ejJGaTRxdU83U0hQSXA2XzhQOF9ncG04NFVtbTlXS2NydUlUUTlmUmxEUzNiUVZJSXFlMGh5WEc5czNIeFFVMjNhRnFYX2NvVFdJdjRxYzdqcmpiRXpyVnpGSnYxQkE2QlRXeEkyeGtVVEhVcXZaWnJsZGNXaHUzVUROemhfTlE2akc1MGk4Q1ZQcHFFSHM4NHZPSWViamZBZ0RjbU03UUZoSDdUNG5pUGsySGFhMjNkazljOG5tMnJBc0p4Z0tTaWs5aUNBbk5uMDk1M21zZWpmbFVTeHlFSnZsUlFQU3d2NDFxa1h0X2FZWkRfemtUMEtNT1h5SExVSDcyWW1rT2ZQNTNWLWVrR1dneV9zZWlCWDVPQjRzeFB0WU9qcTAtN3BmUUxjM0xFUE1mOFB4R0ZrMG13Tk1kd2hPeDBra3o4LWtZdHNOaGhIWFZVV2pXLVBwZVNjcG0wbmdaQlI3Y3lKRGpDMVFjMmVVLUZEQ2VQSzdGdFNHUUZRY25CNnlnOE9vM2dhNHlSZ1NadlRtLVJ1YkZjdmlUOHI0VE5ZMVpXc0dTV0JObkFxdDYtdXhFWFVsUThmN1k3Zl8ySVJ0UGFSNTVBb05Cb3l0b1NSZlFWQjRjZ056SVJqVjFNZ1J6THJUR1JkWWpYbE5QYWhRT004UVdHX0lUUnJORWRaSV9nSHVQZm5nemxrM1BtQjRMRmF3TWo1WEJ3QUozTUNaUkRISjFvekgwbEhJcXUzdWJmTFJiclAtMGVQeXlJVXJNT2E5TTRpMXhlR1Zid1VuWXBqa3piMkJoQnZXSG9TdkhSOVVmNTNYZGM0RU1lNVJ6YVF6U0pMQXItUXNhYkZHUWI5QzdwbTMzdmcybFRud0xEeTB1UnVfS1k?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-25T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
@@ -11782,7 +11797,7 @@
       "content": "كيف دعمت مصر استعادة الكهرباء في ليبيا؟ &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQV09hM1Nlc0lFUDB1MS0zRi0zZUFESDFjRjJsLXVWbjZPZl9QMmc0aHU1bXRodzMzZzVIY3BBbmQxTzVoX1pxM29VcWVUMDZtTWM5OGtVUFk0N1VGM1BfNUx3LUs3ZWplTjcxSTJFWkZmS1JFQmZVWWp4RGpyMHJQUmNUVHpiV3g3X19UWlFaclM2RS1JUWx3emhSejQ3V1JXVm1ZVUhwNVJKVDdlcUpGSXdIQmpoT3YwRGI4bTFycy03RXpBY1A0SnFPQTRqMXdQb1dJY1BpNzk0WTBYWV9lQTFDMHJremJsOHNieFhTZlpPc0t6WlkwWnNOQUJSdU9lRjhQOEZRcTh1cXplWnRkX3FBWTRlaW9WWkRvTXRzTlFsNklmajY1THpOaFNCcl9pTTFvQ3VXZEpWV0F3TFN5RW1qRDBWOWRPbTRzNGVvUUVVNEl0MF9lcGpfdXFPU1E2MDhINkZPMV9TTHAwTlNUYWZKMGlVd3owd0lmSHZYWHJuMjdZVDVtdUJrTEt5N3hvMmxGR0JCaWRILTFURHVPckZVWk5Hc21QTUZTMUxwRHVVRWdDQklVT2twWTdla1VSUjBPUlZ5QlVCTG13VjF4OEJHSFpCb0FiZGtyeTJFMmJqRVJVRzF2TG9jaUtWS0JqemRIRnpsRXBVWlUyNDZLTlF6SEc3d05xUG0wajNR?oc=5",
       "image": "",
-      "publishedAt": "2026-07-21T13:23:15.000Z",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -12700,7 +12715,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Cuba suffers nationwide blackout after total power grid failure - Honolulu Star-Advertiser",
@@ -14438,51 +14453,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
-    },
-    {
-      "title": "Global fossil power generation fell after the Hormuz closure due to solar and wind growth - Centre for Research on Energy and Clean Air",
-      "description": "Global fossil power generation fell after the Hormuz closure due to solar and wind growth &nbsp;&nbsp; Centre for Research on Energy and Clean Air",
-      "content": "Global fossil power generation fell after the Hormuz closure due to solar and wind growth &nbsp;&nbsp; Centre for Research on Energy and Clean Air",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHUzUkVoTmpyai1Zb3ZSajJWOWE3ei1Qcks4cExZckZrNzFUdmpsSkxoeGpOMVI0aWdWRjNrTXIxV1NwNmhxa3daT0ZSVGhhVnBFSFNad1FoWTkxcjV6OUN2R0VmTGpMQnBRZXltWHRfTDFsdWlTUVVpVE9JN0tEVnYycVBsZw?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-14T07:00:00.000Z",
-      "source": {
-        "name": "Centre for Research on Energy and Clean Air",
-        "url": "https://energyandcleanair.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Global fossil power generation fell after the Hormuz closure due to solar and wind growth - energyandcleanair.org",
-      "description": "Global fossil power generation fell after the Hormuz closure due to solar and wind growth &nbsp;&nbsp; energyandcleanair.org",
-      "content": "Global fossil power generation fell after the Hormuz closure due to solar and wind growth &nbsp;&nbsp; energyandcleanair.org",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHUzUkVoTmpyai1Zb3ZSajJWOWE3ei1Qcks4cExZckZrNzFUdmpsSkxoeGpOMVI0aWdWRjNrTXIxV1NwNmhxa3daT0ZSVGhhVnBFSFNad1FoWTkxcjV6OUN2R0VmTGpMQnBRZXltWHRfTDFsdWlTUVVpVE9JN0tEVnYycVBsZw?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-14T07:00:00.000Z",
-      "source": {
-        "name": "energyandcleanair.org",
-        "url": "https://energyandcleanair.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "xAI built an illegal power plant to power its data center - Southern Environmental Law Center",
-      "description": "xAI built an illegal power plant to power its data center &nbsp;&nbsp; Southern Environmental Law Center",
-      "content": "xAI built an illegal power plant to power its data center &nbsp;&nbsp; Southern Environmental Law Center",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0xQNU1yalAzYXhRdjgtbVhjQXhxd1lSTnZfS3ZTWU4xTE5oX21yT2d1elpqMW9pMjhZVjNBUF9QUTcwM1c0aXdzakhmdDlrbEo3VjliUWhZRHpLbkU4Tjl6OUdkenBJYTBsZ20wTXU5ZVJYUlF2TlJGczFlbEpfd3hzOTlxRjdMZy12cw?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-14T07:00:00.000Z",
-      "source": {
-        "name": "Southern Environmental Law Center",
-        "url": "https://www.selc.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     }
   ]
 }
