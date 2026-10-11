@@ -162,6 +162,33 @@ body {
 .field input:focus,
 .field select:focus { outline: none; border-color: var(--border-3); }
 
+/* The date picker follows the app theme; its display format is always DD/MM/YYYY. */
+.flatpickr-calendar {
+  background: var(--bg);
+  color: var(--text-1);
+  border: 1px solid var(--border-2);
+  box-shadow: 0 4px 18px rgba(0,0,0,0.18);
+}
+.flatpickr-months .flatpickr-month,
+.flatpickr-current-month .flatpickr-monthDropdown-months,
+.flatpickr-current-month input.cur-year,
+.flatpickr-day { color: var(--text-1); fill: var(--text-1); }
+.flatpickr-current-month .flatpickr-monthDropdown-months option { background: var(--bg); }
+span.flatpickr-weekday { color: var(--text-2); }
+.flatpickr-months .flatpickr-prev-month,
+.flatpickr-months .flatpickr-next-month { color: var(--text-1); fill: var(--text-1); }
+.flatpickr-day:hover,
+.flatpickr-day:focus { background: var(--bg-3); border-color: var(--border-2); }
+.flatpickr-day.prevMonthDay,
+.flatpickr-day.nextMonthDay,
+.flatpickr-day.flatpickr-disabled,
+.flatpickr-day.flatpickr-disabled:hover { color: var(--text-3); }
+.flatpickr-day.selected,
+.flatpickr-day.selected:hover,
+.flatpickr-day.selected:focus { background: var(--teal-dot); border-color: var(--teal-dot); color: #fff; }
+.flatpickr-calendar.arrowTop:after { border-bottom-color: var(--bg); }
+.flatpickr-calendar.arrowBottom:after { border-top-color: var(--bg); }
+
 /* ── Keywords ── */
 .keywords-area { margin-bottom: 12px; }
 .keywords-area > label {

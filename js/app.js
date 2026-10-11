@@ -344,17 +344,17 @@ function setTodayToDate() {
   var dateTo = document.getElementById("dateTo");
   if (!dateTo) return;
   var today = toISODate(new Date());
-  dateTo.value = today;
   dateTo.max = today;
+  setDateFieldValue(dateTo, today);
 
   // Restored tabs may retain a From date that is now more than 10 days old.
   var dateFrom = document.getElementById("dateFrom");
   if (!dateFrom) return;
   var earliestFrom = formatUTCDate(addUTCDays(parseDateInputUTC(today), -10));
   if (!dateFrom.value || dateFrom.value < earliestFrom) {
-    dateFrom.value = earliestFrom;
+    setDateFieldValue(dateFrom, earliestFrom);
   } else if (dateFrom.value > today) {
-    dateFrom.value = today;
+    setDateFieldValue(dateFrom, today);
   }
 }
 
@@ -363,7 +363,7 @@ function setDefaultDates() {
   var tenDaysAgo = new Date(now);
   tenDaysAgo.setDate(now.getDate() - 10);
   setTodayToDate();
-  document.getElementById("dateFrom").value = toISODate(tenDaysAgo);
+  setDateFieldValue(document.getElementById("dateFrom"), toISODate(tenDaysAgo));
 }
 
 function keepPageFreshWhenChromeRestoresIt() {
@@ -1208,6 +1208,7 @@ function escAttr(str) {
 // ── Boot ──────────────────────────────────────────────────────────────────────
 document.addEventListener("DOMContentLoaded", function() {
   setDefaultDates();
+  initializeDatePickers();
   keepPageFreshWhenChromeRestoresIt();
   schedulePageRefresh();
   renderTags();
