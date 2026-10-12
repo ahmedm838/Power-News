@@ -1,16 +1,61 @@
 {
-  "generatedAt": "2026-10-12T06:03:50.458Z",
-  "successfulFeeds": 46,
+  "generatedAt": "2026-10-12T15:33:21.005Z",
+  "successfulFeeds": 47,
   "totalFeeds": 47,
-  "failedFeeds": 1,
+  "failedFeeds": 0,
   "articles": [
+    {
+      "title": "مصر مركز إقليمي للطاقة في أفريقيا والشرق الأوسط: معرض فايركس مصر 2026 يقود نمو سوق الطاقة الشمسية - شبكة تواصل الإخبارية",
+      "description": "مصر مركز إقليمي للطاقة في أفريقيا والشرق الأوسط: معرض فايركس مصر 2026 يقود نمو سوق الطاقة الشمسية &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "content": "مصر مركز إقليمي للطاقة في أفريقيا والشرق الأوسط: معرض فايركس مصر 2026 يقود نمو سوق الطاقة الشمسية &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIQndHLU5OQm9rdUhIejNodHRZSi1DcldETTVEc2s5T2VXbFRxNm13dWl5NVcwUWxXNUkwNEVOZ0hfSjJtVE1ZMlN0Wjh3ZUVMUjZj?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T13:40:22.000Z",
+      "source": {
+        "name": "شبكة تواصل الإخبارية",
+        "url": "https://twaslnews1.twaslnews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "ميتسوبيشي باور: مصر تشهد استثمارات كبيرة في الطاقة المتجددة - جريدة حابي",
+      "description": "ميتسوبيشي باور: مصر تشهد استثمارات كبيرة في الطاقة المتجددة &nbsp;&nbsp; جريدة حابي",
+      "content": "ميتسوبيشي باور: مصر تشهد استثمارات كبيرة في الطاقة المتجددة &nbsp;&nbsp; جريدة حابي",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQTDN4QzhEMmJJX29DcGVsWnluTXlkekFNX3FRWmpGNXpkZWE3S2xyQXpKWWdBNG90bk1heXZGeGJiQ2ZVcWRBbkZKa0I5SjhUWVNLem5KRnVnWDg0V0Joa0l4ZlJFOEJsdmF0TUo2SWtpZjJ6RHB6ekE4TXdrZ3Q0T1BzYldEN1cteTVLdHFneDAzRmluSG5idlBqZDVQUHl6LWxpMTdjcXBxZEdlNDZ2NUoyX0NINGJ5YVk4aFVWMk9sSS0wVFVXX0paWDdNUFdSajByX1ZmSEFEMEFXOHJVbm1xVmF5d2xTMEZvRUVvMnhUUTd5X2duemR4ZDVhZEg2RWFibFZJOFJvUlotZFRSWDljeE5CblFkWVNHVEdlMlI4UFZndjFSYk5US3M0LTRhQk51QURXRTZ4RzlrZEtwTjFibmEwQ0dKQTFPN2dwdUM1djQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T13:36:32.000Z",
+      "source": {
+        "name": "جريدة حابي",
+        "url": "https://hapijournal.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Wind power could help Türkiye cut its gas import bill by $4 billion - Daily Sabah",
+      "description": "Wind power could help Türkiye cut its gas import bill by $4 billion &nbsp;&nbsp; Daily Sabah",
+      "content": "Wind power could help Türkiye cut its gas import bill by $4 billion &nbsp;&nbsp; Daily Sabah",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWGw2aTlfZDFoc3dMcmR5NTZkTkdlc095YWZPYV9nTUpYYzYzLXZObDVudHBmZU9qMU1JQU9FbU5OTDNlOTlIeFpobVNFQ0hPOGU2cUg0MHZ5dVMtMUs0RDByY19PQzdyaGZZTGRUeVB3bnBSTWtpdzRrVnV2OHMwQl9yMnhxazl3eTBDcWR0YUtQOVNwaWU4N2k1d2t6ZFZvLXlXYlZVeGRDdWFJUjFJ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T11:30:00.000Z",
+      "source": {
+        "name": "Daily Sabah",
+        "url": "https://www.dailysabah.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "Baton Rouge regular gas stays about $3.92 as Gulf oil production starts to recover - WBRZ",
       "description": "Baton Rouge regular gas stays about $3.92 as Gulf oil production starts to recover &nbsp;&nbsp; WBRZ",
       "content": "Baton Rouge regular gas stays about $3.92 as Gulf oil production starts to recover &nbsp;&nbsp; WBRZ",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMlAxLV9RcElXZS1XMFZRZHRCYmNBMzF6OU94cWZLVkRGaC1NcXpiSjMwemtwTEFXU3pGV2tMMnZ4bWZOSVB4RGVSLUZadVpJVDJhalFYUmhHVWVuYU82aXNseS1IZ0RuZm01YU9zdmFTeWtZMlcybS1nTUFnY01lb0k1WEpjcXBQRlNsNjJSSTNMZk11cnZCRmNsdzZnQ0JDdHhKQm5OOHU4SzBB?oc=5",
       "image": "",
-      "publishedAt": "2026-10-12T03:38:15.000Z",
+      "publishedAt": "2026-10-12T03:41:46.000Z",
       "source": {
         "name": "WBRZ",
         "url": "https://www.wbrz.com"
@@ -40,7 +85,7 @@
       "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
       "image": "",
-      "publishedAt": "2026-10-10T23:19:45.000Z",
+      "publishedAt": "2026-10-11T22:13:58.000Z",
       "source": {
         "name": "EnergyNow.com",
         "url": "https://energynow.com"
@@ -1240,7 +1285,7 @@
       "content": "بطاريات تخزين الكهرباء في الشرق الأوسط قد تشهد طفرة.. بفضل مراكز البيانات (تقرير) &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQdTU2VjJvZG9wN1B6MDM3SjBoVlJ1NFZyLUIwUXNIV2dad3l3NlZBcEZKaXpqNlhWU2ZQVTNDSnpiRjBZeWJFb0VRMklSODNmNUVmbUtwOGZMaGtJbEoycWRGa3hXR2MzMTNORV80NFN3dXVKRkJvTGhxS2J2TzlieFJRS3NwdVlHN200RUlKdE82QUVPaVNwZkM1OVNtOXhhY2I4QTZWY29nbjFZSUN5eEhpaC11MkVINWdVZ2d2YWE0bldPYm1tbUVQLXlidnh3MkhlUGpRY2FscEExVGpsYWQ0a19PcnJGcjBINzJNVVVPSk9CNWw5NFk3SXFhZWlXTXIwWk9yRTlrZEo2QlkyQWNqSU5sYXlPYjRvNjNBNHBlY1lrVEZXTE5uUkpPT2tIUDhfQWFyMXI4T0FWd0hlMjMteDhVMG9ZWlcyZg?oc=5",
       "image": "",
-      "publishedAt": "2026-10-04T10:01:04.000Z",
+      "publishedAt": "2026-10-04T07:00:00.000Z",
       "source": {
         "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
         "url": "https://attaqa.net"
@@ -3672,21 +3717,6 @@
       "preferredSite": ""
     },
     {
-      "title": "عاصفة قوية تقطع الكهرباء عن 60 ألف شخص في شمال شرق أمريكا - صحيفة سبق الإلكترونية",
-      "description": "عاصفة قوية تقطع الكهرباء عن 60 ألف شخص في شمال شرق أمريكا &nbsp;&nbsp; صحيفة سبق الإلكترونية",
-      "content": "عاصفة قوية تقطع الكهرباء عن 60 ألف شخص في شمال شرق أمريكا &nbsp;&nbsp; صحيفة سبق الإلكترونية",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aSkdVRjN1SDZ2Slo0UnJ2cEJwQkRCbGhlQUZSWVROcEVRTHVtYUtJV3VoM1FOTHVmMXM5bDM5RU5rcVB3Y19r?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-26T14:00:00.000Z",
-      "source": {
-        "name": "صحيفة سبق الإلكترونية",
-        "url": "https://sabq.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "عاصفة قوية تقطع الكهرباء عن (60) ألف شخص شمال شرق الولايات المتحدة - جريدة المدينة - صحيفة المدينة",
       "description": "عاصفة قوية تقطع الكهرباء عن (60) ألف شخص شمال شرق الولايات المتحدة &nbsp;&nbsp; جريدة المدينة - صحيفة المدينة",
       "content": "عاصفة قوية تقطع الكهرباء عن (60) ألف شخص شمال شرق الولايات المتحدة &nbsp;&nbsp; جريدة المدينة - صحيفة المدينة",
@@ -3775,6 +3805,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "عاصفة قوية تقطع الكهرباء عن 60 ألف شخص في شمال شرق أمريكا - صحيفة سبق الإلكترونية",
+      "description": "عاصفة قوية تقطع الكهرباء عن 60 ألف شخص في شمال شرق أمريكا &nbsp;&nbsp; صحيفة سبق الإلكترونية",
+      "content": "عاصفة قوية تقطع الكهرباء عن 60 ألف شخص في شمال شرق أمريكا &nbsp;&nbsp; صحيفة سبق الإلكترونية",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aSkdVRjN1SDZ2Slo0UnJ2cEJwQkRCbGhlQUZSWVROcEVRTHVtYUtJV3VoM1FOTHVmMXM5bDM5RU5rcVB3Y19r?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-26T07:00:00.000Z",
+      "source": {
+        "name": "صحيفة سبق الإلكترونية",
+        "url": "https://sabq.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "Energy Transfer vs. MPLX: Which Pipeline Giant's High-Yield Dividend Is Actually Safer? - The Motley Fool",
@@ -5469,6 +5514,26 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "\"International Finance Corporation\" Studies Financing a Power Plant in Mafraq for 200 Million Dollars - خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+      "description": "\"International Finance Corporation\" Studies Financing a Power Plant in Mafraq for 200 Million Dollars &nbsp;&nbsp; خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+      "content": "\"International Finance Corporation\" Studies Financing a Power Plant in Mafraq for 200 Million Dollars &nbsp;&nbsp; خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbmxLMWRuS0ZzbWdyRzB4VFdlVUI0T1BUY3dVVk9TeS0tQ0xiQ0xyR0FuRGNkLUh5dlpOc1NKWVM4RjB0c1B0X1JwLWxsclh1SmdnalFTZU5xTkVqdWpSR0RscndaeXBxQjFDb0ZzX1c1LXpWamttN3VETE10UEVGSi10cmd6bVlYd3NTREhqUWVnUVdJRGVTU1BjUms1VE1pZEltUW9ZdXFwZ0RpLWdFQmkxM1oyZVhTS0NPbnBDeFBLOUhUbS1uYURPcldaODBmUkE?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-20T07:00:00.000Z",
+      "source": {
+        "name": "خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+        "url": "https://www.khaberni.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [
+        "saudi arabia",
+        "iraq",
+        "iran",
+        "turkey"
+      ],
       "preferredSite": ""
     },
     {
@@ -10649,7 +10714,7 @@
         "qatar",
         "turkey"
       ],
-      "preferredSite": "alanba.com.kw"
+      "preferredSite": "alborsaanews.com"
     },
     {
       "title": "Energy affordability misery: electricity and natural gas, inflation and volatility - Center of the American Experiment",
@@ -11795,7 +11860,7 @@
       "title": "هل تكشف موجات الحر هشاشة شبكات الكهرباء في شمال أفريقيا؟ - الجزيرة نت",
       "description": "هل تكشف موجات الحر هشاشة شبكات الكهرباء في شمال أفريقيا؟ &nbsp;&nbsp; الجزيرة نت",
       "content": "هل تكشف موجات الحر هشاشة شبكات الكهرباء في شمال أفريقيا؟ &nbsp;&nbsp; الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOMFJaajgwdi1xNmxRRmdVS2IyZ0lKamJudW8tZncyczh2dFYtRElQcTd1NVVpYjNrS1FycGc4S3B2NVhuX2dvTGw0ZmpwaHBiWWk1MkZ4TkFNVl85UGdrRmZOX2hFYWRJS3BYSkZuMWwxSDBURk5VNzh0ZEVNdkg4XzN2Wng4YXVXelZrZGN4clRZQ0o4RGwxUlg4WE0zZnlSazg1MGlyVnV3WWh0TWVTME83T0NRZDF5dnN1dEtNTXJ6eUhsdGQ4aXJoWl9hRXFFeWp5VWVCNlNCanlNVm9UaWZOSVR2MU1LRVpkbVJ1WXF0Z0VDanE4NEhhMGpjdUdaUjhQUEtseFJoUS1sLWJQYVJCaFB2aHdvQkRnRmNkVW5vS2xQNzdvVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOMFJaajgwdi1xNmxRRmdVS2IyZ0lKamJudW8tZncyczh2dFYtRElQcTd1NVVpYjNrS1FycGc4S3B2NVhuX2dvTGw0ZmpwaHBiWWk1MkZ4TkFNVl85UGdrRmZOX2hFYWRJS3BYSkZuMWwxSDBURk5VNzh0ZEVNdkg4XzN2Wng4YXVXelZrZGN4clRZQ0o4RGwxUlg4WE0zZnlSazg1MGlyVnV3WWh0TWVTME83T0NRZDF5dnN1dEtNTXJ6eUhsdGQ4aXJoWl9hRXFFeWp5VWVCNlNCanlNVm9UaWZOSVR2MU1LRVpkbVJ1WXF0Z0VDanE4NEhhMGpjdUdaUjhQUEtseFJoUS1sLWJQYVJCaFB2aHdvQkRnRmNkVW5vS2xQNzdvVdIBrgJBVV95cUxQcVh2WHFrd2ZMNVlRcGdmamZjZnY3dWxQMWl2eGl1RnlVTE5fZTJmSE55ZHBVY1E3RXpyZDlTbGp2TVhXUlZfQ09FdEtGSHBuWWVpdmM3SzhKc004YkN1WmJWU1NjQ2g2NGczRWttaUdqZG13OWs3dnRrWEVxY0huWHhkNHZGaHBqeERBM1lCZUh3NE1YSEp6YTIyTjNqbE10MElTdGZpVjkwMkdIYkh6dlV0Tzd4MWZyZVIyM1BmVUtMaU1nRVdGcXAyNzlGT082SnFOdnlMVEljdVBFeGRRdUlKMkhMZWJ4Rlg4T2ZucVdYMmYtdlU2Q2NwLUFxOVBTRk9DVzFJN2FhSW5pdU1Cc04tUGQwWmpKV0RYVDBsTW9CR25VMEt0MXN5Q3RsZw?oc=5",
       "image": "",
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "source": {
@@ -12790,7 +12855,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "Cuba suffers nationwide blackout after total power grid failure - Honolulu Star-Advertiser",
