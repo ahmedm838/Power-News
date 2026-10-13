@@ -1,9 +1,174 @@
 {
-  "generatedAt": "2026-10-12T15:33:21.005Z",
+  "generatedAt": "2026-10-13T00:45:03.704Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "بطاريات التخزين تنافس الغاز في تكلفة الكهرباء.. الشرق الأوسط وأفريقيا بالصدارة - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "description": "بطاريات التخزين تنافس الغاز في تكلفة الكهرباء.. الشرق الأوسط وأفريقيا بالصدارة &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "content": "بطاريات التخزين تنافس الغاز في تكلفة الكهرباء.. الشرق الأوسط وأفريقيا بالصدارة &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPUElYWmVOWXlFbGtoZEQzOUtUbnpERWlSMGtrM29yTzlLTHppSzBRSmY2akVpcHpxeEViSVBEM2Jxd2tDcmlzQ1p0NEV6aU8wbTFXTXJ0VFdaS2hMOUFiZXE1ZHNIUHp0UGFjbE1OUGk5Qzd4cEl0Q2lBWDdKRmhaZTlhTnR6TjA2aW1oUWpJTVFscUtYZUo5ajBFRlRSZkpTUm9IZlptOE1KRzZuTmg3Q3ZJZnRDVUY3SHZ5cXYyNDlvQ0Nqbm84dm1pc3NKV0ZwMDJYT19OVEpreDZLZTJ5N0lDZWtXOU9NcThvbUlRbmwwTGFWUVdIMWlEbHlFN0hvM3pTUlJhRTNFOEpPOVZhSFJOcW8wYWpZQ2hqMDRXZHF4b2N4MTNTaUFjOERIdVFNX3czdTdlQlVWeU5RV19kS3BrNVBQVmFyREFpOFh3?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T23:00:17.000Z",
+      "source": {
+        "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+        "url": "https://attaqa.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
+      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T19:58:45.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Power Plant Road closed due to gas leak - Aspen Daily News",
+      "description": "Power Plant Road closed due to gas leak &nbsp;&nbsp; Aspen Daily News",
+      "content": "Power Plant Road closed due to gas leak &nbsp;&nbsp; Aspen Daily News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXNOUHhzTm5HMWtFZjBEZ0ktc203T1U3R1ZhYzI5NmNZN0xLYnN1bmlfQ2dYT1dyS3hra0hUMFJBRUwwcE5jMEsxWEVBNExXTndkZWk3RUVxR0hrdGxlZVpQWkhnLUdESGR4RXlYVFJJbTdTbmppZ2lZQ3FndVZOMG5sS2JyVzZ1OVo3aw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T19:16:07.000Z",
+      "source": {
+        "name": "Aspen Daily News",
+        "url": "https://www.aspendailynews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "NSW and federal government at odds over gas power plant plan ​ - News24",
+      "description": "NSW and federal government at odds over gas power plant plan ​ &nbsp;&nbsp; News24",
+      "content": "NSW and federal government at odds over gas power plant plan ​ &nbsp;&nbsp; News24",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc0RncVNsbGJlLTZBeFh2RFR3UllPOUxtVXVqd1hDMnpjaVZta0xURUJFTWltUjdSZWxDd0dBbDFzZTJyMmhUNWhwWWloMHNRREFlTEtTMm5VdzhLcHlSVXRvQl96QTQ1UGdGN25Gd01INWplWU5sMm93U0NxTzlZNE44RnNTcnBpdXpnUFh2aG1BTllYN3RNN1NuamsxWlZMakw3VE1UYkNmRjM4WGU5ekR5LTFzTDFBMDZGaHFTYnBiOElDV005Z2FJVTZHRnRzSU5nTzFuS25OZml0Z3J4RGFETkw2eWJpTEHSAe8BQVVfeXFMTmhtd1Y1bXNONUo1bGlycDMyTTVWYmtqZGZrUlhtUE5pUmxSMHBFRGlVdEJieFVtbHl3UXBodWQxdzNrQllNN2I5UzY3RUhXQXhMS19VLV9tTEVXMEhmVEp0Mm42eUNDX2xqRWgzNFRTaFBwWi1MY2hCRHJ1bHBidHQyTFNwMGhhdlRIb3E3TE1JWHFOYzRYbHEwR2dVUG44T01WbHZqZWExVVhSeFZKQm1TbW9Jek5VWWcwOVgxY0FWU1NiWWRZX2RWUXFDSjB3MUs3TjhleTk2ZldyZmtWVENpaTZvamxqVzRfSGoxVk0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T18:59:48.000Z",
+      "source": {
+        "name": "News24",
+        "url": "https://www.news24.com.au"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "خلال جلسة «ربط القارات – الربط الكهربائي الإقليمي وتجارة الطاقة بين الدول«مصر للطاقة» يناقش متطلبات تكامل شبكات الكهرباء وتجارة الطاقة بين الدول",
+      "description": "ناقشت جلسة «ربط القارات – الربط الكهربائي الإقليمي وتجارة الطاقة بين الدول»، ضمن فعاليات الدورة الخامسة والثلاثين من معرض مصر …",
+      "content": "ناقشت جلسة «ربط القارات – الربط الكهربائي الإقليمي وتجارة الطاقة بين الدول»، ضمن فعاليات الدورة الخامسة والثلاثين من معرض مصر …",
+      "url": "https://www.egelectricgate.com/?p=10653",
+      "image": "",
+      "publishedAt": "2026-10-12T18:05:00.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "«مصر للطاقة»: تكامل شبكات الكهرباء يتطلب تمويلات طويلة الأجل وأطرًا تنظيمية موحدة - جريدة البورصة",
+      "description": "«مصر للطاقة»: تكامل شبكات الكهرباء يتطلب تمويلات طويلة الأجل وأطرًا تنظيمية موحدة &nbsp;&nbsp; جريدة البورصة",
+      "content": "«مصر للطاقة»: تكامل شبكات الكهرباء يتطلب تمويلات طويلة الأجل وأطرًا تنظيمية موحدة &nbsp;&nbsp; جريدة البورصة",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aYXV2RjVRVWNTQXJfLXdCOXZ1SzJPOWM0WjlJUmM1NDdmWElNVmFkN2ZuZWM5aVBROXZIZmFTMVhwVkhqTWhYVGwwUURlWWdmRmhkdDVoc1l4aHc?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T17:38:11.000Z",
+      "source": {
+        "name": "جريدة البورصة",
+        "url": "https://www.alborsaanews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "«مصر للطاقة» يناقش متطلبات تكامل شبكات الكهرباء وتجارة الطاقة بين الدول - أموال الغد",
+      "description": "«مصر للطاقة» يناقش متطلبات تكامل شبكات الكهرباء وتجارة الطاقة بين الدول &nbsp;&nbsp; أموال الغد",
+      "content": "«مصر للطاقة» يناقش متطلبات تكامل شبكات الكهرباء وتجارة الطاقة بين الدول &nbsp;&nbsp; أموال الغد",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxONzJmUDRLV0Z6Nm95ME1ZNmdtMm5lX1FhYnBtVlZ3dXFPOU5pV19xM2NxT2M5bDZoQzhCM0NwelJVa2NwdGdRV2thYVN3cWtLdkpBRURyZU1ndG9saTVuWlpqdXA0ZHhEZjE5a1J3VGZNV1hKVjdERURVbl9falZLb1VaZERtMWZETGtjb2JOLU0ya2U2S1R3Z3VjeVgzUHlTSm5LcVJkaEgzTEdTcHpjRzN3NUJwSGRpVDJhQ1Bab2dTamlsWGdHbmVNeFRjdzU4Q0ZuVEdkTllOTVNzM190TDhqU1RHeDJ2ZE9hZjVPSUtjb1dPa2ZDbEhaMmdiRnBKQ2JsNXUzMmZOMjNHNWNmT2lncUN6OGxmS1hNRGNKTFN1YUlHU0l1ZGxxZEZRY2l4eDRfWnJUS1kwdDNDSi1wanVlTQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T16:57:37.000Z",
+      "source": {
+        "name": "أموال الغد",
+        "url": "https://amwalalghad.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "«مصر للطاقة 2026»: تكامل شبكات الكهرباء يتطلب أطرًا تنظيمية موحدة وتخطيطًا طويل الأجل - جريدة المال",
+      "description": "«مصر للطاقة 2026»: تكامل شبكات الكهرباء يتطلب أطرًا تنظيمية موحدة وتخطيطًا طويل الأجل &nbsp;&nbsp; جريدة المال",
+      "content": "«مصر للطاقة 2026»: تكامل شبكات الكهرباء يتطلب أطرًا تنظيمية موحدة وتخطيطًا طويل الأجل &nbsp;&nbsp; جريدة المال",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNSHp1Q0NsNzRBVm1wTXdNU2owQ0doNGw1ZWc4R0ZaRG9hVTQ4dkJNNVpLLUxmLTQ0T0VTMklYb1lDR1ZnV242VnhfZlhUYkE2N2NNQlQwSDBQX0wtamdmenpyMUhkeDRKdkYwVUFwN1FmNm5HdW01WkhrYjVfZGlrUnZqQldQMzdVRDRIZExkYTVncWcyZ0JZU2ZzSzBvbklDbkk1Rk5WdUZfLXdJbm5IUzJwQnV3TFlBZlVtMjBJeGVyQUxLYWJOVm56Xy11SUtJLTRaakhtRjJSLVRWRjBVZ2JXUk8yT0lHczd6Xzh6RHVfaEtaTU83RVUwQm04VUFUeUctMURNLTBBTU55czg1VklmMS1XOXI2NlJ5UXFEUVR1QWRaRmdZTm5iR2J0YkUzMWpXTW5HV1ItOVZPWTllZWltbXVOVnluWjFRUHN6cGhkRTZIOWNNQl9LV0NKbHlNU3Vj?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T16:36:21.000Z",
+      "source": {
+        "name": "جريدة المال",
+        "url": "https://almalnews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "في اليوم الأول لمؤتمر ومعرض مصر الطاقة.. أونا سولار تزود مصانع امريكانا بالطاقة النظيفة بواسطة محطه شمسيه 2 ميجاوات",
+      "description": "انطلقت اليوم اعمال مؤتمر مصر الدولى للطاقة بمشاركة أكثر من 200 شركه عالمية ومحلية قدمت احدث منتجاتها في مجالات الطاقة …",
+      "content": "انطلقت اليوم اعمال مؤتمر مصر الدولى للطاقة بمشاركة أكثر من 200 شركه عالمية ومحلية قدمت احدث منتجاتها في مجالات الطاقة …",
+      "url": "https://www.egelectricgate.com/?p=10650",
+      "image": "",
+      "publishedAt": "2026-10-12T16:26:00.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "Amid surge in power generation, volume of natural gas traded on IGX platform triples YoY - The Times of India",
+      "description": "Amid surge in power generation, volume of natural gas traded on IGX platform triples YoY &nbsp;&nbsp; The Times of India",
+      "content": "Amid surge in power generation, volume of natural gas traded on IGX platform triples YoY &nbsp;&nbsp; The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQ0tYUFZXbnNOak5SNlExRUVNU2d5SHlTYzhiZ0ZWaDBXbzJldmFZRm5hcXotRkFpb0hlZlpkaFlmVUsyZXhKeUJTeUlNQ3Rna0M4cFloZDRxVTFYWHBBaW0wWjFuMXBFYnFSemlFeHFnTFJJaFlJRjE1ZDBGNU42c3Y2UERDUzBFLUVJRmlJQ2h4Ny1EUTVjMmV5UlZoSEdSSVZlRDFVcGVjVUxIdWVZempyaUFpV3JwcjFhdUFpR2ZWU0JtenM4d01xemhLWWx0WUJEcFZienZubUtGcWVGZWxFeW80MWNyY3BCc0Rsek9fRnp6Y3F5OWZ0MlFvWTIyVjVv0gGIAkFVX3lxTFBCcGJpYzhhdzBzT1JSUU1FNmRGbkNRZmhOdTkxMWxpZWM1YUp2NlRsWnRSYWpxX3RSQTRUSWs3ekRNbmx5dXNqU0NMbVFJZExrVVNpTElBTHgzTEZFOHJmOFBpU0wxWkdWMzBwZWxrZUNlOHFXUVFDUWNIUk9GQUlvZ1lWc0xtaVdJQVYzU3ptVkpHeENUSTQ1dVFjZDRJc3hHV0Fxd25YalhGUXpmUmdjcmlJV0dCSkYza2lMMkZUOFJFYXI4Ym93alVtR1p2bWNfMktfUUhlWHNBaVplT1htZWx1V3lWSmU2SFl4OEI5R20zUXlEOV9oaTFxVkdGY3RSSGx4UTBkTw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T15:22:00.000Z",
+      "source": {
+        "name": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "السوق العربية للكهرباء وتبادل الطاقة على طاولة اجتماع في الرياض - الشرق الأوسط",
+      "description": "السوق العربية للكهرباء وتبادل الطاقة على طاولة اجتماع في الرياض &nbsp;&nbsp; الشرق الأوسط",
+      "content": "السوق العربية للكهرباء وتبادل الطاقة على طاولة اجتماع في الرياض &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNYWl1azFKWWoxQ2tNMEcxQTBMOTJQa1ZLN3pKcUpoREhTalNKc0lUajh5eGJVOVZGVVBSeHM5bDVsSWQwT0tIV0tJRV9hMHM4UG45ZWswRDJ3WXhGeDBULXZqTXlRSEJkeHJIVEJrSUVVbGZTN0ZId3ZRaVhZeVNSWWpWaktGNjlyMnpTZ1JZb1l5RXVGZDNUaG8yZ3NjODVWUDk4STFISV91MVAzX2k2VzA1czRDcDc0c2IwWWlqaURQMWp4dGh4ZDZkT0EzMWhyRkU4cmR3Vm1JazBzaDhGZHVETFdQM1NWOHNYWHg2eHNsZFZ2aHpWSklvcTl5NTczZjF1WjNwdEpMMnJoYlBmVWhUYTZUR0NxUWV5WFlfQWRzTXdaa0h4bFVySjBPU0xtSkdENE5nUE5iRzdfamx5TUxBOE4tS2VEMkRRM3pPSnh4b056R3pXRmlMcEpFWDh5OWhZelpNeVZyMlRXSWVZLXIzZUpBXzRPOGJES09MSjNpbXA2Njd1cy1aMDBwZEhpajJPdEx0SmhVZmJYUnZMTnV1Y3NpZWw3Z01WbVZxdXh0RHJiS2Z1N1B4S0p2bkZpUm4wSnhTUzlGNWc1b3A1cUJqU010RlltcjlSYzdmRElmRTdrRVhLdEFqdDExZVUxR21ab2RXSTN3REtaUWdtc0N0THhpUWI4MjlwWTlQNUg3UFB6aUhMU2pUSko3UlRvazRtcm5QT3h4bUpQQW9hVHdScHo2V012ZDB6b2dB?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T15:17:38.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "مصر مركز إقليمي للطاقة في أفريقيا والشرق الأوسط: معرض فايركس مصر 2026 يقود نمو سوق الطاقة الشمسية - شبكة تواصل الإخبارية",
       "description": "مصر مركز إقليمي للطاقة في أفريقيا والشرق الأوسط: معرض فايركس مصر 2026 يقود نمو سوق الطاقة الشمسية &nbsp;&nbsp; شبكة تواصل الإخبارية",
@@ -35,6 +200,21 @@
       "preferredSite": ""
     },
     {
+      "title": "\"We're cutting produce losses with cooling that needs no electricity\" - FreshPlaza",
+      "description": "\"We're cutting produce losses with cooling that needs no electricity\" &nbsp;&nbsp; FreshPlaza",
+      "content": "\"We're cutting produce losses with cooling that needs no electricity\" &nbsp;&nbsp; FreshPlaza",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWVJqM1BUN0gycG1BQWVfUWtxOTNuRlBwLTBNdU5mZVRpODNVQ1pIS1A3MXVmR2RiQkItVTViSkxjYkt4ZGZFTE93U0xZS3dacHRGcHc4MEszbVdNaEV2cUl0UFlFc05tLW9JRUdtOWpzQnpKem5hX1BEeTR6UzlKdjJDNTVhSkJtNUZzR0FPTnBRLWpIcTdSb2t6LTIwdmp2dDh6NmowcmhRc0ZybG00RF9kNlVnNDFzbFVuQzNIRWJORE0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T12:42:56.000Z",
+      "source": {
+        "name": "FreshPlaza",
+        "url": "https://www.freshplaza.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
       "title": "Wind power could help Türkiye cut its gas import bill by $4 billion - Daily Sabah",
       "description": "Wind power could help Türkiye cut its gas import bill by $4 billion &nbsp;&nbsp; Daily Sabah",
       "content": "Wind power could help Türkiye cut its gas import bill by $4 billion &nbsp;&nbsp; Daily Sabah",
@@ -55,7 +235,7 @@
       "content": "Baton Rouge regular gas stays about $3.92 as Gulf oil production starts to recover &nbsp;&nbsp; WBRZ",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMlAxLV9RcElXZS1XMFZRZHRCYmNBMzF6OU94cWZLVkRGaC1NcXpiSjMwemtwTEFXU3pGV2tMMnZ4bWZOSVB4RGVSLUZadVpJVDJhalFYUmhHVWVuYU82aXNseS1IZ0RuZm01YU9zdmFTeWtZMlcybS1nTUFnY01lb0k1WEpjcXBQRlNsNjJSSTNMZk11cnZCRmNsdzZnQ0JDdHhKQm5OOHU4SzBB?oc=5",
       "image": "",
-      "publishedAt": "2026-10-12T03:41:46.000Z",
+      "publishedAt": "2026-10-12T03:38:17.000Z",
       "source": {
         "name": "WBRZ",
         "url": "https://www.wbrz.com"
@@ -74,21 +254,6 @@
       "source": {
         "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
         "url": "https://attaqa.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
-      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-11T22:13:58.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -143,7 +308,7 @@
       "title": "Hurricane Isaias could disrupt oil production and raise gas prices, expert says - WNEM",
       "description": "Hurricane Isaias could disrupt oil production and raise gas prices, expert says &nbsp;&nbsp; WNEM",
       "content": "Hurricane Isaias could disrupt oil production and raise gas prices, expert says &nbsp;&nbsp; WNEM",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjh2c2lJLWItYnVHQjk0cFdaa3JabHpNdmhwSDZrUjhvd3NjMWZ5VmkxMzdoVmxBLTVDVGIzOWk4RU15VFloY2pVcGhHR1FQWHQzX0dSNlJyVHladGhWRFBWRVRYcFhoQWM5Q3V0TWl6UkZmeVlZUDlXUURJclJFX1FnWGZOZjBZVE55SGl2S1Z5UUhNbVlpR3lVMmdMb0JjVFhXUFh5YThYNGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjh2c2lJLWItYnVHQjk0cFdaa3JabHpNdmhwSDZrUjhvd3NjMWZ5VmkxMzdoVmxBLTVDVGIzOWk4RU15VFloY2pVcGhHR1FQWHQzX0dSNlJyVHladGhWRFBWRVRYcFhoQWM5Q3V0TWl6UkZmeVlZUDlXUURJclJFX1FnWGZOZjBZVE55SGl2S1Z5UUhNbVlpR3lVMmdMb0JjVFhXUFh5YThYNGfSAb8BQVVfeXFMTWVLTndkdVdkZzNpUUpnM3BER1lQVVFlV0R5YV9hODc4XzctWERtcnd5NHo0dEFDZHc1MTZWNV9ESnAtdWZXMkR3TlNWRzBqWUIxcVhfWFNIR2N5azNUWTJ2d3RlYVJYMERQLTVBWGZNTjF1V0xISGtOTFpicWlTS0J6d01QN0NpMGdpZWt5dTJPamR3d3ZtbGJPdzJsUzRZRlNVWG9SY1kyU0c3WVU1dFY4eFlUN2FQYTA5Szkwc0U?oc=5",
       "image": "",
       "publishedAt": "2026-10-09T21:11:00.000Z",
       "source": {
@@ -1655,21 +1820,6 @@
       "preferredSite": ""
     },
     {
-      "title": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية - اليوم السابع",
-      "description": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية &nbsp;&nbsp; اليوم السابع",
-      "content": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية &nbsp;&nbsp; اليوم السابع",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MTVZyWWdVQ1pLbW0wSXN1TDFmNDRmR2Jrc0VFdEljSXRrQlVoT2ZPbE9ENTlJNHVLRUZTRkdzams0WTTSAYgEQVVfeXFMTUVNOGFrRElEUmstV3dxQmdTRHhWV05vMWhlcm5qempRX2htZXBkRGNEN0pDNEEwTGJWLV81blFhZE5kSGVPbG9wLW1kOGhkekk3X1VUaE1zcGdNSERWdk5ZdXFlVUQ5TnRXSEcyYUV5WTJINDNvaDdSemZRZHhjSVhXSi1wUFU3Qkx6UkY4NDAzYWlUYVI1VEplWlZkSGFrb2lMTUtVSUNTWDkwUk5qbzEwQ3lyVTI1LXlfVy1RTFhRZlR4UXVKN3dZcDdta2c4d2drNUFLLUlfdEFvcUs3RHVUUWV5ZmkxVUxKQmxmMjJ4Q1IweVp6c2NZR1lBUHpxWXAxY0NQTDVYRFdPNm9CU2dJSFBtN0hEUG1zdXJndmRHSVVHVUkwMnRMSlZabE9TM3R1V2RFaTNhMTlHdG55VUZFTHQ2ZlpOZnBjeUxoczY1ano3Qkd2ZEpGTHllVmFhekZIMGFhTnVMWUFZZGJGbVF2NGtWaF9RWXRjWWFIeW9yYXJLRlZOUTNObm91R2VRWk5hNUloamlkWl9yZVd4Ukdza251QWdRaGpWOG9hZ094NVNFU1FmSTZHX2R1aXNYQ2F3cGpXUUdnTVlxYjVBYW5UeDlNNnZROUNaRlhIbVoySXBhX1lFNy1ScWI1cUhoMHB5azM1dlZDUy1RdWYtV0ZIQll1TE1HMQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-01T19:00:00.000Z",
-      "source": {
-        "name": "اليوم السابع",
-        "url": "https://www.youm7.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية - youm7.com",
       "description": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية &nbsp;&nbsp; youm7.com",
       "content": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية &nbsp;&nbsp; youm7.com",
@@ -2071,6 +2221,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية - اليوم السابع",
+      "description": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية &nbsp;&nbsp; اليوم السابع",
+      "content": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية &nbsp;&nbsp; اليوم السابع",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MTVZyWWdVQ1pLbW0wSXN1TDFmNDRmR2Jrc0VFdEljSXRrQlVoT2ZPbE9ENTlJNHVLRUZTRkdzams0WTTSAYgEQVVfeXFMTUVNOGFrRElEUmstV3dxQmdTRHhWV05vMWhlcm5qempRX2htZXBkRGNEN0pDNEEwTGJWLV81blFhZE5kSGVPbG9wLW1kOGhkekk3X1VUaE1zcGdNSERWdk5ZdXFlVUQ5TnRXSEcyYUV5WTJINDNvaDdSemZRZHhjSVhXSi1wUFU3Qkx6UkY4NDAzYWlUYVI1VEplWlZkSGFrb2lMTUtVSUNTWDkwUk5qbzEwQ3lyVTI1LXlfVy1RTFhRZlR4UXVKN3dZcDdta2c4d2drNUFLLUlfdEFvcUs3RHVUUWV5ZmkxVUxKQmxmMjJ4Q1IweVp6c2NZR1lBUHpxWXAxY0NQTDVYRFdPNm9CU2dJSFBtN0hEUG1zdXJndmRHSVVHVUkwMnRMSlZabE9TM3R1V2RFaTNhMTlHdG55VUZFTHQ2ZlpOZnBjeUxoczY1ano3Qkd2ZEpGTHllVmFhekZIMGFhTnVMWUFZZGJGbVF2NGtWaF9RWXRjWWFIeW9yYXJLRlZOUTNObm91R2VRWk5hNUloamlkWl9yZVd4Ukdza251QWdRaGpWOG9hZ094NVNFU1FmSTZHX2R1aXNYQ2F3cGpXUUdnTVlxYjVBYW5UeDlNNnZROUNaRlhIbVoySXBhX1lFNy1ScWI1cUhoMHB5azM1dlZDUy1RdWYtV0ZIQll1TE1HMQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "source": {
+        "name": "اليوم السابع",
+        "url": "https://www.youm7.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "Statement: Fast-tracking the New Oil Pipeline Is a Reckless Waste of Canadians’ Money - Environmental Defence",
