@@ -1,9 +1,99 @@
 {
-  "generatedAt": "2026-10-13T14:16:53.863Z",
+  "generatedAt": "2026-10-13T22:48:33.641Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "CEMSE calls for strategic petroleum refinery policy to strengthen Ghana’s energy security - 3News",
+      "description": "CEMSE calls for strategic petroleum refinery policy to strengthen Ghana’s energy security &nbsp;&nbsp; 3News",
+      "content": "CEMSE calls for strategic petroleum refinery policy to strengthen Ghana’s energy security &nbsp;&nbsp; 3News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXNDYjZaZHJhYTc0Z2QwNVlxeDZyTS1pZ0JXWkhqWEJQbmdqYjhrcGNWd2VzLXBUZERUaVJERXpBbFQzcmhwYnBacE5DZ2lIZ2VrdndKZ2hMM1BaVU5xM1NxZFUzSVBaZFY1RVVscjRSZ0tzbC1ERFlkNHoydWpqQmhFUURfaFVicW1yYklJUW9MOGFpeTFuOHdoS0NoRTZMaDZ4RDZNMVRaUkdEZjB2dHZKeFk5UQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-13T21:27:02.000Z",
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Bastrop County seeks formal meeting about data center and gas power plant development - KVUE",
+      "description": "Bastrop County seeks formal meeting about data center and gas power plant development &nbsp;&nbsp; KVUE",
+      "content": "Bastrop County seeks formal meeting about data center and gas power plant development &nbsp;&nbsp; KVUE",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdm1Gd0RFRE9UdWtsb2g1S0lOYmF0MWxyQ3E4OVJSSVNtMF9vV2tzMG9hRzNKeElzc203anFXUVEzZ3N0NmFRU0h4VTRxaHJYMUFqNkVITkVOUlh4aURIbGRhQ0hleWF2Y1M4anJqSHF0anF1V0syWVV4LVZlYUk5cTk2OEh1ZmZtY2x1a0pxZUw1VGFEVGlXa0x3VFZxZk5HNlJVVUQ1QmFCSUpyaUY4cW9hSHpzc0tBNjlSYURMbTRRNFotbW00am1vMHh6QXdVZFhOVXhFcHFVbmZDZWVj?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-13T21:06:00.000Z",
+      "source": {
+        "name": "KVUE",
+        "url": "https://www.kvue.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Guyana's government reconsidering LNG project after Exxon Mobil (XOM) told Guyana it will need more gas for reinjection, according to reports, citing sources - Newsquawk",
+      "description": "Guyana's government reconsidering LNG project after Exxon Mobil (XOM) told Guyana it will need more gas for reinjection, according to reports, citing sources &nbsp;&nbsp; Newsquawk",
+      "content": "Guyana's government reconsidering LNG project after Exxon Mobil (XOM) told Guyana it will need more gas for reinjection, according to reports, citing sources &nbsp;&nbsp; Newsquawk",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVm5TZkdTUGY0OFhUNVBtUFlFd2VvQ2pFS2tSVWZ0cEJkX242QWxTQ3d2TGptczA4akc3WkYzYXZFVWhrYTNGb3dLZl96TGxGVFFfVmotM1hPa2xKZHBDN3JrZ0tuTkNzeWV4SjgzWGtsR1RuT2EyNDZlZ3ZoNlZlazZoNGlyMzVmQkM2ZDBFVjAzbTBsNTRHN18xVjVYdVFOVnNRd2NxS0xSQWVMeDB1QnphalVTR0lZdVhWUGlMOTVSRUt2aENOdkdlQ3QwSWwyTHJoU3J0bEI0dHhIcEpWSDVLT1FiWXQ0UjcwZTBsWWdmaDVyWDFuVUg3dVFqMGVYbHBfM0VQY1NuUTNZdG1fbWdDSHpoTE0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-13T18:34:29.000Z",
+      "source": {
+        "name": "Newsquawk",
+        "url": "https://www.newsquawk.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Power grid emergency in Delaware; what should I do right now? - Delawareonline.com",
+      "description": "Power grid emergency in Delaware; what should I do right now? &nbsp;&nbsp; Delawareonline.com",
+      "content": "Power grid emergency in Delaware; what should I do right now? &nbsp;&nbsp; Delawareonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkVLZGV4YnludzR6Rkd3dDI1eDFkLVAwR0pvNmJMZ2Utck9LMDVzTWdSNG1XTmJzYVhqM19qanl0UVVNNnh1dHIwYjZBQVBFZGN5ZURLaXJQODJzWnpEUnZhOHh3X0k3WUNqcWpXWnI2V0RPYlVOdGlCV1k3N3Jlelg0RGkwTGIxLW9xMm9ZcGxKS3htVGl0a2VwQWJqbi04ak1YMGNfMHhHT2RXYXkzSlkxa0xUQjBlU0ZWdzBDMFVYcDVXUjhwUGlwaw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-13T18:21:00.000Z",
+      "source": {
+        "name": "Delawareonline.com",
+        "url": "https://www.delawareonline.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
+      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-13T16:06:21.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "رئيس لجنة الطاقة بنقابة المهندسين يستعرض مستقبل الطاقة المتجددة بالشرق الأوسط وشمال أفريقيا - اليوم السابع",
+      "description": "رئيس لجنة الطاقة بنقابة المهندسين يستعرض مستقبل الطاقة المتجددة بالشرق الأوسط وشمال أفريقيا &nbsp;&nbsp; اليوم السابع",
+      "content": "رئيس لجنة الطاقة بنقابة المهندسين يستعرض مستقبل الطاقة المتجددة بالشرق الأوسط وشمال أفريقيا &nbsp;&nbsp; اليوم السابع",
+      "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOLXk3WV9IWkhWMVROazJhd04wczlnSjBJWTNOVXZNZDFGaHRrb2RLYkF0bFBzUlFMY1FKcWNTdzdHZXRfNFhDX3RDZnBwLW54dURwTlppcFhlVkE1dU1aZ09DOElCWFhLNHJIWU9JQm81T2d3X2pkQmlYVWNNdHZ3dG9fMDhLTURMUGpQaEF5bGF3cWlMVy1KUnZURXFIT2tVVVpsLUJPbFpoeTlBZUlyTS1LeEhCazVWbFptM3BQalNQSEREZGotT2VVM3JLMkE5T1BtdDF5bHl5eTJ1Y3FTX25UYmNKVllYQ00taDUwVm1xMmNNbmtiRWt6NS1peElRWnNSZ2Nyb2dmSXRtdldOUUQ2ME5wLXZxVXFXeFhlTnF0M3JuVU9xM2JhNy1wNFZCUDBqYnNHXzBIcThRMGFvZmZmdEV2dm8zZDFRa3VXWWgtYk52WWJTRU15Q2g0ZlM0b1lFY0VobmJmczlqYnMyTFE4SHZaTHVGd2FXVFRjNVlRMUVLeFJkaV9jeFluUHNEclp6UTJOXzlMZDItMEp5bXhqRlNpbnhGSl9UWFBFV3FVV0UtOFJ4a01yTDJnODVtZldnVG9tTW9tX2x2aDlvU204WUtycWVYbFl3dUtsckdyUVNNeTdmck9fTi1lTGJfemUxYVJ2Z2N1eThuQ0ZRa01MMmIxd1ZMWjd6MUt3TXlBcWJ4XzBIUi15MF9Nd29ianpySWdjdTFZdE92UFNzOG4xQWJuTVdDOC1UOXNMaDJIeDRJNVFZOWdWeEtOYjjSAcoEQVVfeXFMUDZJUGxjWFljTjdLdi1TRDVqSVFfNXRpTk1vOTN5akhSSzgxOGdGZXhSVDUwNDZzRV81ZXdnMGRPZ2VDTzRTdS1JdjkydW1CV2hyMFpLbHNZUEFiN2ZiRWFhWlNIX2RFUlk1SnNNUDZUcEtMdGdZb1Z5R2dqbmdEcUk4Mm45MmliYTVnX3E1SzVHcDdFQWtSeXJFNHV5UV90elkxV3BXS0hQUGl0cFdKZExSUnA5RTBwTE1ieVZ4UlRvcGl3aTZuWXpiZUg3dFVwMEMyc05uWnk0MGxxNzJfVmd5NFZPSGJqRmRHNjI0NFhuRDZ3WDBia05ZQVZlTzg4SmRLTGVwM1R2X2tCUm1jWTlmTksycjBxSGo5V3RVWmJqamN6czBPMkFuV3hNajQ2ckxsaHJTX1JWQnVrYUFaX2xqNTd0YVlWeUhVSU9qaUhpd0R6R0w1eldhaWtERklTdGpERlBXVU41aXJkN2I5akpyUmJsX2l1Vm4tTV9tTnBFUHh4U2h0aUN2M1BDU2E4V2ZsSURLenhIUUFrY3BlbVNxSkZ2cFNFU1Q3bG5GYzA5U3hBV1BPRXhnVFdnNkxKQTN3VHBkc2lyOWdVck9xeXZDR3YtRk9ZN1RlUDB1SGdEUDVRbEtTSWhjY2RmQXo5UU5LUnRXMUppdU9rVG5YdjlseUt5WkxqbTRyZWk0UloxU2E4VGN5aWxfcXRMZkFhRDFvb2dCZk4zTm1FeUtRUjZwSktfQ0lkVXdnUnU3QVR6YjVSRFk3czJJZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-13T15:00:00.000Z",
+      "source": {
+        "name": "اليوم السابع",
+        "url": "https://www.youm7.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "Togo prepares large gas-to-power plant procurement - African Energy",
       "description": "Togo prepares large gas-to-power plant procurement &nbsp;&nbsp; African Energy",
@@ -20,6 +110,36 @@
       "preferredSite": ""
     },
     {
+      "title": "\"We're cutting produce losses with cooling that needs no electricity\" - Hortidaily",
+      "description": "\"We're cutting produce losses with cooling that needs no electricity\" &nbsp;&nbsp; Hortidaily",
+      "content": "\"We're cutting produce losses with cooling that needs no electricity\" &nbsp;&nbsp; Hortidaily",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDlpYzFqR3lCeUU4UnQyZjk0RGFvTUlTNFNyVzlCejRjQTRtNFA5ZGZYSW03X0kxeDlDOC1zVjhhVFI3YnlfN20tRmZsZlI1T3pGelF6bnRHekJyaHlScHVNckhxbXd5NDRuRXpRWHo1alhSN3BzdUZ0YlY0Tm52VVZrZ2prenpsZFg0UGFPTnNjZUtSMk5pTU83TnZweEhPSGFMTkNvMkp6eVZtT2cyTw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-13T13:00:20.000Z",
+      "source": {
+        "name": "Hortidaily",
+        "url": "https://www.hortidaily.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Minister of Power says FG cannot keep paying electricity subsidy and still provide light for every Nigerian - Pulse Nigeria",
+      "description": "Minister of Power says FG cannot keep paying electricity subsidy and still provide light for every Nigerian &nbsp;&nbsp; Pulse Nigeria",
+      "content": "Minister of Power says FG cannot keep paying electricity subsidy and still provide light for every Nigerian &nbsp;&nbsp; Pulse Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVBZVDJ0bVRVMG9wUXZGOWRoZmI3cHpzWU9LSWxFUGxJRGRyVDVsbGdfRC1kQlBHOE1keXc1Q0xkaGpISzF0QzlsaFJLT1VSOTlpbUJqMHFHNkcybjFubm9BQUNkbDRGVW5wcG1XSWVxWHB6LVFFem8zaGxpXzA2MWtuNTluOWMyRmtJZHR1WDRrVkU?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-13T12:54:48.000Z",
+      "source": {
+        "name": "Pulse Nigeria",
+        "url": "https://www.pulse.ng"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "utilities-me.com"
+    },
+    {
       "title": "تحالف السويدي إلكتريك وسينوهايدرو يوقّع عقد (EPC) لمشروع توسعة محطة رابغ 2 المستقلة لإنتاج الطاقة، في علامة فارقة لمستقبل الطاقة في السعودية",
       "description": "يمّثل توقيع العقد بداية التنفيذ الكامل من قبل التحالف لمحطة الطاقة ذات الدورة المركبة بقدرة 2.3 ميغاوات توقيع عقد الهندسة …",
       "content": "يمّثل توقيع العقد بداية التنفيذ الكامل من قبل التحالف لمحطة الطاقة ذات الدورة المركبة بقدرة 2.3 ميغاوات توقيع عقد الهندسة …",
@@ -33,6 +153,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "رئيس «أكوا»: الطاقة المتجددة في السعودية أقل تكلفة من الغاز - الشرق الأوسط",
+      "description": "رئيس «أكوا»: الطاقة المتجددة في السعودية أقل تكلفة من الغاز &nbsp;&nbsp; الشرق الأوسط",
+      "content": "رئيس «أكوا»: الطاقة المتجددة في السعودية أقل تكلفة من الغاز &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQRVJicWk1bnhsRXJNYUdxRFVPdVB0eG5KTjVXaXdMMmpDLUtGWTl1WU5DUkthQ0ptcldzd1VJV25xN3VybTFJY0RZa2lGWFZ2dVdMNEU5UmRuNXpUWjYzTWE3VEVLSGloYTVIdG5tNE9oUTZsa3EzVkd4eDhfbWZzQUZ6dGZpeXNpbF9QRHJ4WDlzTmY3ak96VVc5Z0NCc2NNVlZQLVR1U2w5eHBQSUVSNll2cXdWd0dnRTJrcHNzR2UzR1RQNmtpZzZRV1U2YUFpVTZvOXZiSTlfSzlaLWNYeU1XWF9NY2lSelUtNGdQY1JjWkxiWnJheUlEVkRsWVVvUVVtQ1RnclFTUjVBcG9GVHYyYnVkNDVSVEVGdkNJZlNyYjdMdUppQUViaUFmdUZsSXZ1YV9pay05ZUMtXy11SmpTeXlubllVVXdUVUhsRTk1MjBtckh6X0JoNHRnWjRFYTdiMU5idVZVUmp6c3Mtanc2ai1FbFNIY2RreVdJUU1PcEo5bUo4OUZ1alRkUF9sa3ZvVkpGRnpfRVVUemFwZ1ZEUVlmeHIwZjhTSmFmVVYxekRwbkF2REY1MFRZUmJ6X0NJUHNrRk5CRGs5Nm0tNEJ0eGJFajJMWUhuVWVaQVJWYkVWU2VZY0RJZXFBVjgtbmpaa1ZPb2Z0NjNHY09GbGNwNGRGdw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-13T11:38:55.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "نقابة المهندسين تستعرض مستقبل الطاقة المتجددة وفرص التحول الإقليمي - Masrawy",
@@ -104,21 +239,6 @@
       "source": {
         "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
         "url": "https://attaqa.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
-      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-12T19:41:05.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -348,6 +468,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "Bear Grylls’ 20-acre private island runs on wind, solar power and rainwater: How his family lives off-grid - Livemint",
+      "description": "Bear Grylls’ 20-acre private island runs on wind, solar power and rainwater: How his family lives off-grid &nbsp;&nbsp; Livemint",
+      "content": "Bear Grylls’ 20-acre private island runs on wind, solar power and rainwater: How his family lives off-grid &nbsp;&nbsp; Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU2RaeTRwdGotbnFrQ0hjQ3NCOUpfYWRISWJrUzQ5WkxSYko2ZjN6V19PeDNVRzM4QzJKaWN6eW02WW5PSHI2aGdSMi1vVDlieC1WUTBFN1JwTDZqRm1nYmVtMkFOZFNWZDZTc2NieUF1ajJjSjE1V2xfUU1EOU1tU1VwaEgyRVpUa1A4MktZWjhLNjA4Q1QxWDdMdDdLUk4td1ZjWUZUTk1RX2pkUm5aTy1TY19CTGZNQmd4NVF2MkNmbXdCbjVsbExOdmJvMl9SM1hrZnl0TzBLUE9Zb3ZXWlhDVWt3WlFzcDdZNlRJU0HSAfYBQVVfeXFMTjdkV1dRTFl0UjluWkU2N05SdDJ0Q0JHTGJ6SlBvMk5PUlFQTElMUmx0ckhoT0R3dzZNTDc1NTJfempEaEJOdWUyVU1rU0U1R1dwcjgxZkRLdDgzVFZyUm5hSEpfV2FuQzBxMlpTVDh2bUpyZ0R1SGFVVVVlQzJ6b3o0LTdscGNocHRjYzhfNmUzeC0ybjhienlrWFVEZHJyaTFvNXQzdV93WWlkejYtVHpjbDREdjFoN28tUVFWX1VyWXpxTjBsUTQzTXVTUHJxSmdpNUl1eHdlOVlqNnJQY1d3ZDFpS1hTWjdJUnFHNkZ6ZlFYSzN3?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-11T17:18:00.000Z",
+      "source": {
+        "name": "Livemint",
+        "url": "https://www.livemint.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "utilities-me.com"
     },
     {
       "title": "3 Renewable Energy Stocks For Investors Rethinking Oil And Gas Exposure - Simply Wall Street",
@@ -5649,7 +5784,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "تقرير: زيادة الطاقة المتجددة للمثلين ضرورة للوفاء بتعهد مناخي لعام 2030 - reuters.com",
@@ -5787,7 +5922,13 @@
         "saudi arabia",
         "iraq",
         "iran",
-        "turkey"
+        "turkey",
+        "egypt",
+        "UAE",
+        "algeria",
+        "morocco",
+        "jordan",
+        "kuwait"
       ],
       "preferredSite": ""
     },
@@ -7361,21 +7502,6 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "Expert available to discuss EPA repeal of power plant greenhouse gas rules - Rice University",
-      "description": "Expert available to discuss EPA repeal of power plant greenhouse gas rules &nbsp;&nbsp; Rice University",
-      "content": "Expert available to discuss EPA repeal of power plant greenhouse gas rules &nbsp;&nbsp; Rice University",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHFIakdyQlpxSzJESXozSzVfaFZyZkJPcHVscDhxa0E1anVwd1h4eVZTY2NVSThJWXRWLWdBOUhXbkdqbmt1aV9Nc0ZyRnhzN2pGWnhKZXFHdU1odmEwY3NuV2VsQlBIN2RmamhWVUVna0ZkcldCWGY2eTBNOWN0Xy13UW9vZXBOb3RnaGhOZm9reXpDYllxUnFRNW5TbnpoTUE?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-14T22:29:27.000Z",
-      "source": {
-        "name": "Rice University",
-        "url": "https://news.rice.edu"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Expert available to discuss EPA repeal of power plant greenhouse gas rules - news.rice.edu",
       "description": "Expert available to discuss EPA repeal of power plant greenhouse gas rules &nbsp;&nbsp; news.rice.edu",
       "content": "Expert available to discuss EPA repeal of power plant greenhouse gas rules &nbsp;&nbsp; news.rice.edu",
@@ -7777,6 +7903,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Expert available to discuss EPA repeal of power plant greenhouse gas rules - Rice University",
+      "description": "Expert available to discuss EPA repeal of power plant greenhouse gas rules &nbsp;&nbsp; Rice University",
+      "content": "Expert available to discuss EPA repeal of power plant greenhouse gas rules &nbsp;&nbsp; Rice University",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHFIakdyQlpxSzJESXozSzVfaFZyZkJPcHVscDhxa0E1anVwd1h4eVZTY2NVSThJWXRWLWdBOUhXbkdqbmt1aV9Nc0ZyRnhzN2pGWnhKZXFHdU1odmEwY3NuV2VsQlBIN2RmamhWVUVna0ZkcldCWGY2eTBNOWN0Xy13UW9vZXBOb3RnaGhOZm9reXpDYllxUnFRNW5TbnpoTUE?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-14T07:00:00.000Z",
+      "source": {
+        "name": "Rice University",
+        "url": "https://news.rice.edu"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "More data, more gas? Wisconsin power plant rules face scrutiny - civicmedia.us",
@@ -10386,7 +10527,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "utilities-me.com"
     },
     {
       "title": "الخليج يسبق الذكاء الاصطناعي بطلب توربينات الغاز لتوليد الكهرباء - aljazeera.net",
@@ -10851,7 +10992,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "utilities-me.com"
     },
     {
       "title": "أزمة انقطاع الكهرباء تجدد الاحتجاجات في غرب ليبيا - الشرق الأوسط",
@@ -13125,7 +13266,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "utilities-me.com"
     },
     {
       "title": "Cuba suffers nationwide blackout after total power grid failure - staradvertiser.com",
