@@ -1,9 +1,114 @@
 {
-  "generatedAt": "2026-10-15T11:34:58.770Z",
+  "generatedAt": "2026-10-15T17:04:53.007Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "أوناسولر توفر حلول الطاقة الشمسية لمشروعات كبرى ومصانع ومزارع خلال معرض مصر الدولي - جريدة آخر الأخبار",
+      "description": "أوناسولر توفر حلول الطاقة الشمسية لمشروعات كبرى ومصانع ومزارع خلال معرض مصر الدولي &nbsp;&nbsp; جريدة آخر الأخبار",
+      "content": "أوناسولر توفر حلول الطاقة الشمسية لمشروعات كبرى ومصانع ومزارع خلال معرض مصر الدولي &nbsp;&nbsp; جريدة آخر الأخبار",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPX3lMdnAzM2ZlME5keVZIV09RUUVrcHM3Ump6Vk52aHBpQUZPSlUxQTIyRFluN3I3QkxRbFVvNTRXcXhKNGlCWV9pV1dWcjZfdnRFTjIxczVIWW9mdnBSWC1ZT3JPcklIa1pPRjBWNGZvTGxfMnV0ckdwa1ltM0lGWTZ6SUtyS1BPbmlweGNfOEZWcU91eEttZkprN3lNMDdJRm5GQ25QR3N0blZFY2tueXZXX3pVQTdGR3hWU2JHTGZJZ0lTaFd6QTBvbWhmTDltMURnMXc5R0xtd1ZkSHd2TVJILUdnamlsQUEzLUxyQkdzRzJxMm1SMFZ2M0lTenFDMzBCdE5nUm5GN0kxanI4elN1S1k0QktCVkhldmNoZ0UycWJvU2hJMlZCWDRfX2JSNTV6VW1Kc3g3SzlkYkRlM2FDaWlCZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-15T15:25:42.000Z",
+      "source": {
+        "name": "جريدة آخر الأخبار",
+        "url": "https://akher.news"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Alberta's winter electricity disconnection protections take effect - CentralAlbertaOnline.com",
+      "description": "Alberta's winter electricity disconnection protections take effect &nbsp;&nbsp; CentralAlbertaOnline.com",
+      "content": "Alberta's winter electricity disconnection protections take effect &nbsp;&nbsp; CentralAlbertaOnline.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1dsR0FPR1VqTllmeHhUcXpWNVMzd1MxT1JLWEhnSUZTck9aWkU2WXpfMGZpd2pQNTVTWlhUcHY4VlJHVTNtNE5zcEE3OUhqcEZxQjFMbWlOZ3NqVGMxcllHY3RPNEstRGFWYzZ5OENvd2ZvM0JXMzRzYWFWMVo3akdUZE15TnZSNU5OZEtBQkdyX3oxaVVvejdGTmh5M1NrMngtVEFaZTc1Q3M?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-15T14:15:00.000Z",
+      "source": {
+        "name": "CentralAlbertaOnline.com",
+        "url": "https://centralalbertaonline.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "وزير: أزمة الشرق الأوسط ترفع أسعار الوقود وتزيد الرسوم الإضافية للكهرباء في ماليزيا - Bernama",
+      "description": "وزير: أزمة الشرق الأوسط ترفع أسعار الوقود وتزيد الرسوم الإضافية للكهرباء في ماليزيا &nbsp;&nbsp; Bernama",
+      "content": "وزير: أزمة الشرق الأوسط ترفع أسعار الوقود وتزيد الرسوم الإضافية للكهرباء في ماليزيا &nbsp;&nbsp; Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BSFJHa2VVMTgxSXlSaHJ3VTNXaEpwSlFFNTBxczQwRVBNRDBfSGNocGlxZVN1bmRRdldGVWhPcF9ISUt3RVhJZTBzRUdOZHdsdlRNUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-15T13:58:17.000Z",
+      "source": {
+        "name": "Bernama",
+        "url": "https://bernama.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "فى ختام مؤتمر مصر الدولى 9 آلاف و200 فرصة استثمارية متاحه في مصر .. اونا سولار تزود مشروعات كبرى ومصانع ومزارع بالطاقة الشمسية",
+      "description": "اختتم مؤتمر ومعرض مصر الدولى للطاقة اعمالة امس وسط حضور دولى مكثف من خلال اكثر من 200 شركة عالمية قدمت …",
+      "content": "اختتم مؤتمر ومعرض مصر الدولى للطاقة اعمالة امس وسط حضور دولى مكثف من خلال اكثر من 200 شركة عالمية قدمت …",
+      "url": "https://www.egelectricgate.com/?p=10689",
+      "image": "",
+      "publishedAt": "2026-10-15T13:37:56.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ - الشرق الأوسط",
+      "description": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
+      "content": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNaVZDQXNpSVZvd3gzY2dhdnhvc1oyQkowMjcxems3bHdWLUlrM3lZa3Y3eUE2MlJrNURldnAwTXk2RkZPUkQ2cDVrcDdsVWpCa1NCZTR1RW5ycWJrNTc2Z2VGaThINkE5a1BXMTlkLWVOeHVPVmZHeDQ4VXEyLVdKT0VIT3dpMFZLTG56bEdZdFNTYzhfekJlSTRHMURpd0ZXZmI0NFhTM3FOeVlPc01OSW1sLUw2ZjBHYks1OGl4SWhmVGVXTkQ4MkRXTGRJNW9iakZKUFpDTDlTVnRlVEpaR056bHhWWmRSUXpkOVlLeDkzZ3NHOHZaVnZCN0t5OEdZam96Z3VSYnZNUGxRVDFnRnZHbEV0WklFZjVMcTdvYTh0cldScXhnaWNkeDBUVnYxdWtqZG9pbTYzajBYZG9QNDhZcV9xQ1J3V3RvMzR0MWxOUFptWEtLM0dOOF9UY3dIT0Z3YXQ0d1hrclF5c05UaVFtTG41YUtMY09mdm92TVlQTTJ1VmhYMnNGeDBtXzVLUVFqYjNsbGJTYUdZZENRVGNvQ2tHYVg1SFI3Y1liX1l1NFRvMkZmcWdyMGJIWk54cGVsZG45T2F5V0ZDODlCT0RaZDVBeXhBWFJWbm5waU1weUQzLWRCQjVsdV8zLW9TVHc3bHhicm1UX2FiT3FLUzN5bUtJQVB3eDlMcC1VLXk3Y0N6NDlWcWRoMjhQWUNlUEpWZWdqVWx2bkFfRTkxcHFURW42VEZZd3JhaEVmZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-15T13:15:29.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "القابضة لكهرباء مصر تنظم ندوة توعية بشمال الدلتا لتوزيع الكهرباء لتأهيل العاملين الجدد لمخاطر بيئة العمل",
+      "description": "نظمت الشركة القابضة لكهرباء مصر ندوة مركزية للتوعية بإجراءات السلامة والصحة المهنية والبيئة، بمشاركة 150 مهندسًا وفنيًا من التعيينات الحديثة …",
+      "content": "نظمت الشركة القابضة لكهرباء مصر ندوة مركزية للتوعية بإجراءات السلامة والصحة المهنية والبيئة، بمشاركة 150 مهندسًا وفنيًا من التعيينات الحديثة …",
+      "url": "https://www.egelectricgate.com/?p=10685",
+      "image": "",
+      "publishedAt": "2026-10-15T12:01:22.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "أكوا لـالشرق الأوسط: تخزين الكهرباء يواكب توسع الطاقة المتجددة في السعودية - سودان اندبندنت",
+      "description": "أكوا لـالشرق الأوسط: تخزين الكهرباء يواكب توسع الطاقة المتجددة في السعودية &nbsp;&nbsp; سودان اندبندنت",
+      "content": "أكوا لـالشرق الأوسط: تخزين الكهرباء يواكب توسع الطاقة المتجددة في السعودية &nbsp;&nbsp; سودان اندبندنت",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVEJkZ0M1ckROaFU2Uzh3d1NPak1reEZhNm9WNGhaeEFyMVhBT1dGX1p2QWc1QmprQkdQUnZoa2kyeTYtc21DYk8yR0xOc1lMRnNSNXc0TjVjaVNreHY0WmFYdzJxdmphTUdYQktkOEZ4eS1GSmdpOW41OFVTblpFRHZsOGpMSUJCakI1T1NXWk5vMTd4Z1ExR2dObFV0a2dTSlNEeEFaOTVsRFBMMFh2b1JKcW9iLUpTM0E1bldwRTVMMmJFVkpaRXo1bXRrR0tjZmtFc0ttRXc3QS1KS1dXeml4N2ZkTmJ3SXA0QXUwaWo4VG5UV0RHR09na3g4bUhQUjdLcGU1RzQ4UEwwaURZRldwZGxEaUgt?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-15T12:00:32.000Z",
+      "source": {
+        "name": "سودان اندبندنت",
+        "url": "https://sudanindependent.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "هندسة كهرباء طهطا بسوهاج تكرّم موظفًا بعد 33 عامًا من العطاء.. وتحتفي بتميز فني شاب",
       "description": "في لفتة تعكس تقدير الجهود المخلصة وترسيخ ثقافة العمل بروح الفريق الواحد، نظّمت هندسة كهرباء طهطا احتفالية لتكريم الأستاذ سيد …",
@@ -255,6 +360,21 @@
         "qatar",
         "turkey"
       ],
+      "preferredSite": ""
+    },
+    {
+      "title": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» - الشرق الأوسط",
+      "description": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» &nbsp;&nbsp; الشرق الأوسط",
+      "content": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxNUXVFSThWT3V2ZXh6LWg3X3VqcTNUcFJId1VIZFBGb1BHQU8yY0M4WXF2dXg0NEtCR0FSTkx3eC1HNUV6SVZ1MmRkWmZuUkd2VEthUy1sTHFQaHJiRTNZLThUd2NGNm04TkVEbWw2UDZfck9zU1BLeEwxN1hBMGhHMDRuRU1Wd3IybDNiVTlnSnBOQUNKU245Q1E0SWRDcVUzandIV1BnRW1jWVh5a3BFQlhORF91Q1k2Ti1LYmhKUnlNZU9zdW5GTlRoQnA2SE4wTnhIXzBxcFJwenRBc2R4b1EtU2pXUjl1TWZRWGF5WTctTjB0WDY3SC1naURZMmRWbWNjZ2JlaWVnVFQ3R3dqMVpsY0ZwT2s0ekNSemlHVno2V1pTX3VST1U3Q3R5NjdoX1dyTG5oSWFLb29WWVJnM3VESktldTlPUDRyaHpjMTRVbjZfalExTTN1eWxFTXdZWmZjSE42bEJwZmJlXzZiSWhhWVJfME9EbHZDdDVKdlBDUUhUdXVsV195YlVwUkpyeEFNMV84b01jT05maU5YNzhtUG5kN193M3RRN0t2MjJtZ3RwdGhaSzFmZjkxVkZJc0V4eURBUVZtanlwOXEwdmFabXNzcnZZeE40TXRCNWJobUlWNEI5WEl0bnBpTno4LVBjNUc3LWM2RmtjSEw1d3VmbG5RRWMzMDRTU1VlcFowaWhKYVVHLWk2REFjNTJMNkcwZUpkZFNFZDlPYTdfUjBDQzdlY0s1Y3h2OGN0ajg1amd1bHpqbXp6Z3lrd0tfVHVkNEZKSFdzbVFaYUpqUzNfTG9ub3p6QVYwQXNBUEZHNGJ3X3JPLTJjV25EVVYtSXV1UWIzVG5CeWlQWnFGd0VGZmppUUl5U0NORDg5ZlJ0SG1WNWZaYmln?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-14T11:26:01.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
       "preferredSite": ""
     },
     {
@@ -1317,6 +1437,21 @@
       "source": {
         "name": "NBC News",
         "url": "https://www.nbcnews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "EPA Repeals Power Plant Carbon Standards - Environmental and Energy Law Program – Harvard Law School",
+      "description": "EPA Repeals Power Plant Carbon Standards &nbsp;&nbsp; Environmental and Energy Law Program – Harvard Law School",
+      "content": "EPA Repeals Power Plant Carbon Standards &nbsp;&nbsp; Environmental and Energy Law Program – Harvard Law School",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SN2t4emFWeEIzMmkzbFRSTXdtSVBFU25nQ2oyS2N4ODN0WFNtTzRLckh5eEVfUkRUMGg3RkwxOW5HSi13QlBPZER0ZnBwLXpSU3NsUlpNMUlqZVJBa0loclk2YVEtWWxlRkdiTjZEcy1XLTczd2o3RW13?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-08T18:18:27.000Z",
+      "source": {
+        "name": "Environmental and Energy Law Program – Harvard Law School",
+        "url": "https://eelp.law.harvard.edu"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -6758,6 +6893,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Groups sue US EPA over repeal of power plant greenhouse gas standards - S&P Global",
+      "description": "Groups sue US EPA over repeal of power plant greenhouse gas standards &nbsp;&nbsp; S&P Global",
+      "content": "Groups sue US EPA over repeal of power plant greenhouse gas standards &nbsp;&nbsp; S&P Global",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR2JfbklhNE0zZG1CWFdHV01QRkJPNW9MRmhTMFg4c1hxQkE0dEx1aGpJYWQwZHVGZ0FFeUU2ZTJIaXprNTA4ZHp4dFVPdzRjbWgxUTVPX1FieXJSUnc4c2ZBd0F5RFQyYVdfUEVudVVwd2tGUUNyZ1FLeThWVXp1dlFBWlBUdlpGU21DX1Z5QmVJd2phYVFlVmQyc09QcEVIazY2RWpqbVRtNGltVWxOdFJ0YS16Ry1MTXk0VzFiQndZeUFka2t0QjFkbEhSVHlHUlg1d2U1U3lIakF4bFN4YnNHLU4yVDg?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "source": {
+        "name": "S&P Global",
+        "url": "https://www.spglobal.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "China’s gas demand affected by Guangdong’s power generation shift - theedgesingapore.com",
       "description": "China’s gas demand affected by Guangdong’s power generation shift &nbsp;&nbsp; theedgesingapore.com",
       "content": "China’s gas demand affected by Guangdong’s power generation shift &nbsp;&nbsp; theedgesingapore.com",
@@ -9645,21 +9795,6 @@
       "preferredSite": ""
     },
     {
-      "title": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ - الشرق الأوسط",
-      "description": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
-      "content": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNaVZDQXNpSVZvd3gzY2dhdnhvc1oyQkowMjcxems3bHdWLUlrM3lZa3Y3eUE2MlJrNURldnAwTXk2RkZPUkQ2cDVrcDdsVWpCa1NCZTR1RW5ycWJrNTc2Z2VGaThINkE5a1BXMTlkLWVOeHVPVmZHeDQ4VXEyLVdKT0VIT3dpMFZLTG56bEdZdFNTYzhfekJlSTRHMURpd0ZXZmI0NFhTM3FOeVlPc01OSW1sLUw2ZjBHYks1OGl4SWhmVGVXTkQ4MkRXTGRJNW9iakZKUFpDTDlTVnRlVEpaR056bHhWWmRSUXpkOVlLeDkzZ3NHOHZaVnZCN0t5OEdZam96Z3VSYnZNUGxRVDFnRnZHbEV0WklFZjVMcTdvYTh0cldScXhnaWNkeDBUVnYxdWtqZG9pbTYzajBYZG9QNDhZcV9xQ1J3V3RvMzR0MWxOUFptWEtLM0dOOF9UY3dIT0Z3YXQ0d1hrclF5c05UaVFtTG41YUtMY09mdm92TVlQTTJ1VmhYMnNGeDBtXzVLUVFqYjNsbGJTYUdZZENRVGNvQ2tHYVg1SFI3Y1liX1l1NFRvMkZmcWdyMGJIWk54cGVsZG45T2F5V0ZDODlCT0RaZDVBeXhBWFJWbm5waU1weUQzLWRCQjVsdV8zLW9TVHc3bHhicm1UX2FiT3FLUzN5bUtJQVB3eDlMcC1VLXk3Y0N6NDlWcWRoMjhQWUNlUEpWZWdqVWx2bkFfRTkxcHFURW42VEZZd3JhaEVmZw?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-03T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ - aawsat.com",
       "description": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; aawsat.com",
       "content": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; aawsat.com",
@@ -10257,7 +10392,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "utilities-me.com"
+      "preferredSite": "amwalalghad.com"
     },
     {
       "title": "Natural Gas Leads U.S. Power Generation: 2 Midstream Stocks to Gain - finance.yahoo.com",
@@ -13243,21 +13378,6 @@
       "preferredSite": ""
     },
     {
-      "title": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» - الشرق الأوسط",
-      "description": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» &nbsp;&nbsp; الشرق الأوسط",
-      "content": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxNUXVFSThWT3V2ZXh6LWg3X3VqcTNUcFJId1VIZFBGb1BHQU8yY0M4WXF2dXg0NEtCR0FSTkx3eC1HNUV6SVZ1MmRkWmZuUkd2VEthUy1sTHFQaHJiRTNZLThUd2NGNm04TkVEbWw2UDZfck9zU1BLeEwxN1hBMGhHMDRuRU1Wd3IybDNiVTlnSnBOQUNKU245Q1E0SWRDcVUzandIV1BnRW1jWVh5a3BFQlhORF91Q1k2Ti1LYmhKUnlNZU9zdW5GTlRoQnA2SE4wTnhIXzBxcFJwenRBc2R4b1EtU2pXUjl1TWZRWGF5WTctTjB0WDY3SC1naURZMmRWbWNjZ2JlaWVnVFQ3R3dqMVpsY0ZwT2s0ekNSemlHVno2V1pTX3VST1U3Q3R5NjdoX1dyTG5oSWFLb29WWVJnM3VESktldTlPUDRyaHpjMTRVbjZfalExTTN1eWxFTXdZWmZjSE42bEJwZmJlXzZiSWhhWVJfME9EbHZDdDVKdlBDUUhUdXVsV195YlVwUkpyeEFNMV84b01jT05maU5YNzhtUG5kN193M3RRN0t2MjJtZ3RwdGhaSzFmZjkxVkZJc0V4eURBUVZtanlwOXEwdmFabXNzcnZZeE40TXRCNWJobUlWNEI5WEl0bnBpTno4LVBjNUc3LWM2RmtjSEw1d3VmbG5RRWMzMDRTU1VlcFowaWhKYVVHLWk2REFjNTJMNkcwZUpkZFNFZDlPYTdfUjBDQzdlY0s1Y3h2OGN0ajg1amd1bHpqbXp6Z3lrd0tfVHVkNEZKSFdzbVFaYUpqUzNfTG9ub3p6QVYwQXNBUEZHNGJ3X3JPLTJjV25EVVYtSXV1UWIzVG5CeWlQWnFGd0VGZmppUUl5U0NORDg5ZlJ0SG1WNWZaYmln?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-11T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "As gas plants rise to power AI, renewable energy allies are fighting for cleaner alternatives - AP News",
       "description": "As gas plants rise to power AI, renewable energy allies are fighting for cleaner alternatives &nbsp;&nbsp; AP News",
       "content": "As gas plants rise to power AI, renewable energy allies are fighting for cleaner alternatives &nbsp;&nbsp; AP News",
@@ -15139,126 +15259,6 @@
       "source": {
         "name": "insideclimatenews.org",
         "url": "https://insideclimatenews.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "A Massive, Trump-Backed Power Plant May Be Too Big to Succeed - Inside Climate News",
-      "description": "A Massive, Trump-Backed Power Plant May Be Too Big to Succeed &nbsp;&nbsp; Inside Climate News",
-      "content": "A Massive, Trump-Backed Power Plant May Be Too Big to Succeed &nbsp;&nbsp; Inside Climate News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX3RDWGxWM3ZLeGhtOVRpNzRPTk9GRWd0V2p0dlcyaEs0eDFtTUtjZVJ6Y2R5a0pMbk1BWGZibDBZcHM5anFYU3ExT3ZoMVZoU2dYTGtVYmRkd1ZIWENVd0ZhWHowVjdSMXpCTVhtWHB0dVprek9MU2FCTGdDTDdzMmF0WFJVU0FFaUJxaHRXVQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-05-02T07:00:00.000Z",
-      "source": {
-        "name": "Inside Climate News",
-        "url": "https://insideclimatenews.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "حوافز مصرية لتوسيع استخدام الطاقة الشمسية وسط أزمة وقود - الشرق الأوسط",
-      "description": "حوافز مصرية لتوسيع استخدام الطاقة الشمسية وسط أزمة وقود &nbsp;&nbsp; الشرق الأوسط",
-      "content": "حوافز مصرية لتوسيع استخدام الطاقة الشمسية وسط أزمة وقود &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxPMjhMYzRlbTk1XzBmRlVycGlsc1QyZWRObnZkRE5mNDlvdDZlTkhSeW96TjB2VDk1SVd6R2xLZnNzeVNOeTZBUXpIdEt4Vmx4UDZscV9LQTE5Q3FFQXFZVUlYNVBwYWN3dGZoV2p5NFZSbkRlZ2VidXVWd2ZVNE1VTTNBZG13bGw3NWtZT016ekE3TkVaWE1VUnpVSFhrczhOTHE2YTlZS3RSODFUTEpyRW5ReGcxdkwyYWhOOUF1Q1NqbWtfZXBlbG9aR3NOMXdhNFkyeWZZcmhXel93WG9SLWtiQ2ZwU3V2RGlUVnJvZUxtRlI4RHpGOFF1M1p5NGtzQmVxbW8yRnJGZm84LTRkNVR1TDNxTktPaDd1WkZ5VzAzNnVZMWY4REZwQ0RlS2NweUswV2JvMUJWd1hIak12QWlxWllUaVVERFdPY2p1bXhBdXl0eFJZWHdEMm5fbjY2OENDekt1VURLbGR1M2RORTRhV3BMUU9BelRZMFF5Wm1ueWZnQkdmS0xXZlNxbk1ZZXJVU2lrX0dQQXhlaDZ6T3B0TWZFLXJDSnRBMGp4WFpWWXFmYkNwOHV3RmxzekFfSzQtczR0YzlzSUE4OGdSRkgwRTBZRFRnX0NvVU5OVGlyMHN6QXJJYUM1anJ6RXNtckFOaExNdThHV0dJS2NzaVZTeWhjSVJRcGZfalBiVFV4OEQxckFtNFY1OUE2M0xfSFd4M2VSX3NuTDc4dkNZMGxqaHBQbXZkLVMwWG83MHpHLVdNeXBoVE1sQ0dRMUVYbU0zZ0R1cnhJbEhIUjVpU1JwWW44UGNwbVlFbnc2Vlh5T2x1eTZZT2lLZms5VDB4?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-27T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "حوافز مصرية لتوسيع استخدام الطاقة الشمسية وسط أزمة وقود - aawsat.com",
-      "description": "حوافز مصرية لتوسيع استخدام الطاقة الشمسية وسط أزمة وقود &nbsp;&nbsp; aawsat.com",
-      "content": "حوافز مصرية لتوسيع استخدام الطاقة الشمسية وسط أزمة وقود &nbsp;&nbsp; aawsat.com",
-      "url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxPMjhMYzRlbTk1XzBmRlVycGlsc1QyZWRObnZkRE5mNDlvdDZlTkhSeW96TjB2VDk1SVd6R2xLZnNzeVNOeTZBUXpIdEt4Vmx4UDZscV9LQTE5Q3FFQXFZVUlYNVBwYWN3dGZoV2p5NFZSbkRlZ2VidXVWd2ZVNE1VTTNBZG13bGw3NWtZT016ekE3TkVaWE1VUnpVSFhrczhOTHE2YTlZS3RSODFUTEpyRW5ReGcxdkwyYWhOOUF1Q1NqbWtfZXBlbG9aR3NOMXdhNFkyeWZZcmhXel93WG9SLWtiQ2ZwU3V2RGlUVnJvZUxtRlI4RHpGOFF1M1p5NGtzQmVxbW8yRnJGZm84LTRkNVR1TDNxTktPaDd1WkZ5VzAzNnVZMWY4REZwQ0RlS2NweUswV2JvMUJWd1hIak12QWlxWllUaVVERFdPY2p1bXhBdXl0eFJZWHdEMm5fbjY2OENDekt1VURLbGR1M2RORTRhV3BMUU9BelRZMFF5Wm1ueWZnQkdmS0xXZlNxbk1ZZXJVU2lrX0dQQXhlaDZ6T3B0TWZFLXJDSnRBMGp4WFpWWXFmYkNwOHV3RmxzekFfSzQtczR0YzlzSUE4OGdSRkgwRTBZRFRnX0NvVU5OVGlyMHN6QXJJYUM1anJ6RXNtckFOaExNdThHV0dJS2NzaVZTeWhjSVJRcGZfalBiVFV4OEQxckFtNFY1OUE2M0xfSFd4M2VSX3NuTDc4dkNZMGxqaHBQbXZkLVMwWG83MHpHLVdNeXBoVE1sQ0dRMUVYbU0zZ0R1cnhJbEhIUjVpU1JwWW44UGNwbVlFbnc2Vlh5T2x1eTZZT2lLZms5VDB4?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-27T07:00:00.000Z",
-      "source": {
-        "name": "aawsat.com",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Americans’ electricity was shut off 13 million times in a year, data shows - The Washington Post",
-      "description": "Americans’ electricity was shut off 13 million times in a year, data shows &nbsp;&nbsp; The Washington Post",
-      "content": "Americans’ electricity was shut off 13 million times in a year, data shows &nbsp;&nbsp; The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQekNZZTEtaU1OdDlYTUIzZUFsWHBzUS1ESkd0U2lOZHR3NHZHY0IzRXNtTWFzczVQZEZUd214N3p6NksxTjhqcTNjSDFkdUJxWGZ4dFliRk1YYzJnX3pndmJtSnB5b1VodGtPNy02bTdXSTNucTNzZTV3VGt5OW9rYzNyem92ei1tZVFXTzNrZGhidEEwMXc?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-26T07:00:00.000Z",
-      "source": {
-        "name": "The Washington Post",
-        "url": "https://www.washingtonpost.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "Americans’ electricity was shut off 13 million times in a year, data shows - washingtonpost.com",
-      "description": "Americans’ electricity was shut off 13 million times in a year, data shows &nbsp;&nbsp; washingtonpost.com",
-      "content": "Americans’ electricity was shut off 13 million times in a year, data shows &nbsp;&nbsp; washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQekNZZTEtaU1OdDlYTUIzZUFsWHBzUS1ESkd0U2lOZHR3NHZHY0IzRXNtTWFzczVQZEZUd214N3p6NksxTjhqcTNjSDFkdUJxWGZ4dFliRk1YYzJnX3pndmJtSnB5b1VodGtPNy02bTdXSTNucTNzZTV3VGt5OW9rYzNyem92ei1tZVFXTzNrZGhidEEwMXc?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-26T07:00:00.000Z",
-      "source": {
-        "name": "washingtonpost.com",
-        "url": "https://www.washingtonpost.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "صعود الطاقة المتجددة - الجزء الثاني: السعي نحو الاستقرار وسط تقلبات أسواق الوقود الأحفوري - UN News",
-      "description": "صعود الطاقة المتجددة - الجزء الثاني: السعي نحو الاستقرار وسط تقلبات أسواق الوقود الأحفوري &nbsp;&nbsp; UN News",
-      "content": "صعود الطاقة المتجددة - الجزء الثاني: السعي نحو الاستقرار وسط تقلبات أسواق الوقود الأحفوري &nbsp;&nbsp; UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03WHM3b1ZBM3R1SkdydC1WZklhZU5YX19nSjFFOC1sQkVYckpUY3lpTUc1UWlHdlBmRFFmcjY1Um41azVwb2dDYWFwckVVc2xxRHJtWFZBOA?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-26T07:00:00.000Z",
-      "source": {
-        "name": "UN News",
-        "url": "https://news.un.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "طاقة الرياح في الشرق الأوسط وأفريقيا قد تضيف 35 غيغاواط بحلول 2030 - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "description": "طاقة الرياح في الشرق الأوسط وأفريقيا قد تضيف 35 غيغاواط بحلول 2030 &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "content": "طاقة الرياح في الشرق الأوسط وأفريقيا قد تضيف 35 غيغاواط بحلول 2030 &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNSThSR2NrS3VvTWVwLTZyd2c4eXh1c3ktM2M0NkJEaGRmZTdOdjJtdDQxcXJObVViUXJNQWQ4OUgzVE0tS0xtOGpmSThtYTNyT2FOcEsxX0JGRjFRVTNJVzRTSUdqV0t1Q0dZOVVhN0lOMGdxUEVJNklrTXZNR1RBV0xQX2txUlJ1N25Da1RqMWhzVTQ5RTd1S0kyYzJTRFVPajdFRjQwYl9LSGlHRkQ4WnpnMzd1RmpBZ3dxMjRjdV9xX0FfWDdXQWxGS2tMSWJkVi1pRWxOTDU0eTJJMzdXWjU2dGNvUGViX1Y5SXJITk00TGpvUFVNb2dIUTVOYjF5THYzMHFuWnZLeHpkcm8yUldwVy05M3hlUTdyZjBFbjl1WEc2eWhYbTFjcVM2VFJfMXc0MGF1aUpCV1UzNWhCM3pEYU15YlVJTGcxYU9B?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-26T07:00:00.000Z",
-      "source": {
-        "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-        "url": "https://attaqa.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "طاقة الرياح في الشرق الأوسط وأفريقيا قد تضيف 35 غيغاواط بحلول 2030 - attaqa.net",
-      "description": "طاقة الرياح في الشرق الأوسط وأفريقيا قد تضيف 35 غيغاواط بحلول 2030 &nbsp;&nbsp; attaqa.net",
-      "content": "طاقة الرياح في الشرق الأوسط وأفريقيا قد تضيف 35 غيغاواط بحلول 2030 &nbsp;&nbsp; attaqa.net",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNSThSR2NrS3VvTWVwLTZyd2c4eXh1c3ktM2M0NkJEaGRmZTdOdjJtdDQxcXJObVViUXJNQWQ4OUgzVE0tS0xtOGpmSThtYTNyT2FOcEsxX0JGRjFRVTNJVzRTSUdqV0t1Q0dZOVVhN0lOMGdxUEVJNklrTXZNR1RBV0xQX2txUlJ1N25Da1RqMWhzVTQ5RTd1S0kyYzJTRFVPajdFRjQwYl9LSGlHRkQ4WnpnMzd1RmpBZ3dxMjRjdV9xX0FfWDdXQWxGS2tMSWJkVi1pRWxOTDU0eTJJMzdXWjU2dGNvUGViX1Y5SXJITk00TGpvUFVNb2dIUTVOYjF5THYzMHFuWnZLeHpkcm8yUldwVy05M3hlUTdyZjBFbjl1WEc2eWhYbTFjcVM2VFJfMXc0MGF1aUpCV1UzNWhCM3pEYU15YlVJTGcxYU9B?oc=5",
-      "image": "",
-      "publishedAt": "2026-04-26T07:00:00.000Z",
-      "source": {
-        "name": "attaqa.net",
-        "url": "https://attaqa.net"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
