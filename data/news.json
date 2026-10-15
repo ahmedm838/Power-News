@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-10-14T21:44:20.094Z",
+  "generatedAt": "2026-10-15T04:45:35.615Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "A $3.3 billion USDA loan helping build a new natural gas-fired power plant in Monroe County - 13WMAZ",
+      "description": "A $3.3 billion USDA loan helping build a new natural gas-fired power plant in Monroe County &nbsp;&nbsp; 13WMAZ",
+      "content": "A $3.3 billion USDA loan helping build a new natural gas-fired power plant in Monroe County &nbsp;&nbsp; 13WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNXFDVkp2VEhpbFRaRFRVRzhoOTBqMlJLMFJCVkstd2lEQW50MjZkYTVBc2hLTTdMZHZ6dHlPOVhUWUcxVzhfdE8wWWRGWllhMEg1RGFobEhURHJTMk1KUV96MjROc0FsS2c5UWpucmJiWTdiVVBCOXBCdk96bVN6RFVSTE5kM1ZRVjlyeXFGMV9uVDd1SEkxUW9ocXl3eUVnZkdhRF9tbXBVdnBQTGpoY29nUUUwYjZISHlXRTdIZFRNaHhNY0ZPWXd5bkE2YTk3cEw0MVZFZnZMNEhoYmhEa3R5bzE1M1FpcEtocGFuSEo0Zw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-15T00:43:00.000Z",
+      "source": {
+        "name": "13WMAZ",
+        "url": "https://www.13wmaz.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "How much is gas and electricity going to cost this winter - Times Union",
+      "description": "How much is gas and electricity going to cost this winter &nbsp;&nbsp; Times Union",
+      "content": "How much is gas and electricity going to cost this winter &nbsp;&nbsp; Times Union",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzZOaU92U01nNUw2YUZjLVBiMllWdndxbHZGQllfS1Y0Szk3NzV5SFViMGU1M3M4WGhLRFpVTWpoSFZ1bXVFbzNaOThub3RaanV2aHhCaEZVS3lpLU5rNk1MWnd5ZXQyMm5RUjNyNEFYdWpodFNRZWpTLTFDVHBHT3o0TzRndUVDTHU0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-14T18:07:43.000Z",
+      "source": {
+        "name": "Times Union",
+        "url": "https://www.timesunion.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "BGE, Pepco and Delmarva Power call for more electricity supply as PJM issues grid alerts - WBFF",
+      "description": "BGE, Pepco and Delmarva Power call for more electricity supply as PJM issues grid alerts &nbsp;&nbsp; WBFF",
+      "content": "BGE, Pepco and Delmarva Power call for more electricity supply as PJM issues grid alerts &nbsp;&nbsp; WBFF",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONXN0MHo2dWVGRnJxQ3pEMUY0bTl0cFFkaUltVVZwZ0lLYkVVdGlidnZseVhhb00yYUZ2c1UxTWM3ZVBIWWxjaG1tcDAtVlVHTFdjRU43ZE5mQ0N3VTJIZjl2bjlTaFRxNkQtbmZjMG1PMXZkbVhMWnlrbWxLcHVVd215UmtsOWt3TXdFZW9CLW56RjJlbmE3X0pDRTBnT1JxQlRpaWx3bUVPNkpYT3BiUXZ4UmhSNTg?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-14T18:04:28.000Z",
+      "source": {
+        "name": "WBFF",
+        "url": "https://foxbaltimore.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
     {
       "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
       "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
@@ -75,6 +120,51 @@
         "qatar",
         "turkey"
       ],
+      "preferredSite": ""
+    },
+    {
+      "title": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» - الشرق الأوسط",
+      "description": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» &nbsp;&nbsp; الشرق الأوسط",
+      "content": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxNUXVFSThWT3V2ZXh6LWg3X3VqcTNUcFJId1VIZFBGb1BHQU8yY0M4WXF2dXg0NEtCR0FSTkx3eC1HNUV6SVZ1MmRkWmZuUkd2VEthUy1sTHFQaHJiRTNZLThUd2NGNm04TkVEbWw2UDZfck9zU1BLeEwxN1hBMGhHMDRuRU1Wd3IybDNiVTlnSnBOQUNKU245Q1E0SWRDcVUzandIV1BnRW1jWVh5a3BFQlhORF91Q1k2Ti1LYmhKUnlNZU9zdW5GTlRoQnA2SE4wTnhIXzBxcFJwenRBc2R4b1EtU2pXUjl1TWZRWGF5WTctTjB0WDY3SC1naURZMmRWbWNjZ2JlaWVnVFQ3R3dqMVpsY0ZwT2s0ekNSemlHVno2V1pTX3VST1U3Q3R5NjdoX1dyTG5oSWFLb29WWVJnM3VESktldTlPUDRyaHpjMTRVbjZfalExTTN1eWxFTXdZWmZjSE42bEJwZmJlXzZiSWhhWVJfME9EbHZDdDVKdlBDUUhUdXVsV195YlVwUkpyeEFNMV84b01jT05maU5YNzhtUG5kN193M3RRN0t2MjJtZ3RwdGhaSzFmZjkxVkZJc0V4eURBUVZtanlwOXEwdmFabXNzcnZZeE40TXRCNWJobUlWNEI5WEl0bnBpTno4LVBjNUc3LWM2RmtjSEw1d3VmbG5RRWMzMDRTU1VlcFowaWhKYVVHLWk2REFjNTJMNkcwZUpkZFNFZDlPYTdfUjBDQzdlY0s1Y3h2OGN0ajg1amd1bHpqbXp6Z3lrd0tfVHVkNEZKSFdzbVFaYUpqUzNfTG9ub3p6QVYwQXNBUEZHNGJ3X3JPLTJjV25EVVYtSXV1UWIzVG5CeWlQWnFGd0VGZmppUUl5U0NORDg5ZlJ0SG1WNWZaYmln?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-14T11:26:01.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "مصر: احتواء تداعيات «حادث دمياط» لا يُبدّد مخاوف تأمين احتياجات الكهرباء - الشرق الأوسط",
+      "description": "مصر: احتواء تداعيات «حادث دمياط» لا يُبدّد مخاوف تأمين احتياجات الكهرباء &nbsp;&nbsp; الشرق الأوسط",
+      "content": "مصر: احتواء تداعيات «حادث دمياط» لا يُبدّد مخاوف تأمين احتياجات الكهرباء &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPV25mTkNETi1yTXdyRkhTUjI3aWtNYUU4bzBwZUJLQUtIWjBYQXdQMzlGNGZNeUMzclJNTXZDeFQ5YnNYb2ZGcjdOb3ZoR3JRdTc5M1d0MHVPZ010TmRNMHNaYXRGQzBJVnNsSDlGZmhWbzA5U0ljLVJXenQ2U3Nudkd1UzlhRjk2T2FXTzVhSzFVYUhFb1pvMTZ5RmNMZkx0TEp4MXJaRnQ1Zloxa0lndjF6VUliUGpKUm1GMkFFdzItWVBTd2owZk80bU92X1lKZnpxb25yd2w4eWd3dHk2aF9lc3p2RmJjQy1oeUEwN3hOQUNxWWhSbE1XaGV0S18zMDFGVzgyUWVCUEt6dl9MNVppVFdvbE1vTnFBSXp5R3YyV0VwcVYyTDh4MlhQYS1hVXJvSkc4NW1DYVVpWC1Ua09tY2NxWjZnQ0M0SWtVaVowdjRveUFBTFdHYzgxTnhpTUhlQ21kYmhuQ0hDbzd5OFdkZndKcUFpUG5SVTZKVEh2NGo3bmxZajlGWHI1aUstcFRYWHRiRjBUbGpRSXVic2VXWjlIZ3ZrN1JOWGY4bXFSVzUydGJzT1llSVdISUxuTTJQX2tsTlVURUxWdEhRUGJNZDlkbkNSaU5POXRHY3MzR0JFaHlfNWNVdDdUeG9XcUFoS3BoeE1vX0x0aGt0dkJXZFdjbDVHSThINENrQVJaWFJ1Wjc1MTVJNGxpTzc4TmlyOGZDRThrS1JjRUVzNmpXUEJHaU43VFRSLXBOVUl3bmlzRzR3VTU2a2FfQjdHcmt2RUdNc2R0YXc4dEJrVk1fbUV5Y05IOGlrd0dnTDlqVWUyMFRMMHF3RHI3MHVNUTlLdVRvR09NVU43WDRFTmt0M2VkNmlpUVI3cDMyLUZXUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-14T11:24:58.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Wind instead of imports: Budapest plans 4 GW of wind power by 2030 - oEnergetice.cz",
+      "description": "Wind instead of imports: Budapest plans 4 GW of wind power by 2030 &nbsp;&nbsp; oEnergetice.cz",
+      "content": "Wind instead of imports: Budapest plans 4 GW of wind power by 2030 &nbsp;&nbsp; oEnergetice.cz",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTThvN2NMUW9weDAwYmFRbFRzclZfb3RHbHh4dXR5YlRTNjlYSmU4ZFRkT210ZGNic0lfZEZIM1VDMFJGaXdtNUI4ckwwTTVJeXBPWDA5aE5xSktQVnZIUEIxZzc4ME9pbjB6MEdoWHpWMUdWWlRvR2stSjFXU0lqSnlsakx0RGhvclRYSXpvVnNkcGIzeHNJQ1pIVTY3ZWxjeV9XZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-14T09:20:00.000Z",
+      "source": {
+        "name": "oEnergetice.cz",
+        "url": "https://oenergetice.cz"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
       "preferredSite": ""
     },
     {
@@ -192,6 +282,21 @@
       "source": {
         "name": "KVUE",
         "url": "https://www.kvue.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ - الشرق الأوسط",
+      "description": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
+      "content": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNR1lhMWdEZTUtY3V0ajRqcW9ZLUM4ZE9IcW94ejJGaTRxdU83U0hQSXA2XzhQOF9ncG04NFVtbTlXS2NydUlUUTlmUmxEUzNiUVZJSXFlMGh5WEc5czNIeFFVMjNhRnFYX2NvVFdJdjRxYzdqcmpiRXpyVnpGSnYxQkE2QlRXeEkyeGtVVEhVcXZaWnJsZGNXaHUzVUROemhfTlE2akc1MGk4Q1ZQcHFFSHM4NHZPSWViamZBZ0RjbU03UUZoSDdUNG5pUGsySGFhMjNkazljOG5tMnJBc0p4Z0tTaWs5aUNBbk5uMDk1M21zZWpmbFVTeHlFSnZsUlFQU3d2NDFxa1h0X2FZWkRfemtUMEtNT1h5SExVSDcyWW1rT2ZQNTNWLWVrR1dneV9zZWlCWDVPQjRzeFB0WU9qcTAtN3BmUUxjM0xFUE1mOFB4R0ZrMG13Tk1kd2hPeDBra3o4LWtZdHNOaGhIWFZVV2pXLVBwZVNjcG0wbmdaQlI3Y3lKRGpDMVFjMmVVLUZEQ2VQSzdGdFNHUUZRY25CNnlnOE9vM2dhNHlSZ1NadlRtLVJ1YkZjdmlUOHI0VE5ZMVpXc0dTV0JObkFxdDYtdXhFWFVsUThmN1k3Zl8ySVJ0UGFSNTVBb05Cb3l0b1NSZlFWQjRjZ056SVJqVjFNZ1J6THJUR1JkWWpYbE5QYWhRT004UVdHX0lUUnJORWRaSV9nSHVQZm5nemxrM1BtQjRMRmF3TWo1WEJ3QUozTUNaUkRISjFvekgwbEhJcXUzdWJmTFJiclAtMGVQeXlJVXJNT2E5TTRpMXhlR1Zid1VuWXBqa3piMkJoQnZXSG9TdkhSOVVmNTNYZGM0RU1lNVJ6YVF6U0pMQXItUXNhYkZHUWI5QzdwbTMzdmcybFRud0xEeTB1UnVfS1k?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-13T18:45:59.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -623,7 +728,7 @@
       "content": "Baton Rouge regular gas stays about $3.92 as Gulf oil production starts to recover &nbsp;&nbsp; WBRZ",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMlAxLV9RcElXZS1XMFZRZHRCYmNBMzF6OU94cWZLVkRGaC1NcXpiSjMwemtwTEFXU3pGV2tMMnZ4bWZOSVB4RGVSLUZadVpJVDJhalFYUmhHVWVuYU82aXNseS1IZ0RuZm01YU9zdmFTeWtZMlcybS1nTUFnY01lb0k1WEpjcXBQRlNsNjJSSTNMZk11cnZCRmNsdzZnQ0JDdHhKQm5OOHU4SzBB?oc=5",
       "image": "",
-      "publishedAt": "2026-10-12T03:42:10.000Z",
+      "publishedAt": "2026-10-12T03:45:25.000Z",
       "source": {
         "name": "WBRZ",
         "url": "https://www.wbrz.com"
@@ -4729,21 +4834,6 @@
       "source": {
         "name": "IDNFinancials",
         "url": "https://www.idnfinancials.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ - الشرق الأوسط",
-      "description": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
-      "content": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNR1lhMWdEZTUtY3V0ajRqcW9ZLUM4ZE9IcW94ejJGaTRxdU83U0hQSXA2XzhQOF9ncG04NFVtbTlXS2NydUlUUTlmUmxEUzNiUVZJSXFlMGh5WEc5czNIeFFVMjNhRnFYX2NvVFdJdjRxYzdqcmpiRXpyVnpGSnYxQkE2QlRXeEkyeGtVVEhVcXZaWnJsZGNXaHUzVUROemhfTlE2akc1MGk4Q1ZQcHFFSHM4NHZPSWViamZBZ0RjbU03UUZoSDdUNG5pUGsySGFhMjNkazljOG5tMnJBc0p4Z0tTaWs5aUNBbk5uMDk1M21zZWpmbFVTeHlFSnZsUlFQU3d2NDFxa1h0X2FZWkRfemtUMEtNT1h5SExVSDcyWW1rT2ZQNTNWLWVrR1dneV9zZWlCWDVPQjRzeFB0WU9qcTAtN3BmUUxjM0xFUE1mOFB4R0ZrMG13Tk1kd2hPeDBra3o4LWtZdHNOaGhIWFZVV2pXLVBwZVNjcG0wbmdaQlI3Y3lKRGpDMVFjMmVVLUZEQ2VQSzdGdFNHUUZRY25CNnlnOE9vM2dhNHlSZ1NadlRtLVJ1YkZjdmlUOHI0VE5ZMVpXc0dTV0JObkFxdDYtdXhFWFVsUThmN1k3Zl8ySVJ0UGFSNTVBb05Cb3l0b1NSZlFWQjRjZ056SVJqVjFNZ1J6THJUR1JkWWpYbE5QYWhRT004UVdHX0lUUnJORWRaSV9nSHVQZm5nemxrM1BtQjRMRmF3TWo1WEJ3QUozTUNaUkRISjFvekgwbEhJcXUzdWJmTFJiclAtMGVQeXlJVXJNT2E5TTRpMXhlR1Zid1VuWXBqa3piMkJoQnZXSG9TdkhSOVVmNTNYZGM0RU1lNVJ6YVF6U0pMQXItUXNhYkZHUWI5QzdwbTMzdmcybFRud0xEeTB1UnVfS1k?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-25T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -11773,21 +11863,6 @@
       "preferredSite": ""
     },
     {
-      "title": "مصر: احتواء تداعيات «حادث دمياط» لا يُبدّد مخاوف تأمين احتياجات الكهرباء - الشرق الأوسط",
-      "description": "مصر: احتواء تداعيات «حادث دمياط» لا يُبدّد مخاوف تأمين احتياجات الكهرباء &nbsp;&nbsp; الشرق الأوسط",
-      "content": "مصر: احتواء تداعيات «حادث دمياط» لا يُبدّد مخاوف تأمين احتياجات الكهرباء &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPV25mTkNETi1yTXdyRkhTUjI3aWtNYUU4bzBwZUJLQUtIWjBYQXdQMzlGNGZNeUMzclJNTXZDeFQ5YnNYb2ZGcjdOb3ZoR3JRdTc5M1d0MHVPZ010TmRNMHNaYXRGQzBJVnNsSDlGZmhWbzA5U0ljLVJXenQ2U3Nudkd1UzlhRjk2T2FXTzVhSzFVYUhFb1pvMTZ5RmNMZkx0TEp4MXJaRnQ1Zloxa0lndjF6VUliUGpKUm1GMkFFdzItWVBTd2owZk80bU92X1lKZnpxb25yd2w4eWd3dHk2aF9lc3p2RmJjQy1oeUEwN3hOQUNxWWhSbE1XaGV0S18zMDFGVzgyUWVCUEt6dl9MNVppVFdvbE1vTnFBSXp5R3YyV0VwcVYyTDh4MlhQYS1hVXJvSkc4NW1DYVVpWC1Ua09tY2NxWjZnQ0M0SWtVaVowdjRveUFBTFdHYzgxTnhpTUhlQ21kYmhuQ0hDbzd5OFdkZndKcUFpUG5SVTZKVEh2NGo3bmxZajlGWHI1aUstcFRYWHRiRjBUbGpRSXVic2VXWjlIZ3ZrN1JOWGY4bXFSVzUydGJzT1llSVdISUxuTTJQX2tsTlVURUxWdEhRUGJNZDlkbkNSaU5POXRHY3MzR0JFaHlfNWNVdDdUeG9XcUFoS3BoeE1vX0x0aGt0dkJXZFdjbDVHSThINENrQVJaWFJ1Wjc1MTVJNGxpTzc4TmlyOGZDRThrS1JjRUVzNmpXUEJHaU43VFRSLXBOVUl3bmlzRzR3VTU2a2FfQjdHcmt2RUdNc2R0YXc4dEJrVk1fbUV5Y05IOGlrd0dnTDlqVWUyMFRMMHF3RHI3MHVNUTlLdVRvR09NVU43WDRFTmt0M2VkNmlpUVI3cDMyLUZXUQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-31T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "State’s only coal power plant shifting to natural gas, will serve as backup power for region - Department of Ecology - State of Washington (.gov)",
       "description": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Department of Ecology - State of Washington (.gov)",
       "content": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Department of Ecology - State of Washington (.gov)",
@@ -13027,21 +13102,6 @@
       "source": {
         "name": "bbc.com",
         "url": "https://www.bbc.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» - الشرق الأوسط",
-      "description": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» &nbsp;&nbsp; الشرق الأوسط",
-      "content": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxNUXVFSThWT3V2ZXh6LWg3X3VqcTNUcFJId1VIZFBGb1BHQU8yY0M4WXF2dXg0NEtCR0FSTkx3eC1HNUV6SVZ1MmRkWmZuUkd2VEthUy1sTHFQaHJiRTNZLThUd2NGNm04TkVEbWw2UDZfck9zU1BLeEwxN1hBMGhHMDRuRU1Wd3IybDNiVTlnSnBOQUNKU245Q1E0SWRDcVUzandIV1BnRW1jWVh5a3BFQlhORF91Q1k2Ti1LYmhKUnlNZU9zdW5GTlRoQnA2SE4wTnhIXzBxcFJwenRBc2R4b1EtU2pXUjl1TWZRWGF5WTctTjB0WDY3SC1naURZMmRWbWNjZ2JlaWVnVFQ3R3dqMVpsY0ZwT2s0ekNSemlHVno2V1pTX3VST1U3Q3R5NjdoX1dyTG5oSWFLb29WWVJnM3VESktldTlPUDRyaHpjMTRVbjZfalExTTN1eWxFTXdZWmZjSE42bEJwZmJlXzZiSWhhWVJfME9EbHZDdDVKdlBDUUhUdXVsV195YlVwUkpyeEFNMV84b01jT05maU5YNzhtUG5kN193M3RRN0t2MjJtZ3RwdGhaSzFmZjkxVkZJc0V4eURBUVZtanlwOXEwdmFabXNzcnZZeE40TXRCNWJobUlWNEI5WEl0bnBpTno4LVBjNUc3LWM2RmtjSEw1d3VmbG5RRWMzMDRTU1VlcFowaWhKYVVHLWk2REFjNTJMNkcwZUpkZFNFZDlPYTdfUjBDQzdlY0s1Y3h2OGN0ajg1amd1bHpqbXp6Z3lrd0tfVHVkNEZKSFdzbVFaYUpqUzNfTG9ub3p6QVYwQXNBUEZHNGJ3X3JPLTJjV25EVVYtSXV1UWIzVG5CeWlQWnFGd0VGZmppUUl5U0NORDg5ZlJ0SG1WNWZaYmln?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-11T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
