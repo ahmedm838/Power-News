@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T16:42:46.164Z",
+  "generatedAt": "2026-10-16T21:14:26.841Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
@@ -1548,21 +1548,6 @@
       "preferredSite": ""
     },
     {
-      "title": "إعصار إساياس يزحف نحو ساحل أمريكا على خليج المكسيك ويعطل إنتاج النفط - Reuters",
-      "description": "إعصار إساياس يزحف نحو ساحل أمريكا على خليج المكسيك ويعطل إنتاج النفط &nbsp;&nbsp; Reuters",
-      "content": "إعصار إساياس يزحف نحو ساحل أمريكا على خليج المكسيك ويعطل إنتاج النفط &nbsp;&nbsp; Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcFB3M1hnYWEyNU9aZzZJQm9QeUZNTHAxZEllUk0td05Oek9Pa0RSaWZzNnJYbUZ2ZGphQ3FtSHkyemFWSUpxZ0o0Q05nbTNBSi1GcXVocFozNkN6dWw1eVhqbHpRdWx5VGc5VTl3RTBqODdlVkl1YzNfOFRMeF9fOC1n?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-08T18:59:29.000Z",
-      "source": {
-        "name": "Reuters",
-        "url": "https://www.reuters.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Gas prices face new threat as Hurricane Isaias forces widespread Gulf oil shutdowns - NBC News",
       "description": "Gas prices face new threat as Hurricane Isaias forces widespread Gulf oil shutdowns &nbsp;&nbsp; NBC News",
       "content": "Gas prices face new threat as Hurricane Isaias forces widespread Gulf oil shutdowns &nbsp;&nbsp; NBC News",
@@ -1707,6 +1692,21 @@
       "source": {
         "name": "African Manager",
         "url": "https://en.africanmanager.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "إعصار إساياس يزحف نحو ساحل أمريكا على خليج المكسيك ويعطل إنتاج النفط - Reuters",
+      "description": "إعصار إساياس يزحف نحو ساحل أمريكا على خليج المكسيك ويعطل إنتاج النفط &nbsp;&nbsp; Reuters",
+      "content": "إعصار إساياس يزحف نحو ساحل أمريكا على خليج المكسيك ويعطل إنتاج النفط &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcFB3M1hnYWEyNU9aZzZJQm9QeUZNTHAxZEllUk0td05Oek9Pa0RSaWZzNnJYbUZ2ZGphQ3FtSHkyemFWSUpxZ0o0Q05nbTNBSi1GcXVocFozNkN6dWw1eVhqbHpRdWx5VGc5VTl3RTBqODdlVkl1YzNfOFRMeF9fOC1n?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -2223,21 +2223,6 @@
       "preferredSite": ""
     },
     {
-      "title": "Boron-Powered Propellant Lets Solid Rockets Switch On and Off With Electricity or Laser Light - Bioengineer.org",
-      "description": "Boron-Powered Propellant Lets Solid Rockets Switch On and Off With Electricity or Laser Light &nbsp;&nbsp; Bioengineer.org",
-      "content": "Boron-Powered Propellant Lets Solid Rockets Switch On and Off With Electricity or Laser Light &nbsp;&nbsp; Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHBXZnB5TFE1RmtjX0ZXNmZDYjdDOC1xRVRhS0N1Zi1DT0d6bGE0cTRBNUd5a2ZTdDZaZVd3VzVRTllLcTNzSzNSM3dNU3Z2Y3FXTUpLbmRURmo1S19zaUlXa1pRTnVXMzdRSHhhVGNuUnhXekxod3hva3VpbWZjSEJGNlVMUDZQbWQtbGlxeDdsQ0RUZ3pxeTltM05YU1p3ZTNkQjBpVDhsakFwU0p5SjVaUlZleU1VSkE?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-05T15:18:05.000Z",
-      "source": {
-        "name": "Bioengineer.org",
-        "url": "https://bioengineer.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
       "title": "Amper: Growth in Czech electricity consumption slowed in the third quarter - oenergetice.cz",
       "description": "Amper: Growth in Czech electricity consumption slowed in the third quarter &nbsp;&nbsp; oenergetice.cz",
       "content": "Amper: Growth in Czech electricity consumption slowed in the third quarter &nbsp;&nbsp; oenergetice.cz",
@@ -2281,6 +2266,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "Boron-Powered Propellant Lets Solid Rockets Switch On and Off With Electricity or Laser Light - Bioengineer.org",
+      "description": "Boron-Powered Propellant Lets Solid Rockets Switch On and Off With Electricity or Laser Light &nbsp;&nbsp; Bioengineer.org",
+      "content": "Boron-Powered Propellant Lets Solid Rockets Switch On and Off With Electricity or Laser Light &nbsp;&nbsp; Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHBXZnB5TFE1RmtjX0ZXNmZDYjdDOC1xRVRhS0N1Zi1DT0d6bGE0cTRBNUd5a2ZTdDZaZVd3VzVRTllLcTNzSzNSM3dNU3Z2Y3FXTUpLbmRURmo1S19zaUlXa1pRTnVXMzdRSHhhVGNuUnhXekxod3hva3VpbWZjSEJGNlVMUDZQbWQtbGlxeDdsQ0RUZ3pxeTltM05YU1p3ZTNkQjBpVDhsakFwU0p5SjVaUlZleU1VSkE?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-05T07:00:00.000Z",
+      "source": {
+        "name": "Bioengineer.org",
+        "url": "https://bioengineer.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "‘Nothing Good About It’: Neighbors Don't Want Rural Power Plant North Of Cheyenne - Cowboy State Daily",
@@ -4600,6 +4600,21 @@
       "preferredSite": ""
     },
     {
+      "title": "إلغاء الرحلات الجوية وقطع الكهرباء شمال شرقي أمريكا.. ما السبب؟ - Masrawy",
+      "description": "إلغاء الرحلات الجوية وقطع الكهرباء شمال شرقي أمريكا.. ما السبب؟ &nbsp;&nbsp; Masrawy",
+      "content": "إلغاء الرحلات الجوية وقطع الكهرباء شمال شرقي أمريكا.. ما السبب؟ &nbsp;&nbsp; Masrawy",
+      "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxQaEk4dWJJSXZGRncyaXpfdHY4RDZfQVlMbnpOS2JkbzNpYTVpNHJfNTFBRzZOb0lWQ1NWcFVXS0RCTnNUcl83R21uWTdCemhCQTlfWWw4UGFCenVIbzg4R3ZVSmJHa2dOaW9KTUVGUHlyM0doZ2wwUnlTeXlpZ215Z1JsV1o5c0t4cW5VSWtfX3cyaGFqaXdqX1ZMczJTMWhoWDFNeTB1WWVQdUlUNHBYZzBDWGVnZFRGeGx5dExYXzdGWlFPN2Y2REtVeHlwVXJJaUp2YnB2a0dZUk5zUjl1Yjhyd3NfNTVLZjZocC1BR1Z3emlqamQtMHdNWFNGREZQcm9NQ1NVblBjd0h3OU1waGs4LXM0ZXVZeEkzSHdTb1JBb2tSWjNBaEVWRHBjODBCLU5jd2U4SkQwZ1RMQng0bWFRXzViZ2V1clZ5eHFUeWxkUm42WkNXT2hnTjZUUEVtN0MwSjdaaFdNMWFyTFJmS19iMTB3OFJVTF85aFZoU0l3dGh2TnB2SmxpTVRoWjRxOHdCS1N3OU4tMHBKMFE2NGM2Vjg2WktMUDB5U3ZySmpzNVAxYTZVV0JlUkZpU25SNnFjSm1CS2oxeW9mcGI4V0QzSXhpdTlpU0ZTRkUxVHNwYW9uMENwajE0dzVCLXJPOVRRandtNnhvNVdCdXRySWhhZW5wX1dfVTNJYUlBVXZjb0cyWVZTRnZRQXktcUJ1VXJMNtIBqgRBVV95cUxOUnRCUzRuQl9wTmx5dzMwaTZTQ0JRSU9HeUNuaWYyTGhkQ0NGVElISndQdGhhWnk0VzRoYWFmZ0c2NXJjb2NZWV9aYlhSSmpzakRaMHV1Q2Ryc044WlEyeHlVRGF4N0tVSkdiOXRmbHFsalY2U0k1dW1nZzNRR29iU043cHM5M1BKbjJDYXBNVjlUb3d5RFRSSUtWc0YxY0NjVHZIeE5jeHlkSGQ0cTBjNFdwQU9xX3d1WUJORXZZNXVYczEyNE9aUFAwcV9HR0p1THZQb2ZiUE9PM3pSSzN4TC1IajVBV3Z6dVAyQ19zdDEtWGtxejNDSlNwUkRmMTFvLU5FX0FTUzYza1JKdDl3NFBUQ3RuckQ1WVFHZ1NyZTNLZ3RRLVNmTS14ZF9EVlJNMmItWnhuTnA1a0dxeFBPUnBvempUWGlhX3ZUbEFGM1dGNmlySUI1a242OUJTUHphZ0syV3FkSmZhNkd6czFYYXlBd2RfUm03MUV1LTZUZnVBNUNacTBpenZCTWg4YW1jbFJCeG8xVkx0dk1kUjEtUF8wSUtvNFlibU9ENVJCY1BqVVU3QmxJeDJfa2IwX3ZVSHRWMVFLSkRLb1ZwT3llYi1EWEdtVlpPZmhJZU9LQmdhN2oyYTdRX291R0NZclpwV2c0WHBpUld1bDJUWnhiY1l3Xzc0VFRKcUQyNWZLNzB5cVdwakxfQjllMUZQTGZndkp6WEF3NW50UQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-27T07:00:00.000Z",
+      "source": {
+        "name": "Masrawy",
+        "url": "https://www.masrawy.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "شريف الخولي لـ CEO LEVEL PODCAST: أكتيس تعتزم ضخ 300 مليون دولار في الطاقة المتجددة بمصر بقدرات 500 ميجاوات فأكثر - جريدة المال",
       "description": "شريف الخولي لـ CEO LEVEL PODCAST: أكتيس تعتزم ضخ 300 مليون دولار في الطاقة المتجددة بمصر بقدرات 500 ميجاوات فأكثر &nbsp;&nbsp; جريدة المال",
       "content": "شريف الخولي لـ CEO LEVEL PODCAST: أكتيس تعتزم ضخ 300 مليون دولار في الطاقة المتجددة بمصر بقدرات 500 ميجاوات فأكثر &nbsp;&nbsp; جريدة المال",
@@ -5558,6 +5573,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Southeast Asian countries have released four times more long-term renewable energy policies than fossil fuel policies since the Iran war - Zero Carbon Analytics",
+      "description": "Southeast Asian countries have released four times more long-term renewable energy policies than fossil fuel policies since the Iran war &nbsp;&nbsp; Zero Carbon Analytics",
+      "content": "Southeast Asian countries have released four times more long-term renewable energy policies than fossil fuel policies since the Iran war &nbsp;&nbsp; Zero Carbon Analytics",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUEMtUDRIak9qeV9OOVVfeDVSWnl0dl9CTDU0M0FQa2J0TkhUZDJKTWpBblVVcHpleVFVRV9QUG9LS3FfQ2dYZmpySzZBUWN4WDE0SlN5UWc0TndBa0o1WEcwQ0VFSmdrbUZ5S29LQk43Tng1djVjWl9RWkJEUkNDaWxCbHlBVmQtSWtBY0ltblExMEtxM3BtNi1xRmhUbkN0WFo5bjJraUV1ZzZLekNGMzFxeWdQM3hGRVhtZEMycE8tejYzWVh4b1k2QmozSHEzRktlb21jZFJHUTRkRUNucWsySmE2RU9vMTdZR2lFSXptblpLZlNNcmxjd0d0RkNIU0JkOEdvWjA?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-24T07:00:00.000Z",
+      "source": {
+        "name": "Zero Carbon Analytics",
+        "url": "https://zerocarbon-analytics.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "Rathlin man who spent two years without electricity among first tenants in new social homes on the island - Belfast Telegraph",
@@ -10362,7 +10392,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "maal.com"
+      "preferredSite": "masrawy.com"
     },
     {
       "title": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة - aawsat.com",
@@ -15233,36 +15263,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
-    },
-    {
-      "title": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK - ictnews.org",
-      "description": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK &nbsp;&nbsp; ictnews.org",
-      "content": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK &nbsp;&nbsp; ictnews.org",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT25JOURZTFl0R2pKOWpJeDVLYkhIMXdvYUdGUVFkYmNPS3V6dThYWVNjOThHRTZlcG9aeEZwekxzZjh2dlVOVzJPQzlmTW5JZ2NHQ1RwS2IxckljSmlIVHNRM3lDQTVEMUt3QzN2b3JLWGhlZHRDdWRsVXRVWXN1M0ZJRXg2M2kyNUpXY2pDSU1FSFlDMnhmU2t6WHJJTzJyYi1qdTFtVUk2d3NiYTlFZUVZR2lyUjBtRHZyRUhR?oc=5",
-      "image": "",
-      "publishedAt": "2026-05-23T07:00:00.000Z",
-      "source": {
-        "name": "ictnews.org",
-        "url": "https://ictnews.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK - ICT News",
-      "description": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK &nbsp;&nbsp; ICT News",
-      "content": "A decade after Standing Rock protests, contentious segment of Dakota Access oil pipeline gets OK &nbsp;&nbsp; ICT News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT25JOURZTFl0R2pKOWpJeDVLYkhIMXdvYUdGUVFkYmNPS3V6dThYWVNjOThHRTZlcG9aeEZwekxzZjh2dlVOVzJPQzlmTW5JZ2NHQ1RwS2IxckljSmlIVHNRM3lDQTVEMUt3QzN2b3JLWGhlZHRDdWRsVXRVWXN1M0ZJRXg2M2kyNUpXY2pDSU1FSFlDMnhmU2t6WHJJTzJyYi1qdTFtVUk2d3NiYTlFZUVZR2lyUjBtRHZyRUhR?oc=5",
-      "image": "",
-      "publishedAt": "2026-05-23T07:00:00.000Z",
-      "source": {
-        "name": "ICT News",
-        "url": "https://ictnews.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
     }
   ]
 }
