@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-10-16T04:36:38.171Z",
+  "generatedAt": "2026-10-16T11:29:27.235Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "“Cooling without electricity or water”: DGIST develops “self-cooling film” for thermal management in AI-era electronic devices - EurekAlert!",
+      "description": "“Cooling without electricity or water”: DGIST develops “self-cooling film” for thermal management in AI-era electronic devices &nbsp;&nbsp; EurekAlert!",
+      "content": "“Cooling without electricity or water”: DGIST develops “self-cooling film” for thermal management in AI-era electronic devices &nbsp;&nbsp; EurekAlert!",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PSVZ4bGUxRy1Jd2lNbktZQmQzaGpDMkxNN0lqTlFyQVd5WlBCWUFwdUJhUnBwVXE2SXdZWXN6M2hocmhLVEZsTlBKdEIxUmJSV2dET3JjRXktOER3?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-16T06:21:09.000Z",
+      "source": {
+        "name": "EurekAlert!",
+        "url": "https://www.eurekalert.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Equinor rejects extending gas power plant operations at Melkøya, says state must pay - EnergyWatch",
+      "description": "Equinor rejects extending gas power plant operations at Melkøya, says state must pay &nbsp;&nbsp; EnergyWatch",
+      "content": "Equinor rejects extending gas power plant operations at Melkøya, says state must pay &nbsp;&nbsp; EnergyWatch",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02RERBaDFHeTVNOHpDLUpoRzlPMjZHTnZEVk5sa1Y1NW0yTlM1STlyVkZvRG9yTmhqQXlCdkwzLURKdXBkNl9zaHExVlRLSlhOekFwTkhXaDE5OHE1SzVKSE5abnV6bER2YUI3NndGZ1Fadw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-16T05:45:00.000Z",
+      "source": {
+        "name": "EnergyWatch",
+        "url": "https://energywatch.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Toho Gas Co Ltd Says It Has Invested In Its First Solar Power Project In The United States - TradingView",
+      "description": "Toho Gas Co Ltd Says It Has Invested In Its First Solar Power Project In The United States &nbsp;&nbsp; TradingView",
+      "content": "Toho Gas Co Ltd Says It Has Invested In Its First Solar Power Project In The United States &nbsp;&nbsp; TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNHpCekZYSlc3dTFZZUY1NFFJNjFXcVRVeTI5c2xHVi1VamxUX0ptS2dwdHIyQzZMbXBMZThXTzNjMkFWRlRRVVR4VXpsV3B6UElJRVM2QUgyUzlLN2lJUXhmVHdsM2FaNll4eXlhRVk3YjFheVd4cXY0eExnV3FDMHBVVXE5YVdhRmhadFhPRWp6V2Njdldmc2N5aFNDbkxnWTFoalRId05PSWkxRXdTNDBLd2NzbTY0MXh3bERhdDVUcmZzNVYxOGY5LWFzdTBJMGRqTlMycEFoaEZPWE8wRDhySXhFYVBUaDVVdVk2LWhCdw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-16T05:13:00.000Z",
+      "source": {
+        "name": "TradingView",
+        "url": "https://www.tradingview.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "“Cooling without electricity or water”: DGIST develops “self-cooling film” for thermal management in AI-era electronic devices - Asia Research News |",
       "description": "“Cooling without electricity or water”: DGIST develops “self-cooling film” for thermal management in AI-era electronic devices &nbsp;&nbsp; Asia Research News |",
@@ -18,6 +63,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
+      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-15T23:02:36.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "AEP Plans $4 Billion Fuel Cell Power Plant for Google, Signs Up to 1.6 GW Mainspring Generator Deal - POWER Magazine",
@@ -48,21 +108,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
-    },
-    {
-      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
-      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-15T16:14:38.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     },
     {
       "title": "أوناسولر توفر حلول الطاقة الشمسية لمشروعات كبرى ومصانع ومزارع خلال معرض مصر الدولي - جريدة آخر الأخبار",
@@ -1803,21 +1848,6 @@
       "preferredSite": ""
     },
     {
-      "title": "Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost - gCaptain",
-      "description": "Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost &nbsp;&nbsp; gCaptain",
-      "content": "Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost &nbsp;&nbsp; gCaptain",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGNUdm1jRkFydm5pUE02NzYtSE1PRF9vS3UyWTB4RHFIcDRvWE1Oc0FKYldkeGJkUlNEOGFkbDRhM25lWHpENzRnRUEtYVFVVy15YXdNVFBmU3BLRVQzSjFPQW9KR2ZPd3FiSDZPNGpjdjBGeV9aR1hCQW83QWgtb3FlQ1RTbkNxNkk0NFNHTQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-07T10:01:07.000Z",
-      "source": {
-        "name": "gCaptain",
-        "url": "https://gcaptain.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
       "title": "النفط فوق 100 دولار.. عاصفة أمريكية تهدد الإمدادات وتوترات الشرق الأوسط مستمرة - المصدر",
       "description": "النفط فوق 100 دولار.. عاصفة أمريكية تهدد الإمدادات وتوترات الشرق الأوسط مستمرة &nbsp;&nbsp; المصدر",
       "content": "النفط فوق 100 دولار.. عاصفة أمريكية تهدد الإمدادات وتوترات الشرق الأوسط مستمرة &nbsp;&nbsp; المصدر",
@@ -1831,6 +1861,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost - gCaptain",
+      "description": "Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost &nbsp;&nbsp; gCaptain",
+      "content": "Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost &nbsp;&nbsp; gCaptain",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGNUdm1jRkFydm5pUE02NzYtSE1PRF9vS3UyWTB4RHFIcDRvWE1Oc0FKYldkeGJkUlNEOGFkbDRhM25lWHpENzRnRUEtYVFVVy15YXdNVFBmU3BLRVQzSjFPQW9KR2ZPd3FiSDZPNGpjdjBGeV9aR1hCQW83QWgtb3FlQ1RTbkNxNkk0NFNHTQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "source": {
+        "name": "gCaptain",
+        "url": "https://gcaptain.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost - Bloomberg.com",
@@ -2073,21 +2118,6 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "‘Nothing Good About It’: Neighbors Don't Want Rural Power Plant North Of Cheyenne - Cowboy State Daily",
-      "description": "‘Nothing Good About It’: Neighbors Don't Want Rural Power Plant North Of Cheyenne &nbsp;&nbsp; Cowboy State Daily",
-      "content": "‘Nothing Good About It’: Neighbors Don't Want Rural Power Plant North Of Cheyenne &nbsp;&nbsp; Cowboy State Daily",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWJXQkFRT000dWZaMG1xTUhnUzJOUUF2enlLZ1FGTHVMN2RpSmpWT0wySlAwSC1xVUtMSEp6NmZfWXhqMlBUd2RiRTNyT0NLT0ZqREp5MjJXNzZPa1dMQlY1S2c1QS1EakxtUlN5N0hxSzFEUVBkNngtdFVXcFp4N2l4OGRseGVOVGR6V3JsQjN1Z2dxdnVCd2hUZ2lFTWFud0I4UmxOOV81Z2FDX0Q1c241UGxBbjdiOElocg?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-05T23:31:00.000Z",
-      "source": {
-        "name": "Cowboy State Daily",
-        "url": "https://cowboystatedaily.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
       "title": "Records reveal sprawling data center and power plant plans for Elizabeth Township - Pittsburgh's Public Source",
       "description": "Records reveal sprawling data center and power plant plans for Elizabeth Township &nbsp;&nbsp; Pittsburgh's Public Source",
       "content": "Records reveal sprawling data center and power plant plans for Elizabeth Township &nbsp;&nbsp; Pittsburgh's Public Source",
@@ -2191,6 +2221,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "‘Nothing Good About It’: Neighbors Don't Want Rural Power Plant North Of Cheyenne - Cowboy State Daily",
+      "description": "‘Nothing Good About It’: Neighbors Don't Want Rural Power Plant North Of Cheyenne &nbsp;&nbsp; Cowboy State Daily",
+      "content": "‘Nothing Good About It’: Neighbors Don't Want Rural Power Plant North Of Cheyenne &nbsp;&nbsp; Cowboy State Daily",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWJXQkFRT000dWZaMG1xTUhnUzJOUUF2enlLZ1FGTHVMN2RpSmpWT0wySlAwSC1xVUtMSEp6NmZfWXhqMlBUd2RiRTNyT0NLT0ZqREp5MjJXNzZPa1dMQlY1S2c1QS1EakxtUlN5N0hxSzFEUVBkNngtdFVXcFp4N2l4OGRseGVOVGR6V3JsQjN1Z2dxdnVCd2hUZ2lFTWFud0I4UmxOOV81Z2FDX0Q1c241UGxBbjdiOElocg?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-05T07:00:00.000Z",
+      "source": {
+        "name": "Cowboy State Daily",
+        "url": "https://cowboystatedaily.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "أزمة ” تحصيل ” في «كهرباء شمال القاهرة».. 3 أشهر دون تحقيق المستهدف !!",
@@ -7549,21 +7594,6 @@
       "preferredSite": ""
     },
     {
-      "title": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived - صحيفة مال",
-      "description": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived &nbsp;&nbsp; صحيفة مال",
-      "content": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived &nbsp;&nbsp; صحيفة مال",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vSUdsNEVOTEhTclA4Y19fWUptT2RxQVFsbVpGNEwzbm9WR1JFTWd4TTlqTmFDMEtUWHRqYk5MVWlPejBXVVJDRm9EUjREQ1FrUWdpYUNieGtqWHc0N0I3TlpQR2ppcDNDbVlR?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-15T13:07:44.000Z",
-      "source": {
-        "name": "صحيفة مال",
-        "url": "https://maaal.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "alghad.com"
-    },
-    {
       "title": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived - maaal.com",
       "description": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived &nbsp;&nbsp; maaal.com",
       "content": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived &nbsp;&nbsp; maaal.com",
@@ -7757,6 +7787,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived - صحيفة مال",
+      "description": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived &nbsp;&nbsp; صحيفة مال",
+      "content": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived &nbsp;&nbsp; صحيفة مال",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vSUdsNEVOTEhTclA4Y19fWUptT2RxQVFsbVpGNEwzbm9WR1JFTWd4TTlqTmFDMEtUWHRqYk5MVWlPejBXVVJDRm9EUjREQ1FrUWdpYUNieGtqWHc0N0I3TlpQR2ppcDNDbVlR?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-15T07:00:00.000Z",
+      "source": {
+        "name": "صحيفة مال",
+        "url": "https://maaal.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "almasryalyoum.com"
     },
     {
       "title": "Trump EPA rolls back power plant climate rule - RiverheadLOCAL",
@@ -8340,21 +8385,6 @@
       "preferredSite": ""
     },
     {
-      "title": "Elon Musk Says AI Data Centers Are Lowering Electricity Prices for Consumers. Here's What We Found When We Ran the Numbers. - 24/7 Wall St.",
-      "description": "Elon Musk Says AI Data Centers Are Lowering Electricity Prices for Consumers. Here's What We Found When We Ran the Numbers. &nbsp;&nbsp; 24/7 Wall St.",
-      "content": "Elon Musk Says AI Data Centers Are Lowering Electricity Prices for Consumers. Here's What We Found When We Ran the Numbers. &nbsp;&nbsp; 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZFFBNTdpM2k5QVVBazl5aUN6ZTJlSXg5SlMyRTZXekpIcTdmaWhoSDFLOXBacmxtY3N3RU00U2lKc3VVdXpqSkFxS0V5Z0RNLXI3WU1XN1FIZVJsTkhpQUk0TGpQYm1mZGRqUlp4Uk1kVTMwcEhwdS1sWlFhT1lvOWluXzZyYzBMeFJFa3ZscFIwQkNjODNieG5xd3NIV1hBdjAybjFxaW5fb21peFpnb3dER3VCWmlTWjhoWkUxckxpTmFZYk1Vd29fTEtoX2V6MS1zOWt5YVJISEtOblI1SENCV1AyeGl1U20wNXZoMFA4M1RBRlRJ?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-14T15:45:00.000Z",
-      "source": {
-        "name": "24/7 Wall St.",
-        "url": "https://247wallst.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
       "title": "Trump EPA moves to scrap power plant greenhouse gas limits - Business Day",
       "description": "Trump EPA moves to scrap power plant greenhouse gas limits &nbsp;&nbsp; Business Day",
       "content": "Trump EPA moves to scrap power plant greenhouse gas limits &nbsp;&nbsp; Business Day",
@@ -8529,6 +8559,21 @@
       "source": {
         "name": "Судово-юридична газета",
         "url": "https://sud.ua"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Elon Musk Says AI Data Centers Are Lowering Electricity Prices for Consumers. Here's What We Found When We Ran the Numbers. - 24/7 Wall St.",
+      "description": "Elon Musk Says AI Data Centers Are Lowering Electricity Prices for Consumers. Here's What We Found When We Ran the Numbers. &nbsp;&nbsp; 24/7 Wall St.",
+      "content": "Elon Musk Says AI Data Centers Are Lowering Electricity Prices for Consumers. Here's What We Found When We Ran the Numbers. &nbsp;&nbsp; 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZFFBNTdpM2k5QVVBazl5aUN6ZTJlSXg5SlMyRTZXekpIcTdmaWhoSDFLOXBacmxtY3N3RU00U2lKc3VVdXpqSkFxS0V5Z0RNLXI3WU1XN1FIZVJsTkhpQUk0TGpQYm1mZGRqUlp4Uk1kVTMwcEhwdS1sWlFhT1lvOWluXzZyYzBMeFJFa3ZscFIwQkNjODNieG5xd3NIV1hBdjAybjFxaW5fb21peFpnb3dER3VCWmlTWjhoWkUxckxpTmFZYk1Vd29fTEtoX2V6MS1zOWt5YVJISEtOblI1SENCV1AyeGl1U20wNXZoMFA4M1RBRlRJ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-14T07:00:00.000Z",
+      "source": {
+        "name": "24/7 Wall St.",
+        "url": "https://247wallst.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -9897,7 +9942,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "almasryalyoum.com"
     },
     {
       "title": "Novak: Russia to Slightly Reduce Oil Production This Year - maaal.com",
@@ -12963,7 +13008,7 @@
       "content": "كيف دعمت مصر استعادة الكهرباء في ليبيا؟ &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQV09hM1Nlc0lFUDB1MS0zRi0zZUFESDFjRjJsLXVWbjZPZl9QMmc0aHU1bXRodzMzZzVIY3BBbmQxTzVoX1pxM29VcWVUMDZtTWM5OGtVUFk0N1VGM1BfNUx3LUs3ZWplTjcxSTJFWkZmS1JFQmZVWWp4RGpyMHJQUmNUVHpiV3g3X19UWlFaclM2RS1JUWx3emhSejQ3V1JXVm1ZVUhwNVJKVDdlcUpGSXdIQmpoT3YwRGI4bTFycy03RXpBY1A0SnFPQTRqMXdQb1dJY1BpNzk0WTBYWV9lQTFDMHJremJsOHNieFhTZlpPc0t6WlkwWnNOQUJSdU9lRjhQOEZRcTh1cXplWnRkX3FBWTRlaW9WWkRvTXRzTlFsNklmajY1THpOaFNCcl9pTTFvQ3VXZEpWV0F3TFN5RW1qRDBWOWRPbTRzNGVvUUVVNEl0MF9lcGpfdXFPU1E2MDhINkZPMV9TTHAwTlNUYWZKMGlVd3owd0lmSHZYWHJuMjdZVDVtdUJrTEt5N3hvMmxGR0JCaWRILTFURHVPckZVWk5Hc21QTUZTMUxwRHVVRWdDQklVT2twWTdla1VSUjBPUlZ5QlVCTG13VjF4OEJHSFpCb0FiZGtyeTJFMmJqRVJVRzF2TG9jaUtWS0JqemRIRnpsRXBVWlUyNDZLTlF6SEc3d05xUG0wajNR?oc=5",
       "image": "",
-      "publishedAt": "2026-07-21T13:23:15.000Z",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
@@ -15214,51 +15259,6 @@
       "source": {
         "name": "attaqa.net",
         "url": "https://attaqa.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "In Nikiski, gas pipeline owner highlights regional assets to partners - KDLL",
-      "description": "In Nikiski, gas pipeline owner highlights regional assets to partners &nbsp;&nbsp; KDLL",
-      "content": "In Nikiski, gas pipeline owner highlights regional assets to partners &nbsp;&nbsp; KDLL",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYVBTR3VwRW1yZlJhU3J4a1A2X2x0RXNLQUxNX2VzOHRHdWtaempBWEN6WVR2SmxyU3lzUzhXSFoyRlhBeWVQbEpiMnZidDc1bS1iVFZiVUEtRlRpMVhIOUdpTTVVajZaQTJxM0RDRVZvVmJld1FuOXMxZTNSbmtsLUlwNUZkYXVmdUswLXdTdS1XYkFPdDNkdXZHUmFMOWp1ODBuWElLQ3BEVkhtY1JFLQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-05-18T07:00:00.000Z",
-      "source": {
-        "name": "KDLL",
-        "url": "https://www.kdll.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "In Nikiski, gas pipeline owner highlights regional assets to partners - kdll.org",
-      "description": "In Nikiski, gas pipeline owner highlights regional assets to partners &nbsp;&nbsp; kdll.org",
-      "content": "In Nikiski, gas pipeline owner highlights regional assets to partners &nbsp;&nbsp; kdll.org",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYVBTR3VwRW1yZlJhU3J4a1A2X2x0RXNLQUxNX2VzOHRHdWtaempBWEN6WVR2SmxyU3lzUzhXSFoyRlhBeWVQbEpiMnZidDc1bS1iVFZiVUEtRlRpMVhIOUdpTTVVajZaQTJxM0RDRVZvVmJld1FuOXMxZTNSbmtsLUlwNUZkYXVmdUswLXdTdS1XYkFPdDNkdXZHUmFMOWp1ODBuWElLQ3BEVkhtY1JFLQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-05-18T07:00:00.000Z",
-      "source": {
-        "name": "kdll.org",
-        "url": "https://www.kdll.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "Texas Oil Production: Evolution of a Giant, 2000-2025 - Texas 2036",
-      "description": "Texas Oil Production: Evolution of a Giant, 2000-2025 &nbsp;&nbsp; Texas 2036",
-      "content": "Texas Oil Production: Evolution of a Giant, 2000-2025 &nbsp;&nbsp; Texas 2036",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeF9iYmxLbVQ4N0J0NC05SGdzdklncERoZnQ3R3V4WUU4ZFIzNGkwSk1weFlBLUdvOXNCU2xfejhjUURMbnp4eW1yMmJibEV5TVJjeGcybXA1TVRNWnBiT0NTbVUtVVJPT2RuSnhYYWxaVVZlNlR3MTZYT3JjRUQxallZSThaN2JsWGFTdXhJa1FUQQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-05-15T07:00:00.000Z",
-      "source": {
-        "name": "Texas 2036",
-        "url": "https://texas2036.org"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
