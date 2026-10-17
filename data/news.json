@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-17T04:32:46.853Z",
+  "generatedAt": "2026-10-17T10:49:29.979Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
+      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-16T23:00:04.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "Data centre plan in Cardiff could be powered by gas power plant - BBC",
       "description": "Data centre plan in Cardiff could be powered by gas power plant &nbsp;&nbsp; BBC",
@@ -138,21 +153,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "egypttoday.com"
-    },
-    {
-      "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
-      "description": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-15T23:02:36.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     },
     {
       "title": "AEP Plans $4 Billion Fuel Cell Power Plant for Google, Signs Up to 1.6 GW Mainspring Generator Deal - POWER Magazine",
@@ -660,7 +660,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "youm7.com"
+      "preferredSite": "alborsaanews.com"
     },
     {
       "title": "Bastrop County seeks formal meeting about data center and gas power plant development - KVUE",
@@ -3268,7 +3268,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "youm7.com"
+      "preferredSite": "alborsaanews.com"
     },
     {
       "title": "200 مليار دولار استثمارات كورية في أمريكا.. لماذا تتحفظ سيؤول على مشروع الغاز؟ - شبكة تواصل الإخبارية",
@@ -3864,7 +3864,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "youm7.com"
+      "preferredSite": "alborsaanews.com"
     },
     {
       "title": "PLN plans 81 MW of gas and solar power in East Sumba - Petromindo",
@@ -10957,7 +10957,8 @@
         "jordan",
         "kuwait",
         "qatar",
-        "turkey"
+        "turkey",
+        "algeria"
       ],
       "preferredSite": ""
     },
@@ -11364,7 +11365,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "الخليج يسبق الذكاء الاصطناعي بطلب توربينات الغاز لتوليد الكهرباء - aljazeera.net",
@@ -13237,7 +13238,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "youm7.com"
+      "preferredSite": "alborsaanews.com"
     },
     {
       "title": "Data centers want to build their own gas turbines. Would that skirt state renewable energy laws? - Virginia Mercury",
