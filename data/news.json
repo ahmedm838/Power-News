@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-10-18T15:54:41.112Z",
+  "generatedAt": "2026-10-18T20:48:37.599Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Fluvanna County: Residents file suit challenging gas-fired power plant - Augusta Free Press",
+      "description": "Fluvanna County: Residents file suit challenging gas-fired power plant &nbsp;&nbsp; Augusta Free Press",
+      "content": "Fluvanna County: Residents file suit challenging gas-fired power plant &nbsp;&nbsp; Augusta Free Press",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeThwa0JwTGpnUURPcFFtaU5TaFVmNmQ1WmRYNW11VFNyTVhFbUNucFhIOW5UbldQQlR6ZmF5RFo3M28zV1djM3NoYnpmUmVtZTg3WThmN3pTLWIyTG1EVlBGUHlaSTR0WHV2NWxXSFFzejVEWWJ6dXJTQk1MbzB2dmIzdkJXYjVEVzNrUzM0QUNfSU56QXFGNFFBYy1keG5jOEtqZ1d1RQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-18T19:18:21.000Z",
+      "source": {
+        "name": "Augusta Free Press",
+        "url": "https://augustafreepress.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "أوناسولار تتعاقد على مشروعات طاقةشمسية بـ17 ميجاوات مع تزايد الطلب على الطاقة النظيفة",
+      "description": "تشهد مشروعات الطاقه الشمسيه إقبالا متزايدا من مختلف قطاعات الدولة مع تزايد الجدوى الاقتصادية لها وكونها تتوافق مع قرارات الدولة …",
+      "content": "تشهد مشروعات الطاقه الشمسيه إقبالا متزايدا من مختلف قطاعات الدولة مع تزايد الجدوى الاقتصادية لها وكونها تتوافق مع قرارات الدولة …",
+      "url": "https://www.egelectricgate.com/?p=10692",
+      "image": "",
+      "publishedAt": "2026-10-18T15:57:31.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
     {
       "title": "Electricity Regulatory Authority: Grid-Connected Renewable Energy Generation Systems Classified into Four Categories with Specific Requirements for Each - صحيفة مال",
       "description": "Electricity Regulatory Authority: Grid-Connected Renewable Energy Generation Systems Classified into Four Categories with Specific Requirements for Each &nbsp;&nbsp; صحيفة مال",
@@ -48,6 +78,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Fort Simpson, N.W.T., to get new power plant, and off diesel (mostly) - CBC",
+      "description": "Fort Simpson, N.W.T., to get new power plant, and off diesel (mostly) &nbsp;&nbsp; CBC",
+      "content": "Fort Simpson, N.W.T., to get new power plant, and off diesel (mostly) &nbsp;&nbsp; CBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kcUNBaEZ6X1k1RjdkenBEdzU3RlY5cTltN2FaX2JrVzFOOGFKRnFoa0c4d2ZoRUxrX2h3d0FyNTZiNDhUTS1LZFRCVlJyTndSamdIeGlZNXlURzVxSXZqSlo3bmNMaFZ5RkwwcVYyTEdQdzAzbnBaRThPNA?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-18T10:00:00.000Z",
+      "source": {
+        "name": "CBC",
+        "url": "https://www.cbc.ca"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "Barstow Man Arrested After Deputies Discover 365 Marijuana Plants and Stolen Electricity - Victor Valley News - VVNG",
@@ -374,6 +419,21 @@
       "source": {
         "name": "CochraneNow",
         "url": "https://cochranenow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Alberta's winter electricity disconnection protections take effect - HighRiverOnline",
+      "description": "Alberta's winter electricity disconnection protections take effect &nbsp;&nbsp; HighRiverOnline",
+      "content": "Alberta's winter electricity disconnection protections take effect &nbsp;&nbsp; HighRiverOnline",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ2lzTXlvYmN1RUkxQnVSM0pEajF3REppQjdhbGJObkZzbWZlSk1iU2ZPRUxDNjV5UGhtdHM0YkR4ZWlrRkN0aFA5eExIcEEyUWJ3T3IxMkVtZndjekc5U2pzdTY2MFkzeHRJQk9keFhZZzlvZzg2SGdDZmJDU2NPbXBoekg0MFdxRnJRMGQxYjNxWjhhTUdJTVk0S2lNdkhxOXdVRQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-15T13:44:52.000Z",
+      "source": {
+        "name": "HighRiverOnline",
+        "url": "https://highriveronline.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -2236,6 +2296,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief - EnergyNow.com",
+      "description": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
+      "content": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa19MNXhCbmV3NUpkb0VieGFCX3I3bXphNE41Yk02RDFJbGpSRWUwZjMxSXI2ZDRQcGFoWVdFMGVaY2Z0SXZBSDJSN2wzNnhaVlhaLXA3U2hIUTk4RnhQSDlQSTZYdGY0UG04MG9Nc2ZBMHpBMWRIQ3dOT1lsRHFKT2w4NDlDbzlfRnFITzMwcUdZRktoYmpGSEZKMXRpRllpS0Fz?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-06T22:44:14.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "US gas power plant plans rise to 60.4 GW — Electrek - UA.NEWS",
@@ -11545,7 +11620,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "الخليج يسبق الذكاء الاصطناعي بطلب توربينات الغاز لتوليد الكهرباء - aljazeera.net",
@@ -14284,7 +14359,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Total power grid failure leaves Cuba in darkness amid growing crisis and protests - Miami Herald",
@@ -15188,81 +15263,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
-    },
-    {
-      "title": "«صيف استثنائي» في مصر يختبر وعوداً حكومية بعدم قطع الكهرباء - aawsat.com",
-      "description": "«صيف استثنائي» في مصر يختبر وعوداً حكومية بعدم قطع الكهرباء &nbsp;&nbsp; aawsat.com",
-      "content": "«صيف استثنائي» في مصر يختبر وعوداً حكومية بعدم قطع الكهرباء &nbsp;&nbsp; aawsat.com",
-      "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxNUmk0d1FVSlVtZms2Rm5UTFdCam9USng3WXE0OTYxSUdhNnJhMXg0S0dSeUt0aDQ2ZllXRHBRUEpkRVZyRE4xV2ozbk9ialdzZjBPT0JIRnd0Tk5oMmNBOGNNZ1JnektWOFdycFkxdTFFZmt3LWRJRWRXWWxfU3FKSTJOR01HeVliNEY1RlZSVjlSQjhMWjVxRDFnYUZCQ0U0SnRvdjNORHhmRGZIamtBd0dWN3RKRUxOWGtHOTBtTlFYY01BV3kxbFUyeWJtMDVWcUw2NDZEOFdmLVNGX1VjWTE1UUNxT0pQeVlqSXNkLWZEQnI2OTJvMzRmTWFLLXNVYXNWR3VfdC1SR0hhQVVXUFo1SUpaY0dIMTJ2dnF0c3d1N2o1cHdObzlfdlJUVzl5MzByVUtGZmo5R19OVUFKRXhKXzlheUdKYmNURXZqdTlMZ2tfSDRUczJzZkxKdDBhSDVPcmRoOHhqRXNwM2tzblYxekhFU2lXSVljaE11R0lMUXFjLTlrOU4ycS04cnhWNG5jTDk1NEthZ253SXJESUtNaG1JQ1VkcXFXZ1pLdC0wZF9iNTFXSFpZa19VQ284RzBEUlp2RVVhUWJSOXFGWTM0emJqVTdPUHVralBXU3FyQUJyR25iSzBaSUNRRkZNdnJ0WXJCMHJSYk1RYzhfUm1wOVAxaUd6SThFN2lpU3lpTU5HV29DRVBnR0FLZnJqd3hzVFdEb2tUSENfVnFyZ3ZJRzRXLThXRE9KaFRmOTVOSmtmMVlCS1hYMEJ1Q2JxcWdRclNSbktqdkFzUlEzUE1wYl9BckVDMEVEY0FKME5qWVRtUEtLdWZTR05XRngtRnh2R2tnTG1QZw?oc=5",
-      "image": "",
-      "publishedAt": "2026-06-10T07:00:00.000Z",
-      "source": {
-        "name": "aawsat.com",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "المفوضية الأوروبية تخطط لتوسيع نطاق الطاقة المتجددة في الشرق الأوسط - العربية",
-      "description": "المفوضية الأوروبية تخطط لتوسيع نطاق الطاقة المتجددة في الشرق الأوسط &nbsp;&nbsp; العربية",
-      "content": "المفوضية الأوروبية تخطط لتوسيع نطاق الطاقة المتجددة في الشرق الأوسط &nbsp;&nbsp; العربية",
-      "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPaUFxMEFqWEdjX2dVTjZqZVRENDU5V0Z3VW9WeVlka1hBbnZGTnNqSllDZUlzTUg0UFcyeGZvV0dSNWNPQ0FDRzMxVGp1YjFrSnQ0ZTNyUm16ZmE3TWN0aTN6Q3BaWUs0TzZycWhrNVVMWkc3YmhadDNqUkxrZnZOZEt0bElGYksteDRoUmJXWlVjdUdHLW95MkV2T3FidHNqbUwzWFVvT3ZuOUhTTW1BNWxQSlpzYlprZ1VneWxKMzlyUk00N1M4QTFENFNLbzdJOVhmazdJalFpS0IwUEVZZjh4bmxUTTVOS0cwbk90ekdjdE5JV05HY1dHVzBLWkNhUWV1UU5SSDRUaGJ1MUg3bDhMSUF4LU0xUENVZ1N5aVB5R244OS1TM2FLYWZ1dXQ5eTlxQzZVRVNhenZNdjFWOGlVMTNGLURidDJHNllnMGQ4dGtfanVXTTVfRXlYdnliWGU0dnVDbVlGRGxFb1F2cE1LLUxvclh4SkFkNTBMNUIycnJUWEtBdmdFNFdVWlBlUFh6aFR4OV9zQjZpUXktbWRNdFB5ODFHWWtBV3pFZTlCQ0UzdWFSa05NWUNzXy1sVXdnVHVIdFFFTmlxekFXaUxDUFpDR21rUUhkdWFCUmViMTBtVTF0MU1ZTWFPcmpNQWNqR3g4QTUwSHg1SWdCd1B3MkxNRFBZZnFkWk9mZDdCb3FveVFRTW45cEpLcDVHSUFFZDZSenpxSUJXbFVEVXVwRW5DUVJiWkp0Zms2WHpNUdIBxwRBVV95cUxPQWFhTTJPdW84MENEbWIzZ2tNVEpYTTJmSndxYkdLVEVWQXRuVUdZOU1jaFBqZnhlR3lLcG5zSldsWnVidUNSamZGR2VtTDJ0aXE2TzlTYncya2FEbnR1ZGtYMnBCV3lfc3pqY3Q1RU1YTTNQZWZOTGZqT09WdGxNYUJEdnMzNWItZG85T01RNnduVGlucFR4TlNydkp5eXhGWkdyYnkxcGtaMFVkS1Q0RktIaHA3clQ5WkNoUjlwVUJNeHNUcmNER0RZMk9yMjdCSVpKRWZSclhUVmh0N1pqRkF5aDZ6NkpicXBRMk1MZ1pzeW1qTktYRWVTV2Fyam50Sm1kQTVBZi03dFJ1cWtmb2RWeWk5Z2IwbVB1WmhBQkJxZEcxX2J2Sk8tcUd2VHM3bTRDbU1RSFNITXZ1YUVtWExkSjYtRTZSbGhjZlU4OXBNM1lHbnFiNFB1UGVWdDM2UjBiWXFrVWRKYlo2NWoxajBodlpoRlpHcE5jVG5CUGV2Z2EzX0x0R1RxcUJjWmR3VjNtYWNTbjRsdER6RjBFRDd5X0h5a1pNWmdTQzJVR292cWRmT3BfcDhrZEtRN1hFUGRjeFlKQ013SXRhbHBHd09JZXROTmJKN282QVRDRDE0QU4yaXRkMWJaUGtmZlRhZ3BudTNYNGExTmVXZXlYLS1GZnVOWWJTZEJPVWF3TUQ4ZVVFeDV0MTdPWkx1OWpyWENqd3J6YjEyMldDT3RrYkViR1BVa0dfNmQ1SkxLQkhjR2FvUm1N?oc=5",
-      "image": "",
-      "publishedAt": "2026-06-09T07:00:00.000Z",
-      "source": {
-        "name": "العربية",
-        "url": "https://www.alarabiya.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "المفوضية الأوروبية تخطط لتوسيع نطاق الطاقة المتجددة في الشرق الأوسط - alarabiya.net",
-      "description": "المفوضية الأوروبية تخطط لتوسيع نطاق الطاقة المتجددة في الشرق الأوسط &nbsp;&nbsp; alarabiya.net",
-      "content": "المفوضية الأوروبية تخطط لتوسيع نطاق الطاقة المتجددة في الشرق الأوسط &nbsp;&nbsp; alarabiya.net",
-      "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPaUFxMEFqWEdjX2dVTjZqZVRENDU5V0Z3VW9WeVlka1hBbnZGTnNqSllDZUlzTUg0UFcyeGZvV0dSNWNPQ0FDRzMxVGp1YjFrSnQ0ZTNyUm16ZmE3TWN0aTN6Q3BaWUs0TzZycWhrNVVMWkc3YmhadDNqUkxrZnZOZEt0bElGYksteDRoUmJXWlVjdUdHLW95MkV2T3FidHNqbUwzWFVvT3ZuOUhTTW1BNWxQSlpzYlprZ1VneWxKMzlyUk00N1M4QTFENFNLbzdJOVhmazdJalFpS0IwUEVZZjh4bmxUTTVOS0cwbk90ekdjdE5JV05HY1dHVzBLWkNhUWV1UU5SSDRUaGJ1MUg3bDhMSUF4LU0xUENVZ1N5aVB5R244OS1TM2FLYWZ1dXQ5eTlxQzZVRVNhenZNdjFWOGlVMTNGLURidDJHNllnMGQ4dGtfanVXTTVfRXlYdnliWGU0dnVDbVlGRGxFb1F2cE1LLUxvclh4SkFkNTBMNUIycnJUWEtBdmdFNFdVWlBlUFh6aFR4OV9zQjZpUXktbWRNdFB5ODFHWWtBV3pFZTlCQ0UzdWFSa05NWUNzXy1sVXdnVHVIdFFFTmlxekFXaUxDUFpDR21rUUhkdWFCUmViMTBtVTF0MU1ZTWFPcmpNQWNqR3g4QTUwSHg1SWdCd1B3MkxNRFBZZnFkWk9mZDdCb3FveVFRTW45cEpLcDVHSUFFZDZSenpxSUJXbFVEVXVwRW5DUVJiWkp0Zms2WHpNUdIBxwRBVV95cUxPQWFhTTJPdW84MENEbWIzZ2tNVEpYTTJmSndxYkdLVEVWQXRuVUdZOU1jaFBqZnhlR3lLcG5zSldsWnVidUNSamZGR2VtTDJ0aXE2TzlTYncya2FEbnR1ZGtYMnBCV3lfc3pqY3Q1RU1YTTNQZWZOTGZqT09WdGxNYUJEdnMzNWItZG85T01RNnduVGlucFR4TlNydkp5eXhGWkdyYnkxcGtaMFVkS1Q0RktIaHA3clQ5WkNoUjlwVUJNeHNUcmNER0RZMk9yMjdCSVpKRWZSclhUVmh0N1pqRkF5aDZ6NkpicXBRMk1MZ1pzeW1qTktYRWVTV2Fyam50Sm1kQTVBZi03dFJ1cWtmb2RWeWk5Z2IwbVB1WmhBQkJxZEcxX2J2Sk8tcUd2VHM3bTRDbU1RSFNITXZ1YUVtWExkSjYtRTZSbGhjZlU4OXBNM1lHbnFiNFB1UGVWdDM2UjBiWXFrVWRKYlo2NWoxajBodlpoRlpHcE5jVG5CUGV2Z2EzX0x0R1RxcUJjWmR3VjNtYWNTbjRsdER6RjBFRDd5X0h5a1pNWmdTQzJVR292cWRmT3BfcDhrZEtRN1hFUGRjeFlKQ013SXRhbHBHd09JZXROTmJKN282QVRDRDE0QU4yaXRkMWJaUGtmZlRhZ3BudTNYNGExTmVXZXlYLS1GZnVOWWJTZEJPVWF3TUQ4ZVVFeDV0MTdPWkx1OWpyWENqd3J6YjEyMldDT3RrYkViR1BVa0dfNmQ1SkxLQkhjR2FvUm1N?oc=5",
-      "image": "",
-      "publishedAt": "2026-06-09T07:00:00.000Z",
-      "source": {
-        "name": "alarabiya.net",
-        "url": "https://www.alarabiya.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Texas Utility Building New 570-MW Natural Gas-Fired Power Plant - POWER Magazine",
-      "description": "Texas Utility Building New 570-MW Natural Gas-Fired Power Plant &nbsp;&nbsp; POWER Magazine",
-      "content": "Texas Utility Building New 570-MW Natural Gas-Fired Power Plant &nbsp;&nbsp; POWER Magazine",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYXJ3LXlCZXBDRHhmN2hyYU13X3RuNzlMVm5TbUZiWF9rUHpuWEk1R25Gc05xdjBDUWhROTRtVWN3b0ZCMzNnQ0k5TTNWR1o4ZVN5SGg2MnJBb2tFQUZNWXZ4MUpxenF3VVNqdVF1TWhvejhwTXR6SThxanpYeHJRQS1xMnhOLW5fVmlvb0c5QTJKOUU?oc=5",
-      "image": "",
-      "publishedAt": "2026-06-09T07:00:00.000Z",
-      "source": {
-        "name": "POWER Magazine",
-        "url": "https://www.powermag.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Data centers raise concerns about power grid strain in Shreveport - KSLA",
-      "description": "Data centers raise concerns about power grid strain in Shreveport &nbsp;&nbsp; KSLA",
-      "content": "Data centers raise concerns about power grid strain in Shreveport &nbsp;&nbsp; KSLA",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcFJQbHRHbGRxd2V0REp4enpXQzZlZDhPOWFKeTFQQzJnamtNdm5CRi1fRk9WMWhGZnhBbzIwUGNMWmhlYkxIWV9LbWQ3eVJwR2ZjNkxKeDlEbDhPd0hBeTFUYlduOEVFclNYTmdOYUhQdUlDeE1BOVFnMDlsZkRKLTc4Tkw0OHhfelBRbGx2amVMWHJPMTIxQjJIQdIBrwFBVV95cUxNMzZnbE1tOHFyX1h0VHRyX3FEVDA3a1R1YUtGSm5hN3VZVGdDUVVUQ0pteUZva1NNMHBnd25iUUZZcUc2Z0VLUGFHclpwQkRFc19ZbWw5bkZXajA2ZkF1bkUwOEJGQkFIS2I2bmttdXAzR2NNNW54TEZ3NE12TGtpUXRITUFJY3ppLUdWbFNScVRQUVRXTEY5S2Q1dmdqLXdyMjgtVThYMjgzYUZHbzFv?oc=5",
-      "image": "",
-      "publishedAt": "2026-06-08T07:00:00.000Z",
-      "source": {
-        "name": "KSLA",
-        "url": "https://www.ksla.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
     }
   ]
 }
