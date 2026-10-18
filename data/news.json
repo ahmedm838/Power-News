@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T04:38:50.788Z",
+  "generatedAt": "2026-10-18T11:12:38.058Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
@@ -20,14 +20,14 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "Artificial hummingbird algorithm redraws virtual power plant borders to lift grid profits by up to 85 percent - Bioengineer.org",
-      "description": "Artificial hummingbird algorithm redraws virtual power plant borders to lift grid profits by up to 85 percent &nbsp;&nbsp; Bioengineer.org",
-      "content": "Artificial hummingbird algorithm redraws virtual power plant borders to lift grid profits by up to 85 percent &nbsp;&nbsp; Bioengineer.org",
+      "title": "Artificial hummingbird algorithm redraws virtual power plant borders to lift grid profits by up to 85 percent - bioengineer.org",
+      "description": "Artificial hummingbird algorithm redraws virtual power plant borders to lift grid profits by up to 85 percent &nbsp;&nbsp; bioengineer.org",
+      "content": "Artificial hummingbird algorithm redraws virtual power plant borders to lift grid profits by up to 85 percent &nbsp;&nbsp; bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdF9mT1RRMFV5NmdEcVFibTdBQ0JsMjIwVlhabUttUlh0dFdqbHNiS0lYaXREMUZLcUp5by1uZkUxSjVfUW9zV0pVRGhjZk85NXN1NzlFMXljQ1BSM1JBNkx6VWJ5SU00SXJyNzlXbF9tQWQ5Q2RJZlpRMWtBVndrR0wySGNVQjlnc18wa3dGSkxjbXpuVjZTT2hCX0Z0UmdOMmxPeVJFOS1kT1BGZFVPQ2xra2s2RTRxRkVWb3oyZngtUFZIOWRFVFd0ZmI5TlE?oc=5",
       "image": "",
       "publishedAt": "2026-10-17T22:41:18.000Z",
       "source": {
-        "name": "Bioengineer.org",
+        "name": "bioengineer.org",
         "url": "https://bioengineer.org"
       },
       "provider": "Scheduled Google News index",
@@ -1488,21 +1488,6 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "Hurricane Isaias threatens to drive gas prices higher as oil production slows down in the Gulf - News4JAX",
-      "description": "Hurricane Isaias threatens to drive gas prices higher as oil production slows down in the Gulf &nbsp;&nbsp; News4JAX",
-      "content": "Hurricane Isaias threatens to drive gas prices higher as oil production slows down in the Gulf &nbsp;&nbsp; News4JAX",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYzlzbVlEZkxFbGdkMnduem1qYWRXVURZLXVjN3NiamFuZmlHZU9zaHZhOXI3dFVTRFVlQWlJOVhkMWxLOHlGOGpTTF9hNnF1dG5YLXBXYVhQOGVQSFZyUUJtWERwYUZjVlRSaEdGNXZlek8tRUZrZXdwTy1OZngzTno2d0JmT3A3dnNxc1lpYXJrcHMyYTdHQ3c0cEgtNzlqYzdFczZhYWRTanphNUxDZF81M2g5b21oZXRrTV9kQWxLY01lZFlzdUlrR3dFVE5MbEo4?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-09T12:24:23.000Z",
-      "source": {
-        "name": "News4JAX",
-        "url": "https://www.news4jax.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Romania's new Mintia combined cycle power plant fires up first turbine - PM - SeeNews",
       "description": "Romania's new Mintia combined cycle power plant fires up first turbine - PM &nbsp;&nbsp; SeeNews",
       "content": "Romania's new Mintia combined cycle power plant fires up first turbine - PM &nbsp;&nbsp; SeeNews",
@@ -1602,6 +1587,21 @@
       "source": {
         "name": "Renewables Now",
         "url": "https://renewablesnow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Hurricane Isaias threatens to drive gas prices higher as oil production slows down in the Gulf - News4JAX",
+      "description": "Hurricane Isaias threatens to drive gas prices higher as oil production slows down in the Gulf &nbsp;&nbsp; News4JAX",
+      "content": "Hurricane Isaias threatens to drive gas prices higher as oil production slows down in the Gulf &nbsp;&nbsp; News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYzlzbVlEZkxFbGdkMnduem1qYWRXVURZLXVjN3NiamFuZmlHZU9zaHZhOXI3dFVTRFVlQWlJOVhkMWxLOHlGOGpTTF9hNnF1dG5YLXBXYVhQOGVQSFZyUUJtWERwYUZjVlRSaEdGNXZlek8tRUZrZXdwTy1OZngzTno2d0JmT3A3dnNxc1lpYXJrcHMyYTdHQ3c0cEgtNzlqYzdFczZhYWRTanphNUxDZF81M2g5b21oZXRrTV9kQWxLY01lZFlzdUlrR3dFVE5MbEo4?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "source": {
+        "name": "News4JAX",
+        "url": "https://www.news4jax.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -2208,21 +2208,6 @@
       "preferredSite": ""
     },
     {
-      "title": "High gas prices could make US LNG uncompetitive, says Fulcrum LNG chief - BOE Report",
-      "description": "High gas prices could make US LNG uncompetitive, says Fulcrum LNG chief &nbsp;&nbsp; BOE Report",
-      "content": "High gas prices could make US LNG uncompetitive, says Fulcrum LNG chief &nbsp;&nbsp; BOE Report",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelNZQ1VhXzRoTkxab1V1VzE1bDFvVUptOV9sblFmU2owZUZOLWFXVllsbnhUUk02dHJWZkdRNWNiNFY3S1hESWhwcVl2Ul9XLVVVOXZmU1VPVmt1ZTZqY0MyWGpaYVQzTWFRVzMzbmxleUxYbkkwX0pEZDBkVFhlQmNlbkt0MGF3aUJDSDRNNnFSdXdETzRyU0hkZE1lRzlfRzNrTWNDb9IBrAFBVV95cUxPUVA3eDlqc1FNV2MwM1g0VVZfUDJPMTFmOGxIZXJhLVdISWlITnZULUxYaU1EYkVGaklQQk81bVFzenVwcWp6X3VHMU1Ed1ZqOTdKYjQ5aUNwRlViYzQxamx4WnZxU0o4S3MxQlR3MGFSS3RabHNwdnVyVk5fenliUVA0c1FIcnpibktaMHVHMVlpeU15R2tYY19HRUV5NF91T3RlejBETHpwaUM0?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-06T18:08:02.000Z",
-      "source": {
-        "name": "BOE Report",
-        "url": "https://boereport.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
       "title": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - Oil & Gas 360",
       "description": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases &nbsp;&nbsp; Oil & Gas 360",
       "content": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases &nbsp;&nbsp; Oil & Gas 360",
@@ -2281,6 +2266,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "egelectricgate.com"
+    },
+    {
+      "title": "High gas prices could make US LNG uncompetitive, says Fulcrum LNG chief - BOE Report",
+      "description": "High gas prices could make US LNG uncompetitive, says Fulcrum LNG chief &nbsp;&nbsp; BOE Report",
+      "content": "High gas prices could make US LNG uncompetitive, says Fulcrum LNG chief &nbsp;&nbsp; BOE Report",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelNZQ1VhXzRoTkxab1V1VzE1bDFvVUptOV9sblFmU2owZUZOLWFXVllsbnhUUk02dHJWZkdRNWNiNFY3S1hESWhwcVl2Ul9XLVVVOXZmU1VPVmt1ZTZqY0MyWGpaYVQzTWFRVzMzbmxleUxYbkkwX0pEZDBkVFhlQmNlbkt0MGF3aUJDSDRNNnFSdXdETzRyU0hkZE1lRzlfRzNrTWNDb9IBrAFBVV95cUxPUVA3eDlqc1FNV2MwM1g0VVZfUDJPMTFmOGxIZXJhLVdISWlITnZULUxYaU1EYkVGaklQQk81bVFzenVwcWp6X3VHMU1Ed1ZqOTdKYjQ5aUNwRlViYzQxamx4WnZxU0o4S3MxQlR3MGFSS3RabHNwdnVyVk5fenliUVA0c1FIcnpibktaMHVHMVlpeU15R2tYY19HRUV5NF91T3RlejBETHpwaUM0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "source": {
+        "name": "BOE Report",
+        "url": "https://boereport.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "\"الكهرباء\": استثمار 57 مليار جنيه لتطوير شبكات الكهرباء في شمال وجنوب سيناء - الهيئة الوطنية للإعلام",
@@ -10017,7 +10017,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "POWERCHINA تدفع تطوير طاقة الرياح وتخزين الطاقة لدعم انتقال الطاقة المستدامة في مصر - PR Newswire",
@@ -10212,7 +10212,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Novak: Russia to Slightly Reduce Oil Production This Year - maaal.com",
@@ -10617,7 +10617,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "ognnews.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "I had no idea Dolly Parton was born in a 2-room log cabin with no electricity or water — and you can still see it today - creators.yahoo.com",
