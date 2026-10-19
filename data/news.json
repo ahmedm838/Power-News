@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T13:24:18.764Z",
+  "generatedAt": "2026-10-19T22:23:59.619Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
@@ -20,15 +20,15 @@
       "preferredSite": ""
     },
     {
-      "title": "Mintia Power Plant successfully synchronises Gas Turbine 1 with the National Power Grid for the first time - The Diplomat Bucharest",
-      "description": "Mintia Power Plant successfully synchronises Gas Turbine 1 with the National Power Grid for the first time &nbsp;&nbsp; The Diplomat Bucharest",
-      "content": "Mintia Power Plant successfully synchronises Gas Turbine 1 with the National Power Grid for the first time &nbsp;&nbsp; The Diplomat Bucharest",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUFtQk5jRVdITGMzMXZTU3picm5udVlwUkl3VFZ0c0l3UjdfaExQRWdKc01mdm1BTFRkYzJzZnF2UVFrSVlMd0pSeDRNeGF5T0lYREh5R0F0VTA3R21jSjZCZzBzYzN0T3hZdHdDWEdVcGdrYVFZTzFBd0hDZGdFV2RlMlFSMHVXeUxCcFVXVUpCNk1jajVLZF9VRDJpUGtRMUpqX204dHZXV3U5WkJyZWdRMGkwT3NtT2k5UlNmanB1OHp0Q0d5dWZGZ2JkSExxaFVGdzdDTlZZSWZ0Nmc?oc=5",
+      "title": "Curtis Hall proposes temporary 49.9MW gas power plant for Cardiff data center campus - report - Data Center Dynamics",
+      "description": "Curtis Hall proposes temporary 49.9MW gas power plant for Cardiff data center campus - report &nbsp;&nbsp; Data Center Dynamics",
+      "content": "Curtis Hall proposes temporary 49.9MW gas power plant for Cardiff data center campus - report &nbsp;&nbsp; Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWF8tNG1Lb1VIUjFHbXNFRlNWN09hdWlnUnB4dnF4a0lha095bWpha3VyTF9sRk5KaFY0NnlnbDJWSUVJWEowVi1xQS1wT003QWJ5OEdnUVM0WE10MF9uZ3lzSlJROGJ5SHk0U0stRVFpcmpncy01emtoSzdPMkVvSmlRcVJDWEVyUEE0cHBuV1JxV29mWXBuYlF2UmhHNTh2TU4yZHZyeVBaMll5V282M2RkVWhfWE5fRWlhTGRCdFNaa19hN3VqM1M3VnNTbzg?oc=5",
       "image": "",
-      "publishedAt": "2026-10-19T06:07:03.000Z",
+      "publishedAt": "2026-10-19T13:06:57.000Z",
       "source": {
-        "name": "The Diplomat Bucharest",
-        "url": "https://www.thediplomat.ro"
+        "name": "Data Center Dynamics",
+        "url": "https://www.datacenterdynamics.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -40,10 +40,25 @@
       "content": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says &nbsp;&nbsp; EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmQwdDBsazhzT2FUTC11R3k1a0ViMUZOOHdLcWhqWjBBQ2RWX0pJcmR2cXN2UjhTZnpXUDJsVTNBd3hfMnRnb2VuaHhFSEdHblRTTzVWcmpyT1J3QkZrWnN2SHd5MFN4YXd1QVZ1Mk91SlJRcTh3Vk9saVpPM2xEbHFwbnppbmcwRVNjTEt0bzVkNGxjeXFFVzRnbC0?oc=5",
       "image": "",
-      "publishedAt": "2026-10-18T20:02:19.000Z",
+      "publishedAt": "2026-10-19T11:51:11.000Z",
       "source": {
         "name": "EnergyNow.com",
         "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Mintia Power Plant successfully synchronises Gas Turbine 1 with the National Power Grid for the first time - The Diplomat Bucharest",
+      "description": "Mintia Power Plant successfully synchronises Gas Turbine 1 with the National Power Grid for the first time &nbsp;&nbsp; The Diplomat Bucharest",
+      "content": "Mintia Power Plant successfully synchronises Gas Turbine 1 with the National Power Grid for the first time &nbsp;&nbsp; The Diplomat Bucharest",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUFtQk5jRVdITGMzMXZTU3picm5udVlwUkl3VFZ0c0l3UjdfaExQRWdKc01mdm1BTFRkYzJzZnF2UVFrSVlMd0pSeDRNeGF5T0lYREh5R0F0VTA3R21jSjZCZzBzYzN0T3hZdHdDWEdVcGdrYVFZTzFBd0hDZGdFV2RlMlFSMHVXeUxCcFVXVUpCNk1jajVLZF9VRDJpUGtRMUpqX204dHZXV3U5WkJyZWdRMGkwT3NtT2k5UlNmanB1OHp0Q0d5dWZGZ2JkSExxaFVGdzdDTlZZSWZ0Nmc?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-19T06:07:03.000Z",
+      "source": {
+        "name": "The Diplomat Bucharest",
+        "url": "https://www.thediplomat.ro"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -148,6 +163,21 @@
       "publishedAt": "2026-10-17T23:29:46.000Z",
       "source": {
         "name": "VVNG.com",
+        "url": "https://www.vvng.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Barstow Man Arrested After Deputies Discover 365 Marijuana Plants and Stolen Electricity - Victor Valley News - VVNG.com - Victor Valley News",
+      "description": "Barstow Man Arrested After Deputies Discover 365 Marijuana Plants and Stolen Electricity - Victor Valley News &nbsp;&nbsp; VVNG.com - Victor Valley News",
+      "content": "Barstow Man Arrested After Deputies Discover 365 Marijuana Plants and Stolen Electricity - Victor Valley News &nbsp;&nbsp; VVNG.com - Victor Valley News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1hlYURFSFpLcmFPaXZGRVh3WjVqYWwxVWdiclR4RkNOS0dqWkFvY1Ffd1ZCaEpuN2kzbEFVaTV5Tmt5ZTBGQ2tUclg1YkwyckI3eTE5eEhudV9jbGxpc2NtckxHR2lhbjZqMTNRX2xNSU5rcGhpSDJQNW1MTXpONGJiUXVmTmE4T3dxU1daSGtueHF3Q0p2WEVWeG9VSWZwV3lUVlQ3d3ZyZHFLNGNF?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-17T23:29:46.000Z",
+      "source": {
+        "name": "VVNG.com - Victor Valley News",
         "url": "https://www.vvng.com"
       },
       "provider": "Scheduled Google News index",
@@ -1713,21 +1743,6 @@
       "preferredSite": ""
     },
     {
-      "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - The Straits Times",
-      "description": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; The Straits Times",
-      "content": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjBwYzNGUHZmbHZJbU9wM1E3UzI0WmNwZ1pCYTdPLWQxTThzNmtQWmRkcDFUd1pkZUJvZWdPd3VRaU9JMFhTbHV3SkxqcFZsOHhjM1d4NFpLcC1GY1lSbkFFMk9YNW1obk1nM3ZnV2lCRTRscDlzQ2tXVW02dzNtOE5HQ1JQSXhCTFI4WmxqUnpDaS1tX2ZPeDJZcVR6SWZJdWxvSXE2U3MzT0J1bVh6RS1Jc0ZvV2xtWXZXOXV2WVNIUnN0SkxISVRyV1JaVDV4d3c?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-09T10:24:00.000Z",
-      "source": {
-        "name": "The Straits Times",
-        "url": "https://www.straitstimes.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
       "title": "من الكهرباء إلى المنازل... الحوثيون يحولون غرب اليمن إلى غنيمة - الشرق الأوسط",
       "description": "من الكهرباء إلى المنازل... الحوثيون يحولون غرب اليمن إلى غنيمة &nbsp;&nbsp; الشرق الأوسط",
       "content": "من الكهرباء إلى المنازل... الحوثيون يحولون غرب اليمن إلى غنيمة &nbsp;&nbsp; الشرق الأوسط",
@@ -1756,6 +1771,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - The Straits Times",
+      "description": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; The Straits Times",
+      "content": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjBwYzNGUHZmbHZJbU9wM1E3UzI0WmNwZ1pCYTdPLWQxTThzNmtQWmRkcDFUd1pkZUJvZWdPd3VRaU9JMFhTbHV3SkxqcFZsOHhjM1d4NFpLcC1GY1lSbkFFMk9YNW1obk1nM3ZnV2lCRTRscDlzQ2tXVW02dzNtOE5HQ1JQSXhCTFI4WmxqUnpDaS1tX2ZPeDJZcVR6SWZJdWxvSXE2U3MzT0J1bVh6RS1Jc0ZvV2xtWXZXOXV2WVNIUnN0SkxISVRyV1JaVDV4d3c?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "source": {
+        "name": "The Straits Times",
+        "url": "https://www.straitstimes.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Hurricane Isaias threatens to drive gas prices higher as oil production slows down in the Gulf - News4JAX",
@@ -3213,21 +3243,6 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "Here are heating assistance resources for Mainers using oil, electricity or wood | Column - The Portland Press Herald",
-      "description": "Here are heating assistance resources for Mainers using oil, electricity or wood | Column &nbsp;&nbsp; The Portland Press Herald",
-      "content": "Here are heating assistance resources for Mainers using oil, electricity or wood | Column &nbsp;&nbsp; The Portland Press Herald",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdFlNUndzQmN0TDI2bXNwUG5yMjJOOXhUcm1Ib0UxMENXYl8tajNWSHNFV0dnTzJZQVI2bFZQMUdWYk5WN1ZKTUc3aVFURTEtUWtFUVJhQURSU2VrQ3ZkVThIMGFzYjFEMjNXM2NhMGxHM2VmZ1d2alVsNjM5SHlteWhmQzctblpPSDh2VENMMU4tMURsbUFFenBISDNxbWktWnVzU0NzYW9PRzJGVVlzWVRyNzduVUFSUVFVWDVXeHlPTGJ1?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-01T16:04:10.000Z",
-      "source": {
-        "name": "The Portland Press Herald",
-        "url": "https://www.pressherald.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
       "title": "Statement: Fast-tracking the New Oil Pipeline Is a Reckless Waste of Canadians’ Money - environmentaldefence.ca",
       "description": "Statement: Fast-tracking the New Oil Pipeline Is a Reckless Waste of Canadians’ Money &nbsp;&nbsp; environmentaldefence.ca",
       "content": "Statement: Fast-tracking the New Oil Pipeline Is a Reckless Waste of Canadians’ Money &nbsp;&nbsp; environmentaldefence.ca",
@@ -3481,6 +3496,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "Here are heating assistance resources for Mainers using oil, electricity or wood | Column - The Portland Press Herald",
+      "description": "Here are heating assistance resources for Mainers using oil, electricity or wood | Column &nbsp;&nbsp; The Portland Press Herald",
+      "content": "Here are heating assistance resources for Mainers using oil, electricity or wood | Column &nbsp;&nbsp; The Portland Press Herald",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdFlNUndzQmN0TDI2bXNwUG5yMjJOOXhUcm1Ib0UxMENXYl8tajNWSHNFV0dnTzJZQVI2bFZQMUdWYk5WN1ZKTUc3aVFURTEtUWtFUVJhQURSU2VrQ3ZkVThIMGFzYjFEMjNXM2NhMGxHM2VmZ1d2alVsNjM5SHlteWhmQzctblpPSDh2VENMMU4tMURsbUFFenBISDNxbWktWnVzU0NzYW9PRzJGVVlzWVRyNzduVUFSUVFVWDVXeHlPTGJ1?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "source": {
+        "name": "The Portland Press Herald",
+        "url": "https://www.pressherald.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
       "title": "Here are heating assistance resources for Mainers using oil, electricity or wood | Column - Portland Press Herald - Maine Sunday Telegram",
       "description": "Here are heating assistance resources for Mainers using oil, electricity or wood | Column &nbsp;&nbsp; Portland Press Herald - Maine Sunday Telegram",
       "content": "Here are heating assistance resources for Mainers using oil, electricity or wood | Column &nbsp;&nbsp; Portland Press Herald - Maine Sunday Telegram",
@@ -3493,7 +3523,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "mees.com"
     },
     {
       "title": "بطاريات تخزين الكهرباء في مصر.. خريطة المشروعات والتصنيع بحلول 2030 - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -5677,6 +5707,34 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "شركة عالمية لمعالجة الغاز تستهدف أسواقًا جديدة.. الإمارات في المقدمة - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "description": "شركة عالمية لمعالجة الغاز تستهدف أسواقًا جديدة.. الإمارات في المقدمة &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "content": "شركة عالمية لمعالجة الغاز تستهدف أسواقًا جديدة.. الإمارات في المقدمة &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNREttb2Z1WVRFakpzUHZXLUFZUjRQb1c3YWJMTWZrQ3E1Nm80ME1IQ0JFR1VVd0ZTNjFRNlFqT0hwb2JpZFhZNlN0TkN5cEM3eDZpakh5ZEhNUm9mcjBhSW9oYU1xeXQtVk52MmVELXJDSFljMTlTeHBJTE5uS19ROTExSkNxUzdHRlkyVmR2cHBtSkpGaVRGV3JjNzM0VkE2NTNRQjZiRlFEeEFkLVFIWnNIbmJfXzhUd1RhRlg4Nk5td0VONXc3VU9FUGJKUUxtamFaMlhCb2VFOWlQWkx0ai1UemY1bWFub3g2THNuZFI2MDhmbHVqUDJGYWNmRUpoQlBpemxCYTljb2I3dUU4eEw1dXc2dmRnR19UdFJSVU1lZFZzVVZEMjdxWGVMeDRpYS1Nd25HYmloZVVaVWlBT1V5WHlqMHFqaVc2VQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-25T07:00:00.000Z",
+      "source": {
+        "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+        "url": "https://attaqa.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [
+        "egypt",
+        "saudi arabia",
+        "UAE",
+        "iraq",
+        "iran",
+        "libya",
+        "algeria",
+        "morocco",
+        "jordan",
+        "kuwait",
+        "qatar",
+        "turkey"
+      ],
       "preferredSite": ""
     },
     {
@@ -10992,7 +11050,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "utilities-me.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "Natural Gas Leads U.S. Power Generation: 2 Midstream Stocks to Gain - finance.yahoo.com",
@@ -14830,7 +14888,7 @@
       "title": "صحيفة عبرية: مصر تتوسع في الطاقة المتجددة.. لكن الغاز الإسرائيلي يظل \"شريان\" الاستقرار - Euronews.com",
       "description": "صحيفة عبرية: مصر تتوسع في الطاقة المتجددة.. لكن الغاز الإسرائيلي يظل \"شريان\" الاستقرار &nbsp;&nbsp; Euronews.com",
       "content": "صحيفة عبرية: مصر تتوسع في الطاقة المتجددة.. لكن الغاز الإسرائيلي يظل \"شريان\" الاستقرار &nbsp;&nbsp; Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHQ4eEJqQWI5OU5iUG5oNnpaMTBBeExBbE4wRzdGckx6OV9iaDRLVk52eUZpTnV0SFQzcEpZTEhxQkdLYzA2TWtsMXJBUDk2aU1BcWszUkVSSGtjVlhKZ21EMXRaYllsOGVvcV9GUG5HYUxmajlfaTBRVXRXUjRkcXdGc3ZvVDhfdkNHZnhCLWpDaXM5R185REpWQW5JbzFLMlgzZFBubERZaHZfRnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc09yZHJydjZqakVZVGhLankxdVNGamlJVnRtQjFrdVp1VVF0S1liUHZpRklGT0dFX2Z3YXM5VmpPV2dkVTBhZDJ2WWpqSm9FRW9ERFZud0pCZU0zZ00tcE9BYXFKYklCeDRsNU1xNEtMdGc3YkJ6T3ZSTXpNMWo3WHN5TjRFTUY5bTlXWi1BdGoySVhpazFqWERHNWRUUVhlX1E?oc=5",
       "image": "",
       "publishedAt": "2026-06-21T07:00:00.000Z",
       "source": {
@@ -15218,51 +15276,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "alghad.com"
-    },
-    {
-      "title": "أبرز مشروعات طاقة الرياح في الوطن العربي.. منافسة بين مصر والسعودية - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "description": "أبرز مشروعات طاقة الرياح في الوطن العربي.. منافسة بين مصر والسعودية &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "content": "أبرز مشروعات طاقة الرياح في الوطن العربي.. منافسة بين مصر والسعودية &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNdDFYd19UYjl0T1N1dVktc0Yxdm04RC0yY2tVSTRnLTI4SXZKZFZOai1jcUI0YmxjdVZXR2k2U2J4U0RacUNreW41bnF5N2VIeWNydE8zWG1HNGVKWlpLTTZUdnhJWElJcllFSHJRTlNNWkVDaDNWZlNnd2FGaDZDbS1CQXYwOUtxcE1FQ0I3N3NpX0FPeHlsMU5zZE1mUHZ0aENUSnBDcDZJOVkxTzk1TzQ3Q2hlN2syY1h0Qmx5bDg2Q1JWMEJ1M3ZjY1RvaEhyMVktUmlaUDJjYUVPblp4REg4Vm5BeUxjV3FDZk5EazN0WlRzYXZ2TEJZcU1YOTZLZG9TUzlIR1o1eTBRSVotYnpUSEFXY21LWXFFTm51R01Ndm9aMFI1Tm9qUXZPZTdHRDdSOVlvSy0ybXdlZWpESm5NQkZoSDBuV0N4bkRn?oc=5",
-      "image": "",
-      "publishedAt": "2026-06-16T07:00:00.000Z",
-      "source": {
-        "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-        "url": "https://attaqa.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Dominion Energy, Santee Cooper receive state approval for $5B gas project - Utility Dive",
-      "description": "Dominion Energy, Santee Cooper receive state approval for $5B gas project &nbsp;&nbsp; Utility Dive",
-      "content": "Dominion Energy, Santee Cooper receive state approval for $5B gas project &nbsp;&nbsp; Utility Dive",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnh0SE8wV0twWE5mVGJkY0tYQ01OMnJJaUtscEs5NlFRTjRxQXhMM2NmQXItWjk1WGh2amg1WVFvUDhnbnVWVXNKamY4czlRR1RZanA0a3U3WFo0X1h3NmdfMlNOeVA1dU9Ta0I5WTZuRUNGOTI4QWpzQWQzZXlUNmtIaUFMZmZPYnB6Y2dHVQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-06-16T07:00:00.000Z",
-      "source": {
-        "name": "Utility Dive",
-        "url": "https://www.utilitydive.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "أبرز مشروعات طاقة الرياح في الوطن العربي.. منافسة بين مصر والسعودية - attaqa.net",
-      "description": "أبرز مشروعات طاقة الرياح في الوطن العربي.. منافسة بين مصر والسعودية &nbsp;&nbsp; attaqa.net",
-      "content": "أبرز مشروعات طاقة الرياح في الوطن العربي.. منافسة بين مصر والسعودية &nbsp;&nbsp; attaqa.net",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNdDFYd19UYjl0T1N1dVktc0Yxdm04RC0yY2tVSTRnLTI4SXZKZFZOai1jcUI0YmxjdVZXR2k2U2J4U0RacUNreW41bnF5N2VIeWNydE8zWG1HNGVKWlpLTTZUdnhJWElJcllFSHJRTlNNWkVDaDNWZlNnd2FGaDZDbS1CQXYwOUtxcE1FQ0I3N3NpX0FPeHlsMU5zZE1mUHZ0aENUSnBDcDZJOVkxTzk1TzQ3Q2hlN2syY1h0Qmx5bDg2Q1JWMEJ1M3ZjY1RvaEhyMVktUmlaUDJjYUVPblp4REg4Vm5BeUxjV3FDZk5EazN0WlRzYXZ2TEJZcU1YOTZLZG9TUzlIR1o1eTBRSVotYnpUSEFXY21LWXFFTm51R01Ndm9aMFI1Tm9qUXZPZTdHRDdSOVlvSy0ybXdlZWpESm5NQkZoSDBuV0N4bkRn?oc=5",
-      "image": "",
-      "publishedAt": "2026-06-16T07:00:00.000Z",
-      "source": {
-        "name": "attaqa.net",
-        "url": "https://attaqa.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     }
   ]
 }
