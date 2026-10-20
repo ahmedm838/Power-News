@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-19T22:23:59.619Z",
+  "generatedAt": "2026-10-20T04:55:46.520Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Glendale Planning Commission recommends approval of Project Eagle data center and natural gas power plant - ABC15 Arizona",
+      "description": "Glendale Planning Commission recommends approval of Project Eagle data center and natural gas power plant &nbsp;&nbsp; ABC15 Arizona",
+      "content": "Glendale Planning Commission recommends approval of Project Eagle data center and natural gas power plant &nbsp;&nbsp; ABC15 Arizona",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTzNzZldfRzRQRGpJUUR3dXRCUnhaN3Z6SlZUVUZXejFnWjdSWGYzWng4ZG1yU05ZeWhMSFJoS2Qxek1XNFMyTGVvV0laSzgxVjg2amZoc0tTazZRS1BucW90VFNHM1d1TFp6M3laUk9URE9meXF3WXBrUFptR3htZmJ3Q0hXb0hWWUx1TWlUNS1yUGRvQkZUQmlKT1JtV2xtSjJRQ3RiUzNBRUhPVGJwb2Q5SzBsNVZwQ052OWJjUjA4MUhTLW43b1diTldCRnVTTG1VZC1hUEVqWUpsbk9rS0IyR1Y2b082R0lVenZoRTVEUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-20T03:27:43.000Z",
+      "source": {
+        "name": "ABC15 Arizona",
+        "url": "https://www.abc15.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "Curtis Hall proposes temporary 49.9MW gas power plant for Cardiff data center campus – report - BeBeez International",
       "description": "Curtis Hall proposes temporary 49.9MW gas power plant for Cardiff data center campus – report &nbsp;&nbsp; BeBeez International",
@@ -1785,7 +1800,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "Hurricane Isaias threatens to drive gas prices higher as oil production slows down in the Gulf - News4JAX",
@@ -2246,6 +2261,21 @@
       "publishedAt": "2026-10-07T10:28:21.000Z",
       "source": {
         "name": "economyplusme.com",
+        "url": "https://economyplusme.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "النفط يتجاوز 100 دولار مع مخاوف تعطل الإمدادات من الشرق الأوسط - ايكونومي بلس",
+      "description": "النفط يتجاوز 100 دولار مع مخاوف تعطل الإمدادات من الشرق الأوسط &nbsp;&nbsp; ايكونومي بلس",
+      "content": "النفط يتجاوز 100 دولار مع مخاوف تعطل الإمدادات من الشرق الأوسط &nbsp;&nbsp; ايكونومي بلس",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SRG4yczlhTnBQb21rX1lzODE2RVktLTFjT0NMM1FVLTlmcFZMRjRRZkJ5ZG9nTDk4cDF0RkYyMDhGb0VOTG14cA?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-07T10:28:21.000Z",
+      "source": {
+        "name": "ايكونومي بلس",
         "url": "https://economyplusme.com"
       },
       "provider": "Scheduled Google News index",
@@ -3003,21 +3033,6 @@
       "preferredSite": ""
     },
     {
-      "title": "Natural gas prices down as solar power generation jumps 22% - The Center Square",
-      "description": "Natural gas prices down as solar power generation jumps 22% &nbsp;&nbsp; The Center Square",
-      "content": "Natural gas prices down as solar power generation jumps 22% &nbsp;&nbsp; The Center Square",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRjcyOTlNdkE5TkF1N0xSVHJRemtnb081Ui1IUzdKT2ZtWldoUVRGUy1zMDd0YnlfaFpzSF9RZHMyXzNLcDJPV2JpM2JEOUdzT2pQNUpFckQ4bExsMnQwOV9IRGZkSmFrcWkwWGh5OVF3VmhNSmhBbnQ5RnNGU3JWVU56TmRKTE1EYzFOT2c5YVB4QWFldWfSAZsBQVVfeXFMTWJaVzFsaHVHLUJScHhJc1NpOXZka04zb2djVlpkS29mVW12bzhHRHJpX0pzcy1uaHB1eDZiWnAxVFlNaldzOUJsa05EVVp0REJHOE55bVBRV3htRnprTkdFMUhzaFBrZnFOQ3I3RjFLVzR2LXRSaE1yWEcwVFBNQ082WEtJMDBEbTlHdnB4OU15c21GUzIxbWx0UzA?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-02T12:00:00.000Z",
-      "source": {
-        "name": "The Center Square",
-        "url": "https://www.thecentersquare.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Natural gas prices down as solar power generation jumps 22% - thecentersquare.com",
       "description": "Natural gas prices down as solar power generation jumps 22% &nbsp;&nbsp; thecentersquare.com",
       "content": "Natural gas prices down as solar power generation jumps 22% &nbsp;&nbsp; thecentersquare.com",
@@ -3072,6 +3087,21 @@
       "source": {
         "name": "yaleclimateconnections.org",
         "url": "https://yaleclimateconnections.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Natural gas prices down as solar power generation jumps 22% - The Center Square",
+      "description": "Natural gas prices down as solar power generation jumps 22% &nbsp;&nbsp; The Center Square",
+      "content": "Natural gas prices down as solar power generation jumps 22% &nbsp;&nbsp; The Center Square",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRjcyOTlNdkE5TkF1N0xSVHJRemtnb081Ui1IUzdKT2ZtWldoUVRGUy1zMDd0YnlfaFpzSF9RZHMyXzNLcDJPV2JpM2JEOUdzT2pQNUpFckQ4bExsMnQwOV9IRGZkSmFrcWkwWGh5OVF3VmhNSmhBbnQ5RnNGU3JWVU56TmRKTE1EYzFOT2c5YVB4QWFldWfSAZsBQVVfeXFMTWJaVzFsaHVHLUJScHhJc1NpOXZka04zb2djVlpkS29mVW12bzhHRHJpX0pzcy1uaHB1eDZiWnAxVFlNaldzOUJsa05EVVp0REJHOE55bVBRV3htRnprTkdFMUhzaFBrZnFOQ3I3RjFLVzR2LXRSaE1yWEcwVFBNQ082WEtJMDBEbTlHdnB4OU15c21GUzIxbWx0UzA?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "source": {
+        "name": "The Center Square",
+        "url": "https://www.thecentersquare.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -10945,7 +10975,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "A Silvia Perez Concert in Havana without Electricity or Sound Equipment - havanatimes.org",
@@ -15242,36 +15272,6 @@
       "source": {
         "name": "maaal.com",
         "url": "https://maaal.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "alghad.com"
-    },
-    {
-      "title": "Cedar Falls approves new $80M gas power plant - iowapublicradio.org",
-      "description": "Cedar Falls approves new $80M gas power plant &nbsp;&nbsp; iowapublicradio.org",
-      "content": "Cedar Falls approves new $80M gas power plant &nbsp;&nbsp; iowapublicradio.org",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcExlRm9lZC1qYWxKNi1adE55MUpOLU1wci1tYlNEUG5zZ2lTeTNsWmxKUXgweGcxYlM5cC1tV3g2MllXVm1OVGxXQjdEZzBYcG1SRHlHOHV4ZklCQ1lnaG5KZFNWY2JJQzdCb3FiTVBxenZwZzBmOFNjNXdId281TjNJMFVnQ0tJbS11d3RBOTJkMFctWUNV?oc=5",
-      "image": "",
-      "publishedAt": "2026-06-17T07:00:00.000Z",
-      "source": {
-        "name": "iowapublicradio.org",
-        "url": "https://www.iowapublicradio.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "The electricity crisis continues in Gaza - الخبر اليمني",
-      "description": "The electricity crisis continues in Gaza &nbsp;&nbsp; الخبر اليمني",
-      "content": "The electricity crisis continues in Gaza &nbsp;&nbsp; الخبر اليمني",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YMHdaOTU4UlJUeWxLczlEcnFkVnBUdGRIWFVVdGFtNjVrS0UzZm9CSTdhQ1JZUWtJeWlKTjVXT29aM2otLS00VVdXXy1SeTAtODNyY1Brck5xWVk?oc=5",
-      "image": "",
-      "publishedAt": "2026-06-17T07:00:00.000Z",
-      "source": {
-        "name": "الخبر اليمني",
-        "url": "https://alkhabaralyemeni.net"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
