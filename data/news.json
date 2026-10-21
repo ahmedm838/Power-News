@@ -1,13 +1,58 @@
 {
-  "generatedAt": "2026-10-21T17:15:59.629Z",
+  "generatedAt": "2026-10-21T21:46:11.245Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
     {
+      "title": "Linn County rejects rezoning for Alliant gas power plant, but state could still approve - KGAN",
+      "description": "Linn County rejects rezoning for Alliant gas power plant, but state could still approve &nbsp;&nbsp; KGAN",
+      "content": "Linn County rejects rezoning for Alliant gas power plant, but state could still approve &nbsp;&nbsp; KGAN",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNlREQW5ZamdjaTIzY1lVZmNtVTBOOHFjU0UtWGxyWU1nbklWYVZqcmZ3MHhRUC10YUQ2R1VJOHNadHlaZnpGRm0wbmg2Q3dELUU4MEtJaU9ab0JYblhreVNhNTMzVkxvdnBibWVoTDd5eHIyOUZJQlJUUmhwRndXSzd6YlBMNkJTX0V0OTJwN3ExdXprT2Q4WVRkMjFyM2VuMmR1VDV1bWk5aERNc243ZjBTVk9BWDN1YVE?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-21T21:15:17.000Z",
+      "source": {
+        "name": "KGAN",
+        "url": "https://cbs2iowa.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Environment Ministry Urges Farms Outside Grid Expansion Areas to Consider Solar Power to Cut Costs, Improve Sustainability - شبكة تواصل الإخبارية",
+      "description": "Environment Ministry Urges Farms Outside Grid Expansion Areas to Consider Solar Power to Cut Costs, Improve Sustainability &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "content": "Environment Ministry Urges Farms Outside Grid Expansion Areas to Consider Solar Power to Cut Costs, Improve Sustainability &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxdUduMEZCTkJZcGxlemNjQXN0OUNmT251bmpOaVB4T1BtQUdjQ0xuUVMyclh2bWZRcldIQ19GVlRMaV9oNGJwZDJaTnAyX3VtMTY4?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-21T20:06:45.000Z",
+      "source": {
+        "name": "شبكة تواصل الإخبارية",
+        "url": "https://twaslnews1.twaslnews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
+    {
       "title": "DC mayor's office denies plans for gas-fired power plant at RFK Stadium site amid activist concerns - FOX 5 DC",
       "description": "DC mayor's office denies plans for gas-fired power plant at RFK Stadium site amid activist concerns &nbsp;&nbsp; FOX 5 DC",
       "content": "DC mayor's office denies plans for gas-fired power plant at RFK Stadium site amid activist concerns &nbsp;&nbsp; FOX 5 DC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vaEVMTE1fRkJlY3ZpNldZdDNGd0VWbFdpRHFNOU5OX0wwWEhTejFLRzhqRFdLdWJnQmZHLXJxM1kzalJOdkc0VW1NaDRITW1iaXY5YmNkR3l6cGRsUHfSAWNBVV95cUxPRnYzclM3SmRaRnVKNmRaVkliXzZyV3ZYUkJ0akJmSlhoOVlKT0hkNWNxYjBfejd2VmJaUi1TZWd0bUpoeGRCeHkySjk0VkRxVm92d29mMy1xWUltWTFGazMxWGs?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-21T15:23:58.000Z",
+      "source": {
+        "name": "FOX 5 DC",
+        "url": "https://www.fox5dc.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "DC mayor's office says no plans for gas-fired power plant at RFK Stadium site amid activist concerns - FOX 5 DC",
+      "description": "DC mayor's office says no plans for gas-fired power plant at RFK Stadium site amid activist concerns &nbsp;&nbsp; FOX 5 DC",
+      "content": "DC mayor's office says no plans for gas-fired power plant at RFK Stadium site amid activist concerns &nbsp;&nbsp; FOX 5 DC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vaEVMTE1fRkJlY3ZpNldZdDNGd0VWbFdpRHFNOU5OX0wwWEhTejFLRzhqRFdLdWJnQmZHLXJxM1kzalJOdkc0VW1NaDRITW1iaXY5YmNkR3l6cGRsUHfSAWNBVV95cUxPRnYzclM3SmRaRnVKNmRaVkliXzZyV3ZYUkJ0akJmSlhoOVlKT0hkNWNxYjBfejd2VmJaUi1TZWd0bUpoeGRCeHkySjk0VkRxVm92d29mMy1xWUltWTFGazMxWGs?oc=5",
       "image": "",
       "publishedAt": "2026-10-21T15:23:58.000Z",
@@ -47,7 +92,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "emaratalyoum.com"
+      "preferredSite": "arabic.cnn.com"
     },
     {
       "title": "D.C. and Commanders rule out power plant, but confirm natural gas use for new stadium - The Business Journals",
@@ -77,7 +122,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "emaratalyoum.com"
+      "preferredSite": "arabic.cnn.com"
     },
     {
       "title": "EU vows to develop Arctic renewable energy, says oil and gas should stay in the ground - The Barents Observer",
@@ -98,9 +143,9 @@
       "title": "Organizers raise concerns over potential gas-fired power plant at RFK Stadium site - FOX 5 DC",
       "description": "Organizers raise concerns over potential gas-fired power plant at RFK Stadium site &nbsp;&nbsp; FOX 5 DC",
       "content": "Organizers raise concerns over potential gas-fired power plant at RFK Stadium site &nbsp;&nbsp; FOX 5 DC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTll2LXNsRnNXbE5XdEV1NUpnaGtRdkt6MWZUR0NUN0NOaDF5ZFUwRGEwV1VocWhHenk5ajFuLUlUWkZSMTVjTHpCcGx2WnRzRmMzczlGTm9XRVBTeUJnWHB0cUo5c1FjN3BaVmhMX0diS0ZLMkItakI4UEpNVGd0cHAySmpIVzgxOW9UVFIzdHlGcmxOeHJoRUVHazUxUUxzT3YxSEJndURJQVXSAbABQVVfeXFMTTdfTHdZUVB1SFJ0Sm1WRTBUX0paaWdBNW9mejAzR2pJY3l1RXRFOEIzVDg2SVoyQUhQNUFhSWdWQW5GUXpJa1l6MXNtZXhTLTY4c183WHV5TVpyWVBZV29vQ0VmeVNaenY2emowaTVLeXVKcVVWdmJKOGdJcmVJb3RuQzlSSEU1TlFycnJWSl94aldDeDFxcjI1MzRoM3ZtUWJKTkw2b05VcVJHYjMzVDQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81aGxiN3Z3QkNMNDMweGJWTEd5VFNaaHpKTUFNcm9JOFRkTXZVcVVSUzY2cjFYdERVQVp5UGp6c08wT2UweUZYXzFTWWZoN3VQNElNcWRoZEFpSnBFRXfSAWNBVV95cUxPTFFMTzBOTHJFblpLWklILXNveVNSTzAzdDVNNTUyeFFLRzJnX0RHUk5RYk9tOG5pZ0taZXN4TkxxbVV5dzNuX0ZfdWNMaUxycTlPa0ZZcFdrTlJ6OF9GbkJHdTA?oc=5",
       "image": "",
-      "publishedAt": "2026-10-21T13:07:50.000Z",
+      "publishedAt": "2026-10-21T13:09:19.000Z",
       "source": {
         "name": "FOX 5 DC",
         "url": "https://www.fox5dc.com"
@@ -152,7 +197,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "emaratalyoum.com"
+      "preferredSite": "arabic.cnn.com"
     },
     {
       "title": "Mozambique: Eni launches EPC tender for 75 MW gas-fired power plant in Temane - Club of Mozambique",
@@ -182,7 +227,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "emaratalyoum.com"
+      "preferredSite": "arabic.cnn.com"
     },
     {
       "title": "UK govt approves drilling in Jackdaw gas field - AFP.com",
@@ -270,7 +315,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "emaratalyoum.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Cumberland supervisors approve massive natural gas power plant - WWBT",
@@ -1573,7 +1618,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "ognnews.com"
     },
     {
       "title": "12 مديرًا عامًا يتنافسون على رئاسة 3 قطاعات تجارية مستحدثة بجنوب القاهرة للكهرباء",
@@ -1921,6 +1966,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "بطاريات التخزين تنافس الغاز في تكلفة الكهرباء.. الشرق الأوسط وأفريقيا بالصدارة - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "description": "بطاريات التخزين تنافس الغاز في تكلفة الكهرباء.. الشرق الأوسط وأفريقيا بالصدارة &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "content": "بطاريات التخزين تنافس الغاز في تكلفة الكهرباء.. الشرق الأوسط وأفريقيا بالصدارة &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPUElYWmVOWXlFbGtoZEQzOUtUbnpERWlSMGtrM29yTzlLTHppSzBRSmY2akVpcHpxeEViSVBEM2Jxd2tDcmlzQ1p0NEV6aU8wbTFXTXJ0VFdaS2hMOUFiZXE1ZHNIUHp0UGFjbE1OUGk5Qzd4cEl0Q2lBWDdKRmhaZTlhTnR6TjA2aW1oUWpJTVFscUtYZUo5ajBFRlRSZkpTUm9IZlptOE1KRzZuTmg3Q3ZJZnRDVUY3SHZ5cXYyNDlvQ0Nqbm84dm1pc3NKV0ZwMDJYT19OVEpreDZLZTJ5N0lDZWtXOU9NcThvbUlRbmwwTGFWUVdIMWlEbHlFN0hvM3pTUlJhRTNFOEpPOVZhSFJOcW8wYWpZQ2hqMDRXZHF4b2N4MTNTaUFjOERIdVFNX3czdTdlQlVWeU5RV19kS3BrNVBQVmFyREFpOFh3?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "source": {
+        "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+        "url": "https://attaqa.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "LDPL Seeks Urgent Gas Restoration for 235MW Power Plant - Energy Update",
       "description": "LDPL Seeks Urgent Gas Restoration for 235MW Power Plant &nbsp;&nbsp; Energy Update",
       "content": "LDPL Seeks Urgent Gas Restoration for 235MW Power Plant &nbsp;&nbsp; Energy Update",
@@ -1945,21 +2005,6 @@
       "source": {
         "name": "Aspen Daily News",
         "url": "https://www.aspendailynews.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "بطاريات التخزين تنافس الغاز في تكلفة الكهرباء.. الشرق الأوسط وأفريقيا بالصدارة - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "description": "بطاريات التخزين تنافس الغاز في تكلفة الكهرباء.. الشرق الأوسط وأفريقيا بالصدارة &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "content": "بطاريات التخزين تنافس الغاز في تكلفة الكهرباء.. الشرق الأوسط وأفريقيا بالصدارة &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPUElYWmVOWXlFbGtoZEQzOUtUbnpERWlSMGtrM29yTzlLTHppSzBRSmY2akVpcHpxeEViSVBEM2Jxd2tDcmlzQ1p0NEV6aU8wbTFXTXJ0VFdaS2hMOUFiZXE1ZHNIUHp0UGFjbE1OUGk5Qzd4cEl0Q2lBWDdKRmhaZTlhTnR6TjA2aW1oUWpJTVFscUtYZUo5ajBFRlRSZkpTUm9IZlptOE1KRzZuTmg3Q3ZJZnRDVUY3SHZ5cXYyNDlvQ0Nqbm84dm1pc3NKV0ZwMDJYT19OVEpreDZLZTJ5N0lDZWtXOU9NcThvbUlRbmwwTGFWUVdIMWlEbHlFN0hvM3pTUlJhRTNFOEpPOVZhSFJOcW8wYWpZQ2hqMDRXZHF4b2N4MTNTaUFjOERIdVFNX3czdTdlQlVWeU5RV19kS3BrNVBQVmFyREFpOFh3?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-12T23:00:17.000Z",
-      "source": {
-        "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-        "url": "https://attaqa.net"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -3286,6 +3331,21 @@
       "preferredSite": ""
     },
     {
+      "title": "State’s only coal power plant shifting to natural gas, will serve as backup power for region - Department of Ecology - State of Washington (.gov)",
+      "description": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Department of Ecology - State of Washington (.gov)",
+      "content": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Department of Ecology - State of Washington (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTjRjcE9hVVY2Sm5JZlowc3lXZW9PaXZYbWlVSzdXVXBQVU9idmd4bXpBLW80VDF0Z2xCRmRDZV9lMHpsNE81ZURFd0dRN3Z5OE4yTHF2NldNZUtiZDVHSTRjcC1PZ09VTi1adkJfVzFzVjhMeTdLUDRRRXVvck5mT0JJNk9SajhudE5vQXk1cU9UOWRRYWFXamhKN0NYYUVwVHN4eDJGMXItUGJ1Wi16SDIyNUtMRHdkLWxOcWljbzFQSHQ5cGdOa1ptRmFnY3ozbDZWckpEcmtST3BncnBTQTNhZmQtcXBOcjRBaDVCT01HRUc3STYtSzNR?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-06T03:28:42.000Z",
+      "source": {
+        "name": "Department of Ecology - State of Washington (.gov)",
+        "url": "https://ecology.wa.gov"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Records reveal sprawling data center and power plant plans for Elizabeth Township - Pittsburgh's Public Source",
       "description": "Records reveal sprawling data center and power plant plans for Elizabeth Township &nbsp;&nbsp; Pittsburgh's Public Source",
       "content": "Records reveal sprawling data center and power plant plans for Elizabeth Township &nbsp;&nbsp; Pittsburgh's Public Source",
@@ -3779,6 +3839,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "النفط الكويتي يؤمن احتياجات أكبر مصفاة في فيتنام - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "description": "النفط الكويتي يؤمن احتياجات أكبر مصفاة في فيتنام &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "content": "النفط الكويتي يؤمن احتياجات أكبر مصفاة في فيتنام &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQMEl2WFFwTkZZSFdvUWZHa1gtWnZuUkx0VnVEbGtMMndjLWU5ekFJV1hPMGdpRUZnUGl5dWdfZ0ctdjZFMzRaXy05TE9lbUdNS1V1VDlPcGg3aGFCaEZsbDh3Vlp4NDVrY0loTjA5clktSGFoX2lUVDA5dlhGakk5R3hXWUJvUnBGUTgyY3BrcUduUkl6Y0w2TnhDUW9Wam1qcjQzcnFjUlhLRVZ5ZmhlOVpITzF5b2MzVGFOMDNrdWh2T1BJUTB1dlUxOW5VMkJBWEx3cHgxVWdTNS11RDZnYjNjdmJXcmR0UDhFT1hhQ3NjcnNfWGppVHk2cHpXYXAzVmtFS2Z2ZGpkWXYySVhnX1ZFYnVSdkZhZ0YweGIxX05PaWgtOWVJOG1jM3dRczFjUU5OeS1rTkNTYjAtcGlpbGRMRllxOWNIbGZlYQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-02T09:28:40.000Z",
+      "source": {
+        "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+        "url": "https://attaqa.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "arabic.cnn.com"
     },
     {
       "title": "Natural gas prices down as solar power generation jumps 22% - The Center Square",
@@ -4361,7 +4436,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "emaratalyoum.com"
+      "preferredSite": "arabic.cnn.com"
     },
     {
       "title": "200 مليار دولار استثمارات كورية في أمريكا.. لماذا تتحفظ سيؤول على مشروع الغاز؟ - شبكة تواصل الإخبارية",
@@ -4657,7 +4732,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "emaratalyoum.com"
+      "preferredSite": "arabic.cnn.com"
     },
     {
       "title": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future - najah.edu",
@@ -4972,7 +5047,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "emaratalyoum.com"
+      "preferredSite": "arabic.cnn.com"
     },
     {
       "title": "Saudi Energy Minister and Australian Counterpart Discuss Climate Action and Renewable Energy Initiatives - صحيفة مال",
@@ -7251,21 +7326,6 @@
       "preferredSite": ""
     },
     {
-      "title": "EPA says repealing power plant emissions rules will save billions – but its estimate leaves out health and climate costs - The Conversation",
-      "description": "EPA says repealing power plant emissions rules will save billions – but its estimate leaves out health and climate costs &nbsp;&nbsp; The Conversation",
-      "content": "EPA says repealing power plant emissions rules will save billions – but its estimate leaves out health and climate costs &nbsp;&nbsp; The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSDYyX3I0UzFKSXRhRk1oOWdjSWM5YU5IeklsYXpENTFlRjlPamNQaFRpVHFfQldWYzZkbnQ5cE5lZFdnVVdETUtDRUpCck5QaHg5ODBYQWJ5V0x2VXNObVVoa1FSYWlKY2tKNFNKQmk2b3k1UVpBODB6QkxrQ2FHZmJEc1ZBZkVYZlVtUC0xQjN0M24xd3F5aThob2ROSTd3YkMyc0NwOEdWSUpyMDJZbWxHRGlRd0JMMFp2aXp3Ylp0SEI2bDg3VVlNTFZJWmZuM195VkhoMU5NNVhMZVZDRFk4ZUoteWJF?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-22T12:48:20.000Z",
-      "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "EPA says repealing power plant emissions rules will save billions – but its estimate leaves out health and climate costs - theconversation.com",
       "description": "EPA says repealing power plant emissions rules will save billions – but its estimate leaves out health and climate costs &nbsp;&nbsp; theconversation.com",
       "content": "EPA says repealing power plant emissions rules will save billions – but its estimate leaves out health and climate costs &nbsp;&nbsp; theconversation.com",
@@ -7459,6 +7519,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "EPA says repealing power plant emissions rules will save billions – but its estimate leaves out health and climate costs - The Conversation",
+      "description": "EPA says repealing power plant emissions rules will save billions – but its estimate leaves out health and climate costs &nbsp;&nbsp; The Conversation",
+      "content": "EPA says repealing power plant emissions rules will save billions – but its estimate leaves out health and climate costs &nbsp;&nbsp; The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSDYyX3I0UzFKSXRhRk1oOWdjSWM5YU5IeklsYXpENTFlRjlPamNQaFRpVHFfQldWYzZkbnQ5cE5lZFdnVVdETUtDRUpCck5QaHg5ODBYQWJ5V0x2VXNObVVoa1FSYWlKY2tKNFNKQmk2b3k1UVpBODB6QkxrQ2FHZmJEc1ZBZkVYZlVtUC0xQjN0M24xd3F5aThob2ROSTd3YkMyc0NwOEdWSUpyMDJZbWxHRGlRd0JMMFp2aXp3Ylp0SEI2bDg3VVlNTFZJWmZuM195VkhoMU5NNVhMZVZDRFk4ZUoteWJF?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "source": {
+        "name": "The Conversation",
+        "url": "https://theconversation.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان - الشرق الأوسط",
@@ -12561,7 +12636,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "ognnews.com"
     },
     {
       "title": "الخليج يسبق الذكاء الاصطناعي بطلب توربينات الغاز لتوليد الكهرباء - aljazeera.net",
@@ -13597,21 +13672,6 @@
       "preferredSite": ""
     },
     {
-      "title": "State’s only coal power plant shifting to natural gas, will serve as backup power for region - Department of Ecology - State of Washington (.gov)",
-      "description": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Department of Ecology - State of Washington (.gov)",
-      "content": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Department of Ecology - State of Washington (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUXFZeUpFdURnUVpfUEZ3UDUxVmoxTHhpMEUxVE9JQVpPQ0FGdlNDSVVCbzJTVEJYZXczb2xuekdkU2F6NVBmM3hiVHg3alZOUXpHeXl3WTg5cEFSZjZ1NXNZUXZVUHRhbE8tSEFWVUNwUUh4ajF1TXR1YTEwQ1pDNTVBRFBXcE5kSm5vejFuLXZiRkRrQS16anB4VDM4TDh4ZDU0cWFaeGlQTnY3TE5rczN3RUthdGZqYnp5ZHFXYTAxWFBRZjRFSE9vSEFpRkx5WkFxYTA3U2J6QlBCcFZQcQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-31T07:00:00.000Z",
-      "source": {
-        "name": "Department of Ecology - State of Washington (.gov)",
-        "url": "https://ecology.wa.gov"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "مصر: احتواء تداعيات «حادث دمياط» لا يُبدّد مخاوف تأمين احتياجات الكهرباء - الشرق الأوسط",
       "description": "مصر: احتواء تداعيات «حادث دمياط» لا يُبدّد مخاوف تأمين احتياجات الكهرباء &nbsp;&nbsp; الشرق الأوسط",
       "content": "مصر: احتواء تداعيات «حادث دمياط» لا يُبدّد مخاوف تأمين احتياجات الكهرباء &nbsp;&nbsp; الشرق الأوسط",
@@ -14329,7 +14389,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "ognnews.com"
     },
     {
       "title": "هل تكشف موجات الحر هشاشة شبكات الكهرباء في شمال أفريقيا؟ - aljazeera.net",
@@ -14449,7 +14509,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "emaratalyoum.com"
+      "preferredSite": "arabic.cnn.com"
     },
     {
       "title": "Data centers want to build their own gas turbines. Would that skirt state renewable energy laws? - Virginia Mercury",
@@ -15147,66 +15207,6 @@
       "source": {
         "name": "alborsaanews.com",
         "url": "https://www.alborsaanews.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "قرار أوروبي يستهدف محولات الطاقة الشمسية الصينية.. وتأثيره يمتد لأفريقيا والشرق الأوسط - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "description": "قرار أوروبي يستهدف محولات الطاقة الشمسية الصينية.. وتأثيره يمتد لأفريقيا والشرق الأوسط &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "content": "قرار أوروبي يستهدف محولات الطاقة الشمسية الصينية.. وتأثيره يمتد لأفريقيا والشرق الأوسط &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPSy1BdE1NRkhYblQxakMtVXl5Z1VDQ1BVMU0tLVNVaERGTHBSYjdsS1hrcWxPV2t2eW9sN1JnaXJ3VU82V3RNbkNCUnlPRmtxa2w3Z2JWNVlhd3ZOZF9yQWE0OGdnYkNKOGZVTnI2LTcxMS1FMTFLdEowOW5DSnQ4T184dnloSkhzOTJvVmJyY2ZEMEwta2NCcjJHMjlzYmxQY092Sm9BdkNNWjBlb2NDQ2lmOGdIVkJOQVh2aFZWb2U3Tk9XLXMxaVF0bGEwMnBNb1RseUp1eXJqb3RPdkRBTW83MnZfLUstdk03eTU2d1VpQU1NUEpNeTZGNjh4dXpXeHpWZmZZVHIzN2ZsejVwSWdGQTd1TkZZS3ZYLVFreEZFbUVZMmdCWklVTHlfVGFKZF91bWtkcC1MN2N0dEpvOGtPc2FTd0EzSk1MZw?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-09T07:00:00.000Z",
-      "source": {
-        "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-        "url": "https://attaqa.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Renewable energy - European Environment Agency (EEA)",
-      "description": "Renewable energy &nbsp;&nbsp; European Environment Agency (EEA)",
-      "content": "Renewable energy &nbsp;&nbsp; European Environment Agency (EEA)",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VVUlBcV9NakVSMTNyN3ZneDhRenZyUjBTQ2hyQ2dxWmpnOU02QUVGdDJyUjRMZjk0ektkcjdjQWtWVnFXenV3am84aEtoeG1DM3Q5aXdqb1RfUlVOTHI0N3NydXBGdVUtVlN4U3Bn?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-09T07:00:00.000Z",
-      "source": {
-        "name": "European Environment Agency (EEA)",
-        "url": "https://www.eea.europa.eu"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "utilities-me.com"
-    },
-    {
-      "title": "Canada carves role for gas in clean power grid strategy - Reuters",
-      "description": "Canada carves role for gas in clean power grid strategy &nbsp;&nbsp; Reuters",
-      "content": "Canada carves role for gas in clean power grid strategy &nbsp;&nbsp; Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2VPX3h0OFNhOS1NUExhdkQzRmdXMkFVaFFQSlZaOGpDZ3JaeUpzRFdYVE5DTjZGajJqbmdxSWRqYVRodVJFNzJjdXpBempSaE1fWkhtd2VQczE5ZFdod19oMGl3el9vY1gzYXAxcTRzWW96T2xSMDZCSHhqSWQzRFd5cGl5cU16QXRkQmlLT2RWMlF3U0w5cmt3cjZkVG5Ua21lN1FvZzJiX0U?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "source": {
-        "name": "Reuters",
-        "url": "https://www.reuters.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Aecon Wins $1.2B EPC Contract for Alberta Gas-Fired Power Plant - Engineering News-Record",
-      "description": "Aecon Wins $1.2B EPC Contract for Alberta Gas-Fired Power Plant &nbsp;&nbsp; Engineering News-Record",
-      "content": "Aecon Wins $1.2B EPC Contract for Alberta Gas-Fired Power Plant &nbsp;&nbsp; Engineering News-Record",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDJBR0toMlQ1RmVrbmQzT0VHWmctTGFuMlY0bXpfMFF6NHk5MDNSWWpMeU00SWlvNnpQSjdRUWFtTExsNFZyY1paVUJpUGQ0SWdpQ2FLc1l1ZVRPSExReGRSbGlnSHFkc3JpYUY1REU2Q0VEV1JuaUgycE16a2dlNVlqcjhManE5UWEzazVlcHgwcHFXOHZNWG0yM2g?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "source": {
-        "name": "Engineering News-Record",
-        "url": "https://www.enr.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
