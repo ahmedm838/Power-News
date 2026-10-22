@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-10-21T21:46:11.245Z",
+  "generatedAt": "2026-10-22T04:54:28.165Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Public hearing on natural gas power plant moves to different New Albany school - The Columbus Dispatch",
+      "description": "Public hearing on natural gas power plant moves to different New Albany school &nbsp;&nbsp; The Columbus Dispatch",
+      "content": "Public hearing on natural gas power plant moves to different New Albany school &nbsp;&nbsp; The Columbus Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM2RLUlMtVm9kMTN4a3hUR3dWLWxBUzMyVV9LOE5DeEpkLUsxV2RxdURCZHlTcEtxS01tWGJOR04xa2Mtc2tnSldHN1Q0NU9KZV9GLWtDV0xweVFuTUs4VmpaN2k1TWtKRVd0QWt0eXlncTRldTRLRmVDTUlYdnhLRG5ZZE41Zk91UnhPVmlINzd3ZTBlenhCclRobkx2VUExWUVWRGJyQjJuMDJzYjF1NThlTmY0cE1VSklVemFaa0UtV1dwMF9vV3RB?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-22T02:47:00.000Z",
+      "source": {
+        "name": "The Columbus Dispatch",
+        "url": "https://www.dispatch.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Eni launches EPC tender for 75 MW gas power plant in Mozambique - Green Building Africa",
+      "description": "Eni launches EPC tender for 75 MW gas power plant in Mozambique &nbsp;&nbsp; Green Building Africa",
+      "content": "Eni launches EPC tender for 75 MW gas power plant in Mozambique &nbsp;&nbsp; Green Building Africa",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObDQxdUxzXzZfT1lFakNXQk4xWnR5U3NRYUhSWFlXNDBaVzJnRlZ5YmlJQnpSRnN4SWNDT2ZJT0NfUk5NRDFoUkM4YVljM2N2cEtTUWVSdmFVcU1ZSV85Tkd0UEoweTFIckM1UFI3WDdndlY5TzA1VFhoc0ZhN3labFA5ZGFjekVSWmt1V05yaFZNVUhtckVsYUw0U0Q4R3NuR3gzMg?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-22T01:00:01.000Z",
+      "source": {
+        "name": "Green Building Africa",
+        "url": "https://www.greenbuildingafrica.co.za"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Shafaq News..Iraq PM to discuss oil pipeline during Syria visit - شفق نيوز",
+      "description": "Shafaq News..Iraq PM to discuss oil pipeline during Syria visit &nbsp;&nbsp; شفق نيوز",
+      "content": "Shafaq News..Iraq PM to discuss oil pipeline during Syria visit &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb0F6R2x1eHhybXh1QmRlM2dDOWRITDNYdWs5anZ6VTI5V0JYZWJaeDFQb1JULXpiODJzZm53MEl0Ujc3cWlIUUVDUGQzTEZfWGVaYjZ3bEplalBNREthcXA1QW9sNnFjUl9oaGo1TlB6VFpDQ0dBelNwcElFYkhUM1J6Zw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-21T22:38:12.000Z",
+      "source": {
+        "name": "شفق نيوز",
+        "url": "https://shafaq.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
     {
       "title": "Linn County rejects rezoning for Alliant gas power plant, but state could still approve - KGAN",
       "description": "Linn County rejects rezoning for Alliant gas power plant, but state could still approve &nbsp;&nbsp; KGAN",
@@ -14,6 +59,21 @@
       "source": {
         "name": "KGAN",
         "url": "https://cbs2iowa.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Renaissance Targets 500,000bpd Oil Production by 2030, Prioritises Gas Development - Energy Focus Report",
+      "description": "Renaissance Targets 500,000bpd Oil Production by 2030, Prioritises Gas Development &nbsp;&nbsp; Energy Focus Report",
+      "content": "Renaissance Targets 500,000bpd Oil Production by 2030, Prioritises Gas Development &nbsp;&nbsp; Energy Focus Report",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDNka0JPdy14QTFZVFUxZElNeUJySG9LTkdVWjJHM2RGdzF2VnNOS1dtTHl1aENleUR3OVljeUQ5OVBqQ0dGVjdfQ2piR0Ezbkc1bG9sUlF0QjM5c2dlYllyYktzOVcxbjhnWmpSV1pqTlJhMHFNV0YyUW42TjRlZUJ1ZzZLMzVlM2JRUy1aY0s1eXRsU2s1S0hGNXQzUFBDTmpCcTN2c01VeENLa1hfVmFmZHVpZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-21T21:14:16.000Z",
+      "source": {
+        "name": "Energy Focus Report",
+        "url": "https://www.energyfocusreport.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -33,6 +93,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "alghad.com"
+    },
+    {
+      "title": "مؤتمر جمعية الإلكترونيات الصناعية يناقش مجالات الطاقة المتجددة والتنويع الاقتصادي - جريدة الشرق",
+      "description": "مؤتمر جمعية الإلكترونيات الصناعية يناقش مجالات الطاقة المتجددة والتنويع الاقتصادي &nbsp;&nbsp; جريدة الشرق",
+      "content": "مؤتمر جمعية الإلكترونيات الصناعية يناقش مجالات الطاقة المتجددة والتنويع الاقتصادي &nbsp;&nbsp; جريدة الشرق",
+      "url": "https://news.google.com/rss/articles/CBMingVBVV95cUxNS3dVMF9BUHZLSUtrSS1mcUlpMnlDb2M4bjVLTTYtbllreDk0dS14bGhUX0dmcHJ2enhxaTdTNnIxbWdBWGRVMFNZdkR2MFJ5SFVJVVg0QXhnVy14ZFJGTE9rdk9oR3ZMTDNmV2UwWVdGTXdUOXVsVl9IeUxfRVNXZUloMXJXcGF3OHRRLVJYa0VWcXcwT2VnNXN1cWNmbzNpSFRFVnBtT3JWSVk0RXBxOURTdi1qZnhfR3RPOXhUSG14OVhKM3FnTjhSb2pRbWlTWk5oNzY2cExoNUxSaUpNYkFZaTI0c1Zrbk5lZU84VndaLTBPOXB3aTRrbVpPMjVjY3ZTN0trQjI5bnJtSm90ajU0bU80VW92REhOb2xISnlaZmZfYWlab0M1TnBfZmd2V0JTME1URlRKZU1qUE9kNktnOUxiUWMxYTUxMTVkaHd0Skd5dDZNMF93cnhaOFZncHJRX0tLbE5BRjQxN1ZnLW5TUk04RVc1OGhyMThqNGE2TDdUSmR3LTJleUt0dlRqa0dRcXlPWjdXSTBhVjQxMk5idl9lYmNnX2tLTzVuNEljdENnVTdBWGdsTXlVeWVZT3Q4aDlSWnNpV1ZvVS05Q29DangtaEZUUmN3ZkJmbkw5S3dIbHJoY2Y2YlRwWDBkYmE5VW9PUmtvTGlqX3l2UnptUXlSSjBROHRJMEtUc3huNWYtUlluX2NmemVrdlBHNkJpMEZ6MHpLZm1mQnNRZWUyV3l4SS1DcXo3dkJsci1QLWVURUtETHJaaGNNVnlzcXpOZWpPYmFvWk9zRTBGUWVyZG42dWFpb005aGU3NnhjU21mclFCTUtIc1FXVGNFMHpuZGhSQmZhN3g3N0dLYUs1MjhsR1Y3YUZmc3Fn?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-21T17:47:09.000Z",
+      "source": {
+        "name": "جريدة الشرق",
+        "url": "https://al-sharq.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "DC mayor's office denies plans for gas-fired power plant at RFK Stadium site amid activist concerns - FOX 5 DC",
@@ -92,7 +167,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "arabic.cnn.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "D.C. and Commanders rule out power plant, but confirm natural gas use for new stadium - The Business Journals",
@@ -122,7 +197,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "arabic.cnn.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "EU vows to develop Arctic renewable energy, says oil and gas should stay in the ground - The Barents Observer",
@@ -167,7 +242,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "emaratalyoum.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "مصر تبحث مع شركات عالمية تسريع الاستثمارات وزيادة إنتاج الغاز - ايكونومي بلس",
@@ -423,6 +498,36 @@
       "preferredSite": ""
     },
     {
+      "title": "Cumberland supervisors approve massive natural gas power plant - WAFB",
+      "description": "Cumberland supervisors approve massive natural gas power plant &nbsp;&nbsp; WAFB",
+      "content": "Cumberland supervisors approve massive natural gas power plant &nbsp;&nbsp; WAFB",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcldTZ00wTkdfd2pvMVpFOTloUkhDQm1iR18xa1A0ZXpjeFJGcEhuWnNfbWx5SUNObW1xd2tXUWxUZ0xaaGlGWkFUcTUxTGM1Mm9TT0daRjF6UUVmT1dpTDBkSjBFS0N1TzA0dlpMNFRsLTQ5MG0yMkl3M2l1Q3ZkNFhNRnlpdm8zUVRKTWpMZmgtdnZvNnRwVzRoaW1DdXAtZ3FZ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-21T05:21:00.000Z",
+      "source": {
+        "name": "WAFB",
+        "url": "https://www.wafb.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Cumberland supervisors approve massive natural gas power plant - Live 5 News",
+      "description": "Cumberland supervisors approve massive natural gas power plant &nbsp;&nbsp; Live 5 News",
+      "content": "Cumberland supervisors approve massive natural gas power plant &nbsp;&nbsp; Live 5 News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzdMSmZlbExuNU5ETE9fVngyWDQ3ZW50TlJSNHAxT3N2R0ZsVFMtQUg2eUo0SDBGeFVDNjRlYlJWdUdXMlZHckRFRUI3dmNtN052N0dad0tZeXRkQVNERmhiX3dtQjhDR3FsbDJzaHQ0UHpLQi04SHhHNGZiTUxUUHhka053N3FJaGcyc3F2SDlvdWtfeVpzLWhRbUJLQUhnRWEzTlRQNE5kUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-21T05:21:00.000Z",
+      "source": {
+        "name": "Live 5 News",
+        "url": "https://www.live5news.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Could costs for the U.S. Alaska LNG project hit 120 trillion won? How much will South Korea have to bear? - 파이낸셜뉴스",
       "description": "Could costs for the U.S. Alaska LNG project hit 120 trillion won? How much will South Korea have to bear? &nbsp;&nbsp; 파이낸셜뉴스",
       "content": "Could costs for the U.S. Alaska LNG project hit 120 trillion won? How much will South Korea have to bear? &nbsp;&nbsp; 파이낸셜뉴스",
@@ -608,7 +713,7 @@
       "content": "ارتفاع صادرات الصين من معدات الطاقة الشمسية للشرق الأوسط في سبتمبر &nbsp;&nbsp; Reuters",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JTnJTdWtRaFJHQmZ4N0tXTDE3Rjlkc3Q2OVJ6UHh3Qi1FdWhvV1RrZmJSMFNCaGdrdFd0LUhaQTRYRHhEV0drZEppUVB4aXRpZUx6cTduUjY4WklMcEI2RV9fd2d6aXBlQzEtRzFUSndaQUt6cXFnOXNGY19KSzQ?oc=5",
       "image": "",
-      "publishedAt": "2026-10-20T12:23:45.000Z",
+      "publishedAt": "2026-10-20T12:44:51.000Z",
       "source": {
         "name": "Reuters",
         "url": "https://www.reuters.com"
@@ -2181,7 +2286,7 @@
       "content": "Wind power could help Türkiye cut its gas import bill by $4 billion &nbsp;&nbsp; Daily Sabah",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWGw2aTlfZDFoc3dMcmR5NTZkTkdlc095YWZPYV9nTUpYYzYzLXZObDVudHBmZU9qMU1JQU9FbU5OTDNlOTlIeFpobVNFQ0hPOGU2cUg0MHZ5dVMtMUs0RDByY19PQzdyaGZZTGRUeVB3bnBSTWtpdzRrVnV2OHMwQl9yMnhxazl3eTBDcWR0YUtQOVNwaWU4N2k1d2t6ZFZvLXlXYlZVeGRDdWFJUjFJ?oc=5",
       "image": "",
-      "publishedAt": "2026-10-12T11:30:00.000Z",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
       "source": {
         "name": "Daily Sabah",
         "url": "https://www.dailysabah.com"
@@ -2323,7 +2428,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production - Crude Oil Prices Today | OilPrice.com",
@@ -4331,7 +4436,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "بطاريات تخزين الكهرباء في مصر.. خريطة المشروعات والتصنيع بحلول 2030 - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -4436,7 +4541,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "arabic.cnn.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "200 مليار دولار استثمارات كورية في أمريكا.. لماذا تتحفظ سيؤول على مشروع الغاز؟ - شبكة تواصل الإخبارية",
@@ -4717,7 +4822,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "جامعة النجاح الوطنية : An-Najah Takes Its 100% Renewable Energy Message to Local Schools - An-Najah National University",
@@ -4732,7 +4837,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "arabic.cnn.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future - najah.edu",
@@ -4762,7 +4867,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Serbia, SOCAR Sign Deal to Build Gas Power Plant in Niš - Caspian Post",
@@ -5047,7 +5152,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "arabic.cnn.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Saudi Energy Minister and Australian Counterpart Discuss Climate Action and Renewable Energy Initiatives - صحيفة مال",
@@ -5062,7 +5167,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Australia could run its electricity grid without fossil gas at similar cost; researchers say models under - The Times of India",
@@ -7053,7 +7158,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Moscow oil refinery shutdown and deaths in Russian attacks o - alquds.com",
@@ -10736,6 +10841,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Cheat Sheet on the EPA’s Repeal of Power Plant Carbon Emissions - NRDC",
+      "description": "Cheat Sheet on the EPA’s Repeal of Power Plant Carbon Emissions &nbsp;&nbsp; NRDC",
+      "content": "Cheat Sheet on the EPA’s Repeal of Power Plant Carbon Emissions &nbsp;&nbsp; NRDC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVpvcXBiNmJBaENvN0c4UkpwbG1mS0hkTm5YaUthNVZoUG1RYjBSQldTV3FhNTBlYksyamM3RnQyeEFTSlB5dUFBRE5DVGpJdlZzYmlQYmtZc1pCMmFOS2h4ekJiV19aNUU0bHNlX0pGTTg4ZFBKenY0c2NFa010a2pyLW9vQQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-09T07:00:00.000Z",
+      "source": {
+        "name": "NRDC",
+        "url": "https://www.nrdc.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "الطاقة المتجددة والتمويل المستدام.. ميزة الشرق الأوسط التنافسية - twaslnews1.twaslnews.com",
       "description": "الطاقة المتجددة والتمويل المستدام.. ميزة الشرق الأوسط التنافسية &nbsp;&nbsp; twaslnews1.twaslnews.com",
       "content": "الطاقة المتجددة والتمويل المستدام.. ميزة الشرق الأوسط التنافسية &nbsp;&nbsp; twaslnews1.twaslnews.com",
@@ -10898,7 +11018,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "معلومات الوزراء: مصر تسجل نموًا سنويًا بنسبة 176% فى إضافات الطاقة الشمسية - youm7.com",
@@ -11663,7 +11783,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة - aawsat.com",
@@ -14509,7 +14629,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "arabic.cnn.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Data centers want to build their own gas turbines. Would that skirt state renewable energy laws? - Virginia Mercury",
@@ -14734,7 +14854,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Kuwait Urges Electricity Conservation After Power Plant Damaged in Iranian Attack - شبكة يافا الإخبارية",
@@ -14780,6 +14900,30 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Oil versus gas for addressing the electricity crisis in Iraq - video-agencyia.iq",
+      "description": "Oil versus gas for addressing the electricity crisis in Iraq &nbsp;&nbsp; video-agencyia.iq",
+      "content": "Oil versus gas for addressing the electricity crisis in Iraq &nbsp;&nbsp; video-agencyia.iq",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54WlVpcm1YNm1zeDJQRFR3RGdWQUN3VjBaSWg1SXVfdEphM0lRMzdtaUdhZ2dMdFVBMzYyQkVabmh6NUpVd08tZl8tMEFtNlQ0ZEo5dGdBdw?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-17T07:00:00.000Z",
+      "source": {
+        "name": "video-agencyia.iq",
+        "url": "https://www.video-agencyia.iq"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [
+        "egypt",
+        "saudi arabia",
+        "UAE",
+        "iraq",
+        "iran",
+        "libya",
+        "morocco",
+        "turkey"
+      ],
+      "preferredSite": ""
     },
     {
       "title": "Arlington Says Community Electricity Customers Will Save On Electric Bills - Patch",
@@ -15050,167 +15194,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
-    },
-    {
-      "title": "Nevadans voted for more renewable energy, not more natural gas - nevadacurrent.com",
-      "description": "Nevadans voted for more renewable energy, not more natural gas &nbsp;&nbsp; nevadacurrent.com",
-      "content": "Nevadans voted for more renewable energy, not more natural gas &nbsp;&nbsp; nevadacurrent.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVFGWk5HVU5PbVppYWJ1NC1BNWgwZ3hZaDFxX2lqMExfQnRHeXVsMGNoemhUaFRrZ2FINWxVYXBVMHAteWlkdVlIeXp2N05GWVJqdWltNTV4b2c0dWtkeC1PQWk4ZW1SMWoya3hhTkpxNG5VMDE5S19nSmNuQW1LMGtDTnRxTWY3eXY2dFZxb1g2eE9WWWViVDU5WEtGemln?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "source": {
-        "name": "nevadacurrent.com",
-        "url": "https://nevadacurrent.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "UAE strengthens power grid resilience with national monitoring centre - ARN News Centre",
-      "description": "UAE strengthens power grid resilience with national monitoring centre &nbsp;&nbsp; ARN News Centre",
-      "content": "UAE strengthens power grid resilience with national monitoring centre &nbsp;&nbsp; ARN News Centre",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmJQWHI0VWg2ZFJDTXNhRk9walVQbFpfMmtZVWZ2MGNIdEI5ZFlKY0IzM25zVXRBSTVITWUzaDNXZ1NMLWx2ZWhfN0tnSGRXMlB6ZUE1OE51bkc2T0Q1WVRtdWsyRllrTFFIZTRveXpnX0kzNC1VOW4ySXhDQm5WTUQtS0tZRUdGSDVnWXRDdlFVTkY0WE5oVE01eDBEZ0hTUk1uZ3VfZ1BzTVZsNnQ0VQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "source": {
-        "name": "ARN News Centre",
-        "url": "https://www.arnnewscentre.ae"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [
-        "egypt",
-        "saudi arabia",
-        "UAE",
-        "iraq",
-        "iran",
-        "libya",
-        "algeria",
-        "morocco",
-        "jordan",
-        "kuwait",
-        "qatar",
-        "turkey"
-      ],
-      "preferredSite": ""
-    },
-    {
-      "title": "Commentary: Nevadans voted for more renewable energy, not more natural gas - nevadacurrent.com",
-      "description": "Commentary: Nevadans voted for more renewable energy, not more natural gas &nbsp;&nbsp; nevadacurrent.com",
-      "content": "Commentary: Nevadans voted for more renewable energy, not more natural gas &nbsp;&nbsp; nevadacurrent.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVFGWk5HVU5PbVppYWJ1NC1BNWgwZ3hZaDFxX2lqMExfQnRHeXVsMGNoemhUaFRrZ2FINWxVYXBVMHAteWlkdVlIeXp2N05GWVJqdWltNTV4b2c0dWtkeC1PQWk4ZW1SMWoya3hhTkpxNG5VMDE5S19nSmNuQW1LMGtDTnRxTWY3eXY2dFZxb1g2eE9WWWViVDU5WEtGemln?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "source": {
-        "name": "nevadacurrent.com",
-        "url": "https://nevadacurrent.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "UAE strengthens power grid resilience with national monitoring centre - arnnewscentre.ae",
-      "description": "UAE strengthens power grid resilience with national monitoring centre &nbsp;&nbsp; arnnewscentre.ae",
-      "content": "UAE strengthens power grid resilience with national monitoring centre &nbsp;&nbsp; arnnewscentre.ae",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmJQWHI0VWg2ZFJDTXNhRk9walVQbFpfMmtZVWZ2MGNIdEI5ZFlKY0IzM25zVXRBSTVITWUzaDNXZ1NMLWx2ZWhfN0tnSGRXMlB6ZUE1OE51bkc2T0Q1WVRtdWsyRllrTFFIZTRveXpnX0kzNC1VOW4ySXhDQm5WTUQtS0tZRUdGSDVnWXRDdlFVTkY0WE5oVE01eDBEZ0hTUk1uZ3VfZ1BzTVZsNnQ0VQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "source": {
-        "name": "arnnewscentre.ae",
-        "url": "https://www.arnnewscentre.ae"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [
-        "egypt",
-        "saudi arabia",
-        "UAE",
-        "iraq",
-        "iran",
-        "libya",
-        "algeria",
-        "morocco",
-        "jordan",
-        "kuwait",
-        "qatar",
-        "turkey"
-      ],
-      "preferredSite": ""
-    },
-    {
-      "title": "Iranians report renewed power cuts as heat drives electricity demand - iranintl.com",
-      "description": "Iranians report renewed power cuts as heat drives electricity demand &nbsp;&nbsp; iranintl.com",
-      "content": "Iranians report renewed power cuts as heat drives electricity demand &nbsp;&nbsp; iranintl.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEVVZkOGFNYkxROHpSZDBwUzZhdzVUNmhBV0hTT2twZHhmMFNXR3hfLXp6QzRsS3VzaGxJV3FYcGtxZlAtVjVuNkZoX2lvWFRhTUE?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "source": {
-        "name": "iranintl.com",
-        "url": "https://www.iranintl.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "thepeninsulaqatar.com"
-    },
-    {
-      "title": "Commentary: Nevadans voted for more renewable energy, not more natural gas - Nevada Current",
-      "description": "Commentary: Nevadans voted for more renewable energy, not more natural gas &nbsp;&nbsp; Nevada Current",
-      "content": "Commentary: Nevadans voted for more renewable energy, not more natural gas &nbsp;&nbsp; Nevada Current",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVFGWk5HVU5PbVppYWJ1NC1BNWgwZ3hZaDFxX2lqMExfQnRHeXVsMGNoemhUaFRrZ2FINWxVYXBVMHAteWlkdVlIeXp2N05GWVJqdWltNTV4b2c0dWtkeC1PQWk4ZW1SMWoya3hhTkpxNG5VMDE5S19nSmNuQW1LMGtDTnRxTWY3eXY2dFZxb1g2eE9WWWViVDU5WEtGemln?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "source": {
-        "name": "Nevada Current",
-        "url": "https://nevadacurrent.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "\"جولدمان ساكس\": التصعيد في هرمز يهدد خطط زيادة إنتاج النفط بالشرق الأوسط - جريدة البورصة",
-      "description": "\"جولدمان ساكس\": التصعيد في هرمز يهدد خطط زيادة إنتاج النفط بالشرق الأوسط &nbsp;&nbsp; جريدة البورصة",
-      "content": "\"جولدمان ساكس\": التصعيد في هرمز يهدد خطط زيادة إنتاج النفط بالشرق الأوسط &nbsp;&nbsp; جريدة البورصة",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NckdNb0FlX2cyN1NKRGlveU5aNDAyLTZQbWZxTDE2RVdEaUtkZW9KNHFzTjFfMDZsZU9iVEU2NnBiYjM3cG54aHZXN1lMNk14R0xyZl8tOVU5ZjQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-09T07:00:00.000Z",
-      "source": {
-        "name": "جريدة البورصة",
-        "url": "https://www.alborsaanews.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "New Gas-Fired Power Plant in Alberta Will Serve Data Center Development - POWER Magazine",
-      "description": "New Gas-Fired Power Plant in Alberta Will Serve Data Center Development &nbsp;&nbsp; POWER Magazine",
-      "content": "New Gas-Fired Power Plant in Alberta Will Serve Data Center Development &nbsp;&nbsp; POWER Magazine",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzRTaXgweklyRG8xWkRzY2dzNUJYWVZHSk44ajM2NF8xWVBzSnJFVDVzRGN6U0tuaV9hUk44cVBxeTZUMHktZllRWHZPYk40eDRIeE52eHdud2JrNDdXbzJvd0ptSkNrRVJxUWxYSHBNREFOTDJVcHRDXzduVW5SOFZEbkpJNXlUZkFRN3NlZ0RTdVdEaDJPbU9GMWNBZw?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-09T07:00:00.000Z",
-      "source": {
-        "name": "POWER Magazine",
-        "url": "https://www.powermag.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "\"جولدمان ساكس\": التصعيد في هرمز يهدد خطط زيادة إنتاج النفط بالشرق الأوسط - alborsaanews.com",
-      "description": "\"جولدمان ساكس\": التصعيد في هرمز يهدد خطط زيادة إنتاج النفط بالشرق الأوسط &nbsp;&nbsp; alborsaanews.com",
-      "content": "\"جولدمان ساكس\": التصعيد في هرمز يهدد خطط زيادة إنتاج النفط بالشرق الأوسط &nbsp;&nbsp; alborsaanews.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NckdNb0FlX2cyN1NKRGlveU5aNDAyLTZQbWZxTDE2RVdEaUtkZW9KNHFzTjFfMDZsZU9iVEU2NnBiYjM3cG54aHZXN1lMNk14R0xyZl8tOVU5ZjQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-09T07:00:00.000Z",
-      "source": {
-        "name": "alborsaanews.com",
-        "url": "https://www.alborsaanews.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     }
   ]
 }
