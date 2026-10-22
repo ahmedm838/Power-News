@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-10-22T17:14:12.660Z",
+  "generatedAt": "2026-10-22T21:40:08.586Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "FG commissions four power substations, Aladds 544MW to Kano electricity grid - شبكة تواصل الإخبارية",
+      "description": "FG commissions four power substations, Aladds 544MW to Kano electricity grid &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "content": "FG commissions four power substations, Aladds 544MW to Kano electricity grid &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kMC1XTUZhY2ExNHg2NG9kYUN6VmlER3hjZ0JzRFZORy1IOEpwSS1NWklmUkRHTTFrLTUzSmNZdzB6aVBLamoyRlVLbmdab2hDbW1Z?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-22T21:24:54.000Z",
+      "source": {
+        "name": "شبكة تواصل الإخبارية",
+        "url": "https://twaslnews1.twaslnews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
+    {
+      "title": "Largest gas pipeline network in Northwest could grow as Oklahoma-based owners pursue expansion - Oregon Capital Chronicle",
+      "description": "Largest gas pipeline network in Northwest could grow as Oklahoma-based owners pursue expansion &nbsp;&nbsp; Oregon Capital Chronicle",
+      "content": "Largest gas pipeline network in Northwest could grow as Oklahoma-based owners pursue expansion &nbsp;&nbsp; Oregon Capital Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdE5oVkhpZWhPNjFzV0h2cEdoNU9MZTVXU1ZDWkVQaFJHdHNuc3M3eGxOSFE3VzVIOUx4SndRSWV1eDhoMFNsb1FXNG5yLVRZSDZScXRreXFacjdLRUdvSXRyNy1oakY3VjhLUEJXcFdiaVN3MEwxMF94MDF4VjY5Z1hDbWNMN29RQS13WHhST2RHRExNVVg3WGQ2LVBvb2xuYzFXQkg1RW9KaFZYRmNraGpVWnE0UTkzaDNTQkp2Y2haekFaTHM2VGh6LWRtYy04ekNuem9OaVQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-22T18:04:36.000Z",
+      "source": {
+        "name": "Oregon Capital Chronicle",
+        "url": "https://oregoncapitalchronicle.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
     {
       "title": "South African who grew up barefoot with no water and electricity, and built an iconic app that made R25 billion in one year - BusinessTech",
       "description": "South African who grew up barefoot with no water and electricity, and built an iconic app that made R25 billion in one year &nbsp;&nbsp; BusinessTech",
@@ -20,12 +50,27 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "Petronet LNG, Gruner Renewable Energy to invest ₹1,200 crore in 10 bio-gas plants - CNBC TV18",
+      "description": "Petronet LNG, Gruner Renewable Energy to invest ₹1,200 crore in 10 bio-gas plants &nbsp;&nbsp; CNBC TV18",
+      "content": "Petronet LNG, Gruner Renewable Energy to invest ₹1,200 crore in 10 bio-gas plants &nbsp;&nbsp; CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQTZfb1M1akFqX3FIaTRLLVREUHZmY3ZpbmwtVWxhSld6WVM2UnQtMXUxbHRSMVFuU3NaTXVFVzdTSDVJajlfSUVOYWZ6OWtyNi1XVGVKMUoyVTJPYlMxekNOXzl0TWFhbjExdXpiVmxnbDAteVlNZzdzby1QYm1xbGludExNd1A3LURTWXhnZ1R2SkN2QUtzckpVVVFPTDhjYk9naWJvekowSGJHT0hqNUI3U3dOVzllRnNEajhWX3BrWlltY05LQTMwUG1xMG5qQ1Rn0gHYAUFVX3lxTFBZM0FzTV9zZmwxUGxVMnBIdGlPbnlXSWpqQ2xsOWQ5WTdNNkdMRmJKOUN3V2lhSVRZX0xtU0RJcllLZ0wyc25tTWR2UXZ2QU0wUUdHd3dtdVVjSGs5QzhkTURBR1FXT0hzOVRQWnFrX3hvcy15cE5hNkZsQXlnenZneWpXVFZ4MTlEemlzN3Y4T2dsejkwQmtJdXE2blZ0Vi1KaVRuNXRaTFlBTGlVSFFjYm5LeTBnY1hGWktfYXBGMGplQ0wtU2w3NkdKUnJKNWRoWngwSDBUbw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-22T14:47:43.000Z",
+      "source": {
+        "name": "CNBC TV18",
+        "url": "https://www.cnbctv18.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Egypt Says One GW of Renewable Energy Saves $250 Mn in Gas Imports - Egypt Oil & Gas",
       "description": "Egypt Says One GW of Renewable Energy Saves $250 Mn in Gas Imports &nbsp;&nbsp; Egypt Oil & Gas",
       "content": "Egypt Says One GW of Renewable Energy Saves $250 Mn in Gas Imports &nbsp;&nbsp; Egypt Oil & Gas",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2VjaGVtRkxvS1I3eGFheHYySk9qc1piSWZRWWFpMlhfMmVkQnpNRXh2bFlVbjg4Tkh4SXJZdHNLYWJRVjFaWGpFU053RDhZcVlNaTNvYVM3OVRoXzR0bGhDUF9VeVItRTFwTXo4dkxWYzk2enoxWmNrR3V4anA5UU9jSXIwVGp0YjJrZ3NxY1BUbmV4M1ZmOWo0ZjY?oc=5",
       "image": "",
-      "publishedAt": "2026-10-22T13:30:39.000Z",
+      "publishedAt": "2026-10-22T13:44:59.000Z",
       "source": {
         "name": "Egypt Oil & Gas",
         "url": "https://egyptoil-gas.com"
@@ -50,6 +95,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Petronet LNG Teams Up With Gruner Renewable Energy For ₹1,200 Crore CBG Joint Venture - Sahi",
+      "description": "Petronet LNG Teams Up With Gruner Renewable Energy For ₹1,200 Crore CBG Joint Venture &nbsp;&nbsp; Sahi",
+      "content": "Petronet LNG Teams Up With Gruner Renewable Energy For ₹1,200 Crore CBG Joint Venture &nbsp;&nbsp; Sahi",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGhLa0xzbENnUTlGTUpLNU9rampUNFhfei1IaVYtbWhldGhYeEk1UDQwSWlEU1h3ZmxmX2xVcmN1RDBiajJZT0c1cHJDei1VYVU3N1QzR1A2WEdfTDVucGRuR3c4MjZLVWlTUjhqdU1Tdk5UV1dhOE5ld3lPT2h5dl9MMDJWNS1wZV9wbGhtMFVPT3ZLNDBQZW9GRGdmcDBETU9kVmlZYUFtOGEzLWZj?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-22T13:05:16.000Z",
+      "source": {
+        "name": "Sahi",
+        "url": "https://www.sahi.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "DisCos collect N603.64bn in Q2 2026 as electricity losses hit 36% – NERC - شبكة تواصل الإخبارية",
       "description": "DisCos collect N603.64bn in Q2 2026 as electricity losses hit 36% – NERC &nbsp;&nbsp; شبكة تواصل الإخبارية",
       "content": "DisCos collect N603.64bn in Q2 2026 as electricity losses hit 36% – NERC &nbsp;&nbsp; شبكة تواصل الإخبارية",
@@ -62,7 +122,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "hespress.com"
+      "preferredSite": "alarabiya.net"
     },
     {
       "title": "Public hearing on natural gas power plant moves to different New Albany school - The Columbus Dispatch",
@@ -495,7 +555,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "hespress.com"
+      "preferredSite": "alarabiya.net"
     },
     {
       "title": "Cumberland supervisors approve massive natural gas power plant - WWBT",
@@ -1758,21 +1818,6 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "BGE, Pepco and Delmarva Power call for more electricity supply as PJM issues grid alerts - WBFF",
-      "description": "BGE, Pepco and Delmarva Power call for more electricity supply as PJM issues grid alerts &nbsp;&nbsp; WBFF",
-      "content": "BGE, Pepco and Delmarva Power call for more electricity supply as PJM issues grid alerts &nbsp;&nbsp; WBFF",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONXN0MHo2dWVGRnJxQ3pEMUY0bTl0cFFkaUltVVZwZ0lLYkVVdGlidnZseVhhb00yYUZ2c1UxTWM3ZVBIWWxjaG1tcDAtVlVHTFdjRU43ZE5mQ0N3VTJIZjl2bjlTaFRxNkQtbmZjMG1PMXZkbVhMWnlrbWxLcHVVd215UmtsOWt3TXdFZW9CLW56RjJlbmE3X0pDRTBnT1JxQlRpaWx3bUVPNkpYT3BiUXZ4UmhSNTg?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-14T18:04:28.000Z",
-      "source": {
-        "name": "WBFF",
-        "url": "https://foxbaltimore.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
       "title": "رسميا.. تعيينات جديدة بجنوب القاهرة للكهرباء.. “سيد نافع ” لكبار المشتركين و”عاطف سلامة”للنظم والمعلومات",
       "description": "أصدر المهندس طارق عبد الشافي، رئيس شركة جنوب القاهرة لتوزيع الكهرباء، قرارات بتكليف قيادات جديدة برئاسة عدد من القطاعات والإدارات …",
       "content": "أصدر المهندس طارق عبد الشافي، رئيس شركة جنوب القاهرة لتوزيع الكهرباء، قرارات بتكليف قيادات جديدة برئاسة عدد من القطاعات والإدارات …",
@@ -1874,6 +1919,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "BGE, Pepco and Delmarva Power call for more electricity supply as PJM issues grid alerts - WBFF",
+      "description": "BGE, Pepco and Delmarva Power call for more electricity supply as PJM issues grid alerts &nbsp;&nbsp; WBFF",
+      "content": "BGE, Pepco and Delmarva Power call for more electricity supply as PJM issues grid alerts &nbsp;&nbsp; WBFF",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONXN0MHo2dWVGRnJxQ3pEMUY0bTl0cFFkaUltVVZwZ0lLYkVVdGlidnZseVhhb00yYUZ2c1UxTWM3ZVBIWWxjaG1tcDAtVlVHTFdjRU43ZE5mQ0N3VTJIZjl2bjlTaFRxNkQtbmZjMG1PMXZkbVhMWnlrbWxLcHVVd215UmtsOWt3TXdFZW9CLW56RjJlbmE3X0pDRTBnT1JxQlRpaWx3bUVPNkpYT3BiUXZ4UmhSNTg?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "source": {
+        "name": "WBFF",
+        "url": "https://foxbaltimore.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Electricity in health-care facilities - World Health Organization (WHO)",
@@ -4108,7 +4168,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "hespress.com"
+      "preferredSite": "alarabiya.net"
     },
     {
       "title": "Natural gas prices down as solar power generation jumps 22% - The Center Square",
@@ -4691,7 +4751,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "hespress.com"
+      "preferredSite": "alarabiya.net"
     },
     {
       "title": "200 مليار دولار استثمارات كورية في أمريكا.. لماذا تتحفظ سيؤول على مشروع الغاز؟ - شبكة تواصل الإخبارية",
@@ -4987,7 +5047,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "hespress.com"
+      "preferredSite": "alarabiya.net"
     },
     {
       "title": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future - najah.edu",
@@ -5302,7 +5362,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "hespress.com"
+      "preferredSite": "alarabiya.net"
     },
     {
       "title": "Saudi Energy Minister and Australian Counterpart Discuss Climate Action and Renewable Energy Initiatives - صحيفة مال",
@@ -14809,7 +14869,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "hespress.com"
+      "preferredSite": "alarabiya.net"
     },
     {
       "title": "Data centers want to build their own gas turbines. Would that skirt state renewable energy laws? - Virginia Mercury",
@@ -15138,66 +15198,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
-    },
-    {
-      "title": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو - aawsat.com",
-      "description": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو &nbsp;&nbsp; aawsat.com",
-      "content": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو &nbsp;&nbsp; aawsat.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxQejdETzBoS01aekFUTGxTOHZiUFA5dEZEdjd0U1pBVmVtLV95QTUtRFczbkJBcVRleUN2OWYtR1g2MGVYYV96eWhaSVZLc0dCVVpUNjYtajNya2NwNHplM2pIWmVmMmM4RWdlNTI2X3JqOEFEZGdYVkc2SmgxU1loYmd5Sms1cEZlRnhqcWxPX19sd1dHVnJJZDFkbU5oVEFEN3pIU2VKVWd3YW5SeDJXVXF6eHQzVC1GdlhMR1dzQjlrcHA0WHdpYVRMVUpCOHBBbk5TRWhVbEUtMlhjVUhfSFRDUVIxWFdCNDIydWFvSjFQUU9hc1NoaW5Ja2d0Tno1QWFjeEpxU3ZWb1A5S3FEZmVZaUNoWkZpc3ZKT2pEbXBibmJpd005ck5uNTNPUFhoOWVIT1ZndmkzWlp4ekJVVkNPbXZ5bk5IaU1QLXQtNldQejhFb3JXZV9WMjdmMGVJaVJyZndGZy05THpzV2lSTXVIeC11cHdjR1FLMHJBcmRWcEJpWlJGamNZc1d3Rk1VLVlKcHQ3TW9WRVh0UFVZMTg2TkVoQVdtaWtyLXIzQ0FnTHBEVUpIX28wTDlxbE1MVnlsWEpkeHRWQ05zY2JiZWY5VXhJZUJBTUFlSFVCeHZ6Yk9scVo3N0FvUW1VVTllMEl0MlBDWjY0Y25GZ1lnNnM0MjZHZWotSUlybmFkR25OOUJ3LXdEQmtBLThmenlPVTFIZ09UWi1zWEYzOTVQZGN3SjlGY3hnUTBwakdZNHNWRWI3UlEtTnk5SHNId1paLUxDZTZrN1FJYzlfak5nWW9ZdzFaZkU?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-14T10:27:15.000Z",
-      "source": {
-        "name": "aawsat.com",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو - الشرق الأوسط",
-      "description": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو &nbsp;&nbsp; الشرق الأوسط",
-      "content": "الطاقة الشمسية صارت أكبر مصدر للكهرباء في الاتحاد الأوروبي خلال يونيو &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxQejdETzBoS01aekFUTGxTOHZiUFA5dEZEdjd0U1pBVmVtLV95QTUtRFczbkJBcVRleUN2OWYtR1g2MGVYYV96eWhaSVZLc0dCVVpUNjYtajNya2NwNHplM2pIWmVmMmM4RWdlNTI2X3JqOEFEZGdYVkc2SmgxU1loYmd5Sms1cEZlRnhqcWxPX19sd1dHVnJJZDFkbU5oVEFEN3pIU2VKVWd3YW5SeDJXVXF6eHQzVC1GdlhMR1dzQjlrcHA0WHdpYVRMVUpCOHBBbk5TRWhVbEUtMlhjVUhfSFRDUVIxWFdCNDIydWFvSjFQUU9hc1NoaW5Ja2d0Tno1QWFjeEpxU3ZWb1A5S3FEZmVZaUNoWkZpc3ZKT2pEbXBibmJpd005ck5uNTNPUFhoOWVIT1ZndmkzWlp4ekJVVkNPbXZ5bk5IaU1QLXQtNldQejhFb3JXZV9WMjdmMGVJaVJyZndGZy05THpzV2lSTXVIeC11cHdjR1FLMHJBcmRWcEJpWlJGamNZc1d3Rk1VLVlKcHQ3TW9WRVh0UFVZMTg2TkVoQVdtaWtyLXIzQ0FnTHBEVUpIX28wTDlxbE1MVnlsWEpkeHRWQ05zY2JiZWY5VXhJZUJBTUFlSFVCeHZ6Yk9scVo3N0FvUW1VVTllMEl0MlBDWjY0Y25GZ1lnNnM0MjZHZWotSUlybmFkR25OOUJ3LXdEQmtBLThmenlPVTFIZ09UWi1zWEYzOTVQZGN3SjlGY3hnUTBwakdZNHNWRWI3UlEtTnk5SHNId1paLUxDZTZrN1FJYzlfak5nWW9ZdzFaZkU?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Jackson residents concerned about proposed gas power plant - WJTV",
-      "description": "Jackson residents concerned about proposed gas power plant &nbsp;&nbsp; WJTV",
-      "content": "Jackson residents concerned about proposed gas power plant &nbsp;&nbsp; WJTV",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZHZ4T2VrM1h2NEZjRFdYbjgtejBPbTVJbnd1bXJiektMS2JGcjk5VmdBXzVPYVdlNXZJOUQ5Ylc2Q3RtdjdsTEVHRWI4UllRblIzWTdiX250bVZVNzNTN1ZSV1NMektoLXkyelJNSnI4bDRaOGdvYVJ4MTd3bnlQUXJNbXpsNm5HeDBidlBZdENyc2w3ZDU5SzVn0gGfAUFVX3lxTE5ZMjhwbHdmbHhrNU1IazFLa2lKT2RiSzVzTF82YVBqVHJRcGFybVE1emoxRmdJanZtVHo0cDdIUXlwOVZFdU5fUmZnSkx1TGFoZWw3SENObV9XWnJ6dTFYZ2xWcW5maFV3d2c2aGlaN2FXb2VWeng5S1p3LWZ3RVZLLUF4YmZjczlpSkJOX05kZko4UnJEMEJkckc5UlQ5Zw?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "source": {
-        "name": "WJTV",
-        "url": "https://www.wjtv.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Kershaw County approves 40-year tax deal for proposed natural gas power plant - WIS News 10",
-      "description": "Kershaw County approves 40-year tax deal for proposed natural gas power plant &nbsp;&nbsp; WIS News 10",
-      "content": "Kershaw County approves 40-year tax deal for proposed natural gas power plant &nbsp;&nbsp; WIS News 10",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQW9nTXFsUm1nZnFwai1hQ3V2bXd2SC1ZdzFOR3pUVjZ6VEpDV19ORUlMY3hyck4teXpHdW5JbVpUSDZ6YTBoRmg1bUhVbnNrSkZwZWtYYTNQZ0hXVm5pa0pHckEtd2QyRU9mX2ZxMjZ5aGhQTjVCbF9QbkFVU1BQNHBTWDhKNGpRWDJRREpCbkRPd3VGcDZ1UnU3RzFFeUJIZmZJbjJIV1c5LWVrWGVqckdhSXgxdjDSAcsBQVVfeXFMTjJtYlU0RXgwWnZPTTJxMnQxOGpuM0Zic2hIS0ZpWDc4QzRsZ01Wd0ZHN0hvbk9IYTM4VFFBcWxwekg1Q2hxXy1sZ2lSbVNkVThrZVMyT3NNUzhYbTcwcU9VSGNaMnozMHhhRlpJb3hrY1BscF9oNmlpeWNrYVlYcFdyY2h1N0d0a0hrYXV4d0xnM0Q1aXJMOGFFbWQ4T2oyS1ZxcDJRZUJscG5lUHY1d3VvZFI4alZnV01vcVJoaF9JQ3RIUjlIdGlVT0k?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "source": {
-        "name": "WIS News 10",
-        "url": "https://www.wistv.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     }
   ]
 }
