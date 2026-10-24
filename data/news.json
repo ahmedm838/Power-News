@@ -1,16 +1,31 @@
 {
-  "generatedAt": "2026-10-24T04:41:43.302Z",
+  "generatedAt": "2026-10-24T11:07:10.123Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "تركيب مثبت الضغط للمفاعل الأول بوزن 200 طن بمحطة الضبعة النووية",
+      "description": "أعلنت هيئة المحطات النووية لتوليد الكهرباء بدء أعمال تركيب مثبت الضغط بالدائرة الأولية للمفاعل بالوحدة النووية الأولى بمحطة الضبعة، بالتزامن …",
+      "content": "أعلنت هيئة المحطات النووية لتوليد الكهرباء بدء أعمال تركيب مثبت الضغط بالدائرة الأولية للمفاعل بالوحدة النووية الأولى بمحطة الضبعة، بالتزامن …",
+      "url": "https://www.egelectricgate.com/?p=10712",
+      "image": "",
+      "publishedAt": "2026-10-24T08:46:02.000Z",
+      "source": {
+        "name": "بوابة أخبار كهرباء مصر",
+        "url": "https://www.egelectricgate.com/"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egelectricgate.com"
+    },
     {
       "title": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief - EnergyNow.com",
       "description": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
       "content": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa19MNXhCbmV3NUpkb0VieGFCX3I3bXphNE41Yk02RDFJbGpSRWUwZjMxSXI2ZDRQcGFoWVdFMGVaY2Z0SXZBSDJSN2wzNnhaVlhaLXA3U2hIUTk4RnhQSDlQSTZYdGY0UG04MG9Nc2ZBMHpBMWRIQ3dOT1lsRHFKT2w4NDlDbzlfRnFITzMwcUdZRktoYmpGSEZKMXRpRllpS0Fz?oc=5",
       "image": "",
-      "publishedAt": "2026-10-23T21:06:21.000Z",
+      "publishedAt": "2026-10-23T21:01:00.000Z",
       "source": {
         "name": "EnergyNow.com",
         "url": "https://energynow.com"
@@ -33,21 +48,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "taqanews.com"
-    },
-    {
-      "title": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ - الشرق الأوسط",
-      "description": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
-      "content": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNR1lhMWdEZTUtY3V0ajRqcW9ZLUM4ZE9IcW94ejJGaTRxdU83U0hQSXA2XzhQOF9ncG04NFVtbTlXS2NydUlUUTlmUmxEUzNiUVZJSXFlMGh5WEc5czNIeFFVMjNhRnFYX2NvVFdJdjRxYzdqcmpiRXpyVnpGSnYxQkE2QlRXeEkyeGtVVEhVcXZaWnJsZGNXaHUzVUROemhfTlE2akc1MGk4Q1ZQcHFFSHM4NHZPSWViamZBZ0RjbU03UUZoSDdUNG5pUGsySGFhMjNkazljOG5tMnJBc0p4Z0tTaWs5aUNBbk5uMDk1M21zZWpmbFVTeHlFSnZsUlFQU3d2NDFxa1h0X2FZWkRfemtUMEtNT1h5SExVSDcyWW1rT2ZQNTNWLWVrR1dneV9zZWlCWDVPQjRzeFB0WU9qcTAtN3BmUUxjM0xFUE1mOFB4R0ZrMG13Tk1kd2hPeDBra3o4LWtZdHNOaGhIWFZVV2pXLVBwZVNjcG0wbmdaQlI3Y3lKRGpDMVFjMmVVLUZEQ2VQSzdGdFNHUUZRY25CNnlnOE9vM2dhNHlSZ1NadlRtLVJ1YkZjdmlUOHI0VE5ZMVpXc0dTV0JObkFxdDYtdXhFWFVsUThmN1k3Zl8ySVJ0UGFSNTVBb05Cb3l0b1NSZlFWQjRjZ056SVJqVjFNZ1J6THJUR1JkWWpYbE5QYWhRT004UVdHX0lUUnJORWRaSV9nSHVQZm5nemxrM1BtQjRMRmF3TWo1WEJ3QUozTUNaUkRISjFvekgwbEhJcXUzdWJmTFJiclAtMGVQeXlJVXJNT2E5TTRpMXhlR1Zid1VuWXBqa3piMkJoQnZXSG9TdkhSOVVmNTNYZGM0RU1lNVJ6YVF6U0pMQXItUXNhYkZHUWI5QzdwbTMzdmcybFRud0xEeTB1UnVfS1k?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-23T17:58:27.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     },
     {
       "title": "أنفراد.. غدًا.. أحمد مهينة في ضيافة «مصر الوسطى للكهرباء».. أول زيارة ميدانية لشركات التوزيع",
@@ -115,7 +115,7 @@
       "content": "Tanzania holds talks with Chinese firms seeking to invest in oil, natural gas exploration and renewable energy &nbsp;&nbsp; Daily News",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdmg2MG8tR0MxZktNVU5Sc2QxSHZ1di0xUnlCeVJTeEVOUUJBcVJtdXVHNXdYMzdXdFQ5WkpmMHdWLWdwRVg3dUt5WENKQTlhY3JJaE9hVWh6TjFrREpWcGRDUmFtWEtDTDBFbHE5OF91WjFFZUFoN1dFdldrd1ZPQjNFRmRocjU1dDI2aUxNZ2lzTVc0emlvZFhub081OU9Eck02UGdaa28yZ194VUxfYVlqM3J0SlhwMHhVNWg0NDdiNmNQZG5BUFlZNGtMY0k?oc=5",
       "image": "",
-      "publishedAt": "2026-10-23T14:24:50.000Z",
+      "publishedAt": "2026-10-23T14:07:43.000Z",
       "source": {
         "name": "Daily News",
         "url": "https://dailynews.co.tz"
@@ -2013,21 +2013,6 @@
       "preferredSite": "egelectricgate.com"
     },
     {
-      "title": "الطاقة المتجددة وانبعاثات النطاق الثاني: دليل عملي للشركات في الشرق الأوسط وشمال أفريقيا - سولارابيك",
-      "description": "الطاقة المتجددة وانبعاثات النطاق الثاني: دليل عملي للشركات في الشرق الأوسط وشمال أفريقيا &nbsp;&nbsp; سولارابيك",
-      "content": "الطاقة المتجددة وانبعاثات النطاق الثاني: دليل عملي للشركات في الشرق الأوسط وشمال أفريقيا &nbsp;&nbsp; سولارابيك",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOQlU1SklYSkJqSktsWVF3UU5Oc1J3Q3JBVUg4dG45a3RaMV9WcENubTdvQkxVVjZkX2ZMWEt5dTZZUDVGV0dDTnoxOUpaN2hZQmF1V2xEeVk4SDFCYm9La0w4T2p1cFhETXpsYUZwaGdvVldMNzlmNjNEdkFZTXducERQS0J1SjBMOWVrM0VHUlc3eWpoU21wRGhMTzF2N3pHWEpyTVBrNFFOdGxYcFNRQVlxbU9mWVhtSUFJSVlzemJQMGtQVkkzR0w1T3JJTE5uSEg4d0Z2SXY5ekI4X18wb0JuNThRTy1KVno0YnhDZVpQb3F4OXJ6cFRIT1NXZHVtX0dQVHF4TG5pSTQzd0ZpMFFILXRRU09ub3ptRWlQcTJZUUxpN1ZmRFQ0VVFrQ3dWaE02R0NTZ3FFX01ETXpteHFjS0ZUY3plZ0FYdTYtUmE4OEswSi1NOE5xUjZYSTFQbDI0aHFiOFpnS2JWeEdWcGlMLXNyNWtzUkpieQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-15T11:00:00.000Z",
-      "source": {
-        "name": "سولارابيك",
-        "url": "https://solarabic.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "«أكوا» لـ«الشرق الأوسط»: تخزين الكهرباء يواكب توسع الطاقة المتجددة في السعودية - شبكة تواصل الإخبارية",
       "description": "«أكوا» لـ«الشرق الأوسط»: تخزين الكهرباء يواكب توسع الطاقة المتجددة في السعودية &nbsp;&nbsp; شبكة تواصل الإخبارية",
       "content": "«أكوا» لـ«الشرق الأوسط»: تخزين الكهرباء يواكب توسع الطاقة المتجددة في السعودية &nbsp;&nbsp; شبكة تواصل الإخبارية",
@@ -2082,6 +2067,21 @@
       "source": {
         "name": "BusinessGreen",
         "url": "https://www.businessgreen.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "الطاقة المتجددة وانبعاثات النطاق الثاني: دليل عملي للشركات في الشرق الأوسط وشمال أفريقيا - سولارابيك",
+      "description": "الطاقة المتجددة وانبعاثات النطاق الثاني: دليل عملي للشركات في الشرق الأوسط وشمال أفريقيا &nbsp;&nbsp; سولارابيك",
+      "content": "الطاقة المتجددة وانبعاثات النطاق الثاني: دليل عملي للشركات في الشرق الأوسط وشمال أفريقيا &nbsp;&nbsp; سولارابيك",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOQlU1SklYSkJqSktsWVF3UU5Oc1J3Q3JBVUg4dG45a3RaMV9WcENubTdvQkxVVjZkX2ZMWEt5dTZZUDVGV0dDTnoxOUpaN2hZQmF1V2xEeVk4SDFCYm9La0w4T2p1cFhETXpsYUZwaGdvVldMNzlmNjNEdkFZTXducERQS0J1SjBMOWVrM0VHUlc3eWpoU21wRGhMTzF2N3pHWEpyTVBrNFFOdGxYcFNRQVlxbU9mWVhtSUFJSVlzemJQMGtQVkkzR0w1T3JJTE5uSEg4d0Z2SXY5ekI4X18wb0JuNThRTy1KVno0YnhDZVpQb3F4OXJ6cFRIT1NXZHVtX0dQVHF4TG5pSTQzd0ZpMFFILXRRU09ub3ptRWlQcTJZUUxpN1ZmRFQ0VVFrQ3dWaE02R0NTZ3FFX01ETXpteHFjS0ZUY3plZ0FYdTYtUmE4OEswSi1NOE5xUjZYSTFQbDI0aHFiOFpnS2JWeEdWcGlMLXNyNWtzUkpieQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "source": {
+        "name": "سولارابيك",
+        "url": "https://solarabic.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -2193,21 +2193,6 @@
       "preferredSite": "egelectricgate.com"
     },
     {
-      "title": "A strike on an oil refinery or American intelligence: what price will Ukraine pay - LIGA.net",
-      "description": "A strike on an oil refinery or American intelligence: what price will Ukraine pay &nbsp;&nbsp; LIGA.net",
-      "content": "A strike on an oil refinery or American intelligence: what price will Ukraine pay &nbsp;&nbsp; LIGA.net",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZTN3V2FEY1pCTWg2Tnd0OGN5M2ZBNHhIYlNVcVYtbEFVZThsWVZZbTItWjd6dG16dUw2SHdZN1h5SlBhMnlEc0xzeEtxLVJudnROZ2lXSGp6UWhiN0tieUZRdEJvR0F0UzJNeERpaENWUUR5eTFGUHp5RWFscUNVUWxKVTduTjJsQk54YnR0Qk5VSXBDNE01OEhqTk1rc19RYzlQR3Vn0gGrAUFVX3lxTE81Tmp6TnNmbTVlYzhrZkVSVTJqdGhldkpzMjZQTFJUeVAtQkFKWTJCQlRHZlFrcnlyOHVWRFM4aUozd2JqYjN0Z2lGOW1oQU00QnJCcEpXN1RQWVA2bDFyS0VwT2lPOVp0S1pITDVPRFp2Smc4dEFQeGZIV0RSU0k5MTQ3dDhOS2R1Mk0tUGszT3hSbnNrQTRtdmtkTzVGbGdWQXdyRVdIWWRsaw?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-14T13:00:23.000Z",
-      "source": {
-        "name": "LIGA.net",
-        "url": "https://www.liga.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
       "title": "WPC Energy Congress Panel Highlights Supply Security, Efficiency, Optimal Energy Mix - شبكة تواصل الإخبارية",
       "description": "WPC Energy Congress Panel Highlights Supply Security, Efficiency, Optimal Energy Mix &nbsp;&nbsp; شبكة تواصل الإخبارية",
       "content": "WPC Energy Congress Panel Highlights Supply Security, Efficiency, Optimal Energy Mix &nbsp;&nbsp; شبكة تواصل الإخبارية",
@@ -2266,6 +2251,21 @@
       "preferredSite": ""
     },
     {
+      "title": "A strike on an oil refinery or American intelligence: what price will Ukraine pay - LIGA.net",
+      "description": "A strike on an oil refinery or American intelligence: what price will Ukraine pay &nbsp;&nbsp; LIGA.net",
+      "content": "A strike on an oil refinery or American intelligence: what price will Ukraine pay &nbsp;&nbsp; LIGA.net",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZTN3V2FEY1pCTWg2Tnd0OGN5M2ZBNHhIYlNVcVYtbEFVZThsWVZZbTItWjd6dG16dUw2SHdZN1h5SlBhMnlEc0xzeEtxLVJudnROZ2lXSGp6UWhiN0tieUZRdEJvR0F0UzJNeERpaENWUUR5eTFGUHp5RWFscUNVUWxKVTduTjJsQk54YnR0Qk5VSXBDNE01OEhqTk1rc19RYzlQR3Vn0gGrAUFVX3lxTE81Tmp6TnNmbTVlYzhrZkVSVTJqdGhldkpzMjZQTFJUeVAtQkFKWTJCQlRHZlFrcnlyOHVWRFM4aUozd2JqYjN0Z2lGOW1oQU00QnJCcEpXN1RQWVA2bDFyS0VwT2lPOVp0S1pITDVPRFp2Smc4dEFQeGZIV0RSU0k5MTQ3dDhOS2R1Mk0tUGszT3hSbnNrQTRtdmtkTzVGbGdWQXdyRVdIWWRsaw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "source": {
+        "name": "LIGA.net",
+        "url": "https://www.liga.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
       "title": "ميتسوبيشي باور لـ مصراوي: معداتنا تولد 10% من قدرات شبكة الكهرباء المصرية - Masrawy",
       "description": "ميتسوبيشي باور لـ مصراوي: معداتنا تولد 10% من قدرات شبكة الكهرباء المصرية &nbsp;&nbsp; Masrawy",
       "content": "ميتسوبيشي باور لـ مصراوي: معداتنا تولد 10% من قدرات شبكة الكهرباء المصرية &nbsp;&nbsp; Masrawy",
@@ -2308,7 +2308,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "ognnews.com"
+      "preferredSite": "utilities-me.com"
     },
     {
       "title": "12 مديرًا عامًا يتنافسون على رئاسة 3 قطاعات تجارية مستحدثة بجنوب القاهرة للكهرباء",
@@ -3016,21 +3016,6 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production - Crude Oil Prices Today | OilPrice.com",
-      "description": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
-      "content": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORkJ1dE5rQ0ZJYXYyZFpWa0wtTXVvOGhNWVhXQ0gtY0pZc2R0OGRoS1d4YWc4djBIVUN5cW13NDA2cWhzNlQtV1JrV19Oczh2Wm8yS2NVRFVBa1EtVnlxOVo1ZE5MUXpGMDk3X3BOTFNFMzlLRmRWU05UYVJuaWlVVjRJVVdFN2dfWkRST3BXek1iVHB3MERYSkpxLTVEaktXcnYzMVBWaGhwNmZnNlVR0gG0AUFVX3lxTE5lRUt2LVdUWW44RHk4Mm8yUjJRSUdtU2JXT2lKT1Q1eDJYTlF5Ym9BUS1kWE9MMDd2T2NEVE1kYjV1cmJsZlBSdV9HSW1BT29lODlmTW1qeGEzQTlTMlBiWjNBWjk0WEozOF9oNU8wVk9Wc2hzakF6YVlvS3VvcDcyb3RVS3E0ZHk4R2hRMnZrbldWeExFNDhqbnV2Nmo1Skx5ZVpZYzNBUHhwbDdlU2tCdG1wdw?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-09T20:30:00.000Z",
-      "source": {
-        "name": "Crude Oil Prices Today | OilPrice.com",
-        "url": "https://oilprice.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Isaias halts Gulf oil production sites. Will Florida gas prices spike? - Florida Today",
       "description": "Isaias halts Gulf oil production sites. Will Florida gas prices spike? &nbsp;&nbsp; Florida Today",
       "content": "Isaias halts Gulf oil production sites. Will Florida gas prices spike? &nbsp;&nbsp; Florida Today",
@@ -3226,6 +3211,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production - Crude Oil Prices Today | OilPrice.com",
+      "description": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
+      "content": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORkJ1dE5rQ0ZJYXYyZFpWa0wtTXVvOGhNWVhXQ0gtY0pZc2R0OGRoS1d4YWc4djBIVUN5cW13NDA2cWhzNlQtV1JrV19Oczh2Wm8yS2NVRFVBa1EtVnlxOVo1ZE5MUXpGMDk3X3BOTFNFMzlLRmRWU05UYVJuaWlVVjRJVVdFN2dfWkRST3BXek1iVHB3MERYSkpxLTVEaktXcnYzMVBWaGhwNmZnNlVR0gG0AUFVX3lxTE5lRUt2LVdUWW44RHk4Mm8yUjJRSUdtU2JXT2lKT1Q1eDJYTlF5Ym9BUS1kWE9MMDd2T2NEVE1kYjV1cmJsZlBSdV9HSW1BT29lODlmTW1qeGEzQTlTMlBiWjNBWjk0WEozOF9oNU8wVk9Wc2hzakF6YVlvS3VvcDcyb3RVS3E0ZHk4R2hRMnZrbldWeExFNDhqbnV2Nmo1Skx5ZVpZYzNBUHhwbDdlU2tCdG1wdw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "source": {
+        "name": "Crude Oil Prices Today | OilPrice.com",
+        "url": "https://oilprice.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - The Straits Times",
       "description": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; The Straits Times",
       "content": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; The Straits Times",
@@ -3361,21 +3361,6 @@
       "preferredSite": ""
     },
     {
-      "title": "Gas prices face new threat as Hurricane Isaias forces widespread Gulf oil shutdowns - NBC News",
-      "description": "Gas prices face new threat as Hurricane Isaias forces widespread Gulf oil shutdowns &nbsp;&nbsp; NBC News",
-      "content": "Gas prices face new threat as Hurricane Isaias forces widespread Gulf oil shutdowns &nbsp;&nbsp; NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMS1qMmdPanZ2WHVXUk0zNDVZMUVRRjY4QURCaUROQ1JIOUZjOFRwMl9vY21lYS1aQ1g3ZlF5WjlJbGZVSklaRmhmQ0tQaTNvd3N4OXdmM045cFc1YnhQaUswVHhha3hBRUNQTXE5Y0dBMkdDU05zVlVQT3NGcFlEUl9TVWxrTUthbUFiX002NUcwOTQ0?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-08T18:33:35.000Z",
-      "source": {
-        "name": "NBC News",
-        "url": "https://www.nbcnews.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Hurricane Isaias Shuts Down Nearly Two-Thirds of Gulf Oil Production - gCaptain",
       "description": "Hurricane Isaias Shuts Down Nearly Two-Thirds of Gulf Oil Production &nbsp;&nbsp; gCaptain",
       "content": "Hurricane Isaias Shuts Down Nearly Two-Thirds of Gulf Oil Production &nbsp;&nbsp; gCaptain",
@@ -3460,6 +3445,21 @@
       "source": {
         "name": "African Manager",
         "url": "https://en.africanmanager.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Gas prices face new threat as Hurricane Isaias forces widespread Gulf oil shutdowns - NBC News",
+      "description": "Gas prices face new threat as Hurricane Isaias forces widespread Gulf oil shutdowns &nbsp;&nbsp; NBC News",
+      "content": "Gas prices face new threat as Hurricane Isaias forces widespread Gulf oil shutdowns &nbsp;&nbsp; NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMS1qMmdPanZ2WHVXUk0zNDVZMUVRRjY4QURCaUROQ1JIOUZjOFRwMl9vY21lYS1aQ1g3ZlF5WjlJbGZVSklaRmhmQ0tQaTNvd3N4OXdmM045cFc1YnhQaUswVHhha3hBRUNQTXE5Y0dBMkdDU05zVlVQT3NGcFlEUl9TVWxrTUthbUFiX002NUcwOTQ0?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "source": {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -3646,21 +3646,6 @@
       "preferredSite": ""
     },
     {
-      "title": "Ohio board hears concerns over proposed New Albany data center power plant - Spectrum News",
-      "description": "Ohio board hears concerns over proposed New Albany data center power plant &nbsp;&nbsp; Spectrum News",
-      "content": "Ohio board hears concerns over proposed New Albany data center power plant &nbsp;&nbsp; Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdnVYUy1vU19zUFRPVnBSUURwZlJybHIyMXhLaThpWUE1RXhzWDBtWFFIX21PR3ZIMEQ2WGFxSTlsZ2dnaWo5WkJWXzBHci11Sy1mVXZfTkpBc1J6R091QTBLSW5QSmZ0VmwtNG5LN0Y3VlhQVlBVTm16QmllYkV0UXdnME5SdTdaS0Y5a1Q1RndnY2p4T1g1WGdXVl9qb2NEX3BpSW83cGVPODRIc3htSmlGek00N0c5UGNkOGROOUpBOHpnZWZV?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-07T13:00:00.000Z",
-      "source": {
-        "name": "Spectrum News",
-        "url": "https://spectrumnews1.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Record Wind Output Can’t Break Britain’s Reliance on Costly Gas - Bloomberg.com",
       "description": "Record Wind Output Can’t Break Britain’s Reliance on Costly Gas &nbsp;&nbsp; Bloomberg.com",
       "content": "Record Wind Output Can’t Break Britain’s Reliance on Costly Gas &nbsp;&nbsp; Bloomberg.com",
@@ -3730,6 +3715,21 @@
       "source": {
         "name": "المصدر",
         "url": "https://www.almasdar.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Ohio board hears concerns over proposed New Albany data center power plant - Spectrum News",
+      "description": "Ohio board hears concerns over proposed New Albany data center power plant &nbsp;&nbsp; Spectrum News",
+      "content": "Ohio board hears concerns over proposed New Albany data center power plant &nbsp;&nbsp; Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdnVYUy1vU19zUFRPVnBSUURwZlJybHIyMXhLaThpWUE1RXhzWDBtWFFIX21PR3ZIMEQ2WGFxSTlsZ2dnaWo5WkJWXzBHci11Sy1mVXZfTkpBc1J6R091QTBLSW5QSmZ0VmwtNG5LN0Y3VlhQVlBVTm16QmllYkV0UXdnME5SdTdaS0Y5a1Q1RndnY2p4T1g1WGdXVl9qb2NEX3BpSW83cGVPODRIc3htSmlGek00N0c5UGNkOGROOUpBOHpnZWZV?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "source": {
+        "name": "Spectrum News",
+        "url": "https://spectrumnews1.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -6518,6 +6518,21 @@
       "preferredSite": "alghad.com"
     },
     {
+      "title": "Can solar power work underwater? Scientists test solar panels 10 metres beneath the sea - Euronews",
+      "description": "Can solar power work underwater? Scientists test solar panels 10 metres beneath the sea &nbsp;&nbsp; Euronews",
+      "content": "Can solar power work underwater? Scientists test solar panels 10 metres beneath the sea &nbsp;&nbsp; Euronews",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRWl2cFkyS2pYeGZGeWdnZVMtZlVKbDFwNkRUdWJKSTBWbHVyczNWWnRrTmV4ckJGcmgyM1ZtZ3dUbFN5c1RfZlhleTFBV3c3bWhzWGVRa0RaRENjX0ZkMTNqSUN5Qjh5cTJ6U1A0ejlHa1VuaHlVUEp5Z0tWN1FNTWgwQXdOdE9QOXkxNjc4UXI5emhBYnZvU21zellMQ09BeFNVakxUN1RkTV9NY0VMMTJSSjJ3Y01DZ1VHeUJPYw?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-27T07:00:00.000Z",
+      "source": {
+        "name": "Euronews",
+        "url": "https://www.euronews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
       "title": "شريف الخولي لـ CEO LEVEL PODCAST: أكتيس تعتزم ضخ 300 مليون دولار في الطاقة المتجددة بمصر بقدرات 500 ميجاوات فأكثر - جريدة المال",
       "description": "شريف الخولي لـ CEO LEVEL PODCAST: أكتيس تعتزم ضخ 300 مليون دولار في الطاقة المتجددة بمصر بقدرات 500 ميجاوات فأكثر &nbsp;&nbsp; جريدة المال",
       "content": "شريف الخولي لـ CEO LEVEL PODCAST: أكتيس تعتزم ضخ 300 مليون دولار في الطاقة المتجددة بمصر بقدرات 500 ميجاوات فأكثر &nbsp;&nbsp; جريدة المال",
@@ -7172,6 +7187,21 @@
       "source": {
         "name": "IDNFinancials",
         "url": "https://www.idnfinancials.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ - الشرق الأوسط",
+      "description": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
+      "content": "كيف تستفيد مصر من التوسع في مشاريع الكهرباء والمياه بـ«حوض النيل»؟ &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNR1lhMWdEZTUtY3V0ajRqcW9ZLUM4ZE9IcW94ejJGaTRxdU83U0hQSXA2XzhQOF9ncG04NFVtbTlXS2NydUlUUTlmUmxEUzNiUVZJSXFlMGh5WEc5czNIeFFVMjNhRnFYX2NvVFdJdjRxYzdqcmpiRXpyVnpGSnYxQkE2QlRXeEkyeGtVVEhVcXZaWnJsZGNXaHUzVUROemhfTlE2akc1MGk4Q1ZQcHFFSHM4NHZPSWViamZBZ0RjbU03UUZoSDdUNG5pUGsySGFhMjNkazljOG5tMnJBc0p4Z0tTaWs5aUNBbk5uMDk1M21zZWpmbFVTeHlFSnZsUlFQU3d2NDFxa1h0X2FZWkRfemtUMEtNT1h5SExVSDcyWW1rT2ZQNTNWLWVrR1dneV9zZWlCWDVPQjRzeFB0WU9qcTAtN3BmUUxjM0xFUE1mOFB4R0ZrMG13Tk1kd2hPeDBra3o4LWtZdHNOaGhIWFZVV2pXLVBwZVNjcG0wbmdaQlI3Y3lKRGpDMVFjMmVVLUZEQ2VQSzdGdFNHUUZRY25CNnlnOE9vM2dhNHlSZ1NadlRtLVJ1YkZjdmlUOHI0VE5ZMVpXc0dTV0JObkFxdDYtdXhFWFVsUThmN1k3Zl8ySVJ0UGFSNTVBb05Cb3l0b1NSZlFWQjRjZ056SVJqVjFNZ1J6THJUR1JkWWpYbE5QYWhRT004UVdHX0lUUnJORWRaSV9nSHVQZm5nemxrM1BtQjRMRmF3TWo1WEJ3QUozTUNaUkRISjFvekgwbEhJcXUzdWJmTFJiclAtMGVQeXlJVXJNT2E5TTRpMXhlR1Zid1VuWXBqa3piMkJoQnZXSG9TdkhSOVVmNTNYZGM0RU1lNVJ6YVF6U0pMQXItUXNhYkZHUWI5QzdwbTMzdmcybFRud0xEeTB1UnVfS1k?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-25T07:00:00.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -12173,7 +12203,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "ognnews.com"
+      "preferredSite": "utilities-me.com"
     },
     {
       "title": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى - الشرق الأوسط",
@@ -13341,7 +13371,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "ognnews.com"
+      "preferredSite": "utilities-me.com"
     },
     {
       "title": "الخليج يسبق الذكاء الاصطناعي بطلب توربينات الغاز لتوليد الكهرباء - aljazeera.net",
@@ -15155,36 +15185,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
-    },
-    {
-      "title": "انقطاع الكهرباء عن عاصمة مالطا مع ارتفاع درجات الحرارة - reuters.com",
-      "description": "انقطاع الكهرباء عن عاصمة مالطا مع ارتفاع درجات الحرارة &nbsp;&nbsp; reuters.com",
-      "content": "انقطاع الكهرباء عن عاصمة مالطا مع ارتفاع درجات الحرارة &nbsp;&nbsp; reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcWhHbXhGNGdwVVdWYmdabFhuM0lJT3pDdE5ITm1NM0pUQ18yM1B3LXd0dmVNRGZiZW84S0V4SzVRdnNlZVhxTkNnZFZFYmNQSDBCVVBlcnYwcDk3d1JkU3JnNmVUaGJxUEtScE9fUVFHeHEzRm5oWld2UFdCWWtrZjd3?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "source": {
-        "name": "reuters.com",
-        "url": "https://www.reuters.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "كيف دعمت مصر استعادة الكهرباء في ليبيا؟ - الشرق الأوسط",
-      "description": "كيف دعمت مصر استعادة الكهرباء في ليبيا؟ &nbsp;&nbsp; الشرق الأوسط",
-      "content": "كيف دعمت مصر استعادة الكهرباء في ليبيا؟ &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQV09hM1Nlc0lFUDB1MS0zRi0zZUFESDFjRjJsLXVWbjZPZl9QMmc0aHU1bXRodzMzZzVIY3BBbmQxTzVoX1pxM29VcWVUMDZtTWM5OGtVUFk0N1VGM1BfNUx3LUs3ZWplTjcxSTJFWkZmS1JFQmZVWWp4RGpyMHJQUmNUVHpiV3g3X19UWlFaclM2RS1JUWx3emhSejQ3V1JXVm1ZVUhwNVJKVDdlcUpGSXdIQmpoT3YwRGI4bTFycy03RXpBY1A0SnFPQTRqMXdQb1dJY1BpNzk0WTBYWV9lQTFDMHJremJsOHNieFhTZlpPc0t6WlkwWnNOQUJSdU9lRjhQOEZRcTh1cXplWnRkX3FBWTRlaW9WWkRvTXRzTlFsNklmajY1THpOaFNCcl9pTTFvQ3VXZEpWV0F3TFN5RW1qRDBWOWRPbTRzNGVvUUVVNEl0MF9lcGpfdXFPU1E2MDhINkZPMV9TTHAwTlNUYWZKMGlVd3owd0lmSHZYWHJuMjdZVDVtdUJrTEt5N3hvMmxGR0JCaWRILTFURHVPckZVWk5Hc21QTUZTMUxwRHVVRWdDQklVT2twWTdla1VSUjBPUlZ5QlVCTG13VjF4OEJHSFpCb0FiZGtyeTJFMmJqRVJVRzF2TG9jaUtWS0JqemRIRnpsRXBVWlUyNDZLTlF6SEc3d05xUG0wajNR?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-21T13:23:15.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     }
   ]
 }
