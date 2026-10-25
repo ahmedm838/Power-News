@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-25T16:27:39.421Z",
+  "generatedAt": "2026-10-25T20:54:25.194Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Govt eases rules for solar power - Daily Sun",
+      "description": "Govt eases rules for solar power &nbsp;&nbsp; Daily Sun",
+      "content": "Govt eases rules for solar power &nbsp;&nbsp; Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52aU5JZXQybFpHdWw3Z3h5Y0dTWUtyclVaajFYcnBzbnhlbkdsY3RHY2M5Qmh2cHh4VlJFUm5ralBsZnh5ZkdoU2ZLVEpmOFRjeWJaMkhR?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-25T20:09:39.000Z",
+      "source": {
+        "name": "Daily Sun",
+        "url": "https://www.daily-sun.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
     {
       "title": "Saudi Energy Announces Electricity Service Tariff Adjustment from January 1, 2027 - صحيفة مال",
       "description": "Saudi Energy Announces Electricity Service Tariff Adjustment from January 1, 2027 &nbsp;&nbsp; صحيفة مال",
@@ -17,7 +32,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Hit by El-nino, Gujarat ready to trade electricity or money for water: Union Minister CR Patil - The Indian Express",
@@ -50,6 +65,21 @@
       "preferredSite": "egelectricgate.com"
     },
     {
+      "title": "Saudi Energy Announces Electricity Service Tariff Adjustment from January 1, 2027 - وكالة الأنباء السعودية",
+      "description": "Saudi Energy Announces Electricity Service Tariff Adjustment from January 1, 2027 &nbsp;&nbsp; وكالة الأنباء السعودية",
+      "content": "Saudi Energy Announces Electricity Service Tariff Adjustment from January 1, 2027 &nbsp;&nbsp; وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5wbl9Ya2NIeUNwcTZ0ekVSdFQ1akxReDN6Z1A2VV9ESDNLdlR4ck1pZjBJeDV6ckM2R0pfcnp3aThXWkF5WVE?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-25T13:05:33.000Z",
+      "source": {
+        "name": "وكالة الأنباء السعودية",
+        "url": "https://www.spa.gov.sa"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "powernews.cc"
+    },
+    {
       "title": "Saudi Energy Announces Electricity Service Tariff Adjustment from January 1, 2027 - شبكة تواصل الإخبارية",
       "description": "Saudi Energy Announces Electricity Service Tariff Adjustment from January 1, 2027 &nbsp;&nbsp; شبكة تواصل الإخبارية",
       "content": "Saudi Energy Announces Electricity Service Tariff Adjustment from January 1, 2027 &nbsp;&nbsp; شبكة تواصل الإخبارية",
@@ -62,7 +92,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Gujarat offers electricity or cash in exchange for water from neighbouring states amid shortage - CNBC TV18",
@@ -92,7 +122,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Why Is the Saudi “East-West” Oil Pipeline Considered a Strategic Target for Sana’a? - الخبر اليمني",
@@ -497,7 +527,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "utilities-me.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Petronet LNG, Gruner Renewable Energy to invest ₹1,200 crore in 10 bio-gas plants - CNBC TV18",
@@ -1020,7 +1050,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Cumberland supervisors approve massive natural gas power plant - WWBT",
@@ -1530,7 +1560,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "utilities-me.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro - EnergyNow.com",
@@ -1680,7 +1710,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Tesla's Virtual Power Plants Are Doing A Lot More Than Generating Electricity - SlashGear",
@@ -1823,7 +1853,7 @@
       "content": "Data centre plan in Cardiff could be powered by gas power plant &nbsp;&nbsp; BBC",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Wakx0NTJ5T0dBeFIwS1ZjUmNIU09HS0pFNVRiSDZ3WmY5ZzREdmlEVGh6ek41ejZqRTV4MkxpZUZsVVpCMm1nWEx3Zzg1ZzJhQUl1NUw3Sl9ZUGc?oc=5",
       "image": "",
-      "publishedAt": "2026-10-17T06:04:35.000Z",
+      "publishedAt": "2026-10-17T07:00:00.000Z",
       "source": {
         "name": "BBC",
         "url": "https://www.bbc.com"
@@ -1905,7 +1935,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "Equinor rejects extending gas power plant operations at Melkøya, says state must pay - EnergyWatch",
@@ -2028,14 +2058,14 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "وزير: أزمة الشرق الأوسط ترفع أسعار الوقود وتزيد الرسوم الإضافية للكهرباء في ماليزيا - bernama",
-      "description": "وزير: أزمة الشرق الأوسط ترفع أسعار الوقود وتزيد الرسوم الإضافية للكهرباء في ماليزيا &nbsp;&nbsp; bernama",
-      "content": "وزير: أزمة الشرق الأوسط ترفع أسعار الوقود وتزيد الرسوم الإضافية للكهرباء في ماليزيا &nbsp;&nbsp; bernama",
+      "title": "وزير: أزمة الشرق الأوسط ترفع أسعار الوقود وتزيد الرسوم الإضافية للكهرباء في ماليزيا - Bernama",
+      "description": "وزير: أزمة الشرق الأوسط ترفع أسعار الوقود وتزيد الرسوم الإضافية للكهرباء في ماليزيا &nbsp;&nbsp; Bernama",
+      "content": "وزير: أزمة الشرق الأوسط ترفع أسعار الوقود وتزيد الرسوم الإضافية للكهرباء في ماليزيا &nbsp;&nbsp; Bernama",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BSFJHa2VVMTgxSXlSaHJ3VTNXaEpwSlFFNTBxczQwRVBNRDBfSGNocGlxZVN1bmRRdldGVWhPcF9ISUt3RVhJZTBzRUdOZHdsdlRNUQ?oc=5",
       "image": "",
       "publishedAt": "2026-10-15T13:58:17.000Z",
       "source": {
-        "name": "bernama",
+        "name": "Bernama",
         "url": "https://bernama.com"
       },
       "provider": "Scheduled Google News index",
@@ -2473,7 +2503,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "utilities-me.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "12 مديرًا عامًا يتنافسون على رئاسة 3 قطاعات تجارية مستحدثة بجنوب القاهرة للكهرباء",
@@ -2818,7 +2848,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "بطاريات التخزين تنافس الغاز في تكلفة الكهرباء.. الشرق الأوسط وأفريقيا بالصدارة - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -3088,7 +3118,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Wind power could save Türkiye $4 billion a year in gas imports, industry group says - Hürriyet Daily News",
@@ -3193,7 +3223,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "Isaias halts Gulf oil production sites. Will Florida gas prices spike? - Florida Today",
@@ -3388,7 +3418,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production - Crude Oil Prices Today | OilPrice.com",
@@ -3463,7 +3493,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "How to get the best power deal and save money on electricity and gas bills - Irish Examiner",
@@ -3658,7 +3688,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "EPA Repeals Power Plant Carbon Standards - Environmental and Energy Law Program – Harvard Law School",
@@ -4033,7 +4063,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "US gas power plant plans rise to 60.4 GW — Electrek - UA.NEWS",
@@ -4318,7 +4348,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "تحول الطاقة المتجددة في الشرق الأوسط - السياسة",
@@ -5141,7 +5171,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "الحوثيون يستهدفون محطة تزوّد المسجد النبوي بالكهرباء - الشرق الأوسط",
@@ -5186,7 +5216,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "بطاريات تخزين الكهرباء في مصر.. خريطة المشروعات والتصنيع بحلول 2030 - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -5216,7 +5246,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية - اليوم السابع",
@@ -5246,7 +5276,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "قتلى وجرحى في هجوم على سيارة في ريف حمص، وانقطاع التيار الكهربائي عن ريف دمشق بعد استهداف خط الغاز المغذي لمحطات توليد الكهرباء - BBC",
@@ -5291,7 +5321,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "شحنة بطاريات ضخمة تتحرك باتجاه مصر - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -5602,7 +5632,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future - najah.edu",
@@ -5632,7 +5662,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Serbia, SOCAR Sign Deal to Build Gas Power Plant in Niš - Caspian Post",
@@ -5917,7 +5947,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Saudi Energy Minister and Australian Counterpart Discuss Climate Action and Renewable Energy Initiatives - صحيفة مال",
@@ -5932,7 +5962,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "خطط بناء أكبر مصفاة نفط في أفريقيا تصطدم بحكم قضائي - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -5947,7 +5977,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "youm7.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Australia could run its electricity grid without fossil gas at similar cost; researchers say models under - The Times of India",
@@ -6175,21 +6205,6 @@
       "preferredSite": ""
     },
     {
-      "title": "الشركات الأوروبية تدعم تعزيز الاستثمار في الطاقة المتجددة - الشرق الأوسط",
-      "description": "الشركات الأوروبية تدعم تعزيز الاستثمار في الطاقة المتجددة &nbsp;&nbsp; الشرق الأوسط",
-      "content": "الشركات الأوروبية تدعم تعزيز الاستثمار في الطاقة المتجددة &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxQN0h6RFFTUFpuUVVCU3pDb09hVnBoYU81eVdJdW9LVGFJOGdLMktXenhVSEJwZDVKYW1ZYkR0b2NJVUZwOXl4eUVwZlJlLTNUbWdLNWN4aGl5ck9FMlFZcFJtak1RNzZyN2w2cEpJSWg0Q2N2eFNiQnNnMWQxVmlFencwNnZkclFhM3Ffa2V6WVpHa2pXeERSbHdkSVBuLWk4R1dPb2M4bm5fb2FxUkZZZ0NGV3dJU1hJTmVDdFFSSVZ2cmFiMk84X05QNDNiTmMzU1B4b2h0aUg2U2gteVJvUVlMZGh6Y2tFUFRCR3VDUFlibmhlVTU1V2poNjBXS05HMUIxTEJIQTNJNmhhdFJZMGwwcjN0NEhESFlwbG5IYzJINHNpRkd6dFRLSjJ2RVpUYzNwUklwbFRDSU1Jb0swbkE5U1U3d2lfZjRMSkFTZlh1Z2NmMTFFQXlpQ05sNmZWRjNSTENmR1piYXA0ZWlJSWtPWS1kT0RvNlBzalRCQzlaQkwzVkhsTHpkdTlRMnd5ZnlLYmhheVRSemZKSzhvbFNFMm9VbkpBMi1XSXJhbFVKRXprLV84eFg0V1psNWsxNFcyRXFBM0RBVUdlTTJmdHBIajA1TTg2dHhsak91S3g2UmFTUHo0ZTJUWTU5OExnVVMxSV80RHhIRDVlUTVsOGVvRDN1YXpjZld0M1VqT3BweW00TkMweHc2SQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-28T10:12:42.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "” نقل الكهرباء ” توقع عقدين مع السويدي إلكتريك لتنفيذ أعمال ربط محطة الضبعة النووية بالشبكة القومية",
       "description": "وفي ضوء الرؤية الاستراتيجية للدولة المصرية وتسارع وتيرة تنفيذ مشروع محطة الضبعة النووية لتوليد الكهرباء باعتباره أحد المشروعات القومية الكبرى …",
       "content": "وفي ضوء الرؤية الاستراتيجية للدولة المصرية وتسارع وتيرة تنفيذ مشروع محطة الضبعة النووية لتوليد الكهرباء باعتباره أحد المشروعات القومية الكبرى …",
@@ -6229,6 +6244,21 @@
       "source": {
         "name": "trendingtopics.eu",
         "url": "https://www.trendingtopics.eu"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "الشركات الأوروبية تدعم تعزيز الاستثمار في الطاقة المتجددة - الشرق الأوسط",
+      "description": "الشركات الأوروبية تدعم تعزيز الاستثمار في الطاقة المتجددة &nbsp;&nbsp; الشرق الأوسط",
+      "content": "الشركات الأوروبية تدعم تعزيز الاستثمار في الطاقة المتجددة &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxQN0h6RFFTUFpuUVVCU3pDb09hVnBoYU81eVdJdW9LVGFJOGdLMktXenhVSEJwZDVKYW1ZYkR0b2NJVUZwOXl4eUVwZlJlLTNUbWdLNWN4aGl5ck9FMlFZcFJtak1RNzZyN2w2cEpJSWg0Q2N2eFNiQnNnMWQxVmlFencwNnZkclFhM3Ffa2V6WVpHa2pXeERSbHdkSVBuLWk4R1dPb2M4bm5fb2FxUkZZZ0NGV3dJU1hJTmVDdFFSSVZ2cmFiMk84X05QNDNiTmMzU1B4b2h0aUg2U2gteVJvUVlMZGh6Y2tFUFRCR3VDUFlibmhlVTU1V2poNjBXS05HMUIxTEJIQTNJNmhhdFJZMGwwcjN0NEhESFlwbG5IYzJINHNpRkd6dFRLSjJ2RVpUYzNwUklwbFRDSU1Jb0swbkE5U1U3d2lfZjRMSkFTZlh1Z2NmMTFFQXlpQ05sNmZWRjNSTENmR1piYXA0ZWlJSWtPWS1kT0RvNlBzalRCQzlaQkwzVkhsTHpkdTlRMnd5ZnlLYmhheVRSemZKSzhvbFNFMm9VbkpBMi1XSXJhbFVKRXprLV84eFg0V1psNWsxNFcyRXFBM0RBVUdlTTJmdHBIajA1TTg2dHhsak91S3g2UmFTUHo0ZTJUWTU5OExnVVMxSV80RHhIRDVlUTVsOGVvRDN1YXpjZld0M1VqT3BweW00TkMweHc2SQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -7100,7 +7130,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "انقطاع الكهرباء عن 70 ألف شخص شمال شرق أمريكا بسبب عاصفة - عكاظ",
@@ -7953,7 +7983,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Moscow oil refinery shutdown and deaths in Russian attacks o - alquds.com",
@@ -9402,7 +9432,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "EPA repeals power plant GHG rules, clearing path for new gas-fired generation - ogj.com",
@@ -11423,7 +11453,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "قطاع الشاحنات السعودي يتجه من الديزل إلى الكهرباء والقيادة الذاتية - الشرق الأوسط",
@@ -12878,7 +12908,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "MHIET Establishes Hydrogen Co-Firing Specifications for the KU Series Gas Engine for Power Generation-- Commencing Proposal Activities for Hydrogen-Capable Solutions Supporting Energy Transition - Mitsubishi Heavy Industries, Ltd.",
@@ -12908,7 +12938,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة - aawsat.com",
@@ -13581,7 +13611,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "utilities-me.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "الخليج يسبق الذكاء الاصطناعي بطلب توربينات الغاز لتوليد الكهرباء - aljazeera.net",
@@ -14164,7 +14194,7 @@
         "qatar",
         "turkey"
       ],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Energy affordability misery: electricity and natural gas, inflation and volatility - Center of the American Experiment",
@@ -14314,7 +14344,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "مصر.. انتقادات لزيادة أسعار الكهرباء ونواب يطالبون مراجعة القرار - arabic.cnn.com",
@@ -14914,7 +14944,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "$100B data center, gas-fired power plant to be developed around Paducah DOE site - WKMS",
@@ -15155,36 +15185,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
-    },
-    {
-      "title": "ما وراء الشبكات والأنابيب: الواقع الخفي للوصول إلى خدمات الكهرباء والمياه في منطقة الشرق الأوسط وشمال أفريقيا - World Bank Blogs",
-      "description": "ما وراء الشبكات والأنابيب: الواقع الخفي للوصول إلى خدمات الكهرباء والمياه في منطقة الشرق الأوسط وشمال أفريقيا &nbsp;&nbsp; World Bank Blogs",
-      "content": "ما وراء الشبكات والأنابيب: الواقع الخفي للوصول إلى خدمات الكهرباء والمياه في منطقة الشرق الأوسط وشمال أفريقيا &nbsp;&nbsp; World Bank Blogs",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXhwMmhMYlJ4OTV1VEtkTy1VUGdWLVBjc041S2IxdnNGVTBxd0pxdDUzUmpEazBYbzJnRmh1bW9ic3hpeVo5Vks5anpzR3ktZy12RzVyclJ5bUx6LTVDRWNldnQ4a25Pbm04RDFmTjVrRmNVNk5zYndYYWl1NXprN0Uwbm0yMlhuN2o5bC1OcHd3SGJRWWxMdGJaNVVLWWVOVnluaUJDMHo2QQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-27T07:00:00.000Z",
-      "source": {
-        "name": "World Bank Blogs",
-        "url": "https://blogs.worldbank.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Yemen Electricity Ministry Confirms Proposed Tariff Hikes Revealed by South24 - مركز سوث24",
-      "description": "Yemen Electricity Ministry Confirms Proposed Tariff Hikes Revealed by South24 &nbsp;&nbsp; مركز سوث24",
-      "content": "Yemen Electricity Ministry Confirms Proposed Tariff Hikes Revealed by South24 &nbsp;&nbsp; مركز سوث24",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80WVRHYVpGWmoxM3NYMm90N1lCY1FsZ0VVN0tWczBDX3Q4LXFNUUlVNUJmM1p5ZlFaOW9TS1l6RUZNZWNVUVhYWFZlZWtSNTIzcEhhTw?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-26T07:00:00.000Z",
-      "source": {
-        "name": "مركز سوث24",
-        "url": "https://south24.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "algerie-eco.com"
     }
   ]
 }
