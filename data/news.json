@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-10-24T20:53:37.951Z",
+  "generatedAt": "2026-10-25T04:47:08.937Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Why Is the Saudi “East-West” Oil Pipeline Considered a Strategic Target for Sana’a? - الخبر اليمني",
+      "description": "Why Is the Saudi “East-West” Oil Pipeline Considered a Strategic Target for Sana’a? &nbsp;&nbsp; الخبر اليمني",
+      "content": "Why Is the Saudi “East-West” Oil Pipeline Considered a Strategic Target for Sana’a? &nbsp;&nbsp; الخبر اليمني",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LMjNVNmZsblJxQnozN2NJNmNTcTdlNm9kNkhVT21GUzZiTnFpeVlpSm54WDB3cEZvNTVpeEZhcEpwQVJjcTFmMWNucTJTcmY0cHRwamw0dWhhLUE?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-25T00:06:13.000Z",
+      "source": {
+        "name": "الخبر اليمني",
+        "url": "https://alkhabaralyemeni.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
+    {
+      "title": "Sana’a forces target it again… The importance of the “Rabigh” oil refinery - الخبر اليمني",
+      "description": "Sana’a forces target it again… The importance of the “Rabigh” oil refinery &nbsp;&nbsp; الخبر اليمني",
+      "content": "Sana’a forces target it again… The importance of the “Rabigh” oil refinery &nbsp;&nbsp; الخبر اليمني",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6VjVib1lPQnpFdkxDbXpNR0QtcHNQdlVRanZVcV85cVJUc0FKQmxSSGJTMkw0cUxGeUU0Z1F0Y2JGdGtQTVprZWVjTjdHempkU0tJSk1TNW1MMnM?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-24T22:03:03.000Z",
+      "source": {
+        "name": "الخبر اليمني",
+        "url": "https://alkhabaralyemeni.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
     {
       "title": "Dholpur Gas Power Plant Exposes Rajasthan’s Costly Power Gap - Urban Acres",
       "description": "Dholpur Gas Power Plant Exposes Rajasthan’s Costly Power Gap &nbsp;&nbsp; Urban Acres",
@@ -63,21 +93,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "egelectricgate.com"
-    },
-    {
-      "title": "استهداف حوثي لكهرباء المسجد النبوي - الشرق الأوسط",
-      "description": "استهداف حوثي لكهرباء المسجد النبوي &nbsp;&nbsp; الشرق الأوسط",
-      "content": "استهداف حوثي لكهرباء المسجد النبوي &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOeEtWWTQxNHJHTkI3S1RXRldYaFEwOVRWSndSLW9malhmT2lXNGtzTVJhU25VUEh5cWhCR24yZlhwWkw4a014UzdublE4bzgtRUR2VVhkMDNuMTg4SnQ0Y2tJeDhZVEsyMG9fbHNIemZIaHVmRXhKYm9FT1ZiYVVnLTV2UUUxYlBHQ0VVYWF3c2RXVHZPd3pKejYyZHd5Y0ZaU0xSVHZBQzdHa05RQkgzdHVBN0cyUWlRRmVOS2ZFaHViQlVmZHJUZ2U2UnVyeFdZaWsxUGdHRWR3NnJVUjdRbDNqMXUyR0I0dnpTTEdVdWdzLV9mQ1M2T3JPWENtYkdlNXgxZGN5ZnFERHlqZmFLVHhNWFVOa2xaVm1JNUNmNmQ4b0NtLTN4bFlLZmtlTGpCZmI3VVBCRFRUVUVMSEFvQ3dwQjBKa2U5bGRONzhXMGxiTXlNU3dETEZkUzNZYUJHUElzd0pTSVdJNU50YmU2a0RoTGlQWHFGalJlUUw5dmNBajI5anZEYkZadDhPRFNVdHZSRExRUHR6TG5UVENDX0pvYVAxUnMwVGsxY3F5emlxQ2hfZmpHaWdZcFJqMno2UFNrRlYwRTdTUQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-24T10:26:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     },
     {
       "title": "تركيب مثبت الضغط للمفاعل الأول بوزن 200 طن بمحطة الضبعة النووية",
@@ -362,7 +377,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "Renaissance Targets 500,000bpd Oil Production By 2030, Prioritises Gas Development - Majorwaves Energy Report",
@@ -407,7 +422,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "mees.com"
     },
     {
       "title": "Petronet LNG, Gruner Renewable Energy to invest ₹1,200 crore in 10 bio-gas plants - CNBC TV18",
@@ -1440,7 +1455,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "mees.com"
     },
     {
       "title": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro - EnergyNow.com",
@@ -2383,7 +2398,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "utilities-me.com"
+      "preferredSite": "mees.com"
     },
     {
       "title": "12 مديرًا عامًا يتنافسون على رئاسة 3 قطاعات تجارية مستحدثة بجنوب القاهرة للكهرباء",
@@ -2986,6 +3001,21 @@
       "preferredSite": "amwalalghad.com"
     },
     {
+      "title": "For the Fifth Time, Settlers Cut Electricity to Al-Masoudiya Area near Nablus - شبكة يافا الإخبارية",
+      "description": "For the Fifth Time, Settlers Cut Electricity to Al-Masoudiya Area near Nablus &nbsp;&nbsp; شبكة يافا الإخبارية",
+      "content": "For the Fifth Time, Settlers Cut Electricity to Al-Masoudiya Area near Nablus &nbsp;&nbsp; شبكة يافا الإخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qUllIb21xUDR1M2dTSVk0cTNwajFoNWY2V1A4VF9vQ0h3Z2N1S05RQXk3ekpFM2w2R2E5aTNsc1dUYlRiX2xhWnlwSjYtTjJ6?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T06:08:26.000Z",
+      "source": {
+        "name": "شبكة يافا الإخبارية",
+        "url": "https://yaffaps.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
+    {
       "title": "Wind power could save Türkiye $4 billion a year in gas imports, industry group says - Hürriyet Daily News",
       "description": "Wind power could save Türkiye $4 billion a year in gas imports, industry group says &nbsp;&nbsp; Hürriyet Daily News",
       "content": "Wind power could save Türkiye $4 billion a year in gas imports, industry group says &nbsp;&nbsp; Hürriyet Daily News",
@@ -3211,21 +3241,6 @@
       "preferredSite": ""
     },
     {
-      "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - Reuters",
-      "description": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; Reuters",
-      "content": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdFAxYTlxLTNCZ3c2bHMya2hWU2VvRUNTQ1I3YllKaGtoRERCSGFwaGFsRDlpQUVsdENqMnloSVpIQlFLZzk0N0VLNEdRSDExR2ZDaU5YOFQ1ekl4Y0tHb2VyUEVGOHVvam9KeTFHU1ZabmxQVjJMRC1jVmZFOVdtdWFuM3p6VHhjU2VqOFl3MXdBUG12OXU4RlMzV0ZNZ3RaSGpidld3cDBzR2VIcjNQOUNRbHdObV9K?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-09T11:40:04.000Z",
-      "source": {
-        "name": "Reuters",
-        "url": "https://www.reuters.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
       "title": "Hurricane Isaias could drive up gas prices as oil production shuts down in the Gulf - kens5.com",
       "description": "Hurricane Isaias could drive up gas prices as oil production shuts down in the Gulf &nbsp;&nbsp; kens5.com",
       "content": "Hurricane Isaias could drive up gas prices as oil production shuts down in the Gulf &nbsp;&nbsp; kens5.com",
@@ -3284,6 +3299,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - Reuters",
+      "description": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; Reuters",
+      "content": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdFAxYTlxLTNCZ3c2bHMya2hWU2VvRUNTQ1I3YllKaGtoRERCSGFwaGFsRDlpQUVsdENqMnloSVpIQlFLZzk0N0VLNEdRSDExR2ZDaU5YOFQ1ekl4Y0tHb2VyUEVGOHVvam9KeTFHU1ZabmxQVjJMRC1jVmZFOVdtdWFuM3p6VHhjU2VqOFl3MXdBUG12OXU4RlMzV0ZNZ3RaSGpidld3cDBzR2VIcjNQOUNRbHdObV9K?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production - Crude Oil Prices Today | OilPrice.com",
@@ -4630,6 +4660,21 @@
       "source": {
         "name": "NationofChange",
         "url": "https://www.nationofchange.org"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "استهداف حوثي لكهرباء المسجد النبوي - الشرق الأوسط",
+      "description": "استهداف حوثي لكهرباء المسجد النبوي &nbsp;&nbsp; الشرق الأوسط",
+      "content": "استهداف حوثي لكهرباء المسجد النبوي &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOeEtWWTQxNHJHTkI3S1RXRldYaFEwOVRWSndSLW9malhmT2lXNGtzTVJhU25VUEh5cWhCR24yZlhwWkw4a014UzdublE4bzgtRUR2VVhkMDNuMTg4SnQ0Y2tJeDhZVEsyMG9fbHNIemZIaHVmRXhKYm9FT1ZiYVVnLTV2UUUxYlBHQ0VVYWF3c2RXVHZPd3pKejYyZHd5Y0ZaU0xSVHZBQzdHa05RQkgzdHVBN0cyUWlRRmVOS2ZFaHViQlVmZHJUZ2U2UnVyeFdZaWsxUGdHRWR3NnJVUjdRbDNqMXUyR0I0dnpTTEdVdWdzLV9mQ1M2T3JPWENtYkdlNXgxZGN5ZnFERHlqZmFLVHhNWFVOa2xaVm1JNUNmNmQ4b0NtLTN4bFlLZmtlTGpCZmI3VVBCRFRUVUVMSEFvQ3dwQjBKa2U5bGRONzhXMGxiTXlNU3dETEZkUzNZYUJHUElzd0pTSVdJNU50YmU2a0RoTGlQWHFGalJlUUw5dmNBajI5anZEYkZadDhPRFNVdHZSRExRUHR6TG5UVENDX0pvYVAxUnMwVGsxY3F5emlxQ2hfZmpHaWdZcFJqMno2UFNrRlYwRTdTUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-02T00:09:38.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -13446,7 +13491,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "utilities-me.com"
+      "preferredSite": "mees.com"
     },
     {
       "title": "الخليج يسبق الذكاء الاصطناعي بطلب توربينات الغاز لتوليد الكهرباء - aljazeera.net",
@@ -15136,51 +15181,6 @@
       "source": {
         "name": "kentuckylantern.com",
         "url": "https://kentuckylantern.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Renewable energy: The unstoppable rise of green power worldwide - moeveglobal.com",
-      "description": "Renewable energy: The unstoppable rise of green power worldwide &nbsp;&nbsp; moeveglobal.com",
-      "content": "Renewable energy: The unstoppable rise of green power worldwide &nbsp;&nbsp; moeveglobal.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZnliRFFsdFQzUDZLVFJkcnF3OXE1WW9XX0hsZU50ZG11bVBtZlowaGxoZklkSzJVRHJSMHRneXdNci1EeXprendhZGpJTEJMN05UUzQwR3A2Rk5VRlF2NzdUUzQ4UlVWbG42bjZ4SDNYck9reTdSN3hiVjdNM1pFTFpqaWVjUUY5V01rajBId1VkQUNsTFoweEZZcw?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-23T18:26:09.000Z",
-      "source": {
-        "name": "moeveglobal.com",
-        "url": "https://www.moeveglobal.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Renewable energy: The unstoppable rise of green power worldwide - Moeve Global",
-      "description": "Renewable energy: The unstoppable rise of green power worldwide &nbsp;&nbsp; Moeve Global",
-      "content": "Renewable energy: The unstoppable rise of green power worldwide &nbsp;&nbsp; Moeve Global",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZnliRFFsdFQzUDZLVFJkcnF3OXE1WW9XX0hsZU50ZG11bVBtZlowaGxoZklkSzJVRHJSMHRneXdNci1EeXprendhZGpJTEJMN05UUzQwR3A2Rk5VRlF2NzdUUzQ4UlVWbG42bjZ4SDNYck9reTdSN3hiVjdNM1pFTFpqaWVjUUY5V01rajBId1VkQUNsTFoweEZZcw?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-23T18:26:09.000Z",
-      "source": {
-        "name": "Moeve Global",
-        "url": "https://www.moeveglobal.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "سعة بطاريات تخزين الكهرباء في الشرق الأوسط تقفز 238% بقيادة السعودية - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "description": "سعة بطاريات تخزين الكهرباء في الشرق الأوسط تقفز 238% بقيادة السعودية &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "content": "سعة بطاريات تخزين الكهرباء في الشرق الأوسط تقفز 238% بقيادة السعودية &nbsp;&nbsp; الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNSkZsNHJaTWcwNUFad1ZiSnhlWjF4WUc2WDJYa2xEWDA3YW9mOElRSjBPLXR2ZnluZC1JZ0FMcHk2anZmeHFiUFdDYk5qYXhIM2EwZXdTaHFWZm85c05Od2JOWGMtQTVwbFl1dnhvZVl4ZFhtRUowQUhMVHlzSVJzcUJXNXZ6Q1NWRFhIdTVJOTktOHhyR1AyUWdSa1lvbE1QWUtOTERQTHhlQ3Q4c0o3UXFCb09lMlJrYmtBSG1GMVl5Q1ViX1pZRVRyN0tZX19ySnR4X0JhM2VlaUl6R0tDcm8tSnFVRm9idXFxNldHMk9SZEQ5OWlzSllJY0NoVXJPQTFER1hjam4wN2hvbVZlcmctUE9WUEU2MjhqWHZpc3RwVEd6VDlMOUFoTkRfWGdMWmlpN25TcU8yTGFqeFp2dkswR3R1R2xFeHZUdmZn?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-23T07:00:00.000Z",
-      "source": {
-        "name": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
-        "url": "https://attaqa.net"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
