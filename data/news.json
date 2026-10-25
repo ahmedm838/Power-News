@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-25T04:47:08.937Z",
+  "generatedAt": "2026-10-25T11:37:23.169Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Thousands of homes without electricity across island — Storm Boelo - cedarnews.net",
+      "description": "Thousands of homes without electricity across island — Storm Boelo &nbsp;&nbsp; cedarnews.net",
+      "content": "Thousands of homes without electricity across island — Storm Boelo &nbsp;&nbsp; cedarnews.net",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDZ1cjhURVR3QmxBYWYtUEdtTzY3cjA4ZlhHaThSU2dsVEZiWnN5U2tuRUtyUFNuUkZfQU54QUczQkx0TUlRNGxIRG1YZloxMnFNaC1ZRUdNNmg1WkpNOXhzYVFCYk51VzlvZGpnNmpRY1BkRmhYQlY5RWlyT29vdG9YdkVxUWVaUEVrM0RKbkVwNV9wWnNxRjFLQQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-25T08:13:01.000Z",
+      "source": {
+        "name": "cedarnews.net",
+        "url": "https://cedarnews.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "youm7.com"
+    },
     {
       "title": "Why Is the Saudi “East-West” Oil Pipeline Considered a Strategic Target for Sana’a? - الخبر اليمني",
       "description": "Why Is the Saudi “East-West” Oil Pipeline Considered a Strategic Target for Sana’a? &nbsp;&nbsp; الخبر اليمني",
@@ -287,22 +302,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alarabiya.net"
-    },
-    {
-      "title": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief - EnergyNow.com",
-      "description": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
-      "content": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa19MNXhCbmV3NUpkb0VieGFCX3I3bXphNE41Yk02RDFJbGpSRWUwZjMxSXI2ZDRQcGFoWVdFMGVaY2Z0SXZBSDJSN2wzNnhaVlhaLXA3U2hIUTk4RnhQSDlQSTZYdGY0UG04MG9Nc2ZBMHpBMWRIQ3dOT1lsRHFKT2w4NDlDbzlfRnFITzMwcUdZRktoYmpGSEZKMXRpRllpS0Fz?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-23T07:00:00.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "youm7.com"
     },
     {
       "title": "Lithuanian energy company's subsidiary mulls gas-fired power plant near Tartu - ERR",
@@ -377,7 +377,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Renaissance Targets 500,000bpd Oil Production By 2030, Prioritises Gas Development - Majorwaves Energy Report",
@@ -422,7 +422,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "mees.com"
+      "preferredSite": "utilities-me.com"
     },
     {
       "title": "Petronet LNG, Gruner Renewable Energy to invest ₹1,200 crore in 10 bio-gas plants - CNBC TV18",
@@ -524,6 +524,21 @@
       "source": {
         "name": "Green Building Africa",
         "url": "https://www.greenbuildingafrica.co.za"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "\"سيمنس\": الشرق الأوسط استحوذ على 30% من طلبيات توربينات الغاز خلال الربع الثالث - ايكونومي بلس",
+      "description": "\"سيمنس\": الشرق الأوسط استحوذ على 30% من طلبيات توربينات الغاز خلال الربع الثالث &nbsp;&nbsp; ايكونومي بلس",
+      "content": "\"سيمنس\": الشرق الأوسط استحوذ على 30% من طلبيات توربينات الغاز خلال الربع الثالث &nbsp;&nbsp; ايكونومي بلس",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zN3NyWEp1ZlBCTmY3a000WlNqc3c3ZFdWV2JaUm9IdmQxWkY3QmNsbF9vTnRfSHdpNWlNTkZ1UzU1bzFlUkk2Z3Nzb08?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-21T22:38:22.000Z",
+      "source": {
+        "name": "ايكونومي بلس",
+        "url": "https://economyplusme.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -815,21 +830,6 @@
       "preferredSite": "arabic.cnn.com"
     },
     {
-      "title": "\"سيمنس\": الشرق الأوسط استحوذ على 30% من طلبيات توربينات الغاز خلال الربع الثالث - ايكونومي بلس",
-      "description": "\"سيمنس\": الشرق الأوسط استحوذ على 30% من طلبيات توربينات الغاز خلال الربع الثالث &nbsp;&nbsp; ايكونومي بلس",
-      "content": "\"سيمنس\": الشرق الأوسط استحوذ على 30% من طلبيات توربينات الغاز خلال الربع الثالث &nbsp;&nbsp; ايكونومي بلس",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWnZDSVFiNWFiUFZtb3pjUnNsZEZtZFpkQ1VsMHhmblMxck41M1JITmJHNTNDWEZzVHo4ZkhQRVNZdFFISnJwUVhNakJreHVLOTBIbC03c0VIT0VTZmIxUWVma2tiNnNxSHM0cGhlNW9JR0kzeW02c2d4d1ZBZ0I0ekNwNXB5UUNQZ3FFRkxGYTItdmhCVWdvbV9hdTN4U1EwWFo3Q3VMSHN3THF2Q09EY3lOZXZ6THllWnc?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-21T10:01:16.000Z",
-      "source": {
-        "name": "ايكونومي بلس",
-        "url": "https://economyplusme.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Mozambique: Eni launches EPC tender for 75 MW gas-fired power plant in Temane - Club of Mozambique",
       "description": "Mozambique: Eni launches EPC tender for 75 MW gas-fired power plant in Temane &nbsp;&nbsp; Club of Mozambique",
       "content": "Mozambique: Eni launches EPC tender for 75 MW gas-fired power plant in Temane &nbsp;&nbsp; Club of Mozambique",
@@ -945,7 +945,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alarabiya.net"
+      "preferredSite": "youm7.com"
     },
     {
       "title": "Cumberland supervisors approve massive natural gas power plant - WWBT",
@@ -1455,7 +1455,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "mees.com"
+      "preferredSite": "utilities-me.com"
     },
     {
       "title": "Chevron, Shell Closing in on First Big Oil Production Deals in Venezuela Since US Captured Maduro - EnergyNow.com",
@@ -2398,7 +2398,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "mees.com"
+      "preferredSite": "utilities-me.com"
     },
     {
       "title": "12 مديرًا عامًا يتنافسون على رئاسة 3 قطاعات تجارية مستحدثة بجنوب القاهرة للكهرباء",
@@ -3946,6 +3946,21 @@
       "preferredSite": ""
     },
     {
+      "title": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief - EnergyNow.com",
+      "description": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
+      "content": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa19MNXhCbmV3NUpkb0VieGFCX3I3bXphNE41Yk02RDFJbGpSRWUwZjMxSXI2ZDRQcGFoWVdFMGVaY2Z0SXZBSDJSN2wzNnhaVlhaLXA3U2hIUTk4RnhQSDlQSTZYdGY0UG04MG9Nc2ZBMHpBMWRIQ3dOT1lsRHFKT2w4NDlDbzlfRnFITzMwcUdZRktoYmpGSEZKMXRpRllpS0Fz?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-06T22:44:14.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
       "title": "US gas power plant plans rise to 60.4 GW — Electrek - UA.NEWS",
       "description": "US gas power plant plans rise to 60.4 GW — Electrek &nbsp;&nbsp; UA.NEWS",
       "content": "US gas power plant plans rise to 60.4 GW — Electrek &nbsp;&nbsp; UA.NEWS",
@@ -4666,21 +4681,6 @@
       "preferredSite": ""
     },
     {
-      "title": "استهداف حوثي لكهرباء المسجد النبوي - الشرق الأوسط",
-      "description": "استهداف حوثي لكهرباء المسجد النبوي &nbsp;&nbsp; الشرق الأوسط",
-      "content": "استهداف حوثي لكهرباء المسجد النبوي &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOeEtWWTQxNHJHTkI3S1RXRldYaFEwOVRWSndSLW9malhmT2lXNGtzTVJhU25VUEh5cWhCR24yZlhwWkw4a014UzdublE4bzgtRUR2VVhkMDNuMTg4SnQ0Y2tJeDhZVEsyMG9fbHNIemZIaHVmRXhKYm9FT1ZiYVVnLTV2UUUxYlBHQ0VVYWF3c2RXVHZPd3pKejYyZHd5Y0ZaU0xSVHZBQzdHa05RQkgzdHVBN0cyUWlRRmVOS2ZFaHViQlVmZHJUZ2U2UnVyeFdZaWsxUGdHRWR3NnJVUjdRbDNqMXUyR0I0dnpTTEdVdWdzLV9mQ1M2T3JPWENtYkdlNXgxZGN5ZnFERHlqZmFLVHhNWFVOa2xaVm1JNUNmNmQ4b0NtLTN4bFlLZmtlTGpCZmI3VVBCRFRUVUVMSEFvQ3dwQjBKa2U5bGRONzhXMGxiTXlNU3dETEZkUzNZYUJHUElzd0pTSVdJNU50YmU2a0RoTGlQWHFGalJlUUw5dmNBajI5anZEYkZadDhPRFNVdHZSRExRUHR6TG5UVENDX0pvYVAxUnMwVGsxY3F5emlxQ2hfZmpHaWdZcFJqMno2UFNrRlYwRTdTUQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-02T00:09:38.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Invitium Energy power plant venture to fuel data centers lands in Fell Twp. - Scranton Times-Tribune",
       "description": "Invitium Energy power plant venture to fuel data centers lands in Fell Twp. &nbsp;&nbsp; Scranton Times-Tribune",
       "content": "Invitium Energy power plant venture to fuel data centers lands in Fell Twp. &nbsp;&nbsp; Scranton Times-Tribune",
@@ -5039,6 +5039,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "استهداف حوثي لكهرباء المسجد النبوي - الشرق الأوسط",
+      "description": "استهداف حوثي لكهرباء المسجد النبوي &nbsp;&nbsp; الشرق الأوسط",
+      "content": "استهداف حوثي لكهرباء المسجد النبوي &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOeEtWWTQxNHJHTkI3S1RXRldYaFEwOVRWSndSLW9malhmT2lXNGtzTVJhU25VUEh5cWhCR24yZlhwWkw4a014UzdublE4bzgtRUR2VVhkMDNuMTg4SnQ0Y2tJeDhZVEsyMG9fbHNIemZIaHVmRXhKYm9FT1ZiYVVnLTV2UUUxYlBHQ0VVYWF3c2RXVHZPd3pKejYyZHd5Y0ZaU0xSVHZBQzdHa05RQkgzdHVBN0cyUWlRRmVOS2ZFaHViQlVmZHJUZ2U2UnVyeFdZaWsxUGdHRWR3NnJVUjdRbDNqMXUyR0I0dnpTTEdVdWdzLV9mQ1M2T3JPWENtYkdlNXgxZGN5ZnFERHlqZmFLVHhNWFVOa2xaVm1JNUNmNmQ4b0NtLTN4bFlLZmtlTGpCZmI3VVBCRFRUVUVMSEFvQ3dwQjBKa2U5bGRONzhXMGxiTXlNU3dETEZkUzNZYUJHUElzd0pTSVdJNU50YmU2a0RoTGlQWHFGalJlUUw5dmNBajI5anZEYkZadDhPRFNVdHZSRExRUHR6TG5UVENDX0pvYVAxUnMwVGsxY3F5emlxQ2hfZmpHaWdZcFJqMno2UFNrRlYwRTdTUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Korea protests US' unilateral announcement on Alaska LNG project - The Korea Times",
       "description": "Korea protests US' unilateral announcement on Alaska LNG project &nbsp;&nbsp; The Korea Times",
       "content": "Korea protests US' unilateral announcement on Alaska LNG project &nbsp;&nbsp; The Korea Times",
@@ -5201,7 +5216,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alarabiya.net"
+      "preferredSite": "youm7.com"
     },
     {
       "title": "شحنة بطاريات ضخمة تتحرك باتجاه مصر - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -5512,7 +5527,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alarabiya.net"
+      "preferredSite": "youm7.com"
     },
     {
       "title": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future - najah.edu",
@@ -5827,7 +5842,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alarabiya.net"
+      "preferredSite": "youm7.com"
     },
     {
       "title": "Saudi Energy Minister and Australian Counterpart Discuss Climate Action and Renewable Energy Initiatives - صحيفة مال",
@@ -5857,7 +5872,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alarabiya.net"
+      "preferredSite": "youm7.com"
     },
     {
       "title": "Australia could run its electricity grid without fossil gas at similar cost; researchers say models under - The Times of India",
@@ -13491,7 +13506,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "mees.com"
+      "preferredSite": "utilities-me.com"
     },
     {
       "title": "الخليج يسبق الذكاء الاصطناعي بطلب توربينات الغاز لتوليد الكهرباء - aljazeera.net",
@@ -15082,6 +15097,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Yemen Electricity Ministry Confirms Proposed Tariff Hikes Revealed by South24 - مركز سوث24",
+      "description": "Yemen Electricity Ministry Confirms Proposed Tariff Hikes Revealed by South24 &nbsp;&nbsp; مركز سوث24",
+      "content": "Yemen Electricity Ministry Confirms Proposed Tariff Hikes Revealed by South24 &nbsp;&nbsp; مركز سوث24",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80WVRHYVpGWmoxM3NYMm90N1lCY1FsZ0VVN0tWczBDX3Q4LXFNUUlVNUJmM1p5ZlFaOW9TS1l6RUZNZWNVUVhYWFZlZWtSNTIzcEhhTw?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-26T07:00:00.000Z",
+      "source": {
+        "name": "مركز سوث24",
+        "url": "https://south24.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "algerie-eco.com"
+    },
+    {
       "title": "انتقادات لتراجع إنتاج الغاز في مصر رغم تسوية مستحقات الشركات الأجنبية - aawsat.com",
       "description": "انتقادات لتراجع إنتاج الغاز في مصر رغم تسوية مستحقات الشركات الأجنبية &nbsp;&nbsp; aawsat.com",
       "content": "انتقادات لتراجع إنتاج الغاز في مصر رغم تسوية مستحقات الشركات الأجنبية &nbsp;&nbsp; aawsat.com",
@@ -15155,36 +15185,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
-    },
-    {
-      "title": "HECO announces new renewable energy procurement, looks to natural gas - hawaiipublicradio.org",
-      "description": "HECO announces new renewable energy procurement, looks to natural gas &nbsp;&nbsp; hawaiipublicradio.org",
-      "content": "HECO announces new renewable energy procurement, looks to natural gas &nbsp;&nbsp; hawaiipublicradio.org",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSVYzSWdkYUVrWE5TcW5DZXBSaDJTdmtBM0dqTnRiM0FLb3p1SXJaZXdiNFhCWjFCbHEyMFY5VnRTdTlqanptOHRaT2c2dGlHRUtIaG0tMVdvSU5hdWdQT2ZDeUIta0dGdGEzZXZEYU0tbG1zUlo2RWEzRm9tc1NhUWFZNXQ3bWYzUGh6Tm5iNXR5UVhuMC1Hek5kR09JM2pDQTBpQ3plWkNpRjB6a2VEMFNuVTA3OVI4STZBS3J5UFFZUQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-24T07:00:00.000Z",
-      "source": {
-        "name": "hawaiipublicradio.org",
-        "url": "https://www.hawaiipublicradio.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "A proposed Eastern Kentucky gas pipeline to serve a power plant is stirring local opposition - kentuckylantern.com",
-      "description": "A proposed Eastern Kentucky gas pipeline to serve a power plant is stirring local opposition &nbsp;&nbsp; kentuckylantern.com",
-      "content": "A proposed Eastern Kentucky gas pipeline to serve a power plant is stirring local opposition &nbsp;&nbsp; kentuckylantern.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFI3N1lnWEhCd3FwbHhYNXBZeWRtZFRqY3FuUTM1TVIzRGEyRVFCMl9CUklSM2N5UnllS2p1WlZRbG5tTUVIMDZ2SUgtUGxveWN4VHduS2N1eVBHdEJwZHczTngwelJBTERYVGM0cWZPZG1oZDJOdkc0eXdYU1g3ejM0ZjFTS1QzdDR1WFJqTmVkVG5CVi1laWpxeDBXbWYwTGhNUG1HMWtoWldoWFZBZ3BiOUFyOFIyN05wdnRhVUsxQnRaZ3E0V0pmYXE?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-24T07:00:00.000Z",
-      "source": {
-        "name": "kentuckylantern.com",
-        "url": "https://kentuckylantern.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     }
   ]
 }
