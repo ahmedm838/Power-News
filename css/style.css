@@ -231,6 +231,7 @@ span.flatpickr-weekday { color: var(--text-2); }
 .add-btn:hover { background: var(--bg-3); }
 
 .tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 7px; min-height: 22px; }
+.tags:empty { display: none; }
 .tag {
   display: inline-flex;
   align-items: center;
@@ -436,7 +437,6 @@ span.flatpickr-weekday { color: var(--text-2); }
 .empty-state p { font-size: 14px; line-height: 1.7; }
 
 /* ── Source websites and filter list panel ── */
-.source-area { margin-top: 4px; }
 .source-tag {
   background: var(--blue-bg);
   color: var(--blue-text);
