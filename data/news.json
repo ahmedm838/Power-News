@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-10-26T13:09:55.762Z",
+  "generatedAt": "2026-10-26T22:42:28.833Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief - EnergyNow.com",
+      "description": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
+      "content": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa19MNXhCbmV3NUpkb0VieGFCX3I3bXphNE41Yk02RDFJbGpSRWUwZjMxSXI2ZDRQcGFoWVdFMGVaY2Z0SXZBSDJSN2wzNnhaVlhaLXA3U2hIUTk4RnhQSDlQSTZYdGY0UG04MG9Nc2ZBMHpBMWRIQ3dOT1lsRHFKT2w4NDlDbzlfRnFITzMwcUdZRktoYmpGSEZKMXRpRllpS0Fz?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-26T20:20:16.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict - أصول مصر",
+      "description": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict &nbsp;&nbsp; أصول مصر",
+      "content": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict &nbsp;&nbsp; أصول مصر",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzS2xkLXB6Z0U0c1B3dVRrRXV3Q3VTTkJYTDA5dTNLT1pveFhKZ1Q0cG5TMTZBbHc3Vlh0eTlEVnY4dTNfa3FCLWk3MTJyTVZiZ2c?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-26T15:14:07.000Z",
+      "source": {
+        "name": "أصول مصر",
+        "url": "https://www.osoulmisrmagazine.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
+    },
+    {
+      "title": "Small nuclear reactors could boost the Asean Power Grid: GE Vernova executive - The Business Times",
+      "description": "Small nuclear reactors could boost the Asean Power Grid: GE Vernova executive &nbsp;&nbsp; The Business Times",
+      "content": "Small nuclear reactors could boost the Asean Power Grid: GE Vernova executive &nbsp;&nbsp; The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ2N4SVh6a2FFRHFHQnhyRU1LdXlUZTl3U1M1bUY5Qml6U3ZBN0I3ZnZDT3I0ZDlFaEhEX3ZFa08xSEp2R08tVldVdTJPN3czQU1yUENFeFlCNUd1OWxmLXRUZ1U3WXlEV0xlR2ZPVFJMQjZGVVFLc2xGNjFNR0FjQmlTMEpsbGttb0FHajZUdEJBZ1pwMkEzTlZyZHY4N2x2alNjSVlhUzhwM2lieE5KbDNBNjZzQWZlUlIybHN4SnNzOTg?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-26T11:35:00.000Z",
+      "source": {
+        "name": "The Business Times",
+        "url": "https://www.businesstimes.com.sg"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية - الشرق الأوسط",
       "description": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
@@ -77,7 +122,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "Rising Gas Prices Drive Demand for Operational Renewable Energy PPAs in Europe: Report - Saur Energy",
@@ -104,6 +149,21 @@
       "source": {
         "name": "BigGo Finance",
         "url": "https://finance.biggo.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "NNPC mulls Chinese investment in oil production, gas commercialisation - Nigerian NewsDirect",
+      "description": "NNPC mulls Chinese investment in oil production, gas commercialisation &nbsp;&nbsp; Nigerian NewsDirect",
+      "content": "NNPC mulls Chinese investment in oil production, gas commercialisation &nbsp;&nbsp; Nigerian NewsDirect",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZWRwM251LXgzcktDazc2dWhsT3VIU2YzVmtTTG43WXZ2MU1JanZvczdLRU9UNUpYb2E1LURvdDVMSVFXanlPTUdIazNyeERnVm5LVWNKb2RlMlB4Q2FoMzBJaU1BVXlYVUdMZnNkdHhrUmptNmlrMDRYSW8wZnJkbi15enQ2VWZRX3BvMC1xdmt0TWhsd1dnNUktVXhraE5wMDhZ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-25T23:18:19.000Z",
+      "source": {
+        "name": "Nigerian NewsDirect",
+        "url": "https://nigeriannewsdirect.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -152,7 +212,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "almasryalyoum.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Hit by El-nino, Gujarat ready to trade electricity or money for water: Union Minister CR Patil - The Indian Express",
@@ -227,7 +287,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "Gas supply, infrastructure and power generation must advance together, says Jera - The Edge Malaysia",
@@ -299,6 +359,21 @@
       "source": {
         "name": "Urban Acres",
         "url": "https://urbanacres.in"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "NNPC, China North Industries parley on crude oil production, gas commercialisation - Head Topics",
+      "description": "NNPC, China North Industries parley on crude oil production, gas commercialisation &nbsp;&nbsp; Head Topics",
+      "content": "NNPC, China North Industries parley on crude oil production, gas commercialisation &nbsp;&nbsp; Head Topics",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV18waU5EZXFyaHBGS3lXS2trUktwNHlyS3ktSklkcVU1c0lmUU9ZbFE4cjEtM3loR2dGQUxiakxxeVRsNWFtYWZFOHFDN2Qtd0QtdFRsZ2V3SVNybVl2VGx4MDhWWXhreFgzUFBJamdOakt3N2dkaXdYQ3hZZ1FTQzZ3Zmt3dTh6U3VDVS1HeHo?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-24T18:02:00.000Z",
+      "source": {
+        "name": "Head Topics",
+        "url": "https://ng.headtopics.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -1185,7 +1260,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "hespress.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Cumberland supervisors approve massive natural gas power plant - WWBT",
@@ -2638,7 +2713,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "12 مديرًا عامًا يتنافسون على رئاسة 3 قطاعات تجارية مستحدثة بجنوب القاهرة للكهرباء",
@@ -3253,7 +3328,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Wind power could save Türkiye $4 billion a year in gas imports, industry group says - Hürriyet Daily News",
@@ -4186,21 +4261,6 @@
       "preferredSite": ""
     },
     {
-      "title": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief - EnergyNow.com",
-      "description": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
-      "content": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa19MNXhCbmV3NUpkb0VieGFCX3I3bXphNE41Yk02RDFJbGpSRWUwZjMxSXI2ZDRQcGFoWVdFMGVaY2Z0SXZBSDJSN2wzNnhaVlhaLXA3U2hIUTk4RnhQSDlQSTZYdGY0UG04MG9Nc2ZBMHpBMWRIQ3dOT1lsRHFKT2w4NDlDbzlfRnFITzMwcUdZRktoYmpGSEZKMXRpRllpS0Fz?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-06T22:44:14.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
       "title": "US gas power plant plans rise to 60.4 GW — Electrek - UA.NEWS",
       "description": "US gas power plant plans rise to 60.4 GW — Electrek &nbsp;&nbsp; UA.NEWS",
       "content": "US gas power plant plans rise to 60.4 GW — Electrek &nbsp;&nbsp; UA.NEWS",
@@ -4349,21 +4409,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
-    },
-    {
-      "title": "State’s only coal power plant shifting to natural gas, will serve as backup power for region - Department of Ecology - State of Washington (.gov)",
-      "description": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Department of Ecology - State of Washington (.gov)",
-      "content": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Department of Ecology - State of Washington (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTjRjcE9hVVY2Sm5JZlowc3lXZW9PaXZYbWlVSzdXVXBQVU9idmd4bXpBLW80VDF0Z2xCRmRDZV9lMHpsNE81ZURFd0dRN3Z5OE4yTHF2NldNZUtiZDVHSTRjcC1PZ09VTi1adkJfVzFzVjhMeTdLUDRRRXVvck5mT0JJNk9SajhudE5vQXk1cU9UOWRRYWFXamhKN0NYYUVwVHN4eDJGMXItUGJ1Wi16SDIyNUtMRHdkLWxOcWljbzFQSHQ5cGdOa1ptRmFnY3ozbDZWckpEcmtST3BncnBTQTNhZmQtcXBOcjRBaDVCT01HRUc3STYtSzNR?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-06T03:28:42.000Z",
-      "source": {
-        "name": "Department of Ecology - State of Washington (.gov)",
-        "url": "https://ecology.wa.gov"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     },
     {
       "title": "Records reveal sprawling data center and power plant plans for Elizabeth Township - Pittsburgh's Public Source",
@@ -5484,7 +5529,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "hespress.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "شحنة بطاريات ضخمة تتحرك باتجاه مصر - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -5780,7 +5825,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "جامعة النجاح الوطنية : An-Najah Takes Its 100% Renewable Energy Message to Local Schools - An-Najah National University",
@@ -5795,7 +5840,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "hespress.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future - najah.edu",
@@ -5825,7 +5870,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Serbia, SOCAR Sign Deal to Build Gas Power Plant in Niš - Caspian Post",
@@ -6110,7 +6155,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "hespress.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Saudi Energy Minister and Australian Counterpart Discuss Climate Action and Renewable Energy Initiatives - صحيفة مال",
@@ -6125,7 +6170,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "خطط بناء أكبر مصفاة نفط في أفريقيا تصطدم بحكم قضائي - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -6140,7 +6185,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "hespress.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Australia could run its electricity grid without fossil gas at similar cost; researchers say models under - The Times of India",
@@ -8146,7 +8191,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Moscow oil refinery shutdown and deaths in Russian attacks o - alquds.com",
@@ -12426,7 +12471,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Novak: Russia to Slightly Reduce Oil Production This Year - maaal.com",
@@ -13774,7 +13819,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "الخليج يسبق الذكاء الاصطناعي بطلب توربينات الغاز لتوليد الكهرباء - aljazeera.net",
@@ -14357,7 +14402,7 @@
         "qatar",
         "turkey"
       ],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Energy affordability misery: electricity and natural gas, inflation and volatility - Center of the American Experiment",
@@ -14810,6 +14855,21 @@
       "preferredSite": ""
     },
     {
+      "title": "State’s only coal power plant shifting to natural gas, will serve as backup power for region - Department of Ecology - State of Washington (.gov)",
+      "description": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Department of Ecology - State of Washington (.gov)",
+      "content": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Department of Ecology - State of Washington (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUXFZeUpFdURnUVpfUEZ3UDUxVmoxTHhpMEUxVE9JQVpPQ0FGdlNDSVVCbzJTVEJYZXczb2xuekdkU2F6NVBmM3hiVHg3alZOUXpHeXl3WTg5cEFSZjZ1NXNZUXZVUHRhbE8tSEFWVUNwUUh4ajF1TXR1YTEwQ1pDNTVBRFBXcE5kSm5vejFuLXZiRkRrQS16anB4VDM4TDh4ZDU0cWFaeGlQTnY3TE5rczN3RUthdGZqYnp5ZHFXYTAxWFBRZjRFSE9vSEFpRkx5WkFxYTA3U2J6QlBCcFZQcQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-07-31T07:00:00.000Z",
+      "source": {
+        "name": "Department of Ecology - State of Washington (.gov)",
+        "url": "https://ecology.wa.gov"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "State’s only coal power plant shifting to natural gas, will serve as backup power for region - Washington State Department of Ecology (.gov)",
       "description": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Washington State Department of Ecology (.gov)",
       "content": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Washington State Department of Ecology (.gov)",
@@ -15107,7 +15167,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "$100B data center, gas-fired power plant to be developed around Paducah DOE site - WKMS",
@@ -15134,66 +15194,6 @@
       "source": {
         "name": "سولارابيك",
         "url": "https://solarabic.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "\"سيمنس\" تفتتح مصنعاً للمكونات الكهربائية في مصر لدعم مشاريع الطاقة المتجددة والشبكات الذكية - solarabic.com",
-      "description": "\"سيمنس\" تفتتح مصنعاً للمكونات الكهربائية في مصر لدعم مشاريع الطاقة المتجددة والشبكات الذكية &nbsp;&nbsp; solarabic.com",
-      "content": "\"سيمنس\" تفتتح مصنعاً للمكونات الكهربائية في مصر لدعم مشاريع الطاقة المتجددة والشبكات الذكية &nbsp;&nbsp; solarabic.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNaDQxNXh3V2RYVXBFc3EyS3lrelRRMHRJcVhpd3owbmlMalhkckQ4RGNqZG5aS0s3YlVPZEN4N0VKSFFqbHZiZ25KQ2czOVhWdEVhQnBhbkV5ZXQxNEVqUEd5THpXQTlsMXhoOGhEbzE2QkRjT1g1Y3R1Y0k4RTBDX1gxS0NYLTdKNFZ1MDRmNVRhc1lQdWxJVzlCMnFoNnJFckJnLTFuc1pha3Y0Tmh0YnUyaS01ekpTYnM0LTMyeDlkcGl0T25yUldRQUlJZXdaSDA5UTJWb2xQYUhrYjluYm11UlExeXRXVHhpMDJQSDU4ZlFzaENaVDVlSFZQbE0xeHB2RjJZaFpqeGM3TERGYUo0SkQzY3lUNHVqUjFVX2F4dEZGLXFmQ09KSmdiazUzS0VFWnVEOTZNMlNJSWNGLWVUd0RXbTd6T0wyRFNoOFZfVFpUS0Y2bFNCSGFzd0dTZjBaV2ZtMXFVTzJmMDFZdWJYV0dzWVFna0pjazdhRldwdDRIU3ZzVHpEdGRBV3JSM2V6dFRicEU4YTJTZGd0aTZPTnc3QkJTS1VsZVdmUFAxa3NCNXhfV2hHeGF0cGpuR2M2ZjV0RlpMOERZZHVrMWhNMEdjdS11RE9OSmc4d2R5aG5qNjdN?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-29T07:00:00.000Z",
-      "source": {
-        "name": "solarabic.com",
-        "url": "https://solarabic.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "$100B data center, gas-fired power plant to be developed around Paducah DOE site - wkms.org",
-      "description": "$100B data center, gas-fired power plant to be developed around Paducah DOE site &nbsp;&nbsp; wkms.org",
-      "content": "$100B data center, gas-fired power plant to be developed around Paducah DOE site &nbsp;&nbsp; wkms.org",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNGJaVHlSV245SUs4U1pYbVNWRzNEalF3VGFPVXhQcFMyZTRzam4zcGhoVXo4bE9lWFJBdDZYaU4zQkdhOWo3NVRyVmthaldyMVVIck1KUE9Wb3dtOTZ2N1RhRjhRWjlUczZTOG1SMjktVHBRY2kxTTRYanR3MVJOUEk1TFl3YzNkNE9HNGtVbmdLSmpUVTI4OTJ2TzFTeVlDT1BKX2h5RVlMeE5qMllPTF9YSXNfUVk4dGRjUEtnWXNIUlFYY2c?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-29T07:00:00.000Z",
-      "source": {
-        "name": "wkms.org",
-        "url": "https://www.wkms.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Dominion Energy to build new gas fired power plant at Mt. Storm - wvmetronews.com",
-      "description": "Dominion Energy to build new gas fired power plant at Mt. Storm &nbsp;&nbsp; wvmetronews.com",
-      "content": "Dominion Energy to build new gas fired power plant at Mt. Storm &nbsp;&nbsp; wvmetronews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0kxRlQyb2pZdHR6SkVpYlk5eWdrLTEtbnNQUzJubUJBMWxQYm9EMW5rZDRhalZXWHl5dTE2dTUxd2FOSlN1Rzg3UVZYd19pRTBleC1vd3ppdjdoOEhYUWNuSkl4eE1BcktGRUlHU2dlMEpabGVfVmtHZWE4VHlxRjRZMEdBWW1aUHJSRF9DS3ROS3pwUEJySjF4dGE0aTg?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-28T07:00:00.000Z",
-      "source": {
-        "name": "wvmetronews.com",
-        "url": "https://wvmetronews.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "New Gas Power Plant Coming To Grant County - West Virginia Public Broadcasting",
-      "description": "New Gas Power Plant Coming To Grant County &nbsp;&nbsp; West Virginia Public Broadcasting",
-      "content": "New Gas Power Plant Coming To Grant County &nbsp;&nbsp; West Virginia Public Broadcasting",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObURwdEZadTN4TTZON0RnYU9jTEc3ZE1jeTBlb2hSQWREYnliZ2JDV29DcWY4YVp6aWktcGdoQmFoUmdvSDQyVmVGamFVRTgwZExRZ3Rod2l3Zl85eWNESVh4ck52am9RUjRiWWhLUWhWUzNaNzM2UUNrakFYbFVuSGNIRVNWOTkydWl1LVk5NHFrN0k?oc=5",
-      "image": "",
-      "publishedAt": "2026-07-28T07:00:00.000Z",
-      "source": {
-        "name": "West Virginia Public Broadcasting",
-        "url": "https://wvpublic.org"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
