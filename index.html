@@ -92,20 +92,24 @@
             </button>
           </div>
           <p class="source-mode-help" id="sourceHint">Optional — add domains like pv-magazine.com, reuters.com, zawya.com.</p>
+        </div>
+      </div>
+
+      <div class="controls-grid two mode-options">
+        <div class="mode-option">
           <label class="source-mode-toggle" for="strictSourceToggle">
             <input type="checkbox" id="strictSourceToggle" />
             Restrict results to listed websites only
           </label>
           <p class="source-mode-help">Default mode prioritizes listed websites but still shows other relevant Arabic/English energy news if the listed sources do not match.</p>
         </div>
-      </div>
-
-      <div class="quota-mode-box">
-        <label class="source-mode-toggle" for="deepSearchToggle">
-          <input type="checkbox" id="deepSearchToggle" />
-          Deep recall mode for optional local APIs
-        </label>
-        <p class="source-mode-help">This setting only adds Arabic/English API calls when optional localhost API keys are configured. The scheduled index is always searched.</p>
+        <div class="mode-option">
+          <label class="source-mode-toggle" for="deepSearchToggle">
+            <input type="checkbox" id="deepSearchToggle" />
+            Deep recall mode for optional local APIs
+          </label>
+          <p class="source-mode-help">This setting only adds Arabic/English API calls when optional localhost API keys are configured. The scheduled index is always searched.</p>
+        </div>
       </div>
       <div class="actions-row">
         <button class="search-btn" id="searchBtn" type="button">

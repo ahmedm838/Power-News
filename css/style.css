@@ -583,11 +583,13 @@ span.flatpickr-weekday { color: var(--text-2); }
   align-items: center;
 }
 
-/* ── API request mode ── */
-.quota-mode-box {
+/* ── Search mode options ── */
+.mode-option {
   background: var(--bg-2);
   border: 0.5px solid var(--border-1);
   border-radius: var(--radius-md);
   padding: 8px 10px;
-  margin-bottom: 12px;
+  min-width: 0;
 }
+.mode-option .source-mode-toggle { margin-top: 0; }
+.mode-option .source-mode-toggle input { flex-shrink: 0; }
