@@ -28,7 +28,7 @@
     <!-- ── Controls panel ── -->
     <section class="controls-panel" aria-label="Search controls">
 
-      <div class="controls-grid two">
+      <div class="controls-grid four">
         <div class="field">
           <label for="dateFrom">From date</label>
           <input type="date" id="dateFrom" />
@@ -37,9 +37,6 @@
           <label for="dateTo">To date</label>
           <input type="date" id="dateTo" />
         </div>
-      </div>
-
-      <div class="controls-grid two">
         <div class="field">
           <label for="regionFilter">Country / region focus</label>
           <select id="regionFilter">
@@ -67,40 +64,41 @@
         </div>
       </div>
 
-      <!-- Keywords box -->
-      <div class="keywords-area">
-        <label for="kwInput">
-          Keywords
-          <span class="label-hint">(press Enter or click Add to search by keyword)</span>
-        </label>
-        <div class="keyword-input-row">
-          <input type="text" id="kwInput" placeholder="e.g. solar farm, power cut, NEOM, Aramco…" />
-          <button class="add-btn" id="addKwBtn" type="button">
-            <i class="ti ti-plus" aria-hidden="true"></i> Add
-          </button>
+      <div class="controls-grid two keyword-fields">
+        <!-- Keywords box -->
+        <div class="keywords-area">
+          <label for="kwInput">
+            Keywords
+          </label>
+          <div class="keyword-input-row">
+            <input type="text" id="kwInput" aria-describedby="keywordHint" placeholder="e.g. solar farm, power cut, NEOM, Aramco…" />
+            <button class="add-btn" id="addKwBtn" type="button">
+              <i class="ti ti-plus" aria-hidden="true"></i> Add
+            </button>
+          </div>
+          <p class="source-mode-help" id="keywordHint">Press Enter or click Add to search by keyword.</p>
+          <div class="tags" id="tagContainer" aria-live="polite"></div>
         </div>
-        <div class="tags" id="tagContainer" aria-live="polite"></div>
-      </div>
-
-      <!-- Source websites box -->
-      <div class="keywords-area source-area">
-        <label for="sourceInput">
-          Preferred source websites
-          <span class="label-hint">(optional — add domains like pv-magazine.com, reuters.com, zawya.com)</span>
-        </label>
-        <div class="keyword-input-row">
-          <input type="text" id="sourceInput" placeholder="e.g. reuters.com, zawya.com, https://www.pv-magazine.com/" />
-          <button class="add-btn" id="addSourceBtn" type="button">
-            <i class="ti ti-plus" aria-hidden="true"></i> Add
-          </button>
+  
+        <!-- Source websites box -->
+        <div class="keywords-area source-area">
+          <label for="sourceInput">
+            Preferred source websites
+          </label>
+          <div class="keyword-input-row">
+            <input type="text" id="sourceInput" aria-describedby="sourceHint" placeholder="e.g. reuters.com, zawya.com, https://www.pv-magazine.com/" />
+            <button class="add-btn" id="addSourceBtn" type="button">
+              <i class="ti ti-plus" aria-hidden="true"></i> Add
+            </button>
+          </div>
+          <p class="source-mode-help" id="sourceHint">Optional — add domains like pv-magazine.com, reuters.com, zawya.com.</p>
+          <label class="source-mode-toggle" for="strictSourceToggle">
+            <input type="checkbox" id="strictSourceToggle" />
+            Restrict results to listed websites only
+          </label>
+          <p class="source-mode-help">Default mode prioritizes listed websites but still shows other relevant Arabic/English energy news if the listed sources do not match.</p>
         </div>
-        <label class="source-mode-toggle" for="strictSourceToggle">
-          <input type="checkbox" id="strictSourceToggle" />
-          Restrict results to listed websites only
-        </label>
-        <p class="source-mode-help">Default mode prioritizes listed websites but still shows other relevant Arabic/English energy news if the listed sources do not match.</p>
       </div>
-
 
       <div class="quota-mode-box">
         <label class="source-mode-toggle" for="deepSearchToggle">

@@ -68,7 +68,7 @@ body {
   z-index: 20;
 }
 .header-inner {
-  max-width: 860px;
+  max-width: 946px;
   margin: 0 auto;
   padding: 0 1.5rem;
 }
@@ -89,7 +89,7 @@ body {
 
 /* ── Container ── */
 .container {
-  max-width: 860px;
+  max-width: 946px;
   margin: 0 auto;
   padding: 1.5rem 1.5rem 4rem;
 }
@@ -132,11 +132,19 @@ body {
   gap: 10px;
   margin-bottom: 12px;
 }
-.controls-grid.two   { grid-template-columns: 1fr 1fr; }
+.controls-grid.two   { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.controls-grid.four  { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.field, .keywords-area { min-width: 0; }
+.keyword-fields > .keywords-area { margin-bottom: 0; }
+
+@media (max-width: 760px) {
+  .controls-grid.four { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
 .controls-grid.three { grid-template-columns: 1fr 1fr 1fr; }
 
 @media (max-width: 580px) {
   .controls-grid.two,
+  .controls-grid.four,
   .controls-grid.three { grid-template-columns: 1fr; }
 }
 
@@ -202,6 +210,8 @@ span.flatpickr-weekday { color: var(--text-2); }
 .keyword-input-row { display: flex; gap: 7px; }
 .keyword-input-row input {
   flex: 1;
+  min-width: 0;
+  width: 100%;
   height: 36px;
   padding: 0 10px;
   font-size: 13.5px;
