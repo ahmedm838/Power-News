@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-27T22:18:36.376Z",
+  "generatedAt": "2026-10-28T05:47:29.680Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Glendale council approves annexation of data centers, gas power plant - Your Valley",
+      "description": "Glendale council approves annexation of data centers, gas power plant &nbsp;&nbsp; Your Valley",
+      "content": "Glendale council approves annexation of data centers, gas power plant &nbsp;&nbsp; Your Valley",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjdYWFFoY21JVEU0RE9pRnhmN19TUUdPTElsVG5YTWNfcnRxemhEaDNmZmlCakx3aWpQUk82b3diblB6cjJqZXp4VEtSbDh5SE1pMl95UFhKdk5hYXZReXRaa2pFUlpjbWhhd0R0SXRoamVpN2o4QUVqUUo5dGxwSkVodnBTcnN0VndGemcwT1ZVNDAxVUI1UlVYUVZldENKNTdBdjh6SnFGLXBhZVNF?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-28T05:38:00.000Z",
+      "source": {
+        "name": "Your Valley",
+        "url": "https://www.yourvalley.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage - Reuters",
+      "description": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage &nbsp;&nbsp; Reuters",
+      "content": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmQ0c2FUVWhaMXlBcU94NERDUlp0YzhfdFpLUUpsaDhLeU5RRTVEU25GbXp0c2xtdDFlRmY3QU45TkRWdjFiR1djWXZGT05QbHY3ZkVDTVh1b2N1c2hRT3djc2gzOGh2d1B1M3ZqTjFhNTloOXN1ODBXM1VvTk50ck14VG9qLTJaeHoxRGU5VW1XSlBEdG5PMS1KbVVFcWx1QVp1UGg3X2YwYk1idFRmWVF0Z2xqMnNYZ2dqaHhjNA?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-28T02:10:00.000Z",
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage - TradingView",
+      "description": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage &nbsp;&nbsp; TradingView",
+      "content": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage &nbsp;&nbsp; TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbTNkMW5MSjlxVkl1MDNkMEJHclNQRC0tSGlDX05RZkZXOGI2Q2ZDOThseF9VRWdZbnRSQW1GQld3T1dqblNPX0NHcGZSMUdXal9uV1RfU0tDWWdHRmlvYURfN3ZBWGxzTlFnSXZSWWtFZXJUQVh1Q1NPWWdIWGN2Wl9pRHYtNXg0NUZDcl9xMzItTU9KV3h4cXFmQ1FueUw2V0lvUGRxbmczNVB0Skx3MjdLRl9fcjhCY0hTSXRQVnVDUHZmNVJ2cnVxRWsxTzRLRk1ZLTNjWGhVSlVGbURsZVphNXNyVmZHeG4zcDByaw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-28T01:59:00.000Z",
+      "source": {
+        "name": "TradingView",
+        "url": "https://www.tradingview.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Renewable energy expansion faces first annual slowdown in five years - Oil & Gas 360",
+      "description": "Renewable energy expansion faces first annual slowdown in five years &nbsp;&nbsp; Oil & Gas 360",
+      "content": "Renewable energy expansion faces first annual slowdown in five years &nbsp;&nbsp; Oil & Gas 360",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZkMzTTRuY1FjNFBaMk90VVNidFp5eFhiU3JBcEJUM2FmNWV2RlhyRkJLaUxYckswTEhLd0REZTJ2S2FEX2UybDNncVh4cy1GaWFoalJMbmRneDNtQUU4VkVXZUdTSFNULUstYXdXYm5VS1NjMUZwUnBUUnBsNTlXSUZJLXFyV0xHdmFTU1I4T2FUQm90WklJMHJhSTdTWTQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-27T19:09:45.000Z",
+      "source": {
+        "name": "Oil & Gas 360",
+        "url": "https://www.oilandgas360.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "السودان.. جهود لإعادة الكهرباء بعد هجوم بمسيّرات على محطة المرخيات - الشرق للأخبار",
       "description": "السودان.. جهود لإعادة الكهرباء بعد هجوم بمسيّرات على محطة المرخيات &nbsp;&nbsp; الشرق للأخبار",
@@ -95,6 +155,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Trump promotes oil production in Texas, where Democrats dream of breakthrough - Reuters",
+      "description": "Trump promotes oil production in Texas, where Democrats dream of breakthrough &nbsp;&nbsp; Reuters",
+      "content": "Trump promotes oil production in Texas, where Democrats dream of breakthrough &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYWJjajk5bEVXQ0tyQWVRX2twaHd1eVJmUE0wRGdOTzhRTks3N0xPazhFQ1p4aURBV1FRd2pzdkpYeEd1bVkza0lPNGtoYU9MTk5fX21tX1BTdUNSYTZMaGo0bzBUSk9MemZYNGdESUMwOERYa3NFX09NY2dEQXMyWlFOSC1qalgxOTBUMTdWMFdPdDdOVHpKcGlwM0wwaHdQMjdNV1dpOHA4a2p5RXc?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-27T16:31:00.000Z",
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Delta residents can chime in on Pacific Link oil pipeline - Delta Optimist",
       "description": "Delta residents can chime in on Pacific Link oil pipeline &nbsp;&nbsp; Delta Optimist",
       "content": "Delta residents can chime in on Pacific Link oil pipeline &nbsp;&nbsp; Delta Optimist",
@@ -170,21 +245,6 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief - EnergyNow.com",
-      "description": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
-      "content": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa19MNXhCbmV3NUpkb0VieGFCX3I3bXphNE41Yk02RDFJbGpSRWUwZjMxSXI2ZDRQcGFoWVdFMGVaY2Z0SXZBSDJSN2wzNnhaVlhaLXA3U2hIUTk4RnhQSDlQSTZYdGY0UG04MG9Nc2ZBMHpBMWRIQ3dOT1lsRHFKT2w4NDlDbzlfRnFITzMwcUdZRktoYmpGSEZKMXRpRllpS0Fz?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-27T08:50:46.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "amwalalghad.com"
-    },
-    {
       "title": "Pakistan, US Discuss LNG Supplies and Refinery Investment - Bloom Pakistan",
       "description": "Pakistan, US Discuss LNG Supplies and Refinery Investment &nbsp;&nbsp; Bloom Pakistan",
       "content": "Pakistan, US Discuss LNG Supplies and Refinery Investment &nbsp;&nbsp; Bloom Pakistan",
@@ -239,6 +299,36 @@
       "source": {
         "name": "UA.NEWS",
         "url": "https://ua.news"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "WA ramps up renewable energy targets as APA gas plant proposal enters review - Traders Union",
+      "description": "WA ramps up renewable energy targets as APA gas plant proposal enters review &nbsp;&nbsp; Traders Union",
+      "content": "WA ramps up renewable energy targets as APA gas plant proposal enters review &nbsp;&nbsp; Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOckI2dFhuR1NoZzZ3b2FPMi1rSk9vTVFTY2tpc0hjMC05a0ZwVW5YRnJTRllGUTAxaHhaUVFiS0M1S3NOWnBCRF9zN25HSkMzV2pJaEM1YWdobTB4Tm1rOGpnR2IyNTdVSlEwTVdXV0ZWV3p5VG1TbWRUclZ1cVc3QXFKVWJudFNLWnJSb0Z0bUJEbXV4akE?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-27T03:55:24.000Z",
+      "source": {
+        "name": "Traders Union",
+        "url": "https://tradersunion.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Western Australia advances new gas-fired power station plan amid renewable energy transition debate - https://streamlinefeed.co.ke/",
+      "description": "Western Australia advances new gas-fired power station plan amid renewable energy transition debate &nbsp;&nbsp; https://streamlinefeed.co.ke/",
+      "content": "Western Australia advances new gas-fired power station plan amid renewable energy transition debate &nbsp;&nbsp; https://streamlinefeed.co.ke/",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMURoY25wdXEtdVUtdFVYYThWbWhBOG96RnBHOHlXdnRPbHBoamd1SEpXZ0JvWHhfdUcwQjRIUzBzbkZkR2hjQmRBb3MwRTZrZUo3bXF0YzdCSGNiX3lMZ092cS1fWUNEQUpIeEhfa2ZjVk5sR012c2FUZ01TZldNbnBKcG14SUNpZm5NWXNHQ0tlRzMyV3dlYjVyNzFJcnpQNS1iSUFzQmZobFJFVE00NHlWdnIxeXdiVURFSDVGMC1vMzJ4QkUwV3VfYk1GZw?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-27T03:45:00.000Z",
+      "source": {
+        "name": "https://streamlinefeed.co.ke/",
+        "url": "https://streamlinefeed.co.ke"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -317,7 +407,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "تعلن شركة الشرق الأوسط للكابلات المتخصصة (مسك) تعديل تعريفتي الخدمة الكهربائية وخدمة المياه وذلك وفقاً لإجراءات حوكمة تعديل أسعار منتجات الطاقة والمياه - معلومات مباشر",
@@ -497,7 +587,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Hit by El-nino, Gujarat ready to trade electricity or money for water: Union Minister CR Patil - The Indian Express",
@@ -542,7 +632,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "attaqa.net"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Saudi Energy Announces Electricity Service Tariff Adjustment from January 1, 2027 - وكالة الأنباء السعودية",
@@ -1007,7 +1097,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "Renaissance Targets 500,000bpd Oil Production By 2030, Prioritises Gas Development - Majorwaves Energy Report",
@@ -1575,7 +1665,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Cumberland supervisors approve massive natural gas power plant - WWBT",
@@ -1830,7 +1920,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "Two Power Generation Asset Deals Add to Upstream-to-Power Value Chain Popularity - Hart Energy",
@@ -2460,7 +2550,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "Equinor rejects extending gas power plant operations at Melkøya, says state must pay - EnergyWatch",
@@ -3013,7 +3103,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "Electricity in health-care facilities - World Health Organization (WHO)",
@@ -3343,7 +3433,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "رئيس لجنة الطاقة بنقابة المهندسين يستعرض مستقبل الطاقة المتجددة بالشرق الأوسط وشمال أفريقيا - اليوم السابع",
@@ -3373,7 +3463,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "بطاريات التخزين تنافس الغاز في تكلفة الكهرباء.. الشرق الأوسط وأفريقيا بالصدارة - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -3643,7 +3733,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "asharqbusiness.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Wind power could save Türkiye $4 billion a year in gas imports, industry group says - Hürriyet Daily News",
@@ -3748,7 +3838,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "Isaias halts Gulf oil production sites. Will Florida gas prices spike? - Florida Today",
@@ -3928,7 +4018,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - Reuters",
@@ -4018,7 +4108,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "How to get the best power deal and save money on electricity and gas bills - Irish Examiner",
@@ -4213,7 +4303,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "EPA Repeals Power Plant Carbon Standards - Environmental and Energy Law Program – Harvard Law School",
@@ -4303,7 +4393,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "قطر تتجه لبدء إنتاج الغاز من توسعة حقل الشمال الشرقي - جريدة الشرق",
@@ -4528,7 +4618,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "النفط فوق 100 دولار.. عاصفة أميركية تهدد الإمدادات وتوترات الشرق الأوسط مستمرة - وكالة موازين نيوز",
@@ -4589,6 +4679,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief - EnergyNow.com",
+      "description": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
+      "content": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa19MNXhCbmV3NUpkb0VieGFCX3I3bXphNE41Yk02RDFJbGpSRWUwZjMxSXI2ZDRQcGFoWVdFMGVaY2Z0SXZBSDJSN2wzNnhaVlhaLXA3U2hIUTk4RnhQSDlQSTZYdGY0UG04MG9Nc2ZBMHpBMWRIQ3dOT1lsRHFKT2w4NDlDbzlfRnFITzMwcUdZRktoYmpGSEZKMXRpRllpS0Fz?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-06T22:44:14.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "US gas power plant plans rise to 60.4 GW — Electrek - UA.NEWS",
@@ -4741,21 +4846,6 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "State’s only coal power plant shifting to natural gas, will serve as backup power for region - Department of Ecology - State of Washington (.gov)",
-      "description": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Department of Ecology - State of Washington (.gov)",
-      "content": "State’s only coal power plant shifting to natural gas, will serve as backup power for region &nbsp;&nbsp; Department of Ecology - State of Washington (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTjRjcE9hVVY2Sm5JZlowc3lXZW9PaXZYbWlVSzdXVXBQVU9idmd4bXpBLW80VDF0Z2xCRmRDZV9lMHpsNE81ZURFd0dRN3Z5OE4yTHF2NldNZUtiZDVHSTRjcC1PZ09VTi1adkJfVzFzVjhMeTdLUDRRRXVvck5mT0JJNk9SajhudE5vQXk1cU9UOWRRYWFXamhKN0NYYUVwVHN4eDJGMXItUGJ1Wi16SDIyNUtMRHdkLWxOcWljbzFQSHQ5cGdOa1ptRmFnY3ozbDZWckpEcmtST3BncnBTQTNhZmQtcXBOcjRBaDVCT01HRUc3STYtSzNR?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-06T03:28:42.000Z",
-      "source": {
-        "name": "Department of Ecology - State of Washington (.gov)",
-        "url": "https://ecology.wa.gov"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Records reveal sprawling data center and power plant plans for Elizabeth Township - Pittsburgh's Public Source",
       "description": "Records reveal sprawling data center and power plant plans for Elizabeth Township &nbsp;&nbsp; Pittsburgh's Public Source",
       "content": "Records reveal sprawling data center and power plant plans for Elizabeth Township &nbsp;&nbsp; Pittsburgh's Public Source",
@@ -4873,7 +4963,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "تحول الطاقة المتجددة في الشرق الأوسط - السياسة",
@@ -5156,7 +5246,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "Glenfarne Welcomes More Than $50 Billion in South Korean Investment for Alaska LNG - energynews.pro",
@@ -5724,7 +5814,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "الحوثيون يستهدفون محطة تزوّد المسجد النبوي بالكهرباء - الشرق الأوسط",
@@ -5769,7 +5859,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "بطاريات تخزين الكهرباء في مصر.. خريطة المشروعات والتصنيع بحلول 2030 - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -5799,7 +5889,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية - اليوم السابع",
@@ -5874,7 +5964,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "شحنة بطاريات ضخمة تتحرك باتجاه مصر - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -6185,7 +6275,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future - najah.edu",
@@ -6215,7 +6305,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "asharqbusiness.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Serbia, SOCAR Sign Deal to Build Gas Power Plant in Niš - Caspian Post",
@@ -6500,7 +6590,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Saudi Energy Minister and Australian Counterpart Discuss Climate Action and Renewable Energy Initiatives - صحيفة مال",
@@ -6515,7 +6605,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "asharqbusiness.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "خطط بناء أكبر مصفاة نفط في أفريقيا تصطدم بحكم قضائي - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -6530,7 +6620,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "algerie-eco.com"
     },
     {
       "title": "Australia could run its electricity grid without fossil gas at similar cost; researchers say models under - The Times of India",
@@ -8536,7 +8626,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "asharqbusiness.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Moscow oil refinery shutdown and deaths in Russian attacks o - alquds.com",
@@ -12006,7 +12096,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "قطاع الشاحنات السعودي يتجه من الديزل إلى الكهرباء والقيادة الذاتية - الشرق الأوسط",
@@ -12816,7 +12906,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "asharqbusiness.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "Novak: Russia to Slightly Reduce Oil Production This Year - maaal.com",
@@ -12906,7 +12996,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "ognnews.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "Madison Gas and Electric Plans State’s First Fusion Power Plant - Urban Milwaukee",
@@ -13431,7 +13521,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "Natural Gas Leads U.S. Power Generation: 2 Midstream Stocks to Gain - finance.yahoo.com",
@@ -13506,7 +13596,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "منطقة الشرق الأوسط وأفريقيا تدخل «عصر الكهرباء» والتنفيذ يرسم خريطة الريادة - aawsat.com",
@@ -14897,7 +14987,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "amwalalghad.com"
+      "preferredSite": "thepeninsulaqatar.com"
     },
     {
       "title": "مصر.. انتقادات لزيادة أسعار الكهرباء ونواب يطالبون مراجعة القرار - arabic.cnn.com",
@@ -15104,96 +15194,6 @@
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "مصر: زيادة أسعار الكهرباء تعمق أعباء الغلاء وتثير انتقادات - aawsat.com",
-      "description": "مصر: زيادة أسعار الكهرباء تعمق أعباء الغلاء وتثير انتقادات &nbsp;&nbsp; aawsat.com",
-      "content": "مصر: زيادة أسعار الكهرباء تعمق أعباء الغلاء وتثير انتقادات &nbsp;&nbsp; aawsat.com",
-      "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNbTdoTzhyOFg0aXZnVENMYWJ0NXg1M3R0YnNSb1NrTk82NERGWXp0d1Rvb1BQVVd6WlFicW5EQ204ekVad3hLdHQzUG5xak5wR1lmWjlhRS1UZ3FqZUNpWVdmamRFTUducDg1YmNvTW1OdlFNSlpMa29wMXNCVG42amR1SHo4bHdWQTRFekRHZmlJZ1U1Wm1fOGlZMVlIV3plYVd3VDRpYm9fTld3RHJkOFI5TjBVSWxzaWlJanZyMmtLQUpST3dDWkVrQjlEZk5GRkJQWFlwWDZESDh3YWIwcGZfamJZeGtwLWlma1BFZG5jQzhJMDB4MTNLODBHRld2LUNpWGhwYS12aG5za2MwY0xOVFZMX29XbTd3WXhYUlNPWWd5MGtVaGRNdzdnWVVzX3ZyMXo4WkNCZHQ1dWJKZ3lfWkZja19JcUN5eU9WbXNpWUhsQzVSb055WDFrSTdscEtsTzRVLWV5THktLWtxZi1HNHNrQlpQLVpNR0l1bzhyd2U1RnZhWWdhbTNNc2JNVVczVTJlTnI1bE1TeW15SXNLaUJ2a1NybDRpdXZKWXZPYjF0d01xUllYSkFoMkwxLUJhUU16RGRzS0thWWdZRG5RVmxzNVdfZG81eWNnalRTUjB2dFZHYURQTG42ZFZ6TFp2d1owY00zTm10MXIyWThsd3Mya1hmMFg5ZlRUUnJ5R1RBX1M2LTQ3a2plbTN5bXhnX0dlQ1l5V1ZpQnR1ajJSdlNqQy1fdmtSWm1sZEM0TWdDdV9EVk5rSXZSLVo0RWRpckstWEJmZl9MU3FlY0Z2WDNPYXRNNzlUOTY5Y3JOcmRYNmRadHFkZVM0alpzM2NEaGo0d3ZHcE9POU5LMg?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-01T07:00:00.000Z",
-      "source": {
-        "name": "aawsat.com",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "The Controversial Space Mirrors Designed to Boost Solar Power - Crude Oil Prices Today | OilPrice.com",
-      "description": "The Controversial Space Mirrors Designed to Boost Solar Power &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
-      "content": "The Controversial Space Mirrors Designed to Boost Solar Power &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPakZ1U2phc3FUdHcwSFdzZHg2LS12cEZjTzdfMXZldEVHM0w4V3pseHVuQm1nOWZNOHp6RF85ZWVzbDZfS0NhVEVUQWFlLXRuTTRoQlJieXcyUXd1ZWxXOHFQeGtENnBSU1ZvWDV6RG0zdjkzVlNhSHczWmEwYkV3UjNPanlSLTdQWElZQllTdHpFWTNtbGlpSUxxT1pPZlZJcGJWZ2YxWUVpLUdheXfSAbMBQVVfeXFMTjlKWks2cnllelpkbkhCbDVwOV9Pd2pCTzlBN3V0NGNONHNpdzRpVWl3Mm9pMy1rZzlYaG9jRl9PWlRycTdlbmxISTNCd3N2cjVJVkZqT2Y2QUpfRkdoUEpmYWNHTnl2TFBIVEpjUS1TdXhHTTctNHRfdWZwSGxIVE5KR3JOTEFCLVliWUxOUnlTN1EtWmswVXZQbGVEaWlMQzEwb2x5eVlXN0NyWVRsM1BETGM?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-01T07:00:00.000Z",
-      "source": {
-        "name": "Crude Oil Prices Today | OilPrice.com",
-        "url": "https://oilprice.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "The Controversial Space Mirrors Designed to Boost Solar Power - oilprice.com",
-      "description": "The Controversial Space Mirrors Designed to Boost Solar Power &nbsp;&nbsp; oilprice.com",
-      "content": "The Controversial Space Mirrors Designed to Boost Solar Power &nbsp;&nbsp; oilprice.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPakZ1U2phc3FUdHcwSFdzZHg2LS12cEZjTzdfMXZldEVHM0w4V3pseHVuQm1nOWZNOHp6RF85ZWVzbDZfS0NhVEVUQWFlLXRuTTRoQlJieXcyUXd1ZWxXOHFQeGtENnBSU1ZvWDV6RG0zdjkzVlNhSHczWmEwYkV3UjNPanlSLTdQWElZQllTdHpFWTNtbGlpSUxxT1pPZlZJcGJWZ2YxWUVpLUdheXfSAbMBQVVfeXFMTjlKWks2cnllelpkbkhCbDVwOV9Pd2pCTzlBN3V0NGNONHNpdzRpVWl3Mm9pMy1rZzlYaG9jRl9PWlRycTdlbmxISTNCd3N2cjVJVkZqT2Y2QUpfRkdoUEpmYWNHTnl2TFBIVEpjUS1TdXhHTTctNHRfdWZwSGxIVE5KR3JOTEFCLVliWUxOUnlTN1EtWmswVXZQbGVEaWlMQzEwb2x5eVlXN0NyWVRsM1BETGM?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-01T07:00:00.000Z",
-      "source": {
-        "name": "oilprice.com",
-        "url": "https://oilprice.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "مصر ترفع أسعار الكهرباء 12 % - aawsat.com",
-      "description": "مصر ترفع أسعار الكهرباء 12 % &nbsp;&nbsp; aawsat.com",
-      "content": "مصر ترفع أسعار الكهرباء 12 % &nbsp;&nbsp; aawsat.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPdHRuUFJxVnJpeGFPX19YYjNZQjV0eGhKT2pmMTlCSy1zSlhWZ3JQaTgxOWpuRkpvQ1dUa3N3NE5UcGpZZFNQRlFheVBUcDZxQ09WWmN1MjN2V3Q2aTlZS1RCOWRPQkRYVnhJenVHNjk3Ym1oakNFd3ZkYVlWREZySlZianc1MlFCYUNNVUp2OHVlb3FjdktmOE1KTjgtYTRjSm5NVGlxRFowS1lrVVdBcEk5Y0liMEozY013RDZOSERaV2FpbkxCQmJyTWpUOTFFMEZTSzFKYm1sNW5tdjdpNnV2VlZGSFpPUXpDcE1MVGxUb3lfWTN6YWsyYi1udTlLVjZTYWVPTTRDNV9CdXNQQ0gzSEZPb1d6MXg3UFBhU091cUJOTEY3MGVn?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-01T07:00:00.000Z",
-      "source": {
-        "name": "aawsat.com",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Washington's only coal power plant switching to natural gas - NonStop Local KHQ",
-      "description": "Washington's only coal power plant switching to natural gas &nbsp;&nbsp; NonStop Local KHQ",
-      "content": "Washington's only coal power plant switching to natural gas &nbsp;&nbsp; NonStop Local KHQ",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV0xpM2ROZVVpN1NWOGR6TVhkcVhGWUR1NXlUUEpLTzVfUkdxbWdUZ1BtYVoyQnRib1gyd1NCNHd6Qk80Tk9BcW4xS2Y0RnRrcjhfbTMtWENjOEp5R1k5TWVhMzI1b3ZfZEFhRERrWC1zeVRyUk9TOUNXMHlHdml5YVNfX0FrQnA0UUZiSVRnckV0S2FfZ3lKaTdOUHBaSGFsenVqU0pTZFVMV21KQmNYV2k5OFpYdGg1eUcyQ1RKWkxqbkoySDJmaU9xRGd1dw?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-01T04:15:47.000Z",
-      "source": {
-        "name": "NonStop Local KHQ",
-        "url": "https://www.khq.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Washington's only coal power plant switching to natural gas - khq.com",
-      "description": "Washington's only coal power plant switching to natural gas &nbsp;&nbsp; khq.com",
-      "content": "Washington's only coal power plant switching to natural gas &nbsp;&nbsp; khq.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV0xpM2ROZVVpN1NWOGR6TVhkcVhGWUR1NXlUUEpLTzVfUkdxbWdUZ1BtYVoyQnRib1gyd1NCNHd6Qk80Tk9BcW4xS2Y0RnRrcjhfbTMtWENjOEp5R1k5TWVhMzI1b3ZfZEFhRERrWC1zeVRyUk9TOUNXMHlHdml5YVNfX0FrQnA0UUZiSVRnckV0S2FfZ3lKaTdOUHBaSGFsenVqU0pTZFVMV21KQmNYV2k5OFpYdGg1eUcyQ1RKWkxqbkoySDJmaU9xRGd1dw?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-01T04:15:47.000Z",
-      "source": {
-        "name": "khq.com",
-        "url": "https://www.khq.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
