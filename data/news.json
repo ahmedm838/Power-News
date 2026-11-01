@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-11-01T06:12:42.347Z",
+  "generatedAt": "2026-11-01T13:35:25.592Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief - EnergyNow.com",
+      "description": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
+      "content": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa19MNXhCbmV3NUpkb0VieGFCX3I3bXphNE41Yk02RDFJbGpSRWUwZjMxSXI2ZDRQcGFoWVdFMGVaY2Z0SXZBSDJSN2wzNnhaVlhaLXA3U2hIUTk4RnhQSDlQSTZYdGY0UG04MG9Nc2ZBMHpBMWRIQ3dOT1lsRHFKT2w4NDlDbzlfRnFITzMwcUdZRktoYmpGSEZKMXRpRllpS0Fz?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-01T10:03:19.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
     {
       "title": "A large oil refinery is on fire in Kstovo, Russia – photo - LIGA.net",
       "description": "A large oil refinery is on fire in Kstovo, Russia – photo &nbsp;&nbsp; LIGA.net",
@@ -149,6 +164,21 @@
       "source": {
         "name": "EnergyNow.com",
         "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "السيسي يؤكد أهمية محطة الضبعة النووية في تلبية احتياجات مصر من الكهرباء والطاقة - الشرق الأوسط",
+      "description": "السيسي يؤكد أهمية محطة الضبعة النووية في تلبية احتياجات مصر من الكهرباء والطاقة &nbsp;&nbsp; الشرق الأوسط",
+      "content": "السيسي يؤكد أهمية محطة الضبعة النووية في تلبية احتياجات مصر من الكهرباء والطاقة &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxPLUVOWEtSa0VvbXhtTjQ4ZVJVeGR6MDUxMUtDYm1CazAySENsLV9mLW01OGh3MTFYVUVFNGZrZXRxODVxSk1YZWhCS0EyQ1JIbmFzRG5idUlzSWV2eUUzcDZuc1BqRnd1MXUtVjR6VUJjNTkzbTJyZ1lzTkZDZC11WnpGV0xSellsY19SamJOcF9WUGtvQU82MHAydFA1endaOHZLNk5UdU1QRy0zSXVod0E4ZlBjODZicnhOUW5VOXYtZ1hKQ2FFYWJOdEhrc3pjZlBNcHZNX2s2ZzFuYkNGU0toVTFjSlFDZ0xBNU5qbF9YaFl6bTc3aDRwSTZNOXZXSXE3MWhtT3RVY1VxdVdneEtJYlVzVm43MU9kMExQRW1kOXdLeU5LM0lzc0JPR0U3MHVNWW9SVFI1LWt1M0dyR3Z0NnBMeHVFaWZWVHRadExhYlBEMExKaXFsWTVka1pKVERSQ0VGQ0xIb0NuSE9VamZkazlVVE93ek9EeUh2dzJKalNZbHJaS2x5ZUhLRHlIQXpBT2lybWNLQlRiUXU1bmZydV9BcW9IcUVCMDVUWXdVRjUwc01XVW56MTh4dXhtaWhudmJiRHJ3dzRsZUFQOFBBNkVjTTA1NUhGM21FZEJVYWdQUVZqNWRTTUJxWWEtNUVOREZxQlp1OFZMM0gySDVNUDZHbWhWV2pYdFQ4Mm5hbXZYYUJ0dEkxenBNb3JpamJRZVlNNnBqQWZfeUtncUZkRFNmYXFNN2d2bmFwQ1dUS2hzNnJ4VXIybnNDbEFhcFQ3dTBtLTQtVU5Hd3BiMHYzdFoyT3k2OGxXTUc2dF8wbDJkczF0dkkzUXItNFZ6UFJRM1hsVUxrOWpzTDhpYlVJOTRoekhSejFKcGxKN2prUURmbW1JUWFINA?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-30T18:18:00.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -410,21 +440,6 @@
       "preferredSite": "egelectricgate.com"
     },
     {
-      "title": "السيسي يؤكد أهمية محطة الضبعة النووية في تلبية احتياجات مصر من الكهرباء والطاقة - الشرق الأوسط",
-      "description": "السيسي يؤكد أهمية محطة الضبعة النووية في تلبية احتياجات مصر من الكهرباء والطاقة &nbsp;&nbsp; الشرق الأوسط",
-      "content": "السيسي يؤكد أهمية محطة الضبعة النووية في تلبية احتياجات مصر من الكهرباء والطاقة &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxPLUVOWEtSa0VvbXhtTjQ4ZVJVeGR6MDUxMUtDYm1CazAySENsLV9mLW01OGh3MTFYVUVFNGZrZXRxODVxSk1YZWhCS0EyQ1JIbmFzRG5idUlzSWV2eUUzcDZuc1BqRnd1MXUtVjR6VUJjNTkzbTJyZ1lzTkZDZC11WnpGV0xSellsY19SamJOcF9WUGtvQU82MHAydFA1endaOHZLNk5UdU1QRy0zSXVod0E4ZlBjODZicnhOUW5VOXYtZ1hKQ2FFYWJOdEhrc3pjZlBNcHZNX2s2ZzFuYkNGU0toVTFjSlFDZ0xBNU5qbF9YaFl6bTc3aDRwSTZNOXZXSXE3MWhtT3RVY1VxdVdneEtJYlVzVm43MU9kMExQRW1kOXdLeU5LM0lzc0JPR0U3MHVNWW9SVFI1LWt1M0dyR3Z0NnBMeHVFaWZWVHRadExhYlBEMExKaXFsWTVka1pKVERSQ0VGQ0xIb0NuSE9VamZkazlVVE93ek9EeUh2dzJKalNZbHJaS2x5ZUhLRHlIQXpBT2lybWNLQlRiUXU1bmZydV9BcW9IcUVCMDVUWXdVRjUwc01XVW56MTh4dXhtaWhudmJiRHJ3dzRsZUFQOFBBNkVjTTA1NUhGM21FZEJVYWdQUVZqNWRTTUJxWWEtNUVOREZxQlp1OFZMM0gySDVNUDZHbWhWV2pYdFQ4Mm5hbXZYYUJ0dEkxenBNb3JpamJRZVlNNnBqQWZfeUtncUZkRFNmYXFNN2d2bmFwQ1dUS2hzNnJ4VXIybnNDbEFhcFQ3dTBtLTQtVU5Hd3BiMHYzdFoyT3k2OGxXTUc2dF8wbDJkczF0dkkzUXItNFZ6UFJRM1hsVUxrOWpzTDhpYlVJOTRoekhSejFKcGxKN2prUURmbW1JUWFINA?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-29T10:55:02.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Without electricity, food or medicine – civilian evacuation planned in Russian-occupied Oleshky - Baltic News Network",
       "description": "Without electricity, food or medicine – civilian evacuation planned in Russian-occupied Oleshky &nbsp;&nbsp; Baltic News Network",
       "content": "Without electricity, food or medicine – civilian evacuation planned in Russian-occupied Oleshky &nbsp;&nbsp; Baltic News Network",
@@ -482,7 +497,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "Jordan Oil Production Falls 83.2%, Gas Output Down 11.4%... - Jordan News",
@@ -527,7 +542,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "asharqbusiness.com"
     },
     {
       "title": "Changes for massive Pa. data center, natural gas power plant were approved illegally: lawsuit - PennLive.com",
@@ -1472,7 +1487,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "asharqbusiness.com"
     },
     {
       "title": "Hit by El-nino, Gujarat ready to trade electricity or money for water: Union Minister CR Patil - The Indian Express",
@@ -1487,7 +1502,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "thepeninsulaqatar.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "هندسة كهرباء طهطا بسوهاج تواصل جهودها لرفع عدادات الإسكرا تنفيذًا لتوجيهات القابضة",
@@ -2102,7 +2117,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Public hearing on natural gas power plant moves to different New Albany school - The Columbus Dispatch",
@@ -2760,7 +2775,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Two Power Generation Asset Deals Add to Upstream-to-Power Value Chain Popularity - Hart Energy",
@@ -3450,7 +3465,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Equinor rejects extending gas power plant operations at Melkøya, says state must pay - EnergyWatch",
@@ -3825,7 +3840,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "asharqbusiness.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "الأرصاد تكشف تأثير الخريف على استهلاك الكهرباء .. والفروق بين شمال مصر وجنوبها - صدى البلد",
@@ -4018,7 +4033,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Electricity in health-care facilities - World Health Organization (WHO)",
@@ -4033,7 +4048,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "12 مديرًا عامًا يتنافسون على رئاسة 3 قطاعات تجارية مستحدثة بجنوب القاهرة للكهرباء",
@@ -4333,7 +4348,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "A gas pipeline connecting Central Asia to Europe exploded in Russia - UA.NEWS",
@@ -4348,7 +4363,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "thepeninsulaqatar.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "رئيس لجنة الطاقة بنقابة المهندسين يستعرض مستقبل الطاقة المتجددة بالشرق الأوسط وشمال أفريقيا - اليوم السابع",
@@ -4663,7 +4678,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "asharqbusiness.com"
     },
     {
       "title": "Wind power could save Türkiye $4 billion a year in gas imports, industry group says - Hürriyet Daily News",
@@ -4768,7 +4783,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "thepeninsulaqatar.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Isaias halts Gulf oil production sites. Will Florida gas prices spike? - Florida Today",
@@ -4948,7 +4963,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - Reuters",
@@ -5038,7 +5053,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "How to get the best power deal and save money on electricity and gas bills - Irish Examiner",
@@ -5233,7 +5248,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "EPA Repeals Power Plant Carbon Standards - Environmental and Energy Law Program – Harvard Law School",
@@ -5548,7 +5563,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "النفط فوق 100 دولار.. عاصفة أميركية تهدد الإمدادات وتوترات الشرق الأوسط مستمرة - وكالة موازين نيوز",
@@ -5609,21 +5624,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
-    },
-    {
-      "title": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief - EnergyNow.com",
-      "description": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
-      "content": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa19MNXhCbmV3NUpkb0VieGFCX3I3bXphNE41Yk02RDFJbGpSRWUwZjMxSXI2ZDRQcGFoWVdFMGVaY2Z0SXZBSDJSN2wzNnhaVlhaLXA3U2hIUTk4RnhQSDlQSTZYdGY0UG04MG9Nc2ZBMHpBMWRIQ3dOT1lsRHFKT2w4NDlDbzlfRnFITzMwcUdZRktoYmpGSEZKMXRpRllpS0Fz?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-06T22:44:14.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "egypttoday.com"
     },
     {
       "title": "US gas power plant plans rise to 60.4 GW — Electrek - UA.NEWS",
@@ -5788,7 +5788,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "alghad.com"
+      "preferredSite": "asharqbusiness.com"
     },
     {
       "title": "Wartsila to Supply LNG Dual-Fuel Engines for 12 CMA CGM Boxships - Ship & Bunker",
@@ -5803,7 +5803,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "thepeninsulaqatar.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Records reveal sprawling data center and power plant plans for Elizabeth Township - Pittsburgh's Public Source",
@@ -5923,7 +5923,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "تحول الطاقة المتجددة في الشرق الأوسط - السياسة",
@@ -6221,7 +6221,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Glenfarne Welcomes More Than $50 Billion in South Korean Investment for Alaska LNG - energynews.pro",
@@ -6789,7 +6789,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "thepeninsulaqatar.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "الحوثيون يستهدفون محطة تزوّد المسجد النبوي بالكهرباء - الشرق الأوسط",
@@ -6834,7 +6834,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "بطاريات تخزين الكهرباء في مصر.. خريطة المشروعات والتصنيع بحلول 2030 - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -6864,7 +6864,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "thepeninsulaqatar.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "العالم هذا المساء: تعزيزات أمريكية ضخمة تتجه للشرق الأوسط.. نصيحة إيلون ماسك لعلاج حموضة المعدة.. الحوثى تستهدف محطة لتوزيع الكهرباء بالمدينة المنورة.. لندن تعتقل مواطنا من أصل إيرانى بتهمة استهداف قاعدة جوية - اليوم السابع",
@@ -7280,7 +7280,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "asharqbusiness.com"
     },
     {
       "title": "Serbia, SOCAR Sign Deal to Build Gas Power Plant in Niš - Caspian Post",
@@ -9601,7 +9601,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "asharqbusiness.com"
     },
     {
       "title": "Moscow oil refinery shutdown and deaths in Russian attacks o - alquds.com",
@@ -11035,7 +11035,7 @@
         "turkey",
         "kuwait"
       ],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "asharqbusiness.com"
     },
     {
       "title": "Should you store your solar power or sell it back to the grid? - The Independent",
@@ -13071,7 +13071,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "قطاع الشاحنات السعودي يتجه من الديزل إلى الكهرباء والقيادة الذاتية - الشرق الأوسط",
@@ -13446,7 +13446,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "asharqbusiness.com"
     },
     {
       "title": "معلومات الوزراء: مصر تسجل نموًا سنويًا بنسبة 176% فى إضافات الطاقة الشمسية - youm7.com",
@@ -13956,7 +13956,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Madison Gas and Electric Plans State’s First Fusion Power Plant - Urban Milwaukee",
@@ -14241,7 +14241,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "asharqbusiness.com"
     },
     {
       "title": "في مجالات صناعة السيارات والطاقة المتجددة والهياكل المعدنية: رئيس الوزراء يبحث مع رئيس \"جونفاري إندستريز\" الإسبانية فرص الاستثمار في مصر التقى اليوم الدكتور مصطفى مدبولي، رئيس مجلس الوزراء، بمقر الحكومة بالعاصمة الجديدة، السيد/ جون ريبيراس، رئيس مجل - Facebook",
@@ -14436,7 +14436,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Natural Gas Leads U.S. Power Generation: 2 Midstream Stocks to Gain - Yahoo Finance",
@@ -14481,7 +14481,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Natural Gas Leads U.S. Power Generation: 2 Midstream Stocks to Gain - finance.yahoo.com",
@@ -14556,7 +14556,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "مصر تخطو بثبات نحو تعزيز أمن الطاقة خطط طموحة لزيادة إنتاج الغاز الطبيعي والزيت الخام، وتعظيم الاكتشافات البترولية الواعدة، تنفذها وزارة البترول والثروة المعدنية بالتعاون مع شركاء الاستثمار، استغلالاً للإمكانات الكبيرة التي تزخر بها مصر وبمل يؤكد جاذبيتها كو - Facebook",
@@ -14749,7 +14749,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "thepeninsulaqatar.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "«إكسون» تتجه نحو الحفر الآلي في حوض بيرميان لزيادة إنتاج النفط - الشرق الأوسط",
