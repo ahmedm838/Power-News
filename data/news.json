@@ -1,13 +1,88 @@
 {
-  "generatedAt": "2026-11-03T14:21:48.122Z",
+  "generatedAt": "2026-11-03T23:26:25.471Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
     {
+      "title": "Geely's New Family Car Runs on Methanol, Electricity or Petrol — Whichever Is Cheaper - Trending on Weibo",
+      "description": "Geely's New Family Car Runs on Methanol, Electricity or Petrol — Whichever Is Cheaper &nbsp;&nbsp; Trending on Weibo",
+      "content": "Geely's New Family Car Runs on Methanol, Electricity or Petrol — Whichever Is Cheaper &nbsp;&nbsp; Trending on Weibo",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN1VGWjhTdEFpWG1VQi1xb2lQa3hKMVNRQTRadXJGemttejcyMU1zdG42MnFCb19uUDc0Zmo0QVZ5cnV1WGwxNHlRblg3Yk02SmpwdGdFeFN4M3kyb2V5WGszT0kybS1DNG1LR1M3R2REdk9qRHJEUkU3Ry15T1VyRWFha0k5QQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-03T20:45:32.000Z",
+      "source": {
+        "name": "Trending on Weibo",
+        "url": "https://www.trendingonweibo.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "egypttoday.com"
+    },
+    {
+      "title": "Texas Wind Power Set to Plunge, Putting Natural Gas Generation on Deck - Natural Gas Intelligence",
+      "description": "Texas Wind Power Set to Plunge, Putting Natural Gas Generation on Deck &nbsp;&nbsp; Natural Gas Intelligence",
+      "content": "Texas Wind Power Set to Plunge, Putting Natural Gas Generation on Deck &nbsp;&nbsp; Natural Gas Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVzJablJRWTZCQU1hVUVmZm1WbEQ4TFJqUlppMVhVOHdSYzQyYUZ5engxU2ZubjFTR1JpbWppbV9vU0hBX1dpY29sWF9KazNpVmtWbndSZl9MRjdfTmQ5ZWxKaGVkZ0ZqVlFxeWZDT0hEbmpfRVJ1akU0QmJsUlNSNWpJTGVFT3htYlIxdUtGX3R6b0pwbG5falFWSTA0QmlvUjlFSG9n?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-03T19:39:07.000Z",
+      "source": {
+        "name": "Natural Gas Intelligence",
+        "url": "https://naturalgasintel.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "AKK pipeline to deliver gas to Abuja for power generation before the end of 2026 - Head Topics",
+      "description": "AKK pipeline to deliver gas to Abuja for power generation before the end of 2026 &nbsp;&nbsp; Head Topics",
+      "content": "AKK pipeline to deliver gas to Abuja for power generation before the end of 2026 &nbsp;&nbsp; Head Topics",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRC1RNWM3UUZyMzVJQXBCbUNtVlhFNVNVMU5CYkt0M01nbWc1MkJhaHNrQnQ0d2JoZnhnQzAtVWN4dUJFRUVTWnJkTVBYWjVrdncxTExVc0toUTAwdFhqdWFqdEEtVmpMTjNqY3ZsSURDVy16emNsUkt6YkhObVI3bGNGTF9qYi1oMUhuc1otMXdPd1FTVm5HVVBXWGVLdw?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-03T17:28:00.000Z",
+      "source": {
+        "name": "Head Topics",
+        "url": "https://ng.headtopics.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Groups Cancel $1-Billion Gas-Fired Power Plant Project in Wisconsin - POWER Magazine",
+      "description": "Groups Cancel $1-Billion Gas-Fired Power Plant Project in Wisconsin &nbsp;&nbsp; POWER Magazine",
+      "content": "Groups Cancel $1-Billion Gas-Fired Power Plant Project in Wisconsin &nbsp;&nbsp; POWER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeV9nRXhzWWY2WTBRc3dIdW9NbDlTYW5XUzFnc0pORGtXMjlBbXJGbFpJc0RxWW1XQldMOVMxaTRyQkI1a19ZdVdscDY3elMtVEh5YnlxQXNsNVM3VktjYVc2cHlTanREcjhoeUhkTnk3dThDeURDc1NhZHFYV0x2bktIQXhYUGtUek5Rc3FIMm0tRDhTUjNF?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-03T16:07:31.000Z",
+      "source": {
+        "name": "POWER Magazine",
+        "url": "https://www.powermag.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "320 MW nuclear power plant in US nears construction permit after safety review - Interesting Engineering",
       "description": "320 MW nuclear power plant in US nears construction permit after safety review &nbsp;&nbsp; Interesting Engineering",
       "content": "320 MW nuclear power plant in US nears construction permit after safety review &nbsp;&nbsp; Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN3pIeG56SGhvWlZEbEpjQzVFY0tkdWh5ZTJleFRFN3haMGNCWlRCaXNkQW5aQnltT0RlTUpad3p3azlrbWtHVk9sUmprdzZSdFZrOVJKYmloUjdqSi0zUWZfeFo3UDl5dlgxVm11ZDNyUnVXb1lmc05IRWRLaUVKd3hhQnhOWVAxS1E?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-03T12:51:00.000Z",
+      "source": {
+        "name": "Interesting Engineering",
+        "url": "https://interestingengineering.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "320 MW nuclear power plant moves closer to construction permit in US - Interesting Engineering",
+      "description": "320 MW nuclear power plant moves closer to construction permit in US &nbsp;&nbsp; Interesting Engineering",
+      "content": "320 MW nuclear power plant moves closer to construction permit in US &nbsp;&nbsp; Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN3pIeG56SGhvWlZEbEpjQzVFY0tkdWh5ZTJleFRFN3haMGNCWlRCaXNkQW5aQnltT0RlTUpad3p3azlrbWtHVk9sUmprdzZSdFZrOVJKYmloUjdqSi0zUWZfeFo3UDl5dlgxVm11ZDNyUnVXb1lmc05IRWRLaUVKd3hhQnhOWVAxS1E?oc=5",
       "image": "",
       "publishedAt": "2026-11-03T12:51:00.000Z",
@@ -32,7 +107,22 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
+    },
+    {
+      "title": "استهداف حوثي لكهرباء المسجد النبوي - الشرق الأوسط",
+      "description": "استهداف حوثي لكهرباء المسجد النبوي &nbsp;&nbsp; الشرق الأوسط",
+      "content": "استهداف حوثي لكهرباء المسجد النبوي &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOeEtWWTQxNHJHTkI3S1RXRldYaFEwOVRWSndSLW9malhmT2lXNGtzTVJhU25VUEh5cWhCR24yZlhwWkw4a014UzdublE4bzgtRUR2VVhkMDNuMTg4SnQ0Y2tJeDhZVEsyMG9fbHNIemZIaHVmRXhKYm9FT1ZiYVVnLTV2UUUxYlBHQ0VVYWF3c2RXVHZPd3pKejYyZHd5Y0ZaU0xSVHZBQzdHa05RQkgzdHVBN0cyUWlRRmVOS2ZFaHViQlVmZHJUZ2U2UnVyeFdZaWsxUGdHRWR3NnJVUjdRbDNqMXUyR0I0dnpTTEdVdWdzLV9mQ1M2T3JPWENtYkdlNXgxZGN5ZnFERHlqZmFLVHhNWFVOa2xaVm1JNUNmNmQ4b0NtLTN4bFlLZmtlTGpCZmI3VVBCRFRUVUVMSEFvQ3dwQjBKa2U5bGRONzhXMGxiTXlNU3dETEZkUzNZYUJHUElzd0pTSVdJNU50YmU2a0RoTGlQWHFGalJlUUw5dmNBajI5anZEYkZadDhPRFNVdHZSRExRUHR6TG5UVENDX0pvYVAxUnMwVGsxY3F5emlxQ2hfZmpHaWdZcFJqMno2UFNrRlYwRTdTUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-03T11:45:05.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "Electricity prices drop, gasoline tax reduced to 0%: Which businesses will benefit? - Vietnam.vn",
@@ -62,7 +152,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "taqanews.com"
     },
     {
       "title": "Malakoff restarts 429MW Lumut gas power plant 3 months ahead of schedule - The Edge Malaysia",
@@ -110,6 +200,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية - الشرق الأوسط",
+      "description": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
+      "content": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxOdGVyY0QtWVpUckRCNnk0ZHNJMXZDcldGS2pHYWNKRTQtdFVVQUh5NjVLTGxYSE04LW9rcU9BV0p6Z0RSZHFmdEc5MGpBSkt2MVVjTVRlVkRvVTVQT1AxeTZidmtCQXJjTGQ4VE10T3BsRVBrdnRIT1FWTl80bExjWGZpNVozZVZkOFhma0pLSm5pNzR4N1JwdS1KcnlfNDRCNUtIcGFCNjFQYVg1R0JXY0pndWJpNkxaNmZra2NlRG1CVnlYUHoxQi1SdWVTUVJWNE9JNXVkTVNncHNDOFZmb2NLNHNPYXJ3eGNqUkc3T0hOMVAwMkdDei1EX1N2b3IyNWlielNEclp6S0RiVm1ydm5NMUV3Q3FXUHpTZGUtWUpjWWZNZjVyVS16TE9FMkdDb2hMUWRiUFhXOVZ1YWljUE1ZVW15d3NxSDVvcVBjNHFFc0VaRFc4ck5JdFJfdjJvLXpuS05FWDcyREtHa2xocmk1c2x2T29HWEo4ekxMNlp2LVNocTlLdW5uSHBVd0V2cl9kLWZaaDBXYzY4OTFhaGhJTUo5Q2dkOGk4UFoxWVRvRzkyNXNIZjYxYjN3eVZZZi1IVlBpbkthNk95bVJySmhwVXJJeE9xVVFITmE2WVROTHBsRDFiNUtFenpLWDdaNko4cml6dEhUb3NMSUFraW5ScVhaQVdjUnZld2pkZ2JGNnFEV1JEVTdWYks?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-03T06:37:13.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "[SMM Chromium Flash] Kazchrome Builds 80 MW Power Plant to Recover Energy from Ferrochrome Smelting Gas - Shanghai Metals Market",
       "description": "[SMM Chromium Flash] Kazchrome Builds 80 MW Power Plant to Recover Energy from Ferrochrome Smelting Gas &nbsp;&nbsp; Shanghai Metals Market",
       "content": "[SMM Chromium Flash] Kazchrome Builds 80 MW Power Plant to Recover Energy from Ferrochrome Smelting Gas &nbsp;&nbsp; Shanghai Metals Market",
@@ -128,7 +233,7 @@
       "title": "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row - The Hindu",
       "description": "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row &nbsp;&nbsp; The Hindu",
       "content": "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row &nbsp;&nbsp; The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWZyUVY2aGQzbUM0UjBzakdGbHNoMFAyMmVJcnZEeXF4eGcwcnZxbWE0QzV5X3ZmUnNXQngxN0VERkVYblBLLVZuRXI0TDFTRElrU3NBZUI0UkxxSnFEVDMxR2taYWtJOVBOejRMOEUxUDVGdWtBeklOdkhXWFhkQTluUXJzTnZPaWU3dUdqYmFkRVlIWmhveE4tN3lubmQtQlBMVWRPdXF1MF96UkVPaHl4VmR5c0FURFcwUkdHOENaYTNJRW1uM0N5SUF4c20yaURDdEZR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWZyUVY2aGQzbUM0UjBzakdGbHNoMFAyMmVJcnZEeXF4eGcwcnZxbWE0QzV5X3ZmUnNXQngxN0VERkVYblBLLVZuRXI0TDFTRElrU3NBZUI0UkxxSnFEVDMxR2taYWtJOVBOejRMOEUxUDVGdWtBeklOdkhXWFhkQTluUXJzTnZPaWU3dUdqYmFkRVlIWmhveE4tN3lubmQtQlBMVWRPdXF1MF96UkVPaHl4VmR5c0FURFcwUkdHOENaYTNJRW1uM0N5SUF4c20yaURDdEZR0gHcAUFVX3lxTE93ZFZSeWZESzlzZUdEQkxuMlYwcXBHbHM2enFSYV9CaVdYRTI0TS1mdFd1dWp2UlREamdBbEFxOWJoVmo4bWxEeWFTdmpoc085dDgwWmE1cUZXbmwtODdBci1EaS1RZTI0UWJqUVBDMDZlUEI0SWIyTFAxUk96a1hNaE1MM2ZoSS1vZEFtTnRNU216dU1OSEk2MnVZUFB2U3VsYXNISzVOcWk1a0pla3lxYnFuRDJvVkxBOFdfTjQ4UWxsWFBNTnNRamQxb3ZqeTFRcEZ4a0djTzI2MDg?oc=5",
       "image": "",
       "publishedAt": "2026-11-02T22:08:34.000Z",
       "source": {
@@ -212,7 +317,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "taqanews.com"
     },
     {
       "title": "ستساعد محطة الطاقة الحرارية Ca Na LNG على استقرار إمدادات الطاقة للمنطقة الاقتصادية الرئيسية الجنوبية. - Vietnam.vn",
@@ -317,7 +422,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "taqanews.com"
     },
     {
       "title": "Cost to Build a Natural Gas-Fired Power Plant Surges 66%, BNEF Says - EnergyNow.com",
@@ -392,7 +497,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "taqanews.com"
     },
     {
       "title": "Malaysia brings forward extra 9GW gas-fired power-generation capacity target to 2030 - The Sun Malaysia",
@@ -545,6 +650,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Idled WA coal power plant generates a natural gas fight - The Spokesman-Review",
+      "description": "Idled WA coal power plant generates a natural gas fight &nbsp;&nbsp; The Spokesman-Review",
+      "content": "Idled WA coal power plant generates a natural gas fight &nbsp;&nbsp; The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRF9BaEwxUkpfUVQzQ3R2bzljbFZJMFUyZVhnWThjZjEzeUs0ME5LNk1zNHo0Q1NIcnZDLWVkakdzNGFSTGpwWWJKY1k2b05DVzhhZUxjckxCV2tfejFpeVlCMW12eXBKYzRSX21xQ0VoX05EYmRocTRjamlDYk9sQlotRnR0c2FFM094RTZycGZtRVhHdzhSY3p0QWk3dw?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-01T11:00:00.000Z",
+      "source": {
+        "name": "The Spokesman-Review",
+        "url": "https://www.spokesman.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "جبل عتاقة.. بطارية مائية عملاقة تخزن الكهرباء وتنير مصر لمدة 8 ساعات متواصلة - الفلاح اليوم",
       "description": "جبل عتاقة.. بطارية مائية عملاقة تخزن الكهرباء وتنير مصر لمدة 8 ساعات متواصلة &nbsp;&nbsp; الفلاح اليوم",
       "content": "جبل عتاقة.. بطارية مائية عملاقة تخزن الكهرباء وتنير مصر لمدة 8 ساعات متواصلة &nbsp;&nbsp; الفلاح اليوم",
@@ -554,6 +674,21 @@
       "source": {
         "name": "الفلاح اليوم",
         "url": "https://alfallahalyoum.news"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "«الكهرباء» تبدأ تطبيق خصم 30% لمشتركي العدادات الكودية طبقا لتوصيات «منتدي مصر» - بوابة الشروق",
+      "description": "«الكهرباء» تبدأ تطبيق خصم 30% لمشتركي العدادات الكودية طبقا لتوصيات «منتدي مصر» &nbsp;&nbsp; بوابة الشروق",
+      "content": "«الكهرباء» تبدأ تطبيق خصم 30% لمشتركي العدادات الكودية طبقا لتوصيات «منتدي مصر» &nbsp;&nbsp; بوابة الشروق",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYU94bTlHdGR6TXN5bmlKdUZZQ29wUlpSaHZhTjdFekkyZ0piZjhjYlpHcXl4SXpMQWx0RG9wd0ZMeVdtYTVRN1hySllVN3NnNXZhamJBUDdZd2N0SDZJRmZTV0IxaUd4RU0tUEdsM19GcVdpd1diOGVJWWxCanh2VG1Tb0FXWTM5WEVudkJIRGJRaHp2U1NxOG05WXJXYUQ3cjUyb1JYTQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-01T07:11:51.000Z",
+      "source": {
+        "name": "بوابة الشروق",
+        "url": "https://www.shorouknews.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -693,21 +828,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
-    },
-    {
-      "title": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief - EnergyNow.com",
-      "description": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
-      "content": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa19MNXhCbmV3NUpkb0VieGFCX3I3bXphNE41Yk02RDFJbGpSRWUwZjMxSXI2ZDRQcGFoWVdFMGVaY2Z0SXZBSDJSN2wzNnhaVlhaLXA3U2hIUTk4RnhQSDlQSTZYdGY0UG04MG9Nc2ZBMHpBMWRIQ3dOT1lsRHFKT2w4NDlDbzlfRnFITzMwcUdZRktoYmpGSEZKMXRpRllpS0Fz?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-31T07:00:00.000Z",
-      "source": {
-        "name": "EnergyNow.com",
-        "url": "https://energynow.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "egypttoday.com"
     },
     {
       "title": "مسلحون يغلقون خط \"الحمادة\" النفطي.. تصعيد يحاصر مصفاة الزاوية الليبية | التلفزيون العربي - التلفزيون العربي",
@@ -1895,21 +2015,6 @@
       "preferredSite": ""
     },
     {
-      "title": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية - الشرق الأوسط",
-      "description": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
-      "content": "«فاتورة الكهرباء» تخلخل ميزانيات أسر مصرية &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxOdGVyY0QtWVpUckRCNnk0ZHNJMXZDcldGS2pHYWNKRTQtdFVVQUh5NjVLTGxYSE04LW9rcU9BV0p6Z0RSZHFmdEc5MGpBSkt2MVVjTVRlVkRvVTVQT1AxeTZidmtCQXJjTGQ4VE10T3BsRVBrdnRIT1FWTl80bExjWGZpNVozZVZkOFhma0pLSm5pNzR4N1JwdS1KcnlfNDRCNUtIcGFCNjFQYVg1R0JXY0pndWJpNkxaNmZra2NlRG1CVnlYUHoxQi1SdWVTUVJWNE9JNXVkTVNncHNDOFZmb2NLNHNPYXJ3eGNqUkc3T0hOMVAwMkdDei1EX1N2b3IyNWlielNEclp6S0RiVm1ydm5NMUV3Q3FXUHpTZGUtWUpjWWZNZjVyVS16TE9FMkdDb2hMUWRiUFhXOVZ1YWljUE1ZVW15d3NxSDVvcVBjNHFFc0VaRFc4ck5JdFJfdjJvLXpuS05FWDcyREtHa2xocmk1c2x2T29HWEo4ekxMNlp2LVNocTlLdW5uSHBVd0V2cl9kLWZaaDBXYzY4OTFhaGhJTUo5Q2dkOGk4UFoxWVRvRzkyNXNIZjYxYjN3eVZZZi1IVlBpbkthNk95bVJySmhwVXJJeE9xVVFITmE2WVROTHBsRDFiNUtFenpLWDdaNko4cml6dEhUb3NMSUFraW5ScVhaQVdjUnZld2pkZ2JGNnFEV1JEVTdWYks?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-26T09:34:46.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "«الدعم السريع» تشن هجمات بمُسيرات على 5 محطات كهرباء في السودان - الشرق الأوسط",
       "description": "«الدعم السريع» تشن هجمات بمُسيرات على 5 محطات كهرباء في السودان &nbsp;&nbsp; الشرق الأوسط",
       "content": "«الدعم السريع» تشن هجمات بمُسيرات على 5 محطات كهرباء في السودان &nbsp;&nbsp; الشرق الأوسط",
@@ -2060,21 +2165,6 @@
       "preferredSite": "alborsaanews.com"
     },
     {
-      "title": "Hit by El-nino, Gujarat ready to trade electricity or money for water: Union Minister CR Patil - The Indian Express",
-      "description": "Hit by El-nino, Gujarat ready to trade electricity or money for water: Union Minister CR Patil &nbsp;&nbsp; The Indian Express",
-      "content": "Hit by El-nino, Gujarat ready to trade electricity or money for water: Union Minister CR Patil &nbsp;&nbsp; The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOW84ZVp1bHVXTWtib0ZnNzdpcTNhdVpKb1kwRUlpNG12U3haY0d5UXl4NVNwR21TSm4tX3NYdWRnY2VoY3l4QnprVlpmcWR4SUJ1cGEwenZTaUgxb0dwTWVpQ2pCQW5tNExQYTVMcm1Vc21mRkUwcGt5MkRJWmZpYVNVUE1BSUJxQkNKemZWOVkzdFUzRl9uTHlqQ28wSEd6Smd6cWM4ek5tTTRTQnpYd2Zzd1lvdFhtY3lxNmxLcGlRWTRldmxIdXQyRTJkcE94SFItNHpPRF9vWXVZQkczWlBvNXprNVkz0gHvAUFVX3lxTE1XY3h4NnRCRGxTWkh1SWo2MkFIMlNrRHZJb1VpWldtN3hNcS1BV2pMaEl1bHVwYXI0Z0pHWUdxTVNMb09QQ3RSOHNrMHFQdEp4R0JPN3VVM21rWlJ3T2tiYjJ0N2FmR21xcDcyVDBCdkdyVVNlenJ5TVgzYzlObVRxcTdDdHo3bGxUd1lSbnZjUUx1RmNHVzJ4NFpsVkFNRFlFZlJCT3RJRFQxajRFZlUwS0c3SlBidXBrZXp3NnpPZmVPMWwxUHNpUjFpYzk0R2JUNG5YVENiMzY4Q3paR1NQWk8xSDV0TDYzOEFBalZJ?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-25T14:08:07.000Z",
-      "source": {
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "egypttoday.com"
-    },
-    {
       "title": "هندسة كهرباء طهطا بسوهاج تواصل جهودها لرفع عدادات الإسكرا تنفيذًا لتوجيهات القابضة",
       "description": "تواصل هندسة كهرباء طهطا بقطاع توزيع كهرباء سوهاج جهودها الميدانية لتنفيذ تعليمات الشركة القابضة لكهرباء مصر بشأن رفع عدادات الإسكرا، …",
       "content": "تواصل هندسة كهرباء طهطا بقطاع توزيع كهرباء سوهاج جهودها الميدانية لتنفيذ تعليمات الشركة القابضة لكهرباء مصر بشأن رفع عدادات الإسكرا، …",
@@ -2178,6 +2268,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "hespress.com"
+    },
+    {
+      "title": "Hit by El-nino, Gujarat ready to trade electricity or money for water: Union Minister CR Patil - The Indian Express",
+      "description": "Hit by El-nino, Gujarat ready to trade electricity or money for water: Union Minister CR Patil &nbsp;&nbsp; The Indian Express",
+      "content": "Hit by El-nino, Gujarat ready to trade electricity or money for water: Union Minister CR Patil &nbsp;&nbsp; The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOW84ZVp1bHVXTWtib0ZnNzdpcTNhdVpKb1kwRUlpNG12U3haY0d5UXl4NVNwR21TSm4tX3NYdWRnY2VoY3l4QnprVlpmcWR4SUJ1cGEwenZTaUgxb0dwTWVpQ2pCQW5tNExQYTVMcm1Vc21mRkUwcGt5MkRJWmZpYVNVUE1BSUJxQkNKemZWOVkzdFUzRl9uTHlqQ28wSEd6Smd6cWM4ek5tTTRTQnpYd2Zzd1lvdFhtY3lxNmxLcGlRWTRldmxIdXQyRTJkcE94SFItNHpPRF9vWXVZQkczWlBvNXprNVkz0gHvAUFVX3lxTE1XY3h4NnRCRGxTWkh1SWo2MkFIMlNrRHZJb1VpWldtN3hNcS1BV2pMaEl1bHVwYXI0Z0pHWUdxTVNMb09QQ3RSOHNrMHFQdEp4R0JPN3VVM21rWlJ3T2tiYjJ0N2FmR21xcDcyVDBCdkdyVVNlenJ5TVgzYzlObVRxcTdDdHo3bGxUd1lSbnZjUUx1RmNHVzJ4NFpsVkFNRFlFZlJCT3RJRFQxajRFZlUwS0c3SlBidXBrZXp3NnpPZmVPMWwxUHNpUjFpYzk0R2JUNG5YVENiMzY4Q3paR1NQWk8xSDV0TDYzOEFBalZJ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-25T07:00:00.000Z",
+      "source": {
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Why Is the Saudi “East-West” Oil Pipeline Considered a Strategic Target for Sana’a? - الخبر اليمني",
@@ -2687,7 +2792,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Public hearing on natural gas power plant moves to different New Albany school - The Columbus Dispatch",
@@ -4050,7 +4155,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Equinor rejects extending gas power plant operations at Melkøya, says state must pay - EnergyWatch",
@@ -4618,7 +4723,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Electricity in health-care facilities - World Health Organization (WHO)",
@@ -4633,7 +4738,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "12 مديرًا عامًا يتنافسون على رئاسة 3 قطاعات تجارية مستحدثة بجنوب القاهرة للكهرباء",
@@ -4933,7 +5038,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "A gas pipeline connecting Central Asia to Europe exploded in Russia - UA.NEWS",
@@ -4948,7 +5053,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "رئيس لجنة الطاقة بنقابة المهندسين يستعرض مستقبل الطاقة المتجددة بالشرق الأوسط وشمال أفريقيا - اليوم السابع",
@@ -5146,21 +5251,6 @@
       "preferredSite": ""
     },
     {
-      "title": "ميتسوبيشي باور: مصر تشهد استثمارات كبيرة في الطاقة المتجددة - جريدة حابي",
-      "description": "ميتسوبيشي باور: مصر تشهد استثمارات كبيرة في الطاقة المتجددة &nbsp;&nbsp; جريدة حابي",
-      "content": "ميتسوبيشي باور: مصر تشهد استثمارات كبيرة في الطاقة المتجددة &nbsp;&nbsp; جريدة حابي",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQTDN4QzhEMmJJX29DcGVsWnluTXlkekFNX3FRWmpGNXpkZWE3S2xyQXpKWWdBNG90bk1heXZGeGJiQ2ZVcWRBbkZKa0I5SjhUWVNLem5KRnVnWDg0V0Joa0l4ZlJFOEJsdmF0TUo2SWtpZjJ6RHB6ekE4TXdrZ3Q0T1BzYldEN1cteTVLdHFneDAzRmluSG5idlBqZDVQUHl6LWxpMTdjcXBxZEdlNDZ2NUoyX0NINGJ5YVk4aFVWMk9sSS0wVFVXX0paWDdNUFdSajByX1ZmSEFEMEFXOHJVbm1xVmF5d2xTMEZvRUVvMnhUUTd5X2duemR4ZDVhZEg2RWFibFZJOFJvUlotZFRSWDljeE5CblFkWVNHVEdlMlI4UFZndjFSYk5US3M0LTRhQk51QURXRTZ4RzlrZEtwTjFibmEwQ0dKQTFPN2dwdUM1djQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-12T13:36:32.000Z",
-      "source": {
-        "name": "جريدة حابي",
-        "url": "https://hapijournal.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "\"We're cutting produce losses with cooling that needs no electricity\" - FreshPlaza",
       "description": "\"We're cutting produce losses with cooling that needs no electricity\" &nbsp;&nbsp; FreshPlaza",
       "content": "\"We're cutting produce losses with cooling that needs no electricity\" &nbsp;&nbsp; FreshPlaza",
@@ -5174,6 +5264,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
+    },
+    {
+      "title": "ميتسوبيشي باور: مصر تشهد استثمارات كبيرة في الطاقة المتجددة - جريدة حابي",
+      "description": "ميتسوبيشي باور: مصر تشهد استثمارات كبيرة في الطاقة المتجددة &nbsp;&nbsp; جريدة حابي",
+      "content": "ميتسوبيشي باور: مصر تشهد استثمارات كبيرة في الطاقة المتجددة &nbsp;&nbsp; جريدة حابي",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQTDN4QzhEMmJJX29DcGVsWnluTXlkekFNX3FRWmpGNXpkZWE3S2xyQXpKWWdBNG90bk1heXZGeGJiQ2ZVcWRBbkZKa0I5SjhUWVNLem5KRnVnWDg0V0Joa0l4ZlJFOEJsdmF0TUo2SWtpZjJ6RHB6ekE4TXdrZ3Q0T1BzYldEN1cteTVLdHFneDAzRmluSG5idlBqZDVQUHl6LWxpMTdjcXBxZEdlNDZ2NUoyX0NINGJ5YVk4aFVWMk9sSS0wVFVXX0paWDdNUFdSajByX1ZmSEFEMEFXOHJVbm1xVmF5d2xTMEZvRUVvMnhUUTd5X2duemR4ZDVhZEg2RWFibFZJOFJvUlotZFRSWDljeE5CblFkWVNHVEdlMlI4UFZndjFSYk5US3M0LTRhQk51QURXRTZ4RzlrZEtwTjFibmEwQ0dKQTFPN2dwdUM1djQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
+      "source": {
+        "name": "جريدة حابي",
+        "url": "https://hapijournal.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
     },
     {
       "title": "«مصر للطاقة 2026»: تكامل شبكات الكهرباء يتطلب أطرًا تنظيمية موحدة وتخطيطًا طويل الأجل - جريدة المال",
@@ -5368,7 +5473,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Isaias halts Gulf oil production sites. Will Florida gas prices spike? - Florida Today",
@@ -5548,7 +5653,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - Reuters",
@@ -5638,7 +5743,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "How to get the best power deal and save money on electricity and gas bills - Irish Examiner",
@@ -5833,7 +5938,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "EPA Repeals Power Plant Carbon Standards - Environmental and Energy Law Program – Harvard Law School",
@@ -6163,7 +6268,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "النفط فوق 100 دولار.. عاصفة أميركية تهدد الإمدادات وتوترات الشرق الأوسط مستمرة - وكالة موازين نيوز",
@@ -6224,6 +6329,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief - EnergyNow.com",
+      "description": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
+      "content": "High Gas Prices Could Make US LNG Uncompetitive, Says Fulcrum LNG Chief &nbsp;&nbsp; EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa19MNXhCbmV3NUpkb0VieGFCX3I3bXphNE41Yk02RDFJbGpSRWUwZjMxSXI2ZDRQcGFoWVdFMGVaY2Z0SXZBSDJSN2wzNnhaVlhaLXA3U2hIUTk4RnhQSDlQSTZYdGY0UG04MG9Nc2ZBMHpBMWRIQ3dOT1lsRHFKT2w4NDlDbzlfRnFITzMwcUdZRktoYmpGSEZKMXRpRllpS0Fz?oc=5",
+      "image": "",
+      "publishedAt": "2026-10-06T22:44:14.000Z",
+      "source": {
+        "name": "EnergyNow.com",
+        "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "US gas power plant plans rise to 60.4 GW — Electrek - UA.NEWS",
@@ -6403,7 +6523,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Records reveal sprawling data center and power plant plans for Elizabeth Township - Pittsburgh's Public Source",
@@ -6523,7 +6643,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "تحول الطاقة المتجددة في الشرق الأوسط - السياسة",
@@ -6821,7 +6941,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Glenfarne Welcomes More Than $50 Billion in South Korean Investment for Alaska LNG - energynews.pro",
@@ -7362,21 +7482,6 @@
       "preferredSite": "zawya.com"
     },
     {
-      "title": "استهداف حوثي لكهرباء المسجد النبوي - الشرق الأوسط",
-      "description": "استهداف حوثي لكهرباء المسجد النبوي &nbsp;&nbsp; الشرق الأوسط",
-      "content": "استهداف حوثي لكهرباء المسجد النبوي &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOeEtWWTQxNHJHTkI3S1RXRldYaFEwOVRWSndSLW9malhmT2lXNGtzTVJhU25VUEh5cWhCR24yZlhwWkw4a014UzdublE4bzgtRUR2VVhkMDNuMTg4SnQ0Y2tJeDhZVEsyMG9fbHNIemZIaHVmRXhKYm9FT1ZiYVVnLTV2UUUxYlBHQ0VVYWF3c2RXVHZPd3pKejYyZHd5Y0ZaU0xSVHZBQzdHa05RQkgzdHVBN0cyUWlRRmVOS2ZFaHViQlVmZHJUZ2U2UnVyeFdZaWsxUGdHRWR3NnJVUjdRbDNqMXUyR0I0dnpTTEdVdWdzLV9mQ1M2T3JPWENtYkdlNXgxZGN5ZnFERHlqZmFLVHhNWFVOa2xaVm1JNUNmNmQ4b0NtLTN4bFlLZmtlTGpCZmI3VVBCRFRUVUVMSEFvQ3dwQjBKa2U5bGRONzhXMGxiTXlNU3dETEZkUzNZYUJHUElzd0pTSVdJNU50YmU2a0RoTGlQWHFGalJlUUw5dmNBajI5anZEYkZadDhPRFNVdHZSRExRUHR6TG5UVENDX0pvYVAxUnMwVGsxY3F5emlxQ2hfZmpHaWdZcFJqMno2UFNrRlYwRTdTUQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-10-01T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
       "title": "Korea protests US' unilateral announcement on Alaska LNG project - The Korea Times",
       "description": "Korea protests US' unilateral announcement on Alaska LNG project &nbsp;&nbsp; The Korea Times",
       "content": "Korea protests US' unilateral announcement on Alaska LNG project &nbsp;&nbsp; The Korea Times",
@@ -7434,7 +7539,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "بطاريات تخزين الكهرباء في مصر.. خريطة المشروعات والتصنيع بحلول 2030 - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -7539,7 +7644,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "taqanews.com"
     },
     {
       "title": "شحنة بطاريات ضخمة تتحرك باتجاه مصر - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
@@ -7850,7 +7955,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "taqanews.com"
     },
     {
       "title": "جامعة النجاح الوطنية : An-Najah Hosts Municipal Dialogue on a Shared Renewable Energy Future - najah.edu",
@@ -8165,7 +8270,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "taqanews.com"
     },
     {
       "title": "Saudi Energy Minister and Australian Counterpart Discuss Climate Action and Renewable Energy Initiatives - صحيفة مال",
@@ -13671,7 +13776,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "قطاع الشاحنات السعودي يتجه من الديزل إلى الكهرباء والقيادة الذاتية - الشرق الأوسط",
@@ -14556,7 +14661,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Madison Gas and Electric Plans State’s First Fusion Power Plant - Urban Milwaukee",
@@ -14661,7 +14766,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "zawya.com"
+      "preferredSite": "egypttoday.com"
     },
     {
       "title": "قدرة الطاقة الشمسية في الصين تتخطى المحطات العاملة بالفحم للمرة الأولى - الشرق الأوسط",
@@ -15036,7 +15141,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "egypttoday.com"
+      "preferredSite": "zawya.com"
     },
     {
       "title": "Natural Gas Leads U.S. Power Generation: 2 Midstream Stocks to Gain - Yahoo Finance",
@@ -15066,124 +15171,6 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "i2Cool Expands Electricity-Free Cooling Portfolio as Europe Faces Intensifying Heatwaves - Yahoo Finance",
-      "description": "i2Cool Expands Electricity-Free Cooling Portfolio as Europe Faces Intensifying Heatwaves &nbsp;&nbsp; Yahoo Finance",
-      "content": "i2Cool Expands Electricity-Free Cooling Portfolio as Europe Faces Intensifying Heatwaves &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVEJEOGlBZHhobV8tX3pDaVdTVTJaRHp3ZFlVOU10RGVVd1NDQmNvX3JDaDVBQ0VyYVprTGlNTzF0SUJLY3d5NTg3eDJYeGpTazNzdDYxY210XzlYdkxEendiSmhlZDBkN2gzZVBWZG1wT3VfSWxFN0ZiZHJLZE5KbDdMT3FWREd1N2ZkdGczdzdUdE4yZUpINDNGeDI?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-28T07:00:00.000Z",
-      "source": {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "Natural Gas Leads U.S. Power Generation: 2 Midstream Stocks to Gain - finance.yahoo.com",
-      "description": "Natural Gas Leads U.S. Power Generation: 2 Midstream Stocks to Gain &nbsp;&nbsp; finance.yahoo.com",
-      "content": "Natural Gas Leads U.S. Power Generation: 2 Midstream Stocks to Gain &nbsp;&nbsp; finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGdzODk5amxkbVhETXlCRkdnZGZMdlBVejRvaGIxQVNQV043Q3pXMmk3U1lnN3N6b3dzNnJuUFhkZUNRUGxIWjBHTkFYcnRuSk1RUXF2cWVqbGFnVzF4Y0NiMGRKbkJXaElGWkVaMVo2Q280N1pWUktnX2N4Q2VQR1lXcnd3M01kdmc?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-28T07:00:00.000Z",
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "الطلب على الكهرباء في الشرق الأوسط وشمال أفريقيا قد يتضاعف.. والإمارات نموذجًا - attaqa.net",
-      "description": "الطلب على الكهرباء في الشرق الأوسط وشمال أفريقيا قد يتضاعف.. والإمارات نموذجًا &nbsp;&nbsp; attaqa.net",
-      "content": "الطلب على الكهرباء في الشرق الأوسط وشمال أفريقيا قد يتضاعف.. والإمارات نموذجًا &nbsp;&nbsp; attaqa.net",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQXdrSi01eG8tLUZTckJ0N2dXUHZBREplanJrNW45dm56WERtakVWeUVnSkdoT3IyZmUzUVcxZGFoTUtuSEdlWFR0d280R2Zrb01mc0VwTHZrZkNSVlM1QjR0X1dZcWhReGdJRENyS3VZRHREem9sZDFxQ190Vl9ScmhqYkJOOWNOOXBqeTUyRjFtbmtqOGFaaU1MTGxocWVzdjhIcDNzaEd2TnNGYUd4d0hvcUJJc21NUmhIVVJTRWhQZmcwZ2RXT0s0UFp1b3Vqa2FCZkF4WVU5dXFNQnhZU1BTdl9oekY1bjNYUUVDeGpmd0JnX0s2NmZiZGhHTXpGaE84Y19xZ3I5UmZjZ0dDX3o3enY1MkdMRHNFRERCUmdaLWVqeWI3TmpNTmtaOEpRaFlpQzJsOVNVbUxGbzRha2xjMkhVeXlOaTNVY3Nnd3k?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-28T07:00:00.000Z",
-      "source": {
-        "name": "attaqa.net",
-        "url": "https://attaqa.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "i2Cool Expands Electricity-Free Cooling Portfolio as Europe Faces Intensifying Heatwaves - Morningstar",
-      "description": "i2Cool Expands Electricity-Free Cooling Portfolio as Europe Faces Intensifying Heatwaves &nbsp;&nbsp; Morningstar",
-      "content": "i2Cool Expands Electricity-Free Cooling Portfolio as Europe Faces Intensifying Heatwaves &nbsp;&nbsp; Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS2o5azV6ZGJ3RmhCN1pvNU4yRWpvbHhfMnQtaDNaVEo3bmlWUU5KbzJaR2twZ05iWml2bklLOVJoM0FPVW1pX2dJS2M2N1BFTWxiMjlGeGtNZThvOFJHdDFSRjF0R3BTZmE4R0E1UTBXTk82aWhxWjBRN2p4aWJsbUx4YmYxSmRPc1BIZVpqZWthR0lWT0JfY1JMM1c5S3RZcWlhSTlLeWlOWG5OenY4YTFpbmZ1ejJsdkIwcmJhRlJUTlVFRVdrcHV5YnNCN2hKQlRBYjVSNHpFMV9oV0tMdkhrMA?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-28T07:00:00.000Z",
-      "source": {
-        "name": "Morningstar",
-        "url": "https://www.morningstar.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "MHIET Establishes Hydrogen Co-Firing Specifications for the KU Series Gas Engine for Power Generation-- Commencing Proposal Activities for Hydrogen-Capable Solutions Supporting Energy Transition - Mitsubishi Heavy Industries, Ltd.",
-      "description": "MHIET Establishes Hydrogen Co-Firing Specifications for the KU Series Gas Engine for Power Generation-- Commencing Proposal Activities for Hydrogen-Capable Solutions Supporting Energy Transition &nbsp;&nbsp; Mitsubishi Heavy Industries, Ltd.",
-      "content": "MHIET Establishes Hydrogen Co-Firing Specifications for the KU Series Gas Engine for Power Generation-- Commencing Proposal Activities for Hydrogen-Capable Solutions Supporting Energy Transition &nbsp;&nbsp; Mitsubishi Heavy Industries, Ltd.",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RR3M5SEVOSndrU0hnWXpCNnRBaU0yQzdROG96ZkstSDVMQU9UT0R1Wmo5dVRncmdYcGZOdlZlTlV4Z25MMHQ5S19aYjQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-27T07:00:00.000Z",
-      "source": {
-        "name": "Mitsubishi Heavy Industries, Ltd.",
-        "url": "https://www.mhi.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Petrobras Considers Exporting LNG as Asian Demand Surges - Bloomberg.com",
-      "description": "Petrobras Considers Exporting LNG as Asian Demand Surges &nbsp;&nbsp; Bloomberg.com",
-      "content": "Petrobras Considers Exporting LNG as Asian Demand Surges &nbsp;&nbsp; Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbm5zYUVhQ0RxU3dCTkRfSzM3X3F6a01uN09Mblk2clNKcThLSl9TbE00dFZSM3RsbXJtQ1FFNHFoWXFtamNiM0V0UjFuX0p1eVFYZDc3Q0lFNzUzT0FCcWpURTdTdXV6cFMzbTl3YjFiemdiTUwzOWR3VU10dFFaSmVqMWlvOFlUV05XSC1PSGt0SFlsMVl1WXpIQnlWZk9GNzk0OUZ6OVI1eFhGTlZzMkNvUFo?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-27T07:00:00.000Z",
-      "source": {
-        "name": "Bloomberg.com",
-        "url": "https://www.bloomberg.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "egypttoday.com"
-    },
-    {
-      "title": "مصر تخطو بثبات نحو تعزيز أمن الطاقة خطط طموحة لزيادة إنتاج الغاز الطبيعي والزيت الخام، وتعظيم الاكتشافات البترولية الواعدة، تنفذها وزارة البترول والثروة المعدنية بالتعاون مع شركاء الاستثمار، استغلالاً للإمكانات الكبيرة التي تزخر بها مصر وبمل يؤكد جاذبيتها كو - Facebook",
-      "description": "مصر تخطو بثبات نحو تعزيز أمن الطاقة خطط طموحة لزيادة إنتاج الغاز الطبيعي والزيت الخام، وتعظيم الاكتشافات البترولية الواعدة، تنفذها وزارة البترول والثروة المعدنية بالتعاون مع شركاء الاستثمار، استغلالاً للإمكانات الكبيرة التي تزخر بها مصر وبمل يؤكد جاذبيتها كو &nbsp;&nbsp; Facebook",
-      "content": "مصر تخطو بثبات نحو تعزيز أمن الطاقة خطط طموحة لزيادة إنتاج الغاز الطبيعي والزيت الخام، وتعظيم الاكتشافات البترولية الواعدة، تنفذها وزارة البترول والثروة المعدنية بالتعاون مع شركاء الاستثمار، استغلالاً للإمكانات الكبيرة التي تزخر بها مصر وبمل يؤكد جاذبيتها كو &nbsp;&nbsp; Facebook",
-      "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxQUHN2cXVJS00yRHZLV29mVUtLeS1TOTU2dE1GMFl0cG0tcXdSRXlGellrNS0wdllNMWxzSXJMR3ZmV09SbW1CbkxRejA0Q3dYNy11S28wamVrTDNsZXVtU2VDeVJLNWNQeWVEc3ZlVURZYnN6R0hsZ2c3bGgxRjQ5QzY4dEEwUjhJS2d3Y3pqTUNyUXZUNWpQZHRtSTNEc3NlUFh4MEI4WVRrUkFrVGVUb1JGU3dIUWZkak9qTDVqdTloRktNR21IWmZ0Y2xzOHdlaVpjYllJWlBDNTRaU2wxWjdfcWNsS0Q5bHhfMVNwcVhRYjdwOG43V0JrLWZ5ZVZzV2JsQ1RvX3NtQXVGRG9TWlhpQ3FINWlaSGxlWWNVMmk4UklrblNsakE3YnlqRjI4dTNwNmdUWG1fTWR3QllVclEwMklHQUE0akp5NDZ4RGQzMTd2cmV1VE1qN0Vyay0xbkdYX2htMllxVHFIUlVTZ1dCZTQ3cExXOXdQaWtHVHk0aVBpbU1DanFBZHlQeW5TX3BFV3otZEh0WENFYUtFUXhEcFZhTkF0QnR1d3ZGQ0MxM2UtX2RGR0NseDVmb1FzaU9leHdkWXgyRlpYblB2UERVc0tYWWdEemNGRkl3TUxzWThINk1JY2pmUnEwajdMSTdqMHlXNmgtQ3B4OGlSRFNXejExMGFaUF91RjhId01FR2xFTzh5WHp1ZFdxRVBNMkU0ME5Sc19SRlF5b3RjQVhJVDJfUXlVcDBBbkRCQk84R245TzhmSTJpQ0FmZGVLelhCSzJkLWFJWDViQTFNQWhGT1BXeG5SWlR2ZmY0MkNpT1pEcXRUS1cxWXF2cGYtSFM1QkQyVjdLWWN4YXZoVG9oZExKa1Jt?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-27T07:00:00.000Z",
-      "source": {
-        "name": "Facebook",
-        "url": "https://www.facebook.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [
-        "morocco",
-        "kuwait",
-        "qatar",
-        "turkey",
-        "UAE",
-        "iraq",
-        "iran",
-        "jordan",
-        "egypt",
-        "algeria",
-        "libya",
-        "saudi arabia"
-      ],
       "preferredSite": ""
     }
   ]
