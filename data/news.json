@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-11-04T19:49:06.073Z",
+  "generatedAt": "2026-11-05T06:53:56.131Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Kids living in burned-out house with no electricity told cops they could not wake mom up: Police - Law and Crime News",
+      "description": "Kids living in burned-out house with no electricity told cops they could not wake mom up: Police &nbsp;&nbsp; Law and Crime News",
+      "content": "Kids living in burned-out house with no electricity told cops they could not wake mom up: Police &nbsp;&nbsp; Law and Crime News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMkZOQUUxRWFWUDd3SUtJTm4yOFkxWWxhYklmdUlmSGpiNmlZQUNnVXdVTDVDQTJ2MTNNTEZyR1F3LVZVWUR5SzRnTlZaQ2xZbWZUZG1VZ3JpZEgtcUZGN29EdzgtbDNLYms0Y2Q1Z092RTMwVXd4SGtlUVc2N1VtaWNtS0RxNDdXYlpiQThFUURoVVpTMDdXVDQybGdqV1pOT0daWDhuMjZCNlpBOFVuaVB0OFNDNDZNaXFXX1haODNJc1RK?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-04T21:49:00.000Z",
+      "source": {
+        "name": "Law and Crime News",
+        "url": "https://lawandcrime.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Rooftop solar power offers lifeline to industries amid gas crisis, high tariffs - New Age BD",
+      "description": "Rooftop solar power offers lifeline to industries amid gas crisis, high tariffs &nbsp;&nbsp; New Age BD",
+      "content": "Rooftop solar power offers lifeline to industries amid gas crisis, high tariffs &nbsp;&nbsp; New Age BD",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVHAtVTA3SWMwWHMzLUVVeVJXb1hLNVFMUGNmY0VqUHppSVhwSWhvdVd4V3JkbVlVUXVtSEJqOUt5UDJ3U2JleTdlbTZTOEIwWjBfMUtLQmw2MGJwRUpud2hzMkVDdDl3anJFbUdoWWlsVnFJTDJNTHRIT190S2pkcS1RWFBrN19lbmZqTDFaTkVkZGVrbGhOWEdhUi1XTDhVaGNPSHkzakhPcWtjeWdvNlFtY3VMMnY4ZFNxdjRrWU1HSDVBOU9UUzd6N3Y?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-04T18:00:00.000Z",
+      "source": {
+        "name": "New Age BD",
+        "url": "https://www.newagebd.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "معادلة الوقود والكهرباء تدفع بالسيارات الهجينة لواجهة سوق المركبات في الشرق الأوسط - البيان",
       "description": "معادلة الوقود والكهرباء تدفع بالسيارات الهجينة لواجهة سوق المركبات في الشرق الأوسط &nbsp;&nbsp; البيان",
@@ -14,21 +44,6 @@
       "source": {
         "name": "البيان",
         "url": "https://www.albayan.ae"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Rooftop solar power offers lifeline to industries amid gas crisis, high tariffs - New Age BD",
-      "description": "Rooftop solar power offers lifeline to industries amid gas crisis, high tariffs &nbsp;&nbsp; New Age BD",
-      "content": "Rooftop solar power offers lifeline to industries amid gas crisis, high tariffs &nbsp;&nbsp; New Age BD",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVHAtVTA3SWMwWHMzLUVVeVJXb1hLNVFMUGNmY0VqUHppSVhwSWhvdVd4V3JkbVlVUXVtSEJqOUt5UDJ3U2JleTdlbTZTOEIwWjBfMUtLQmw2MGJwRUpud2hzMkVDdDl3anJFbUdoWWlsVnFJTDJNTHRIT190S2pkcS1RWFBrN19lbmZqTDFaTkVkZGVrbGhOWEdhUi1XTDhVaGNPSHkzakhPcWtjeWdvNlFtY3VMMnY4ZFNxdjRrWU1HSDVBOU9UUzd6N3Y?oc=5",
-      "image": "",
-      "publishedAt": "2026-11-04T16:36:00.000Z",
-      "source": {
-        "name": "New Age BD",
-        "url": "https://www.newagebd.net"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -104,6 +119,21 @@
       "source": {
         "name": "Apa.az",
         "url": "https://en.apa.az"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "ADNOC Gas, EtihadWE to strengthen gas supply, power generation for Northern Emirates - www.wam.ae",
+      "description": "ADNOC Gas, EtihadWE to strengthen gas supply, power generation for Northern Emirates &nbsp;&nbsp; www.wam.ae",
+      "content": "ADNOC Gas, EtihadWE to strengthen gas supply, power generation for Northern Emirates &nbsp;&nbsp; www.wam.ae",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOUxxd0VKR1Z5OXUxWXJYRFJpbWR3MkRjMk1uMEVHMlM5RHhWLWlhcUhVbkZON0l3SkMwUDhSeVFGQXZENjk4SUZWSzM0cGd1dkJSX3E4ejNtLXJveWdSczI1WnBlV243Qlh6R3hkbEo3U1hiZERsSEp3UjdnTG55ZWJLWVN3SjQ5dFJkMw?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-04T06:58:50.000Z",
+      "source": {
+        "name": "www.wam.ae",
+        "url": "https://www.wam.ae"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -468,6 +498,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "Prime Minister Pays Inspection Visit to Ministry of Electricity and Energy - www.sabanew.net",
+      "description": "Prime Minister Pays Inspection Visit to Ministry of Electricity and Energy &nbsp;&nbsp; www.sabanew.net",
+      "content": "Prime Minister Pays Inspection Visit to Ministry of Electricity and Energy &nbsp;&nbsp; www.sabanew.net",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hc0FqbkZCOHpFaXFoVTdUTkJtYU1qbGlBTXFIVExKTnlULUI1TUxfSWt4SkpSVGh0V1VfczloYnZ5VXZ5Tk1ITTdRbXRyaDRo?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-02T21:08:00.000Z",
+      "source": {
+        "name": "www.sabanew.net",
+        "url": "http://www.sabanew.net"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "alghad.com"
     },
     {
       "title": "جنوب القاهرة للكهرباء تنجح في تركيب وتشغيل 13 كشكًا جديدًا بهضبة الأهرام لمواجهة زيادة الاحمال",
@@ -6208,7 +6253,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "shafaq.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "روبيو: أمريكا ملتزمة بمشروع مد كابل للكهرباء تحت سطح «المتوسط» - صحيفة الخليج",
@@ -15123,51 +15168,6 @@
       "source": {
         "name": "News From The States",
         "url": "https://www.newsfromthestates.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "جامعة الحسين بن طلال و CTGI Renewable Energy Partners Jordan تعززان الشراكة بمنح دراسية وتمكين الطلبة مجتمعيًا - جريدة الدستور",
-      "description": "جامعة الحسين بن طلال و CTGI Renewable Energy Partners Jordan تعززان الشراكة بمنح دراسية وتمكين الطلبة مجتمعيًا &nbsp;&nbsp; جريدة الدستور",
-      "content": "جامعة الحسين بن طلال و CTGI Renewable Energy Partners Jordan تعززان الشراكة بمنح دراسية وتمكين الطلبة مجتمعيًا &nbsp;&nbsp; جريدة الدستور",
-      "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxQdUdvMGt2dU15MmJQQ3NNS21IdmQ4VnJ0Y1NKZ2F2Mjl3ZFh2N0J5ZFB4dHo3cHdxWHotWmlOTmxkVlowcW9id09IRVVMZEpjYktldzlDeXo1cUM4U2NMdXBPMlBHZlpvY0gxVWlRVTNGcXZBVGxfbTA4NE1CdlRNd1VLb0NGYzZQWDVSUGxxNGxZX0NoRHl1aktYeWRqWUpXOWJITDdkXzVnWUhmbWRGWG1zTzNxVlBrQ3RFcHhyeU1uQTF5bUtrTGJPWHB6S1M1MnljT1Fqbjl1UVQ5OW1XR0JDbFdfamRLb1p3OGlUdmYyVkliUThxamRRZ1lmcDg3ZlNUZi1uZkRCTndLdFpVb0w5TElreWhyRFg5SEN5dzF1YUhrajdBRzhYaXQwRjJQWWtaeU5jQVp6NlRrV0ZlNFBZWkw2ckFRZmtfZ3pKN1VITV9Zdk5PeXJEUU1CVFhpUjlGT3ZEa2xMd2k1R3lMal8ydE9RcGhfVms4ZVl0ZXdNZ1pBY0x3SUVZcFg1Mk9qQ1RhNEs5YUhwYkRWcUJHWEhHdDJJUlhqMWIwV3k3RW5SaFpFcnZ5c1BRbFhBZWdSQ1NPTEVRaWFLT0tkam9TdVRCemN5Mzg5Y21NbDh4TWhGZ0lfcjNVbmllQmFnRHZjNTZfZzlLYWdDYmhkLUhEVXdRRVV6X2JQcHl4SHlxaTdpckQ1ZDVmZ2RvMmFoTEVXb1pMVTZUTFUxSGhEdTV3MHZKTEV6bUE5ZTJiMnI1X3JMUktJNmZfZk0wWG11MFNoRG1nQWxROFZ2S0VkVVlkeG5OZFZMQzk1WUdrRnpBUW1WX3lhbDhTcG1yNWpQc3M?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
-      "source": {
-        "name": "جريدة الدستور",
-        "url": "https://www.addustour.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "asharqbusiness.com"
-    },
-    {
-      "title": "في مجالات صناعة السيارات والطاقة المتجددة والهياكل المعدنية: رئيس الوزراء يبحث مع رئيس \"جونفاري إندستريز\" الإسبانية فرص الاستثمار في مصر التقى اليوم الدكتور مصطفى مدبولي، رئيس مجلس الوزراء، بمقر الحكومة بالعاصمة الجديدة، السيد/ جون ريبيراس، رئيس مجل - Facebook",
-      "description": "في مجالات صناعة السيارات والطاقة المتجددة والهياكل المعدنية: رئيس الوزراء يبحث مع رئيس \"جونفاري إندستريز\" الإسبانية فرص الاستثمار في مصر التقى اليوم الدكتور مصطفى مدبولي، رئيس مجلس الوزراء، بمقر الحكومة بالعاصمة الجديدة، السيد/ جون ريبيراس، رئيس مجل &nbsp;&nbsp; Facebook",
-      "content": "في مجالات صناعة السيارات والطاقة المتجددة والهياكل المعدنية: رئيس الوزراء يبحث مع رئيس \"جونفاري إندستريز\" الإسبانية فرص الاستثمار في مصر التقى اليوم الدكتور مصطفى مدبولي، رئيس مجلس الوزراء، بمقر الحكومة بالعاصمة الجديدة، السيد/ جون ريبيراس، رئيس مجل &nbsp;&nbsp; Facebook",
-      "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxNNlV4UXZ6X3dzUVd1OFhWVnFoclh0V1h3UEFiemdJdFo2cFJjbENoWnpTUGZPTTRZWTh2aEdHeHRWSU9mZjJndm9xaldqeTZEQzRhOTQwSFIyOEIzRmZiR2RObEVKMDV4STdhc1B1anVMV0FTZ192a2h3LTRCczFTSHFSRFZPUXJPZXROR291WjU3WHh6OG53LXc4RVNZNk9Dd3oxQ0lLaDNrWUlpU2pyanpfa1hrRTF2NjF0b2NyRXVyTW5UQnNCM1B1ajAzbDd5YldJWDEzWHgxWXJKVnYweUdxalp1WFloLVRBSjdZSmlJNm8ydXpUMk9WeW5UX0VCTzRfenFFNGVUaTFjOUp6elNhOTItQUplcHdEMGNkVzJIUzlua084ZXNHckdZX2l4X29uZ2lGMjZPeHFib2o1SlJadG9xcHl5aGZGM1h6bEJ0ZC1vUmlDZ2dqSFBzYkRVV01HRkhJbUdDOUctUWtBMHZ6QzlMMWJXUHk1bnROeFAwX3Ftb1NWWDZ4Qzl3dzB2SkthX0FIR2I4eUMtUFNfVmVnQkRReTFXVndZMGx6UEhMVXo1dkUwMHVaMktmNEk5WjJFOUx2UlltN2V3a2tuQlExUGg5eXBxd0luMlozOC1EVkU3YWVGX3BnMmFsQ2hjeGlKTFZ2TjJoamZxSk1LcWpIT2pIVTk1SjVmWFNaa1BrQVE3RnlQV3pZWkt6X3lzYXNNbW5nYThEdGtESk5nbFQ2ZnNOOUxpRHl5bUREZFVRS3J5VmN3YWF6X0hmc3dadVBLclVxUE5xbXc3bWpNZnNhVGhkQnpZSGNRR2R6bDJVVldSblJNd1k2NXlQNml3bm1HQjktUHBNZ3FFQVZZdm9YWkVvVS10VmJtdW9EZ29DN3VKTzF2UEdn?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
-      "source": {
-        "name": "Facebook",
-        "url": "https://www.facebook.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة - aawsat.com",
-      "description": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة &nbsp;&nbsp; aawsat.com",
-      "content": "الظلام يتمدّد في ليبيا... وشركة الكهرباء تسعى إلى احتواء الأزمة &nbsp;&nbsp; aawsat.com",
-      "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPajJkem95eGd1RGtvdmpwMXMxenAtUHhkNlNpNG4wRXYtUTBWVmxpOW5MZmpSZkxDT2NqN29FZkhNUjBCeDF0NTVPNDlkY0VhRjFBclVuVUpVSllXaEFIQmZGY0RtaXBLSEFQYUYtUjRwdGNQalNiczl5MDQzNDBNMUxFNU5ucVZhT2YtWWNmSTVHeWFheC0wSGZHSVMwNGoxM3NWdE9hM1ZBSWNLNWpWblBTdTIwQk1TNDJRcVF6OURYUUZMRmlaSDd5UURuU1hMSTNHazdGbGVrZnZkOGRGUEdNR3V4bjdOcVRuRjRwaDFyRzdwczhGaWxWZzlvQkZGRndDSW9yLWxLdldQQ2R2SDgzWG9xb0swUW5nM01RaHcyWnYzMEllLVYwdzJFX2F6dXRrQnRRaXFvMm5qbUV4SE5MNm1DQzlUbjNwWWlWek5Pci16ZFAyQV9ab3BGcVBNc3lEU2cwaXRTeFZYMHRHTU5PMkhxUTQ4cmxfQkVBUUZrQnJrM3JTVVRhWXY4NUgzdTUwaVNGWlp6Vmh5WVM0OXRxV0FpM2c1VEYtVGNWQVJQcktHbnJVeWZaVFRuZUpfZW5SVENDSHIzZl9FUWFZYS1vY19hemlyTUxSRWNiUDVnNGYtbXgwSE8tNGJfVU5icXlLV0JIekllUUdZeWNJYlRBajZoQXF3WjFGMXhveldxRVIwZlZHTjgtSURrYl9UR2lRcFc2UlBPLXlfMUFNTTlEMnQ2SGJheV9IMWliMTRybWplQlppWDA5SjNYVkdTS05FWmJUUy0xUUhzbndwcElyZjBZS0lKckE2My05eDdVSHZOVjJQUGpzaVFJTUN3Tlg1QWwtSW05YnQ0Z3htd3hCd2hoVFRZTUh5VV83VlF0dw?oc=5",
-      "image": "",
-      "publishedAt": "2026-08-31T14:52:58.000Z",
-      "source": {
-        "name": "aawsat.com",
-        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
