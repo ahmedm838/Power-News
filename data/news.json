@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-11-06T19:27:29.109Z",
+  "generatedAt": "2026-11-07T06:03:49.581Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "تعمل دول جنوب شرق آسيا وأفريقيا والشرق الأوسط على تسريع تطوير الطاقة المتجددة. - Vietnam.vn",
+      "description": "تعمل دول جنوب شرق آسيا وأفريقيا والشرق الأوسط على تسريع تطوير الطاقة المتجددة. &nbsp;&nbsp; Vietnam.vn",
+      "content": "تعمل دول جنوب شرق آسيا وأفريقيا والشرق الأوسط على تسريع تطوير الطاقة المتجددة. &nbsp;&nbsp; Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjBvS3ZsMjRVZS05MTVWb1laX29qa2lEaVY4QUs3U05reF96TEk2bVBlNnVJUEZETGdIQnI2V1lzcTVlbmhKckRDTDZPM2N1N1RRRkRESDJUWXJGYjhTZTNtNnpaaTVhOUFMaGZGRzBZSVlDckFYSXJoRlFQR3ZRanhta1pwUGM0aDJVYWlPVWszTFlRZjNScTVWOUstanM?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-07T02:10:42.000Z",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "Michigan Offers $10 Million for Renewable Energy and Storage on Contaminated Land - Environmental Protection Online",
       "description": "Michigan Offers $10 Million for Renewable Energy and Storage on Contaminated Land &nbsp;&nbsp; Environmental Protection Online",
@@ -65,6 +80,21 @@
       "preferredSite": ""
     },
     {
+      "title": "Renewable Energy Could Save India $240 Bn In Coal, Gas Imports By 2030: IEA - BW Businessworld",
+      "description": "Renewable Energy Could Save India $240 Bn In Coal, Gas Imports By 2030: IEA &nbsp;&nbsp; BW Businessworld",
+      "content": "Renewable Energy Could Save India $240 Bn In Coal, Gas Imports By 2030: IEA &nbsp;&nbsp; BW Businessworld",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRnJmUGQ4bERsQmxMVWdiVGpUelBiNE9pN0RyWi1EbEplaEFTZzc4OFZCMVBEZ2NqaEQ4SGh6WElqaklNMzF1Y2tUeDNMcUwxc012Z084TTJQdDVBWjVGOWMwTS0zb1VpWm9vallrVU5iQ1BpVkZPMTQ4QUpGOFN2YUJ6SU05a0x4WVdrQ1A0QTh4MndKODJrSGJLNE04SkNORVVuNG44MmZ6THQxelBpNl92cDh5aXc?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-06T11:06:32.000Z",
+      "source": {
+        "name": "BW Businessworld",
+        "url": "https://www.businessworld.in"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "NISO Blames Gas Supply Constraints, Low Water Inflows For Decline in Power Generation - Real Broadcasting Network",
       "description": "NISO Blames Gas Supply Constraints, Low Water Inflows For Decline in Power Generation &nbsp;&nbsp; Real Broadcasting Network",
       "content": "NISO Blames Gas Supply Constraints, Low Water Inflows For Decline in Power Generation &nbsp;&nbsp; Real Broadcasting Network",
@@ -89,21 +119,6 @@
       "source": {
         "name": "جريدة الدستور",
         "url": "https://www.dostor.org"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Renewable Energy Could Save India $240 Bn In Coal, Gas Imports By 2030: IEA - BW Businessworld",
-      "description": "Renewable Energy Could Save India $240 Bn In Coal, Gas Imports By 2030: IEA &nbsp;&nbsp; BW Businessworld",
-      "content": "Renewable Energy Could Save India $240 Bn In Coal, Gas Imports By 2030: IEA &nbsp;&nbsp; BW Businessworld",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRnJmUGQ4bERsQmxMVWdiVGpUelBiNE9pN0RyWi1EbEplaEFTZzc4OFZCMVBEZ2NqaEQ4SGh6WElqaklNMzF1Y2tUeDNMcUwxc012Z084TTJQdDVBWjVGOWMwTS0zb1VpWm9vallrVU5iQ1BpVkZPMTQ4QUpGOFN2YUJ6SU05a0x4WVdrQ1A0QTh4MndKODJrSGJLNE04SkNORVVuNG44MmZ6THQxelBpNl92cDh5aXc?oc=5",
-      "image": "",
-      "publishedAt": "2026-11-06T03:30:05.000Z",
-      "source": {
-        "name": "BW Businessworld",
-        "url": "https://www.businessworld.in"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -344,6 +359,21 @@
       "source": {
         "name": "The Economic Times",
         "url": "https://m.economictimes.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Rooftop solar offers cheaper alternative to gas-fired power generation - Daily Bonik Barta",
+      "description": "Rooftop solar offers cheaper alternative to gas-fired power generation &nbsp;&nbsp; Daily Bonik Barta",
+      "content": "Rooftop solar offers cheaper alternative to gas-fired power generation &nbsp;&nbsp; Daily Bonik Barta",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51QlEtQUc3QjdaTHRYSV8zWE1tcFZNRXNBN3pYaTA4RXRUcGUzbGNmRElpQU9PRmtRZ25kREhrZl83YTZTRFQ3dWdkNVJ0bTRESERuLVNybU1admlQTzVnSFJCWQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-05T11:58:18.000Z",
+      "source": {
+        "name": "Daily Bonik Barta",
+        "url": "https://en.bonikbarta.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -5160,7 +5190,7 @@
       },
       "provider": "Scheduled Google News index",
       "regions": [],
-      "preferredSite": "algerie-eco.com"
+      "preferredSite": "alghad.com"
     },
     {
       "title": "الأرصاد تكشف تأثير الخريف على استهلاك الكهرباء .. والفروق بين شمال مصر وجنوبها - صدى البلد",
@@ -15138,36 +15168,6 @@
       "source": {
         "name": "الأيام البحرينية",
         "url": "https://www.alayam.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "وزير شؤون الكهرباء والماء يزور أجنحة الشركات البحرينية والدولية في معرض الشرق الأوسط للطاقة 2026 بدبي - alayam.com",
-      "description": "وزير شؤون الكهرباء والماء يزور أجنحة الشركات البحرينية والدولية في معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; alayam.com",
-      "content": "وزير شؤون الكهرباء والماء يزور أجنحة الشركات البحرينية والدولية في معرض الشرق الأوسط للطاقة 2026 بدبي &nbsp;&nbsp; alayam.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JMERNYzNDOEoyZzdfZVd6VnBMaDM3aS1STGFzNUdaeVlRLXhJQXBTMVp3UFhUbGk4bEdnY2xmTVRuRS1JVGdfTkIyLUdidlNvZF9raUVvQUxUUEhrdERZYkRPZw?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-03T07:55:30.000Z",
-      "source": {
-        "name": "alayam.com",
-        "url": "https://www.alayam.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ - الشرق الأوسط",
-      "description": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
-      "content": "«السؤال الصعب»... كيف تُحسب فاتورة الكهرباء في مصر؟ &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNaVZDQXNpSVZvd3gzY2dhdnhvc1oyQkowMjcxems3bHdWLUlrM3lZa3Y3eUE2MlJrNURldnAwTXk2RkZPUkQ2cDVrcDdsVWpCa1NCZTR1RW5ycWJrNTc2Z2VGaThINkE5a1BXMTlkLWVOeHVPVmZHeDQ4VXEyLVdKT0VIT3dpMFZLTG56bEdZdFNTYzhfekJlSTRHMURpd0ZXZmI0NFhTM3FOeVlPc01OSW1sLUw2ZjBHYks1OGl4SWhmVGVXTkQ4MkRXTGRJNW9iakZKUFpDTDlTVnRlVEpaR056bHhWWmRSUXpkOVlLeDkzZ3NHOHZaVnZCN0t5OEdZam96Z3VSYnZNUGxRVDFnRnZHbEV0WklFZjVMcTdvYTh0cldScXhnaWNkeDBUVnYxdWtqZG9pbTYzajBYZG9QNDhZcV9xQ1J3V3RvMzR0MWxOUFptWEtLM0dOOF9UY3dIT0Z3YXQ0d1hrclF5c05UaVFtTG41YUtMY09mdm92TVlQTTJ1VmhYMnNGeDBtXzVLUVFqYjNsbGJTYUdZZENRVGNvQ2tHYVg1SFI3Y1liX1l1NFRvMkZmcWdyMGJIWk54cGVsZG45T2F5V0ZDODlCT0RaZDVBeXhBWFJWbm5waU1weUQzLWRCQjVsdV8zLW9TVHc3bHhicm1UX2FiT3FLUzN5bUtJQVB3eDlMcC1VLXk3Y0N6NDlWcWRoMjhQWUNlUEpWZWdqVWx2bkFfRTkxcHFURW42VEZZd3JhaEVmZw?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-03T07:00:00.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
