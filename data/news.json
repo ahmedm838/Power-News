@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-11-12T19:58:36.674Z",
-  "successfulFeeds": 47,
+  "generatedAt": "2026-11-13T06:50:51.975Z",
+  "successfulFeeds": 46,
   "totalFeeds": 47,
-  "failedFeeds": 0,
+  "failedFeeds": 1,
   "articles": [
+    {
+      "title": "Nord Stream gas fueled this German power plant, now it’s being dismantled and sent to Ukraine - The Ukrainian Weekly",
+      "description": "Nord Stream gas fueled this German power plant, now it’s being dismantled and sent to Ukraine &nbsp;&nbsp; The Ukrainian Weekly",
+      "content": "Nord Stream gas fueled this German power plant, now it’s being dismantled and sent to Ukraine &nbsp;&nbsp; The Ukrainian Weekly",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQW1JNGI3NTlCbWx2dElPbXU4aHlRR2wwRFNTWHBfcjVRMUxwZ3lGc0lLRTBTeDhhb3FTRzBhRV93a2Z6ZkRTX0d1VGVQUlhBbU1EdjdqZDM1U3Z0cFdTcVI5bVFlTlJHdzlveVVhemNpRUpaUnRGZDBBZGtZSHphUGpTR2tsQm1XMlBtR2w5aklJazBFZDkwTWRMVXdhZ1UwdGdXLW01STVmMFRBQkUxelV2aHlJRDdqZU03aXJGV2pGNUhBanc?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-13T06:32:43.000Z",
+      "source": {
+        "name": "The Ukrainian Weekly",
+        "url": "https://subscription.ukrweekly.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Increased Malampaya gas use helps cut power generation costs, lower electricity bills - Manila Bulletin",
+      "description": "Increased Malampaya gas use helps cut power generation costs, lower electricity bills &nbsp;&nbsp; Manila Bulletin",
+      "content": "Increased Malampaya gas use helps cut power generation costs, lower electricity bills &nbsp;&nbsp; Manila Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0ZKempuRnNOeks3SG5ENDlkSXJHYkJ4YnJ4UERIVDFOdWNuTl9yalZIX3VPdHQ2SWdaQzNwSWp6WkFZUloyaVk4NUdCMjZwejdaMGp5X0YyTDlfSTNuM3k3M05NazMxTjUxSlhaTWZqMmNLT0VDWk1TNDRVclJnMWFYaXAxNEVleVNrVGhCS3hFakRGaWJHcUlsV0Q5NFB5U3ItQlFJTHcwUG55cEZNbUstUQ?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-12T20:23:38.000Z",
+      "source": {
+        "name": "Manila Bulletin",
+        "url": "https://mb.com.ph"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "2027: Peter Obi vows to deliver 10,000MW of electricity in four years - شبكة تواصل الإخبارية",
       "description": "2027: Peter Obi vows to deliver 10,000MW of electricity in four years &nbsp;&nbsp; شبكة تواصل الإخبارية",
@@ -40,7 +70,7 @@
       "content": "SpaceX plans USD 24 billion gas-fired power plant and data centre in Texas &nbsp;&nbsp; Prop News Time",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVljOFRnRW9wQlN2T3JCdVF5ZUo5dU9JVVpsSW9peVpRNTI3a3ZFeGFOV1NHbVhreFJSVDNKdExLR2ZwOGdza1c3alZUcU5yMzd4UVlNU1Fpc2doUkZPNHR4M1ltRWt6X2drU0d4LVpsTFMxQjI2SHVHeDF1a1dJaW96UXFKWkMyVDMzTDcxaWl6cEZIcmFkOF9nVlpyejJaZUlrZlVzWXkzelIyMXpRNlNXXzBGRXJOcWJTejljLThjRHht?oc=5",
       "image": "",
-      "publishedAt": "2026-11-12T17:01:00.000Z",
+      "publishedAt": "2026-11-12T17:16:40.000Z",
       "source": {
         "name": "Prop News Time",
         "url": "https://propnewstime.com"
@@ -584,6 +614,21 @@
       "source": {
         "name": "جريدة المال",
         "url": "https://almalnews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Beyond Local: Alberta approves 920-MW natural-gas power plant for AI data centre - LakelandToday.ca",
+      "description": "Beyond Local: Alberta approves 920-MW natural-gas power plant for AI data centre &nbsp;&nbsp; LakelandToday.ca",
+      "content": "Beyond Local: Alberta approves 920-MW natural-gas power plant for AI data centre &nbsp;&nbsp; LakelandToday.ca",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRm1qS3FBQkgtX2MyNGRRb3NjV1ZYQ2dLUWlscGpLTkozTi1xOG1OaS14QlV6QVVqRzgzeS1hMW5CWUllaGJDWDFmOHZCR1RxVENMWFo1ZDczaWRib2dnOUFnREFURWY5eGhZbkxlZk1ObUN5dTNrMm1NTHF4WmxCQWIyNmctb2VrWnVPZERndi1DZ21abjlaYURxb0JtY0pQR2RYR0U3Vk5wQUprOHhyTjMtYUc4akd4?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-10T22:58:00.000Z",
+      "source": {
+        "name": "LakelandToday.ca",
+        "url": "https://www.lakelandtoday.ca"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -15114,51 +15159,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "zawya.com"
-    },
-    {
-      "title": "EPA repeals power plant GHG rules, clearing path for new gas-fired generation - Oil & Gas Journal",
-      "description": "EPA repeals power plant GHG rules, clearing path for new gas-fired generation &nbsp;&nbsp; Oil & Gas Journal",
-      "content": "EPA repeals power plant GHG rules, clearing path for new gas-fired generation &nbsp;&nbsp; Oil & Gas Journal",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV3RaUi1aV19QMHZwSmh0YzZOdGhYeWJfNzdhLXpFeXY2TXhBSUh6NHBUdjQzNzZCekliWVRlSExFWEZfWlBrV2x4RFlrVWllMkVYd2hlc3VUdHhQYXBjWEdLbUdDUTQ1N0Y4anluaFF2ZU45VUQzcUtzRVNVZmlicWRiLWZJS3pQbklHVk8tSWJrNkFHYXZCWjRTS2F0ZkRGSEpsTlZuNnllUm5NSnpGTkF2c29zRFh1YV9XenE1NU02NlppTVhrdmNrVE5jUGNncFU0aA?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-15T07:00:00.000Z",
-      "source": {
-        "name": "Oil & Gas Journal",
-        "url": "https://www.ogj.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived - صحيفة مال",
-      "description": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived &nbsp;&nbsp; صحيفة مال",
-      "content": "ExxonMobil: LNG Supply Disruption from the Middle East Will Be Short-Lived &nbsp;&nbsp; صحيفة مال",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vSUdsNEVOTEhTclA4Y19fWUptT2RxQVFsbVpGNEwzbm9WR1JFTWd4TTlqTmFDMEtUWHRqYk5MVWlPejBXVVJDRm9EUjREQ1FrUWdpYUNieGtqWHc0N0I3TlpQR2ppcDNDbVlR?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-15T07:00:00.000Z",
-      "source": {
-        "name": "صحيفة مال",
-        "url": "https://maaal.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "taqanews.com"
-    },
-    {
-      "title": "Trump EPA rolls back power plant climate rule - RiverheadLOCAL",
-      "description": "Trump EPA rolls back power plant climate rule &nbsp;&nbsp; RiverheadLOCAL",
-      "content": "Trump EPA rolls back power plant climate rule &nbsp;&nbsp; RiverheadLOCAL",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakhxRVRrNk9GMjNKb19ZUVJqamRvVlhhZlFER09DeGZRYndDRS13LVRhcXI4TGVaNjI2SHFYV01sdnFZbEhvSGMyaGF5N01QcGw0MjBoRnhDVWtEU2ZXMWZxcWtQSFJwYzBYTTZ2TG4wZkgxRzU5WkRlOTZCeWkyaGJBWXJ4S3RrTkstTktseXp4UE9kc2NjVE4wVzhjaHpYTWRV?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-15T07:00:00.000Z",
-      "source": {
-        "name": "RiverheadLOCAL",
-        "url": "https://riverheadlocal.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
     }
   ]
 }
