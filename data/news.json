@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T22:29:24.137Z",
+  "generatedAt": "2026-11-15T06:39:26.204Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
@@ -348,6 +348,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "Column: LNG is a detour on inevitable road to solar power - Honolulu Star-Advertiser",
+      "description": "Column: LNG is a detour on inevitable road to solar power &nbsp;&nbsp; Honolulu Star-Advertiser",
+      "content": "Column: LNG is a detour on inevitable road to solar power &nbsp;&nbsp; Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYXZfaTNvc2wwUjlQakR0QUJRc01BOWRudTlwTHVyTjA2LXNEdUVMV0ROZGtnZGN4bVA4dHVkeE8wYWdTbk1CNWs5SUdzSXlSTmgySDJfcDFWQmxkWi1DZE1EQ1VGNW4tX1JrcVpaSjU3V2ExQUxyS1NxZ00yMGpsblNReVZseVpmUDhpekExVlFUd05hM1lmR3RUZEl3TEJTQ2RpcGNJRzhkT1lTSXlwUm5kMmtpZFMtV0NtNHhIY1E?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-12T10:17:02.000Z",
+      "source": {
+        "name": "Honolulu Star-Advertiser",
+        "url": "https://www.staradvertiser.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "India cuts coal and gas import costs by over $100 billion through renewable energy: IEA - Zee Business",
@@ -15139,21 +15154,6 @@
       "publishedAt": "2026-09-15T13:33:22.000Z",
       "source": {
         "name": "vernonreporter.com",
-        "url": "https://vernonreporter.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "More data, more gas? Wisconsin power plant rules face scrutiny - VernonReporter",
-      "description": "More data, more gas? Wisconsin power plant rules face scrutiny &nbsp;&nbsp; VernonReporter",
-      "content": "More data, more gas? Wisconsin power plant rules face scrutiny &nbsp;&nbsp; VernonReporter",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOExOYU1JWGpWaEFTX3BGREZxQjF6VW15VnlTc2xFMWQya255NkJTal92bU1EZ2hmejl0ZTdhVHozcTVOVk8wMnNxSHlqSDVIOWs2WEJteXVWQkxuLURrUHhVVDBpUkVMd3FMd1BfQ0tuaUozVW41dVJEODMzRmVQVEt1VkYzeklvckk3c3hMUlB2dw?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-15T13:33:22.000Z",
-      "source": {
-        "name": "VernonReporter",
         "url": "https://vernonreporter.com"
       },
       "provider": "Scheduled Google News index",
