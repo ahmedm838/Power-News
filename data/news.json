@@ -1,19 +1,109 @@
 {
-  "generatedAt": "2026-11-16T06:36:47.415Z",
-  "successfulFeeds": 47,
+  "generatedAt": "2026-11-16T22:10:10.255Z",
+  "successfulFeeds": 44,
   "totalFeeds": 47,
-  "failedFeeds": 0,
+  "failedFeeds": 3,
   "articles": [
     {
-      "title": "«شل مصر» تعلن بدء إنتاج الغاز من حقل مينا غرب بالبحر المتوسط - المصري اليوم",
-      "description": "«شل مصر» تعلن بدء إنتاج الغاز من حقل مينا غرب بالبحر المتوسط &nbsp;&nbsp; المصري اليوم",
-      "content": "«شل مصر» تعلن بدء إنتاج الغاز من حقل مينا غرب بالبحر المتوسط &nbsp;&nbsp; المصري اليوم",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FeWVQUVVqa0QtYlR6NjhKMVhoYXF4dm9vZG1mc3FUV2FXZF90VVBSaEQ1Z3kzT2JhVjdEZ3dldWltOGhFTnhFdDR5WEdXOGxSRHdBYm1RdDhDMV9WTzVV?oc=5",
+      "title": "OPEC+ capacity review could reshape global oil production limits - Oil & Gas 360",
+      "description": "OPEC+ capacity review could reshape global oil production limits &nbsp;&nbsp; Oil & Gas 360",
+      "content": "OPEC+ capacity review could reshape global oil production limits &nbsp;&nbsp; Oil & Gas 360",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFBpUDViY2licnZ4cFkxd3pfTFBmOGh3NGZZdEw3NU5pY1pOb3d4MGFzTURIdFMtNmo5dHhTRUFYbmpDRTAzQjBvUjMzSUxXX3p1WmpELUkzMGlPcE1oUDJhSFRmUGFva29mR01DamtmSm5KVTVkVS1FSGhoaTZHblQ4YmhoMlZTNTdGUjZOUzZIY3BDZElpQw?oc=5",
       "image": "",
-      "publishedAt": "2026-11-16T01:37:00.000Z",
+      "publishedAt": "2026-11-16T20:36:23.000Z",
       "source": {
-        "name": "المصري اليوم",
-        "url": "https://www.almasryalyoum.com"
+        "name": "Oil & Gas 360",
+        "url": "https://www.oilandgas360.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "مصر تقر تعديلات لترشيد الكهرباء وسط جدل بشأن الغرامات - الشرق الأوسط",
+      "description": "مصر تقر تعديلات لترشيد الكهرباء وسط جدل بشأن الغرامات &nbsp;&nbsp; الشرق الأوسط",
+      "content": "مصر تقر تعديلات لترشيد الكهرباء وسط جدل بشأن الغرامات &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNYndPeGxYTVRab1RoRnI3dnJJUXc1Z3B2OU9iamtYVmE2czBtNXhGTHlxczdsNXczV3NtWWdLcjVHRnE4dHFNc0pQRkpFRjU3ZWRqSmpERHQ4R0loT1FPZjhDWlNfWXBRS2NBNm5FanZ2M0JtakpKNWJGNE1pVjVsTjFhdkx4RG0yTGVJaV9INzlzNk9PdjRUSlduVFhsMGpmYjZ1T3EwSldKMG9hcjdpQWNjbld3YVIwQk5sSEVWTDZiVk5nbTZGenpHN3Jzdlp1OVZkSVJoM0NFUi10X0dzYTZpMlhQTkhGSG8wTFJ5cURZcXlKRzdXMHA1UVg4aWJQYzJ2OEtscFBuREoxcHJnOTZIeXZOYjFmVS1fTVRxeFlISWcxWDhTZlpvVHp0MDF1WVA3dTN2bGhMeFdNNmJkRHRRaWgwbDJ1cHI1MmxvczJjV0UxelJUbzFzOWlYNzc0Z1lyRGxDVEh0MUhLTl9Ddi1Qa1h1dlROcUJSNFZMdmRaZHB2U0dCWUYwdGFBQjZVWTctNUVJZlQ3RGhZT1lBZktlNEF3WllWMTNXbFZMRE8tYUF1UzlDM3BURFFhZGtQYVlMX3hUTWc1aVNtdS13aG1EamI2VE02ZWZLd0NRYW9ELTZzNURsd0UtSlUzWk9fdXk2Vg?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-16T19:55:40.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "الهيئة الملكية لـ«الشرق الأوسط»: الطاقة الشمسية توفر ربع احتياجات «محطة إكسبو» - الشرق الأوسط",
+      "description": "الهيئة الملكية لـ«الشرق الأوسط»: الطاقة الشمسية توفر ربع احتياجات «محطة إكسبو» &nbsp;&nbsp; الشرق الأوسط",
+      "content": "الهيئة الملكية لـ«الشرق الأوسط»: الطاقة الشمسية توفر ربع احتياجات «محطة إكسبو» &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxNaVlaeTVWcGlLVXNjV0dsTC1pSjZFSzR5bzdkZ2N4b3FobWtMRTVmbmo2bTRud1BId1NWa3dDOGRFMzg3WEVXTVlDZUdZQzFOY3pmdUJiczFCTWtJWURLbmRwNUNGUDJoYThQZUlOdzFEVnNFUjFXVFpka0RKOTVpQ29RVGVZRXlTNWwzN2xZdjFvRnpDeDBOZmdGU1drWTllQkhDcS00aVNpSkRKeXhnTnNaTnlZT1BsRk02aW1nNXowek9lT0pqck44N3hTN0RMQmt3MGhoMXR0cm12c2VPWnJ0VUlTeWR3N0ZvTWpXS21VTE03TmVmM1cwOU56NHhXVXlxMzFuREZHWWJ3OXA0TWhvRmJWNWJsMTRzdmVUcjlhd29DOGg4VFJKUmZUWk1XS1d6LTlaRmNaMXNueUdWMFJyOXBSdkM2YUo1UnhuaWVLWUdRbEIza2RmMERUS3ByMkpjbXBYSmZTSHpSYU93R3BnNmFYOFR1UGV4eVZTVVVzcEtxZXdrd3lRTnB4ZUhqRTJfQUVvNDQxU1VYelFPazdqeDZOR3FnaWRuNGtDMGZhSXpiTl9Ua0c1cTNYRjF0bTlxel9Bbm5uTldmRWV2U3VJWjhvaXM2dHNmNUUwWkJ5czlLNFN4VkZoYmVrNndRVWVIQWg5Q3ROOGUza1hudERIUjRZRmF0aUF0Q1FnMmRXT1Rua1o3MWR0M29Sd0g1TDFGMzVQMVk2Q3BMUlVHZHR2SEpiSzg3SFlOUmI4TWZKMTI1OWpKVjZhbF8yYVd2S193dlB3eHJmV3BNZDl5dGxiWXk4bjlWLUg4M0FVQXdybnUyVUhka25oNzNVNk8xZDd0QmxBSTBNdTRSUGFJOTJ4M2p2ZE1Wd2RYczdvSmw?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-16T18:15:14.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "79 غيغاواط تعيد رسم خريطة الطاقة المتجددة في السعودية - الشرق الأوسط",
+      "description": "79 غيغاواط تعيد رسم خريطة الطاقة المتجددة في السعودية &nbsp;&nbsp; الشرق الأوسط",
+      "content": "79 غيغاواط تعيد رسم خريطة الطاقة المتجددة في السعودية &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOZUs2VDc3NmJHY3R3dmdJNG1yM3ZRUU0wLTM3aU1EOVhDQ0xVa3hDb0I1VEpuZFlhR1NCdjBkajBjOVU3cGVGMG00Nk1VbUl6VWFHV19SemFILU1DUGlybDRTb2tudjNXN3NGRjg3MHljWGQ4YnJLdWR1dDduOFRlM05PR05zM3BkdGI2cDJmV1NjVEdNYTdENzRBZExkTi0yUERFNk9WS3M1ZDBBejU3TE1lZTdYWnJ2V1E4LURLWFpya25MalIxWlFIVUZqekZHbDF6WmppbmFUSG90T2dJVHFVYXA3OFBuSk95NHJwUjZUM0tvaUtlckVmbWs0LWdlZko4NEE2bTM2OHlpWXpCcG44T0FGUTNrbWJoLS1GUWZtY05Md0lySDl6dWhCWl9Vem9jQ0ZKLW5lV1VSNkhIdExRTmFDbjk4MjlBZTRhck91YUdKUThRMkhZckhFeURjeVdQa1RWZ2FjdmttVE5FLXVTQm9WclY0Z043QU51VzNRTDJYaE50UWdpUjlGQWx5bURIRUhrQzRlYzE4Y0ZrMHJka2dIR1VmY3ZMSFdnak9mVndjbFlJMUFqUU84WEk1cHc3QzdJZEl6LVV0aDA1Q0YydTNCZUlIdnNuOU05LWhDeGNfaHdj?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-16T17:56:01.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "DitchCarbon Launches New Solution to Identify, Address High-Emissions Electricity in Supply Chains - ESG Today",
+      "description": "DitchCarbon Launches New Solution to Identify, Address High-Emissions Electricity in Supply Chains &nbsp;&nbsp; ESG Today",
+      "content": "DitchCarbon Launches New Solution to Identify, Address High-Emissions Electricity in Supply Chains &nbsp;&nbsp; ESG Today",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbWp0bTFvUExDa3hhMERfR1pIX1JCanlXa3RZeHNxYlBubjREZDdLVU5YZlVDSTFyV0o4d0w1aGtxbnJ6Wjc3OWlwd2lJX19qcGFEcVdEY0J0MFNWUHdjZzJBNUVvSVJPbHJISnBuN1Vtam1xMGJaVmx3Yk93djhWRHhOcDVaZUt3UmgzUzVCVnFya19Bb09Kdy15U29ILVVabFFVQnlYY3hjWEMtOWswbXJZR3VyWTlyYUNUMk4yTVU?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-16T17:22:22.000Z",
+      "source": {
+        "name": "ESG Today",
+        "url": "https://www.esgtoday.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Springfield gas prices continue to fall as oil production outlook improves - WWLP",
+      "description": "Springfield gas prices continue to fall as oil production outlook improves &nbsp;&nbsp; WWLP",
+      "content": "Springfield gas prices continue to fall as oil production outlook improves &nbsp;&nbsp; WWLP",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUpYVlQ3SEN1OVJqS2tua2Zua29randSblhmQUhOTkx5b2NTeWN4aDA0dUdObTYyZ1hTeTZ2Y25wTm1yRElfNldMWTQ2Y1hKbHVvVl9Va1hyazhpejloRnNRWi0yS0NQaFBJQUtYdllHSEp2T2VXZDZqLXl4NFdmVEJaRGswdkpiMWZTTVNDdXhNX2FzOFc5eWV3YVJkZFNnSUNKOHF2aklrVmc3MV92akpJQnBheW1OcVdiQTZldnJ4YTJoZXfSAcsBQVVfeXFMTmVWbDNWSlBxQnV4NWFOdW9kQXlGb0lmVmZvMUdVQ2RXX2NXRk5fUDJHSjRodE1wTUZsWDZBLWFFbzN0dFlqX1RoTkMtVVNLT1F6bVlfOFFHYzRSMlRBeEhFb3Vic3ExS3RtRXBwN2s2N212dnVRY01NWG1TeU5DUUVuODNUSHh6SGFTSmE4QTlDS09CbjBHRkI5OXJxWFJNUDV6VkdsRHpad3ZGQ1hWLUF4LUxLN3ZZNHgxSTJPZVFkMXlhZWNBMVZlUkE?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-16T16:11:33.000Z",
+      "source": {
+        "name": "WWLP",
+        "url": "https://www.wwlp.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "NTPC Subsidiary NVVN Awards $75 Million EPC Contract for 57 MW Natural Gas-Based Power Plant in Andaman - Indian Masterminds",
+      "description": "NTPC Subsidiary NVVN Awards $75 Million EPC Contract for 57 MW Natural Gas-Based Power Plant in Andaman &nbsp;&nbsp; Indian Masterminds",
+      "content": "NTPC Subsidiary NVVN Awards $75 Million EPC Contract for 57 MW Natural Gas-Based Power Plant in Andaman &nbsp;&nbsp; Indian Masterminds",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEFscmxYSWZ5WEdxMllNZkhtdXBrTWZQNU5mRGFyRGV1UndGUmpsd1VuN3pmMGI4anNVZko5Uk1DZmFJRW9WajRwb3J6MGRVUmhWRmFISXFJN09uUEFhcDBtWTlSOWU2cktvVGlOQmJEa2czbm9ObmRUb194MF9xeDJkbDh4d3YwYjdGS19qVXBpbXRreHhqbDkwYTVpVU4yTV9YUGhR?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-16T14:43:13.000Z",
+      "source": {
+        "name": "Indian Masterminds",
+        "url": "https://indianmasterminds.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -25,10 +115,40 @@
       "content": "سلام في الدوحة لاستكمال المباحثات بشأن مشروعات الكهرباء والغاز في لبنان &nbsp;&nbsp; الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxOMDZ0dkd2dlBMbHB6bEg3OFlxYVhrVUJReS1aVEt6SGhCT0JBdXRfT01XVWk0OFhUbzlqcGt0M0UyajRQMk5UclF2dEVjS2ZCS05UU3lKUS1TM19ITl91MzRWTmsyLVM2MGJldmZhcnI3SjU2REFFVFZpUjFpeVB6M09jOWhqdkVYbU1fTnVzSUFsSE0yeFZyT2ZpNHJxdWNHM3dGZm9IVmlQekNiUUVtOElkMm5PX1lITFp2MWZvc1Y2ZHBRV25RU19lYkVoZThxS09QeXFVUDhnczZKWGtVaTFMU216MkZnS1RTVmtiUmU1cXZXSV80b21nS3g0SEtjY19LNFZBcjFoUzMzN1JuVjZzQVdjWWQxVElXWWNZZ2kzTTlxa2ZVcHRmQmVBRlZpc282REl2MlY4OTBUMXN0TGR6czZ2ZC1uYmd1SEZiVllWUzZ5WndfSHZsWmpFbFFORW8yenMzMURnNlBXV1hZRUg0VHBlRmxoTmtwdF9JY0F6WmpUeS01X2tXM2R1NEg0bHVfRm02OGJKLW9JbkJYRk9NSWM2OW9QUy01S3ZXUl94dElKeTJ4MlVNSUdiMV9SMWpSVXZOQ1dhMkhFQVFjbWJ5YkwtMndjQjJtVGhoNGpVaVpxWlRDMURtbV9DT1IxSHE5SUNkSV9hMkl1YTByamw5Wnh4UEJiQXRVT1VvZ05WU05rQllXb3dCUXNuVGJselkyWFNKZVV3VmNITUc2RjIzUmlRWTNza0hNMEFPQXNWLWZjYlgyWFoybE9lS241aXV3ejZFcFhIaGF6WWVMTGIzV1FjU192aXMwX3BSMV9sYzJHeFlNU0lSZTd1dXh2VFJPTzB0bUpxb0MyZzBBYUtwVERCYkNva3NiR0lvVUJxYUhhbU56Zjc4cTg1Tk1TSFYxUzgxMkpBUEdXZnZJMQ?oc=5",
       "image": "",
-      "publishedAt": "2026-11-15T23:42:27.000Z",
+      "publishedAt": "2026-11-16T13:29:41.000Z",
       "source": {
         "name": "الشرق الأوسط",
         "url": "https://aawsat.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "\"شل\" و\"كوفبك\" تبدآن إنتاج الغاز من حقل \"مينا غرب\" في مصر - annahar.com",
+      "description": "\"شل\" و\"كوفبك\" تبدآن إنتاج الغاز من حقل \"مينا غرب\" في مصر &nbsp;&nbsp; annahar.com",
+      "content": "\"شل\" و\"كوفبك\" تبدآن إنتاج الغاز من حقل \"مينا غرب\" في مصر &nbsp;&nbsp; annahar.com",
+      "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxOTkM2MGg5bTNETU9Oa0ZuQUVheFFJc1JCbDAzdnFTZFBQZjg2UFR6TW1WVXlkT3VjY3RILTFOVTFmUUtRc1ZYeG1kcnl0dEZkTXhvOWRIQmhTUUh0ejEyWmJ6WjlHZU5PZU81YU42UUhRV1phMWJ0aXZkcGR5SFFWckNCbHNaTDN4Uk5uYXk5UzhWWDFVUGhMd0VKNUtfYlAzN2FPbmJxc1pndmZGT1pZY2t2eVhfb3Zha1lzZ0FPcW5oQlhLT3JFZkRrN1RGNDR1eExtVzJDcVpLcGotSFdETzRFTnVDckJxNnNTM2JEN1dqbXo4UEs4ZzB6WW1SVzJNcXpNVi1NWTRSdWMySG1EQWhIbXZ6WFhkNWNDczhIbk5lekF5Q09vWkJjaWEyS1pIS1ZFZUJOakNGanNpbUoxejZjMTJrS0FFaVR4U3gxaEU5QTZlaFdOQXFpS05vX3JpMkRMQ0w2WkJkWGJxRDVYY2FoVTlGYjN1RE9wV3JPZmxDR0NlWml5dkx0R2FNVjVIZm1rZzRuSllHVkEwZ2VrMjRpMjF0RFNXOG1aa19UcGhocTAwOUtySndXV3JaOTdpTlN5aU12bjRUcGt6cFMxcGo1Y0kyZDZXMXUweW51Rms1V1pDREdicXBLOG1RWGs4MmFxdVNSMVZGU3IwN2JLS3VvV3duNkkzTXAtN2lQWFJFRFdqcy1oMEdKTXF5cnBONWVHRXBMQzlZeHdkZmlNazZKbDZmYjVxdGlGX0lHSktFS3liX3Vtd1gxZXd0dzhNakhZSWh5VDNBNHA0U24xZDRobW9OYU1KcFVEWFBpTFFrQWJ2MjBaVXYyRWFUM0RCeXNBSUFmY1ZCaHVIbUlkMHRlNA?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-16T08:45:00.000Z",
+      "source": {
+        "name": "annahar.com",
+        "url": "https://www.annahar.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "«شل مصر» تعلن بدء إنتاج الغاز من حقل مينا غرب بالبحر المتوسط - المصري اليوم",
+      "description": "«شل مصر» تعلن بدء إنتاج الغاز من حقل مينا غرب بالبحر المتوسط &nbsp;&nbsp; المصري اليوم",
+      "content": "«شل مصر» تعلن بدء إنتاج الغاز من حقل مينا غرب بالبحر المتوسط &nbsp;&nbsp; المصري اليوم",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FeWVQUVVqa0QtYlR6NjhKMVhoYXF4dm9vZG1mc3FUV2FXZF90VVBSaEQ1Z3kzT2JhVjdEZ3dldWltOGhFTnhFdDR5WEdXOGxSRHdBYm1RdDhDMV9WTzVV?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-16T01:37:00.000Z",
+      "source": {
+        "name": "المصري اليوم",
+        "url": "https://www.almasryalyoum.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -74,6 +194,21 @@
       "source": {
         "name": "صدى البلد",
         "url": "https://www.elbalad.news"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» - الشرق الأوسط",
+      "description": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» &nbsp;&nbsp; الشرق الأوسط",
+      "content": "مصر تدفع لزيادة إنتاج الغاز عبر بئر استكشافية جديدة بـ«المتوسط» &nbsp;&nbsp; الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxNUXVFSThWT3V2ZXh6LWg3X3VqcTNUcFJId1VIZFBGb1BHQU8yY0M4WXF2dXg0NEtCR0FSTkx3eC1HNUV6SVZ1MmRkWmZuUkd2VEthUy1sTHFQaHJiRTNZLThUd2NGNm04TkVEbWw2UDZfck9zU1BLeEwxN1hBMGhHMDRuRU1Wd3IybDNiVTlnSnBOQUNKU245Q1E0SWRDcVUzandIV1BnRW1jWVh5a3BFQlhORF91Q1k2Ti1LYmhKUnlNZU9zdW5GTlRoQnA2SE4wTnhIXzBxcFJwenRBc2R4b1EtU2pXUjl1TWZRWGF5WTctTjB0WDY3SC1naURZMmRWbWNjZ2JlaWVnVFQ3R3dqMVpsY0ZwT2s0ekNSemlHVno2V1pTX3VST1U3Q3R5NjdoX1dyTG5oSWFLb29WWVJnM3VESktldTlPUDRyaHpjMTRVbjZfalExTTN1eWxFTXdZWmZjSE42bEJwZmJlXzZiSWhhWVJfME9EbHZDdDVKdlBDUUhUdXVsV195YlVwUkpyeEFNMV84b01jT05maU5YNzhtUG5kN193M3RRN0t2MjJtZ3RwdGhaSzFmZjkxVkZJc0V4eURBUVZtanlwOXEwdmFabXNzcnZZeE40TXRCNWJobUlWNEI5WEl0bnBpTno4LVBjNUc3LWM2RmtjSEw1d3VmbG5RRWMzMDRTU1VlcFowaWhKYVVHLWk2REFjNTJMNkcwZUpkZFNFZDlPYTdfUjBDQzdlY0s1Y3h2OGN0ajg1amd1bHpqbXp6Z3lrd0tfVHVkNEZKSFdzbVFaYUpqUzNfTG9ub3p6QVYwQXNBUEZHNGJ3X3JPLTJjV25EVVYtSXV1UWIzVG5CeWlQWnFGd0VGZmppUUl5U0NORDg5ZlJ0SG1WNWZaYmln?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-15T17:54:51.000Z",
+      "source": {
+        "name": "الشرق الأوسط",
+        "url": "https://aawsat.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -179,6 +314,21 @@
       "source": {
         "name": "اليوم السابع",
         "url": "https://www.youm7.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "بالتعاون مع الجامعة الأمريكية بالقاهرة وشبكة الاقتصاد الاجتماعي والتعاوني.. غرينبيس الشرق الأوسط وشمال أفريقيا تطرح 5 مسارات لتوسيع الطاقة المتجددة اللامركزية في مصر - العالم اليوم",
+      "description": "بالتعاون مع الجامعة الأمريكية بالقاهرة وشبكة الاقتصاد الاجتماعي والتعاوني.. غرينبيس الشرق الأوسط وشمال أفريقيا تطرح 5 مسارات لتوسيع الطاقة المتجددة اللامركزية في مصر &nbsp;&nbsp; العالم اليوم",
+      "content": "بالتعاون مع الجامعة الأمريكية بالقاهرة وشبكة الاقتصاد الاجتماعي والتعاوني.. غرينبيس الشرق الأوسط وشمال أفريقيا تطرح 5 مسارات لتوسيع الطاقة المتجددة اللامركزية في مصر &nbsp;&nbsp; العالم اليوم",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9wQ3RSM080WXotTzI2RTRyWmcydzdvVUJVOVBNc2lvOG5kSG4zZU9kVmhFZGJrTjltX0E5NTNicmZHWi1LbGc?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-15T11:37:12.000Z",
+      "source": {
+        "name": "العالم اليوم",
+        "url": "https://alalamelyoum.co"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -314,6 +464,21 @@
       "source": {
         "name": "المصري اليوم",
         "url": "https://www.almasryalyoum.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Halt Fossil Gas Expansion, Accelerate Renewable Energy - Greenpeace",
+      "description": "Halt Fossil Gas Expansion, Accelerate Renewable Energy &nbsp;&nbsp; Greenpeace",
+      "content": "Halt Fossil Gas Expansion, Accelerate Renewable Energy &nbsp;&nbsp; Greenpeace",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZl9QdWFoQ2RhSUliSnh4b1VGdzI4aXFSR250QUN6QmwwY2IxS08yaENMOGgtY3N6RFlXenhBYlJXRlFacHNpbDVhUWJ6TEM5RXdYNi1MZnB6RW9IcjdzS2Z3ci1NVzc1QXc3MWhXaVBxeVM0cDE3dU1yX2MxQV9LVjQxejNoc1JrUmI3R1l5czBPT2V3Tzd5bVBmUkV6VG1vZld2d2g5WU10N2M?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-15T05:05:09.000Z",
+      "source": {
+        "name": "Greenpeace",
+        "url": "https://www.greenpeace.org"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -14981,184 +15146,6 @@
         "turkey"
       ],
       "preferredSite": "alghad.com"
-    },
-    {
-      "title": "الكهرباء تكشف حصاد مواجهة سرقات التيار وتحصيل 18 مليار جنيه",
-      "description": "أعلنت وزارة الكهرباء والطاقة المتجددة، في بيان، تحسنًا عامًا في مؤشرات أداء شركات توزيع الكهرباء خلال العام المالي 2025/2026، بالتزامن …",
-      "content": "أعلنت وزارة الكهرباء والطاقة المتجددة، في بيان، تحسنًا عامًا في مؤشرات أداء شركات توزيع الكهرباء خلال العام المالي 2025/2026، بالتزامن …",
-      "url": "https://www.egelectricgate.com/?p=10520",
-      "image": "",
-      "publishedAt": "2026-09-16T15:25:03.000Z",
-      "source": {
-        "name": "بوابة أخبار كهرباء مصر",
-        "url": "https://www.egelectricgate.com/"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "egelectricgate.com"
-    },
-    {
-      "title": "إنتاج النفط النرويجي يتجاوز التوقعات في مايو - الشرق الأوسط",
-      "description": "إنتاج النفط النرويجي يتجاوز التوقعات في مايو &nbsp;&nbsp; الشرق الأوسط",
-      "content": "إنتاج النفط النرويجي يتجاوز التوقعات في مايو &nbsp;&nbsp; الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOanhtOWt6RWs0dVI4MnJ3UlVKNE95RVB4TjBJMmZDQ2k0SnBvU2ZSNngxenJKa1d4ckFJN1luYXBvQTlqUy1aZlREZTQ0REo2aVhWdFl5MVhtcFVnQlA0N0plZHpEQVFWVTMxSnZGQlNoRndUWVpxNHlLV1IxLVJ5SXVuUWZwbEExOVdnOWdaajNCcF9tczA0b0RSVzFHeHgyNzd6TzVWM0QzdHRfV0ZUS2kxa3Q2M2RCQlQ1bWhrdlJfelpOYWlJUE9OaU5WaUFtaWRpQml0eThCSk9zN050NnY0LS01NHVEU0lRODd6RGNsZWtrLTdWbDJTUzY1UWctZzJ3SWhoTnZKLVZTempPYlEwQ1RpV1FXN2xSaklsT05YM1Y3UTBoZk1HMUV3ektWWGJ1MzFjc2p1NDZSZTU1Zno3RG82ckJ3TjBPNlB2WjRJRFVITGxycDdMMEZMZGFwd3I2ZVlxdnB1XzhwMG42YjNaQmJpRHNOTkMyUjB0eWJSS21qbTJraUpTQkdPbDY5LXc4eFVzMnpLdUhObWl0T1M4emFxOHN4XzlwaGtsTXR6dWs1Mk1CcEt3?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-16T10:42:48.000Z",
-      "source": {
-        "name": "الشرق الأوسط",
-        "url": "https://aawsat.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Algeria Set to Record Africa’s Fastest Renewable Energy Growth at 42.5% CAGR – الشروق أونلاين - الشروق أونلاين",
-      "description": "Algeria Set to Record Africa’s Fastest Renewable Energy Growth at 42.5% CAGR – الشروق أونلاين &nbsp;&nbsp; الشروق أونلاين",
-      "content": "Algeria Set to Record Africa’s Fastest Renewable Energy Growth at 42.5% CAGR – الشروق أونلاين &nbsp;&nbsp; الشروق أونلاين",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUMyYXFQLS00Vlhyd1NGWFZ6M2dRTlBpSjRZY0JpeXFpUnJtMUFUbXlBRUo3bFdzYWY2aGxJWjVIWnI3alNlcUxLdThrRzk5Y0Rqam03c3FNWHJ6bm84RzdINEtHS1NZRlZ4UEZrQlY4R3g4c2xna0RWdUZySTNKQ1R6ZnBaalFmZlZfaXJ6bG5RZk1EN0Y5blE5R0Y4LTBhZkI0RUJ1ek0?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-16T07:00:00.000Z",
-      "source": {
-        "name": "الشروق أونلاين",
-        "url": "https://www.echoroukonline.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [
-        "egypt",
-        "saudi arabia",
-        "UAE",
-        "iraq",
-        "iran",
-        "libya",
-        "algeria",
-        "morocco",
-        "jordan",
-        "qatar",
-        "turkey",
-        "kuwait"
-      ],
-      "preferredSite": "asharqbusiness.com"
-    },
-    {
-      "title": "Should you store your solar power or sell it back to the grid? - The Independent",
-      "description": "Should you store your solar power or sell it back to the grid? &nbsp;&nbsp; The Independent",
-      "content": "Should you store your solar power or sell it back to the grid? &nbsp;&nbsp; The Independent",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU05lWTNTQ1JMWVYyWkcxOHRtMmZ1UmpqVnNQbXl2Z19nTG9LeGVSTFNVbVhJUGxpd2YtQjAxeG1wM19WM28tZ2hyaU1JME4yTzJKalhPRkVFWTN1LWZIUWdKZlpuTVB3b1Fma0hvRzRLbDFTQUhZSXN3aFVNM3E0VmpxbWFtTHBiSWdUcjZ1eklYcTJXMllyVUFB?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-16T07:00:00.000Z",
-      "source": {
-        "name": "The Independent",
-        "url": "https://www.independent.co.uk"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "EPA repeals power plant GHG rules, clearing path for new gas-fired generation - ogj.com",
-      "description": "EPA repeals power plant GHG rules, clearing path for new gas-fired generation &nbsp;&nbsp; ogj.com",
-      "content": "EPA repeals power plant GHG rules, clearing path for new gas-fired generation &nbsp;&nbsp; ogj.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV3RaUi1aV19QMHZwSmh0YzZOdGhYeWJfNzdhLXpFeXY2TXhBSUh6NHBUdjQzNzZCekliWVRlSExFWEZfWlBrV2x4RFlrVWllMkVYd2hlc3VUdHhQYXBjWEdLbUdDUTQ1N0Y4anluaFF2ZU45VUQzcUtzRVNVZmlicWRiLWZJS3pQbklHVk8tSWJrNkFHYXZCWjRTS2F0ZkRGSEpsTlZuNnllUm5NSnpGTkF2c29zRFh1YV9XenE1NU02NlppTVhrdmNrVE5jUGNncFU0aA?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-16T07:00:00.000Z",
-      "source": {
-        "name": "ogj.com",
-        "url": "https://www.ogj.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "تؤمّن NOVVA Group محفظة بارزة للطاقة المتجددة بقدرة 3.17 غيغاواط من ABO Energy لتزويد البنية التحتية العالمية للذكاء الاصطناعي بالطاقة - PR Newswire",
-      "description": "تؤمّن NOVVA Group محفظة بارزة للطاقة المتجددة بقدرة 3.17 غيغاواط من ABO Energy لتزويد البنية التحتية العالمية للذكاء الاصطناعي بالطاقة &nbsp;&nbsp; PR Newswire",
-      "content": "تؤمّن NOVVA Group محفظة بارزة للطاقة المتجددة بقدرة 3.17 غيغاواط من ABO Energy لتزويد البنية التحتية العالمية للذكاء الاصطناعي بالطاقة &nbsp;&nbsp; PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOWkJzaGwwd0lqWnF5amV3QXBaaHZiRHBsd3J3VHdRb0R3ZlZYTnlxUENsZTZpN2VpNURoR3cxY1A5NFplX0JWTHU0SHdiS3dKRVlmdHVIVXJPU002Yzh1RGxkYnRjM2tBRTZYT3pOX0RuNTJzOHZ3RThuWlg1cmZobUNRaC1tbGxhdFItemM1RGdLWnVMRTBoTFNLY2lyLWxGMjJhUkJVQ21XTkdZY0FsUm52VW9NZFlZOUg4ZGVSTmJ6OEZqa1VuNWxHdkdkQWo1Y0hwTDg4Q0U3WEtIRjNjMWIxcVQ4M3Fwc2gzWEZPeG1rSGhUNjFiMlZESDlEU2tpX0E3ZTVpdU5uc0oxYnE3SjYyUFlmZTZUYkpGMHR3NjJTb25FV1hUdnVn?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-16T07:00:00.000Z",
-      "source": {
-        "name": "PR Newswire",
-        "url": "https://www.prnewswire.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "The Gumi Natural Gas Power Plant, which was built in the 5th complex of the Gumi High-Tech Valley Na.. - 매일경제",
-      "description": "The Gumi Natural Gas Power Plant, which was built in the 5th complex of the Gumi High-Tech Valley Na.. &nbsp;&nbsp; 매일경제",
-      "content": "The Gumi Natural Gas Power Plant, which was built in the 5th complex of the Gumi High-Tech Valley Na.. &nbsp;&nbsp; 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlNDhzSDNZOENQamh3MjVQb0dodFczR1VOTGJydE5GaXZ6QzlqV3lZSnYydjlvWkVNS1RidkRVZ0dLbG1zcFEyNDctQ1RIeGkySkE?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-16T01:53:13.000Z",
-      "source": {
-        "name": "매일경제",
-        "url": "https://www.mk.co.kr"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "The Gumi Natural Gas Power Plant, which was built in the 5th complex of the Gumi High-Tech Valley Na.. - mk.co.kr",
-      "description": "The Gumi Natural Gas Power Plant, which was built in the 5th complex of the Gumi High-Tech Valley Na.. &nbsp;&nbsp; mk.co.kr",
-      "content": "The Gumi Natural Gas Power Plant, which was built in the 5th complex of the Gumi High-Tech Valley Na.. &nbsp;&nbsp; mk.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlNDhzSDNZOENQamh3MjVQb0dodFczR1VOTGJydE5GaXZ6QzlqV3lZSnYydjlvWkVNS1RidkRVZ0dLbG1zcFEyNDctQ1RIeGkySkE?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-16T01:53:13.000Z",
-      "source": {
-        "name": "mk.co.kr",
-        "url": "https://www.mk.co.kr"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Residents raise concerns over proposed Evergy natural gas power plant - kq2.com",
-      "description": "Residents raise concerns over proposed Evergy natural gas power plant &nbsp;&nbsp; kq2.com",
-      "content": "Residents raise concerns over proposed Evergy natural gas power plant &nbsp;&nbsp; kq2.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1l0eXBfYVZvVXhtQlVOaTd6aHVrX3RZV20tcHl2dUVJVFhaZERnTFE3T0JIQkpPOWhNM3ZKT1NrLWJoUDhhMnR1ZFJsOWl5M0d1MHRCRm9oeS1yYk1rTEs4dTlGeDY4V3JKZDdYLUdHaTRnVndGdHNvTGctRVpnNFg3ZUhBZ2ZEY2JrM1JMc3Z2QTNHRllPT1FnckpUOFdUODg4c0xPU3JaQQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-15T23:04:06.000Z",
-      "source": {
-        "name": "kq2.com",
-        "url": "https://www.kq2.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Residents raise concerns over proposed Evergy natural gas power plant - KQ2",
-      "description": "Residents raise concerns over proposed Evergy natural gas power plant &nbsp;&nbsp; KQ2",
-      "content": "Residents raise concerns over proposed Evergy natural gas power plant &nbsp;&nbsp; KQ2",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1l0eXBfYVZvVXhtQlVOaTd6aHVrX3RZV20tcHl2dUVJVFhaZERnTFE3T0JIQkpPOWhNM3ZKT1NrLWJoUDhhMnR1ZFJsOWl5M0d1MHRCRm9oeS1yYk1rTEs4dTlGeDY4V3JKZDdYLUdHaTRnVndGdHNvTGctRVpnNFg3ZUhBZ2ZEY2JrM1JMc3Z2QTNHRllPT1FnckpUOFdUODg4c0xPU3JaQQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-15T23:04:06.000Z",
-      "source": {
-        "name": "KQ2",
-        "url": "https://www.kq2.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "HD KSOE Develops 100MW Floating Power Plant - thelec.net",
-      "description": "HD KSOE Develops 100MW Floating Power Plant &nbsp;&nbsp; thelec.net",
-      "content": "HD KSOE Develops 100MW Floating Power Plant &nbsp;&nbsp; thelec.net",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xck8waGJqZk51M2xfaUY3QUtobktiRFJ1eUNubk4yamZrdkdZTUp5QXotN1J5RVdTNWxNZkpSeFVfRFZ4dUNwd3NIUk1lN0YyRFg5bnI1X2lSemYyVlJ6dEM4VGZPUGM?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-15T22:48:40.000Z",
-      "source": {
-        "name": "thelec.net",
-        "url": "https://www.thelec.net"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
     }
   ]
 }
