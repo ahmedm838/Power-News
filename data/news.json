@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-11-17T20:59:37.064Z",
+  "generatedAt": "2026-11-18T07:34:54.030Z",
   "successfulFeeds": 47,
   "totalFeeds": 47,
   "failedFeeds": 0,
   "articles": [
+    {
+      "title": "Power generation climbs 9% YoY, fuel cost jumps 25% in October - Mettis Global",
+      "description": "Power generation climbs 9% YoY, fuel cost jumps 25% in October &nbsp;&nbsp; Mettis Global",
+      "content": "Power generation climbs 9% YoY, fuel cost jumps 25% in October &nbsp;&nbsp; Mettis Global",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdnFUaVpQTjBKN3pNR3A0Skw3a0pBYnBoRF9pWUxBc3NvWERQSV9zRDNLX3V6UnMtaVJwV2IwZHN3dVhOTl9yTktfdE1IWTExMjhPV3RNakI1Y2FQNXZnSTFQSXBmZnBvQVpBTWxYVEc4c1U5RndDd2IwRFRkYmJwMm9jQlByaUI0SVVzV25UaXVGaW9TZEE?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-18T06:25:00.000Z",
+      "source": {
+        "name": "Mettis Global",
+        "url": "https://mettisglobal.news"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "CIPCO seeking state approval for controversial gas power plant - WQAD",
+      "description": "CIPCO seeking state approval for controversial gas power plant &nbsp;&nbsp; WQAD",
+      "content": "CIPCO seeking state approval for controversial gas power plant &nbsp;&nbsp; WQAD",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWFN2VFdLYURVVmI5Y0g4NmFfLVJMWUx2WFppN2d4TTZtOFMwUjJPYzJFOUw2YjlHS0lUeXc3V2lVM3BmcV94TlF2UDNXMzdDSnlSaXhwdUZIZDFfM2ZVNzR5dmtrT09HZWh6aFFiWXhZZ3d6eVJsSjVqVWYwVEMtUTZFendULUwwYUh0czdnTHVyZTQzdi14ZEJBSkhURW56YWw1alVzc205V2todzhsYVpRTDJvT2VRU3FGdUp2RmNPeXp1RnM5LTNmbWREYXg4QXNVZmhZdEdsUzA?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-18T02:12:28.000Z",
+      "source": {
+        "name": "WQAD",
+        "url": "https://www.wqad.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
+      "title": "Gwagwalada 350MW Power Plant: Q1 2027 Commissioning Feasible as AKK Gas Supply Nears Abuja - The Trumpet Newspaper",
+      "description": "Gwagwalada 350MW Power Plant: Q1 2027 Commissioning Feasible as AKK Gas Supply Nears Abuja &nbsp;&nbsp; The Trumpet Newspaper",
+      "content": "Gwagwalada 350MW Power Plant: Q1 2027 Commissioning Feasible as AKK Gas Supply Nears Abuja &nbsp;&nbsp; The Trumpet Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjBENVlDNnRpQTFIeU9FVm9abXhBLWJ3a0VzZUV6cU9BSVBpd2lQWG5qSThzUlZ4UjhOVTRJZURGb0RsdmVQVzdfZzk3WG81WWhab1J2ZzVTN2xmWVFmU1hrcy1oU18waklOd1FCdlNiTU5pcTRPMmJoTGNhdUp2RnZsUnVLUWNkZVBEaUxGTUR5a2RMMjBCa1o1bHNGZjRjd3NSdm1aRUsxbDFoOUtrNU1B?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-17T19:52:19.000Z",
+      "source": {
+        "name": "The Trumpet Newspaper",
+        "url": "https://thetrumpet.ng"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
     {
       "title": "Can U.S. power grid be hacked? Could a cyber attack cause a blackout? - Delawareonline.com",
       "description": "Can U.S. power grid be hacked? Could a cyber attack cause a blackout? &nbsp;&nbsp; Delawareonline.com",
@@ -200,6 +245,21 @@
       "preferredSite": "zawya.com"
     },
     {
+      "title": "China’s fossil-fuel power generation edges lower as wind and solar surge - Fix The News",
+      "description": "China’s fossil-fuel power generation edges lower as wind and solar surge &nbsp;&nbsp; Fix The News",
+      "content": "China’s fossil-fuel power generation edges lower as wind and solar surge &nbsp;&nbsp; Fix The News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlUyZGdPZEpxSk5YOTBsbmNOWTIzMlk1UEN4blZKNXdSTXhrSG43R0xRTjlITURVcTJoeTZPUEtXNC1HYkFZSTFKMkFmVE42UkdOYjhMNnZxZ3FHa2Vwdmg2RnlvWVU1a0dBbGQ0cWpnQ2NhRkh5cTU5eklNYnhfallkaXZGRkZMdmJPb3c4WHo2Q3c?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-17T00:01:04.000Z",
+      "source": {
+        "name": "Fix The News",
+        "url": "https://fixthenews.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": ""
+    },
+    {
       "title": "Biggest US Power Grid Proposes Plan to Regulators to Cut Wait Times for Data Center Power - EnergyNow.com",
       "description": "Biggest US Power Grid Proposes Plan to Regulators to Cut Wait Times for Data Center Power &nbsp;&nbsp; EnergyNow.com",
       "content": "Biggest US Power Grid Proposes Plan to Regulators to Cut Wait Times for Data Center Power &nbsp;&nbsp; EnergyNow.com",
@@ -209,6 +269,21 @@
       "source": {
         "name": "EnergyNow.com",
         "url": "https://energynow.com"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
+    },
+    {
+      "title": "Biggest US power grid proposes plan to regulators to cut wait times for data center power - Reuters",
+      "description": "Biggest US power grid proposes plan to regulators to cut wait times for data center power &nbsp;&nbsp; Reuters",
+      "content": "Biggest US power grid proposes plan to regulators to cut wait times for data center power &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQczNyUkpaS1IwM25aSkxoV1IxOEl5dnktOEhUazhobVNWOGNJdkdyckg0TG5NVmEyUG11b3Frbzk0YXU2cFdDNmdCc3hUWjdkZXN3aVVxQURTWTgyVjJmX2ZFbHNERm9nSUpmVC13dHpiVkdxaUIwbXRtSzhRdl81ZHRJRWJ1TU5qamFjWDMyR1RUdHIyVUNPVGUwLTRiVUoxb084Vnl4Y3VDTFN3YmpaM0VobFRjdUg5eGxJcVBoLThjWEZFd1NWdEFFREM?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-16T23:24:00.000Z",
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com"
       },
       "provider": "Scheduled Google News index",
       "regions": [],
@@ -348,6 +423,21 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": ""
+    },
+    {
+      "title": "Russian strikes hit Ukraine power grid, killing 4 and injuring 70 - Moldova 1",
+      "description": "Russian strikes hit Ukraine power grid, killing 4 and injuring 70 &nbsp;&nbsp; Moldova 1",
+      "content": "Russian strikes hit Ukraine power grid, killing 4 and injuring 70 &nbsp;&nbsp; Moldova 1",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORXdiRElBcVkzOGVvTndFWEN5QkpvaUg1MzhmMDRkYWxta25FS0VIQ3BMc0VwQnQxM1JaNndLd1ZaYk9HdnNuN0hfempCWkFJNlRhV3dvYV84V3pQc3VMZlVWT21pMVB0a2VJUU0tNE1mVFpnanNLMG1iR1pTbGF6WnlUSVlKS0YtZGlzLVRQR3ZzOTRTOHlv?oc=5",
+      "image": "",
+      "publishedAt": "2026-11-16T11:13:34.000Z",
+      "source": {
+        "name": "Moldova 1",
+        "url": "https://moldova1.md"
+      },
+      "provider": "Scheduled Google News index",
+      "regions": [],
+      "preferredSite": "zawya.com"
     },
     {
       "title": "مصر تبدأ الإنتاج من حقل «مينا ويست» للغاز الطبيعي في البحر المتوسط بطاقة تصل إلى 160 مليون قدم مكعب يومياً التفاصيل 👇👇👇 بدأت مصر إنتاج الغاز الطبيعي من حقل «مينا ويست» البحري في البحر المتوسط، اعتباراً من الأحد 15 نوفمبر، بطاقة إنتاجية متوقعة تصل - Facebook",
@@ -15043,96 +15133,6 @@
       "provider": "Scheduled Google News index",
       "regions": [],
       "preferredSite": "asharqbusiness.com"
-    },
-    {
-      "title": "Natural Gas Dominates U.S. Power Generation: 2 Midstream Stocks to Watch - Zacks Investment Research",
-      "description": "Natural Gas Dominates U.S. Power Generation: 2 Midstream Stocks to Watch &nbsp;&nbsp; Zacks Investment Research",
-      "content": "Natural Gas Dominates U.S. Power Generation: 2 Midstream Stocks to Watch &nbsp;&nbsp; Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaVlJRTVEUmRMdXNldlpKbHhyb3BBaXRQWkRIb1RidmVsc2ZHUjNnbFNqZFlCOVVudXVKbFB0MXZwSjE2TjFmcXFHUWFXaG1SU3RSMF9VZVRkWU40WS1vZ29jdEJhQThweWlscmNFRXZrTjNsTUwzMDlzdEVVNWhtYWN2Y0VXREFhUFpVLUZ5ZmdGM2ducDZQS1BYZmpnLVV1Y19RWVd4WkFVVEZsU2tN?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-18T12:56:41.000Z",
-      "source": {
-        "name": "Zacks Investment Research",
-        "url": "https://www.zacks.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Trump EPA erases limits on power plant emissions. Where does it leave Michigan? - MLive.com",
-      "description": "Trump EPA erases limits on power plant emissions. Where does it leave Michigan? &nbsp;&nbsp; MLive.com",
-      "content": "Trump EPA erases limits on power plant emissions. Where does it leave Michigan? &nbsp;&nbsp; MLive.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaGVGMWxxTGpjTFBjYmNEMndxTGQ4OXRQTF8yRE5IZ2x0TTFadlo3RktiVGcxcnJxbzJtbzNKUE5ENzktS0U1bEZXX2ZSdTJOUmFZazA3VGdGOGVQVS1fZFRNY09hZWZMWXMyOC0xVVg4dmswYWo4M2tDa1V3N19qc2xhMTlqc2NOOUZPb01ybXNjSFp1TXFvMU94d1JsUEhpd2Q1cjJOTTFIZHItSWVSSWlPNFRMYWtPRnliMW1KRlBDUQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-18T10:00:00.000Z",
-      "source": {
-        "name": "MLive.com",
-        "url": "https://www.mlive.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Louise Minchin's advice on smart meters smart meter compensation - bbc.co.uk",
-      "description": "Louise Minchin's advice on smart meters smart meter compensation &nbsp;&nbsp; bbc.co.uk",
-      "content": "Louise Minchin's advice on smart meters smart meter compensation &nbsp;&nbsp; bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ULWZpR21fVnRhdG5yZjJ6V3ZucmxYbFRBLXZDUXJHWVpsUDhZUk9OY1c3WHBWXzdSZ1dWUktYd0R4MkxUem02RHFOS2FJOTJ6LXNWdzFuUQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-18T08:34:28.000Z",
-      "source": {
-        "name": "bbc.co.uk",
-        "url": "https://www.bbc.co.uk"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
-    },
-    {
-      "title": "Texas power plant, nuclear projects under discussion in South Korea's US investment package - Reuters",
-      "description": "Texas power plant, nuclear projects under discussion in South Korea's US investment package &nbsp;&nbsp; Reuters",
-      "content": "Texas power plant, nuclear projects under discussion in South Korea's US investment package &nbsp;&nbsp; Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLWxiUU5GWGJWWTM2a05YcTE1MzVybVp3dGlCb2hQN09LNDdMQ3JUc3EzVjFzMy1CakNsSkstTWRsUWhQR1VEMEVhbjc2dmRyYUVrLVJlRnN4Q2x0bjhfNUxsRFhnRHpCVWo1SjZZaUppaV9FNDJpTXI2a2RTMWpSdWplSHJ1M3VzbXdfbTR6QUxfUzU3ZkVXakg0X2daX2F1Zmd2ZHFGN0pzV2YzV3BCZHZJMlRZUzlhVWRkYk5VSmVKS2VUWVB3RkFR?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-18T08:16:36.000Z",
-      "source": {
-        "name": "Reuters",
-        "url": "https://www.reuters.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Texas power plant, nuclear projects under discussion in South Korea's US investment package - reuters.com",
-      "description": "Texas power plant, nuclear projects under discussion in South Korea's US investment package &nbsp;&nbsp; reuters.com",
-      "content": "Texas power plant, nuclear projects under discussion in South Korea's US investment package &nbsp;&nbsp; reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLWxiUU5GWGJWWTM2a05YcTE1MzVybVp3dGlCb2hQN09LNDdMQ3JUc3EzVjFzMy1CakNsSkstTWRsUWhQR1VEMEVhbjc2dmRyYUVrLVJlRnN4Q2x0bjhfNUxsRFhnRHpCVWo1SjZZaUppaV9FNDJpTXI2a2RTMWpSdWplSHJ1M3VzbXdfbTR6QUxfUzU3ZkVXakg0X2daX2F1Zmd2ZHFGN0pzV2YzV3BCZHZJMlRZUzlhVWRkYk5VSmVKS2VUWVB3RkFR?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-18T08:16:36.000Z",
-      "source": {
-        "name": "reuters.com",
-        "url": "https://www.reuters.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": ""
-    },
-    {
-      "title": "Louise Minchin's advice on smart meters smart meter compensation - bbc.com",
-      "description": "Louise Minchin's advice on smart meters smart meter compensation &nbsp;&nbsp; bbc.com",
-      "content": "Louise Minchin's advice on smart meters smart meter compensation &nbsp;&nbsp; bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqcFFCVGM1RTVMTEVReTktSGRWT084SjBsOW9HUk1aR2VDX1ZNbGtJeklmZjlGV2w4MGlHU0lSM3VHWnU0azRZRFdQRFZ2UlY1TW5HTQ?oc=5",
-      "image": "",
-      "publishedAt": "2026-09-18T07:00:00.000Z",
-      "source": {
-        "name": "bbc.com",
-        "url": "https://www.bbc.com"
-      },
-      "provider": "Scheduled Google News index",
-      "regions": [],
-      "preferredSite": "zawya.com"
     }
   ]
 }
