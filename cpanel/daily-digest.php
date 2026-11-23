@@ -23,6 +23,9 @@ $dryRun = in_array('--dry-run', $args, true);
 $test   = in_array('--test', $args, true);
 
 $configFile = __DIR__ . '/config.php';
+foreach ($args as $arg) {
+    if (strpos($arg, '--config=') === 0) $configFile = substr($arg, 9);
+}
 if (!is_file($configFile)) {
     fwrite(STDERR, "Missing config.php — copy config.sample.php to config.php and edit it.\n");
     exit(1);
@@ -72,9 +75,14 @@ function http_get(string $url): string
     return $body;
 }
 
-// Cache-buster so we never get a stale CDN copy.
-$sep  = strpos($cfg['feed_url'], '?') === false ? '?' : '&';
-$data = json_decode(http_get($cfg['feed_url'] . $sep . 't=' . time()), true);
+if (preg_match('#^https?://#i', $cfg['feed_url'])) {
+    // Cache-buster so we never get a stale CDN copy.
+    $sep  = strpos($cfg['feed_url'], '?') === false ? '?' : '&';
+    $json = http_get($cfg['feed_url'] . $sep . 't=' . time());
+} else {
+    $json = (string) @file_get_contents($cfg['feed_url']); // local copy of data/news.json
+}
+$data = json_decode($json, true);
 if (!is_array($data) || !isset($data['articles'])) {
     fwrite(STDERR, "The news index is not valid JSON.\n");
     exit(1);
@@ -288,8 +296,10 @@ $html .= '</table></td></tr></table></body></html>';
 if ($site) $text .= "Search all stories: $site\n";
 
 if ($dryRun) {
-    file_put_contents(__DIR__ . '/digest-preview.html', $html);
-    echo "Dry run: $count stories. Preview written to " . __DIR__ . "/digest-preview.html\nSubject: $subject\n";
+    $out = __DIR__ . '/digest-preview.html';
+    foreach ($args as $arg) if (strpos($arg, '--out=') === 0) $out = substr($arg, 6);
+    file_put_contents($out, $html);
+    echo "Dry run: $count stories. Preview written to $out\nSubject: $subject\n";
     exit(0);
 }
 

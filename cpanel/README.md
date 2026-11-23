@@ -27,18 +27,19 @@ PHP 7.4 or newer, with the cURL and mbstring extensions (both are on by default 
    cd ~/power-news
    php daily-digest.php --dry-run   # builds digest-preview.html, sends nothing
    php daily-digest.php --test      # sends a real email without marking stories as sent
+   # also: --config=/path/config.php  --out=/path/preview.html
    ```
    If your plan has no Terminal, add a temporary cron job that runs every 5 minutes with `--test`, check your inbox, and then delete that job.
 
 5. **Schedule it.** Go to **cPanel → Cron Jobs → Add New Cron Job**:
-   - Common setting: *Once Per Day*, or set your own minute and hour
+   - Minute `0`, Hour `10`, Day/Month/Weekday `*` for 10:00 every day (if your server's clock is Cairo time; if it is UTC, use Hour `8`)
    - Command:
      ```
      /usr/local/bin/php /home/USER/power-news/daily-digest.php >> /home/USER/power-news/digest.log 2>&1
      ```
    Replace `USER` with your cPanel username. If `/usr/local/bin/php` doesn't exist, run `which php` in Terminal and use the path it prints. Some hosts use `/opt/cpanel/ea-php82/root/usr/bin/php`.
 
-   **Timing:** the index refreshes at 00:15, 06:15, 12:15 and 18:15 UTC. A run at **06:45 UTC (08:45 Cairo)** catches the morning refresh. Cron uses your server's time zone, which is shown at the top of the Cron Jobs page.
+   **Timing:** the digest is sent at **10:00 Cairo time**. The index refreshes at 00:15, 06:15, 12:15 and 18:15 UTC, so a 10:00 Cairo run (08:00 UTC) includes the morning refresh. Cron uses your server's time zone, which is shown at the top of the Cron Jobs page. Set `'lookback_hours' => 24` if you want exactly the previous 24 hours.
 
 ## Options
 
