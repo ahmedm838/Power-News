@@ -128,7 +128,7 @@ foreach ($data['articles'] as $a) {
 }
 
 usort($picked, fn($x, $y) => $y['_ts'] <=> $x['_ts']);
-$picked = array_slice($picked, 0, (int) ($cfg['max_items'] ?? 120));
+$picked = array_slice($picked, 0, (int) ($cfg['max_items'] ?? 60));
 
 if (!$picked && empty($cfg['send_empty']) && !$dryRun) {
     echo date('c') . " — no new stories, nothing sent.\n";

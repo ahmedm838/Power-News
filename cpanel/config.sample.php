@@ -43,7 +43,7 @@ return [
     // (Arabic or English), e.g. ['meter', 'عداد', 'smart grid']. Empty = no filter.
     'keywords' => [],
 
-    'max_items'  => 120,
+    'max_items'  => 60,    // Gmail clips emails over ~100 KB; 60 stories stays under it
     'send_empty' => false,   // true = send a short "no new stories" email on quiet days
     'timezone'   => 'Africa/Cairo',
 
