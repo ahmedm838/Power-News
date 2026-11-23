@@ -8,9 +8,9 @@ return [
     // The index the GitHub Actions workflow refreshes every 6 hours.
     'feed_url' => 'https://ahmedm838.github.io/Power-News/data/news.json',
 
-    // Who receives the digest. Each recipient gets their own copy.
+    // Who receives the digest. Daily digests go only to this address.
     'recipients' => [
-        'you@example.com',
+        'ahmed.moustafa@ienergyegypt.com', // the only recipient
     ],
 
     // Sender. Use a mailbox that exists on your cPanel domain
