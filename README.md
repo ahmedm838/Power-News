@@ -32,9 +32,22 @@ Then open the URL shown in the terminal.
 
 ---
 
+## Daily email digest (cPanel)
+
+`cpanel/daily-digest.php` emails you the day's new MENA power stories, grouped by country, using a cPanel cron job and your own mailbox. See **[cpanel/README.md](cpanel/README.md)** for the 10-minute setup.
+
+---
+
 ## Features
 
 - Scheduled Google News RSS index refreshed every six hours by GitHub Actions
+- **Strict MENA filter:** an article is kept only if its own headline or summary names a MENA country, city, utility or the region (Arabic, English or French). A local outlet's domestic story counts for its home country. This removed about 70% of the old index, which was US, Vietnamese, Nigerian and European stories.
+- **All 22 MENA markets** are searched in Arabic and English: Egypt, Saudi Arabia, UAE, Iraq, Iran, Libya, Algeria, Morocco, Tunisia, Jordan, Kuwait, Qatar, Oman, Bahrain, Lebanon, Syria, Palestine, Israel, Yemen, Sudan, Mauritania and Turkey. The Maghreb and Lebanon are also searched in French.
+- Feeds only request the last 7 days (`when:7d`), so each run brings in fresh stories instead of re-ranking old ones
+- Dedicated feeds for smart/prepaid meters and the region's major utilities and developers (ACWA Power, Masdar, SEC, DEWA, EWEC, KAHRAMAA, EEHC, Sonelgaz, STEG, ONEE, NEPCO and others)
+- Region tags come from the article text, not from the feed that returned it. Each article also has a `topic` (`power` or `oil-gas`).
+- Syndicated copies of the same headline are de-duplicated, keeping the copy from a listed website
+- The listed-website label is only applied when the publisher's real domain matches. Google's `site:` search sometimes returns other outlets.
 - Date range picker — defaults to 10 days before the To date, with the To date reset to today whenever the page opens or is restored by Chrome
 - Filter by country/region: Egypt, Saudi Arabia, UAE, Iraq, Libya, Algeria, Morocco, and more
 - Filter by energy sector: electricity, oil, gas, solar/renewables, nuclear, energy policy
@@ -182,6 +195,11 @@ mena-power-news/
 │   ├── config.js   ← optional localhost keys only; never commit real keys
 │   └── app.js
 ├── scripts/
-│   └── build-news-index.mjs
+│   ├── build-news-index.mjs
+│   └── lib/mena-relevance.mjs   ← MENA geography + sector rules
+├── cpanel/
+│   ├── daily-digest.php         ← daily email (cron)
+│   ├── config.sample.php
+│   └── README.md
 └── README.md
 ```

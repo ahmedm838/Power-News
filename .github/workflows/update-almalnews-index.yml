@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - scripts/build-news-index.mjs
+      - scripts/lib/**
       - scripts/build-almalnews-index.mjs
       - .github/workflows/update-almalnews-index.yml
   schedule:

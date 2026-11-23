@@ -27,13 +27,13 @@ var MENA_COUNTRIES = [
   "egypt", "saudi arabia", "saudi", "uae", "united arab emirates", "iraq", "iran",
   "libya", "algeria", "morocco", "jordan", "kuwait", "qatar", "turkey", "oman", "bahrain",
   "yemen", "tunisia", "sudan", "syria", "lebanon", "palestine", "israel", "gaza",
-  "west bank", "sinai", "persian gulf", "arabian gulf", "red sea", "nile",
+  "west bank", "sinai", "persian gulf", "arabian gulf", "red sea", "nile", "mauritania",
   "middle east", "north africa", "mena", "gulf", "levant", "maghreb",
   "مصر", "القاهرة", "الجيزة", "القاهرة الكبرى", "جنوب القاهرة", "الإسكندرية", "سيناء",
   "السعودية", "المملكة العربية السعودية", "الإمارات", "الامارات", "أبوظبي", "ابوظبي", "دبي",
   "العراق", "بغداد", "إيران", "ايران", "ليبيا", "الجزائر", "المغرب", "الأردن", "الاردن",
   "الكويت", "قطر", "تركيا", "عمان", "البحرين", "اليمن", "تونس", "السودان", "سوريا",
-  "لبنان", "فلسطين", "غزة", "الضفة الغربية", "الشرق الأوسط", "الشرق الاوسط", "شمال أفريقيا",
+  "لبنان", "فلسطين", "غزة", "موريتانيا", "الضفة الغربية", "الشرق الأوسط", "الشرق الاوسط", "شمال أفريقيا",
   "شمال افريقيا", "الخليج", "المغرب العربي", "الشام"
 ];
 
@@ -41,7 +41,9 @@ var MENA_COUNTRIES = [
 var COUNTRY_CODES = {
   "egypt": "eg", "saudi arabia": "sa", "UAE": "ae", "iraq": "iq", "iran": "ir",
   "libya": "ly", "algeria": "dz", "morocco": "ma", "jordan": "jo",
-  "kuwait": "kw", "qatar": "qa", "turkey": "tr"
+  "kuwait": "kw", "qatar": "qa", "turkey": "tr", "oman": "om", "bahrain": "bh",
+  "tunisia": "tn", "lebanon": "lb", "syria": "sy", "yemen": "ye", "sudan": "sd",
+  "palestine": "ps", "israel": "il", "mauritania": "mr"
 };
 
 var REGION_ARABIC_TERMS = {
@@ -56,7 +58,17 @@ var REGION_ARABIC_TERMS = {
   "jordan": "الأردن",
   "kuwait": "الكويت",
   "qatar": "قطر",
-  "turkey": "تركيا"
+  "turkey": "تركيا",
+  "oman": "سلطنة عمان مسقط",
+  "bahrain": "البحرين",
+  "tunisia": "تونس",
+  "lebanon": "لبنان",
+  "syria": "سوريا",
+  "yemen": "اليمن",
+  "sudan": "السودان",
+  "palestine": "فلسطين غزة",
+  "israel": "إسرائيل",
+  "mauritania": "موريتانيا"
 };
 
 var SECTOR_ARABIC_TERMS = {
@@ -167,7 +179,38 @@ var DEFAULT_SOURCE_WEBSITES = [
   "taqanews.com",
   "asharqbusiness.com",
   "algerie-eco.com",
-  "alghad.com"
+  "alghad.com",
+  "english.ahram.org.eg",
+  "enterprise.press",
+  "dailynewsegypt.com",
+  "egyptoil-gas.com",
+  "arabnews.com",
+  "aleqt.com",
+  "spa.gov.sa",
+  "alkhaleej.ae",
+  "thenationalnews.com",
+  "gulfnews.com",
+  "khaleejtimes.com",
+  "kuna.net.kw",
+  "qna.org.qa",
+  "omanobserver.om",
+  "timesofoman.com",
+  "gdnonline.com",
+  "jordantimes.com",
+  "ina.iq",
+  "rudaw.net",
+  "moroccoworldnews.com",
+  "le360.ma",
+  "lematin.ma",
+  "aps.dz",
+  "lapresse.tn",
+  "ilboursa.com",
+  "libyaobserver.ly",
+  "solarabic.com",
+  "meed.com",
+  "agbi.com",
+  "constructionweekonline.com",
+  "aawsat.com"
 ];
 
 // API keys must never be sent through public CORS proxies. GNews/NewsAPI free
